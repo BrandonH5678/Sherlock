@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-09-28T21:15:14.337642",
+  "metrics": {
+    "total_samples": 3,
+    "successful_samples": 0,
+    "average_quality_score": 0.15,
+    "transcription_success_rate": 0.0,
+    "entity_extraction_rate": 0.0,
+    "format_success_rate": 0.0,
+    "processing_viability": false
+  },
+  "recommendations": [
+    "\u274c Format validation failing (0.0%). Check audio conversion pipeline.",
+    "\u274c Transcription rate low (0.0%). Consider different model or parameters.",
+    "\u26a0\ufe0f Entity extraction rate low (0.0%). Review extraction patterns.",
+    "\u26a0\ufe0f Average quality below threshold (15.0%). Review entire pipeline."
+  ],
+  "quality_thresholds": {
+    "min_transcription_success_rate": 0.6,
+    "min_entity_extraction_rate": 0.3,
+    "min_format_success_rate": 0.8,
+    "min_average_quality_score": 0.5
+  }
+}

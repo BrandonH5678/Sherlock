@@ -1,0 +1,87 @@
+{
+  "query": "surveillance metadata collection",
+  "query_type": "full_text",
+  "generated_at": "2025-09-27T16:57:35.686948",
+  "processing_time": 0.002766847610473633,
+  "established": {
+    "block_type": "established",
+    "title": "ESTABLISHED FACTS",
+    "content": "\u2022 NSA collects metadata from millions of phone calls daily without individual warrants...",
+    "sources": [
+      {
+        "title": "NSA Documents Released 2013",
+        "confidence": 0.95,
+        "timecode": null
+      }
+    ],
+    "confidence": 0.95,
+    "metadata": {
+      "claim_count": 1,
+      "avg_confidence": 0.95,
+      "threshold": 0.7
+    }
+  },
+  "contested": {
+    "block_type": "contested",
+    "title": "CONTESTED/DISPUTED",
+    "content": "No significant contradictions or disputed claims identified in current evidence set.",
+    "sources": [],
+    "confidence": 1.0,
+    "metadata": {
+      "contradiction_count": 0,
+      "low_confidence_count": 0,
+      "dispute_indicators": 0
+    }
+  },
+  "why": {
+    "block_type": "why",
+    "title": "ANALYTICAL REASONING",
+    "content": "\ud83d\udcca EVIDENCE BASE: 1 sources analyzed, 1 total claims extracted.\n\ud83d\udcc8 SOURCE RELIABILITY: 1/1 sources show high reliability (\u226570% confidence).\n\ud83c\udff7\ufe0f ENTITY COVERAGE: 4 distinct entities identified in evidence.\n\ud83d\udcca CONFIDENCE DISTRIBUTION: 1 high-confidence, 0 low-confidence claims.",
+    "sources": [],
+    "confidence": 0.73,
+    "metadata": {
+      "source_count": 1,
+      "speaker_count": 0,
+      "entity_count": 4,
+      "high_confidence_ratio": 1.0
+    }
+  },
+  "flags": {
+    "block_type": "flags",
+    "title": "ANALYTICAL FLAGS",
+    "content": "\ud83d\udd34 INSUFFICIENT_EVIDENCE: Insufficient evidence for comprehensive analysis\n   Evidence: Only 1 claims available...",
+    "sources": [],
+    "confidence": 0.8,
+    "metadata": {
+      "flag_count": 1,
+      "severity_breakdown": {
+        "low": 0,
+        "medium": 0,
+        "high": 1,
+        "critical": 0
+      }
+    }
+  },
+  "next_steps": {
+    "block_type": "next_steps",
+    "title": "RECOMMENDED NEXT STEPS",
+    "content": "\ud83d\udd0d EXPAND SOURCES: Gather additional sources to strengthen evidence base",
+    "sources": [],
+    "confidence": 0.2,
+    "metadata": {
+      "recommendation_count": 1,
+      "priority_actions": [
+        "\ud83d\udd0d EXPAND SOURCES: Gather additional sources to strengthen evidence base"
+      ]
+    }
+  },
+  "total_sources": 1,
+  "total_claims": 1,
+  "overall_confidence": 0.7249999999999999,
+  "synthesis_notes": "Generated from 1 results across 1 sources",
+  "export_metadata": {
+    "exported_at": "2025-09-27T16:57:36.955399",
+    "export_format": "json",
+    "schema_version": "1.0"
+  }
+}

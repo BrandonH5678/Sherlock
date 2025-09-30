@@ -1,0 +1,20 @@
+{
+  "processing_date": "2025-09-28T10:50:02.419596",
+  "source": "Operation Gladio by Paul L. Williams (audiobook)",
+  "statistics": {
+    "segments_processed": 0,
+    "entities_extracted": 0,
+    "relationships_found": 0,
+    "processing_time": 0,
+    "start_time": 1759081773.5625677
+  },
+  "database_summary": {
+    "total_people": 0,
+    "total_organizations": "TBD",
+    "total_relationships": "TBD"
+  },
+  "quality_metrics": {
+    "average_confidence": "TBD",
+    "validation_rate": "TBD"
+  }
+}

@@ -1,0 +1,108 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+venv/
+ENV/
+env/
+gladio_env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# System
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+#==============================================================================
+# AUDIO FILES (LARGE - NOT FOR GITHUB)
+# Users should provide their own audio files or download separately
+# Audio files can be 100MB-1GB+ each and would make repo unusable
+#==============================================================================
+
+# Raw audio files
+*.aaxc
+*.aax
+*.m4a
+*.mp3
+*.wav
+*.flac
+*.ogg
+*.wma
+
+# Audiobook directories (2GB+)
+audiobooks/**/*.aaxc
+audiobooks/**/*.aax
+audiobooks/**/*.m4a
+audiobooks/**/*.mp3
+audiobooks/**/*.wav
+audiobooks/**/*.flac
+
+# Audio processing artifacts
+*.voucher
+audio_cache/
+chunks/
+decrypted/
+
+# Large transcripts (regenerable from audio)
+transcripts/*.txt
+transcripts/*.json
+
+# Benchmark audio (test files)
+bench/yt*.m4a
+bench/yt*.wav
+bench/*.wav
+
+#==============================================================================
+# CHECKPOINTS (REGENERABLE)
+#==============================================================================
+
+checkpoints/
+*.checkpoint
+
+#==============================================================================
+# TEST ARTIFACTS
+#==============================================================================
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+#==============================================================================
+# SENSITIVE DATA
+#==============================================================================
+
+.env
+credentials/
+*.key
+*.pem
+api_keys.txt
+
+#==============================================================================
+# DATABASES - TRACKED WITH GIT LFS (see .gitattributes)
+# These are small (~700KB total) and contain valuable intelligence
+#==============================================================================
+
+# Keep production databases (tracked by Git LFS)
+!evidence.db
+!gladio_intelligence.db
+!gladio_complete.db
+!active_learning.db
+!audit.db
+!intelligence_sharing.db
+
+# Keep sample/test databases (tracked by Git LFS)
+!demo_gladio_facts.db
+!validation_test.db
+!test_gladio.db
+!test_gladio_api.db
+!gladio_sample.db

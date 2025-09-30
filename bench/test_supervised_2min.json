@@ -1,0 +1,67 @@
+{
+  "method": "supervised_anchor_classification",
+  "wall_sec": 63.27993726730347,
+  "audio_duration": 120.0,
+  "n_turns": 6,
+  "anchors": {
+    "A": "anchors/A.wav",
+    "B": "anchors/B.wav",
+    "C": "anchors/C.wav"
+  },
+  "parameters": {
+    "window_sec": 0.9,
+    "hop_sec": 0.3,
+    "vad_level": 2,
+    "switch_margin": 0.08,
+    "merge_gap": 0.25,
+    "min_turn": 1.0
+  },
+  "speaker_stats": {
+    "B": {
+      "turns": 1,
+      "duration": 6.0
+    },
+    "A": {
+      "turns": 5,
+      "duration": 108.84
+    }
+  },
+  "turns": [
+    {
+      "speaker": "B",
+      "start": 0.09,
+      "end": 6.09,
+      "duration": 6.0
+    },
+    {
+      "speaker": "A",
+      "start": 6.45,
+      "end": 17.25,
+      "duration": 10.8
+    },
+    {
+      "speaker": "A",
+      "start": 17.52,
+      "end": 34.02,
+      "duration": 16.500000000000004
+    },
+    {
+      "speaker": "A",
+      "start": 34.29,
+      "end": 53.85,
+      "duration": 19.560000000000002
+    },
+    {
+      "speaker": "A",
+      "start": 54.24,
+      "end": 105.42,
+      "duration": 51.18
+    },
+    {
+      "speaker": "A",
+      "start": 106.41,
+      "end": 117.21,
+      "duration": 10.799999999999997
+    }
+  ]
+}

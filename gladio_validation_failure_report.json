@@ -1,0 +1,28 @@
+{
+  "timestamp": "2025-09-28T21:25:36.355550",
+  "status": "VALIDATION_FAILED",
+  "reason": "Statistical sampling validation failed to meet minimum quality thresholds",
+  "validation_results": {
+    "processing_viability": false,
+    "quality_metrics": {
+      "average_quality_score": 0.15,
+      "transcription_success_rate": 0.0,
+      "entity_extraction_rate": 0.0,
+      "format_success_rate": 0.0
+    },
+    "samples_tested": 1,
+    "successful_samples": 0
+  },
+  "recommendations": [
+    "\u274c Format validation failing (0.0%). Check audio conversion pipeline.",
+    "\u274c Transcription rate low (0.0%). Consider different model or parameters.",
+    "\u26a0\ufe0f Entity extraction rate low (0.0%). Review extraction patterns.",
+    "\u26a0\ufe0f Average quality below threshold (15.0%). Review entire pipeline."
+  ],
+  "next_steps": [
+    "Review AAXC decryption requirements",
+    "Test alternative audio conversion methods",
+    "Verify model compatibility with input format",
+    "Consider different chunk size or processing parameters"
+  ]
+}

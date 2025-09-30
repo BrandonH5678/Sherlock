@@ -1,0 +1,1 @@
+{"model": "tiny", "compute_type": "int8", "beam_size": 1, "audio_sec": 60, "wall_sec": 30.626598119735718, "rtf": 0.5104433019955953, "segments": 22}

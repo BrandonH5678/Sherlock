@@ -1,0 +1,64 @@
+{
+  "validation_timestamp": "2025-09-29T14:41:43.208060",
+  "operation": "Operation Gladio AAXC Processing Validation",
+  "decryption_validation": {
+    "file_exists": true,
+    "file_size": 348164590,
+    "format_valid": true,
+    "duration": 43058.183356,
+    "audio_properties": {
+      "codec": "aac",
+      "sample_rate": "22050",
+      "channels": 2,
+      "bit_rate": "62794"
+    }
+  },
+  "transcription_validation": {
+    "total_segments": 3,
+    "successful_transcriptions": 0,
+    "total_transcription_length": 0,
+    "average_processing_time": 0,
+    "quality_scores": [],
+    "detailed_results": [
+      {
+        "segment_id": "test_1",
+        "file": "audiobooks/operation_gladio/decrypted/validation_segments/test_segment_1_beginning.wav",
+        "success": false,
+        "transcription_length": 0,
+        "processing_time": 0,
+        "quality_score": 0.0,
+        "error": "'VoiceEngineManager' object has no attribute 'transcribe_sherlock'"
+      },
+      {
+        "segment_id": "test_2",
+        "file": "audiobooks/operation_gladio/decrypted/validation_segments/test_segment_2_middle.wav",
+        "success": false,
+        "transcription_length": 0,
+        "processing_time": 0,
+        "quality_score": 0.0,
+        "error": "'VoiceEngineManager' object has no attribute 'transcribe_sherlock'"
+      },
+      {
+        "segment_id": "test_3",
+        "file": "audiobooks/operation_gladio/decrypted/validation_segments/test_segment_3_end.wav",
+        "success": false,
+        "transcription_length": 0,
+        "processing_time": 0,
+        "quality_score": 0.0,
+        "error": "'VoiceEngineManager' object has no attribute 'transcribe_sherlock'"
+      }
+    ],
+    "average_quality_score": 0.0
+  },
+  "overall_metrics": {
+    "decryption_success": true,
+    "transcription_success_rate": 0.0,
+    "average_quality_score": 0.0,
+    "processing_viable": false
+  },
+  "recommendations": [
+    "\u26a0\ufe0f WARNING: Low transcription success rate - check audio quality",
+    "\u26a0\ufe0f WARNING: Low quality scores - consider using ACCURATE mode",
+    "\u274c BLOCK: Processing not viable - resolve issues before proceeding"
+  ]
+}

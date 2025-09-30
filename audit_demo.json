@@ -1,0 +1,1515 @@
+{
+  "export_metadata": {
+    "exported_at": "2025-09-27T16:57:37.890179",
+    "system_version": "1.0.0",
+    "session_id": "373190d4-c62f-4a8a-9d61-066658332c63",
+    "format": "json"
+  },
+  "audit_events": [
+    {
+      "event_id": "336492e0-6643-480b-b56e-1d5d6dcc9c5e",
+      "timestamp": "2025-09-27T16:57:37.556400",
+      "event_type": "system_started",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "initialize",
+      "user_id": null,
+      "session_id": "373190d4-c62f-4a8a-9d61-066658332c63",
+      "input_data": {},
+      "output_data": {},
+      "metadata": {
+        "verbose": true,
+        "database": "evidence.db"
+      },
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "da7fc110b4244c294edcf745927fa8bdfbcc3142a7fdd176a42c58e62be6c0de",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "52a4ecc7-cb7f-43d4-9ee8-c706e74cb797",
+      "timestamp": "2025-09-27T16:57:36.959688",
+      "event_type": "system_stopped",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "shutdown",
+      "user_id": null,
+      "session_id": "11d94a4f-e036-47df-981c-d149b1aab2ff",
+      "input_data": {},
+      "output_data": {},
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "da7fc110b4244c294edcf745927fa8bdfbcc3142a7fdd176a42c58e62be6c0de",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "0ea18d90-9da5-4eba-933b-831de5576594",
+      "timestamp": "2025-09-27T16:57:36.506237",
+      "event_type": "synthesis_generated",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "execute_synthesis",
+      "user_id": null,
+      "session_id": "11d94a4f-e036-47df-981c-d149b1aab2ff",
+      "input_data": {
+        "query_text": "surveillance metadata collection",
+        "query_type": "full_text"
+      },
+      "output_data": {
+        "overall_confidence": 0.7249999999999999,
+        "total_sources": 1,
+        "total_claims": 1,
+        "profile_id": "c91ff7cb-0841-42f8-88f4-d197a83942ba"
+      },
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "da7fc110b4244c294edcf745927fa8bdfbcc3142a7fdd176a42c58e62be6c0de",
+      "processing_time": 0.0030138492584228516,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "cf8882b4-964a-46e3-ad34-3074bff97e97",
+      "timestamp": "2025-09-27T16:57:36.094974",
+      "event_type": "analysis_completed",
+      "level": "info",
+      "component": "audit_system",
+      "operation": "create_reproducibility_profile",
+      "user_id": null,
+      "session_id": "11d94a4f-e036-47df-981c-d149b1aab2ff",
+      "input_data": {
+        "query_hash": "a1fa6974b8cab4c93dc0e32e58c4d3dbc909540d21cbfdc75fe9835201b57e11"
+      },
+      "output_data": {
+        "profile_id": "c91ff7cb-0841-42f8-88f4-d197a83942ba",
+        "validation_checksum": "49a2db8d918116442e394a6bd7d12c130fb18d697547256e38062183f0a3ecb5"
+      },
+      "metadata": {
+        "processing_steps_count": 3
+      },
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "da7fc110b4244c294edcf745927fa8bdfbcc3142a7fdd176a42c58e62be6c0de",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "342887e9-39c5-4bfd-801a-a679252c6ca2",
+      "timestamp": "2025-09-27T16:57:35.270619",
+      "event_type": "system_started",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "initialize",
+      "user_id": null,
+      "session_id": "11d94a4f-e036-47df-981c-d149b1aab2ff",
+      "input_data": {},
+      "output_data": {},
+      "metadata": {
+        "verbose": true,
+        "database": "evidence.db"
+      },
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "da7fc110b4244c294edcf745927fa8bdfbcc3142a7fdd176a42c58e62be6c0de",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "c8984614-6876-4a00-a860-a15548c5d8d1",
+      "timestamp": "2025-09-27T16:57:34.751236",
+      "event_type": "system_stopped",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "shutdown",
+      "user_id": null,
+      "session_id": "cf009c2b-2ec1-4c9c-ae54-0eef2d56f6d6",
+      "input_data": {},
+      "output_data": {},
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "da7fc110b4244c294edcf745927fa8bdfbcc3142a7fdd176a42c58e62be6c0de",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "97da60cf-f64b-472a-98ee-56df559b37ca",
+      "timestamp": "2025-09-27T16:57:34.170974",
+      "event_type": "synthesis_generated",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "execute_synthesis",
+      "user_id": null,
+      "session_id": "cf009c2b-2ec1-4c9c-ae54-0eef2d56f6d6",
+      "input_data": {
+        "query_text": "government surveillance programs",
+        "query_type": "full_text"
+      },
+      "output_data": {
+        "overall_confidence": 0.0,
+        "total_sources": 0,
+        "total_claims": 0,
+        "profile_id": "cad21986-8a13-4238-850f-d2e30b373334"
+      },
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "da7fc110b4244c294edcf745927fa8bdfbcc3142a7fdd176a42c58e62be6c0de",
+      "processing_time": 0.0015380382537841797,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "ca9e6f8b-c799-4e0e-b55b-0723ceed9f8d",
+      "timestamp": "2025-09-27T16:57:33.983821",
+      "event_type": "analysis_completed",
+      "level": "info",
+      "component": "audit_system",
+      "operation": "create_reproducibility_profile",
+      "user_id": null,
+      "session_id": "cf009c2b-2ec1-4c9c-ae54-0eef2d56f6d6",
+      "input_data": {
+        "query_hash": "51e22e3349da59217ea3444157f5a304d6341356173f6b0eefb90ff9aa9c8a6b"
+      },
+      "output_data": {
+        "profile_id": "cad21986-8a13-4238-850f-d2e30b373334",
+        "validation_checksum": "b3c88ef09414978fb64437541e1b220bf30fa1fc679ccb3af8ddd107d7cf5523"
+      },
+      "metadata": {
+        "processing_steps_count": 3
+      },
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "da7fc110b4244c294edcf745927fa8bdfbcc3142a7fdd176a42c58e62be6c0de",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "35fc678e-c49b-465d-a8ff-8bafb10bb7ea",
+      "timestamp": "2025-09-27T16:57:33.209918",
+      "event_type": "system_started",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "initialize",
+      "user_id": null,
+      "session_id": "cf009c2b-2ec1-4c9c-ae54-0eef2d56f6d6",
+      "input_data": {},
+      "output_data": {},
+      "metadata": {
+        "verbose": true,
+        "database": "evidence.db"
+      },
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "da7fc110b4244c294edcf745927fa8bdfbcc3142a7fdd176a42c58e62be6c0de",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "34ee2493-7168-42d4-9ff6-343321e9269f",
+      "timestamp": "2025-09-27T16:57:32.893170",
+      "event_type": "system_stopped",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "shutdown",
+      "user_id": null,
+      "session_id": "6db95c43-189c-4b1a-878b-0543ec183045",
+      "input_data": {},
+      "output_data": {},
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "da7fc110b4244c294edcf745927fa8bdfbcc3142a7fdd176a42c58e62be6c0de",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "37328e7c-a512-41cf-b24a-fd501c77967e",
+      "timestamp": "2025-09-27T16:57:32.494532",
+      "event_type": "query_executed",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "execute_search",
+      "user_id": null,
+      "session_id": "6db95c43-189c-4b1a-878b-0543ec183045",
+      "input_data": {
+        "query_text": "",
+        "query_type": "contradiction",
+        "limit": 5,
+        "sort_by": "relevance"
+      },
+      "output_data": {
+        "result_count": 0,
+        "processing_time": 0.001276254653930664
+      },
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "da7fc110b4244c294edcf745927fa8bdfbcc3142a7fdd176a42c58e62be6c0de",
+      "processing_time": 0.001276254653930664,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "0dc215e8-b167-4c0f-bb82-8cf4501abd41",
+      "timestamp": "2025-09-27T16:57:32.084045",
+      "event_type": "query_executed",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "execute_search",
+      "user_id": null,
+      "session_id": "6db95c43-189c-4b1a-878b-0543ec183045",
+      "input_data": {
+        "query_text": "NSA",
+        "query_type": "entity",
+        "limit": 3,
+        "sort_by": "relevance"
+      },
+      "output_data": {
+        "result_count": 1,
+        "processing_time": 0.001986265182495117
+      },
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "da7fc110b4244c294edcf745927fa8bdfbcc3142a7fdd176a42c58e62be6c0de",
+      "processing_time": 0.001986265182495117,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "19075001-4363-4a7b-b709-13bba64182b4",
+      "timestamp": "2025-09-27T16:57:31.618831",
+      "event_type": "query_executed",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "execute_search",
+      "user_id": null,
+      "session_id": "6db95c43-189c-4b1a-878b-0543ec183045",
+      "input_data": {
+        "query_text": "surveillance",
+        "query_type": "full_text",
+        "limit": 5,
+        "sort_by": "relevance"
+      },
+      "output_data": {
+        "result_count": 5,
+        "processing_time": 0.0034322738647460938
+      },
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "da7fc110b4244c294edcf745927fa8bdfbcc3142a7fdd176a42c58e62be6c0de",
+      "processing_time": 0.0034322738647460938,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "b18e3567-5829-4d3c-b898-f0c28654f789",
+      "timestamp": "2025-09-27T16:57:31.106185",
+      "event_type": "system_started",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "initialize",
+      "user_id": null,
+      "session_id": "6db95c43-189c-4b1a-878b-0543ec183045",
+      "input_data": {},
+      "output_data": {},
+      "metadata": {
+        "verbose": true,
+        "database": "evidence.db"
+      },
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "da7fc110b4244c294edcf745927fa8bdfbcc3142a7fdd176a42c58e62be6c0de",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "7e02c227-0566-4621-8244-f7cefe848194",
+      "timestamp": "2025-09-27T16:56:26.177295",
+      "event_type": "system_stopped",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "shutdown",
+      "user_id": null,
+      "session_id": "ec0872fa-ec3c-4338-a353-788253493dcc",
+      "input_data": {},
+      "output_data": {},
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "da7fc110b4244c294edcf745927fa8bdfbcc3142a7fdd176a42c58e62be6c0de",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "1dcb0254-5f90-4dcd-aaa3-b65454a20166",
+      "timestamp": "2025-09-27T16:56:25.744771",
+      "event_type": "query_executed",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "execute_search",
+      "user_id": null,
+      "session_id": "ec0872fa-ec3c-4338-a353-788253493dcc",
+      "input_data": {
+        "query_text": "test",
+        "query_type": "full_text",
+        "limit": 5,
+        "sort_by": "relevance"
+      },
+      "output_data": {
+        "result_count": 0,
+        "processing_time": 0.0009691715240478516
+      },
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "da7fc110b4244c294edcf745927fa8bdfbcc3142a7fdd176a42c58e62be6c0de",
+      "processing_time": 0.0009691715240478516,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "0e9616b2-c658-463c-b71d-d3e973d99103",
+      "timestamp": "2025-09-27T16:56:25.024831",
+      "event_type": "system_started",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "initialize",
+      "user_id": null,
+      "session_id": "ec0872fa-ec3c-4338-a353-788253493dcc",
+      "input_data": {},
+      "output_data": {},
+      "metadata": {
+        "verbose": false,
+        "database": "evidence.db"
+      },
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "da7fc110b4244c294edcf745927fa8bdfbcc3142a7fdd176a42c58e62be6c0de",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "c8e3536e-770a-49ee-907e-8f2d5bafd93b",
+      "timestamp": "2025-09-27T16:56:19.567873",
+      "event_type": "system_stopped",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "shutdown",
+      "user_id": null,
+      "session_id": "afbdbfa3-8398-419a-85e6-5dc6463ceb49",
+      "input_data": {},
+      "output_data": {},
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "da7fc110b4244c294edcf745927fa8bdfbcc3142a7fdd176a42c58e62be6c0de",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "819afabe-1dea-4a2f-a730-ad0439b2bfa2",
+      "timestamp": "2025-09-27T16:56:18.945026",
+      "event_type": "system_started",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "show_database_status",
+      "user_id": null,
+      "session_id": "afbdbfa3-8398-419a-85e6-5dc6463ceb49",
+      "input_data": {},
+      "output_data": {
+        "database_path": "evidence.db",
+        "table_statistics": {
+          "speakers": 0,
+          "evidence_sources": 3,
+          "evidence_claims": 0,
+          "evidence_relationships": 0,
+          "processing_log": 3,
+          "claims_fts": 0,
+          "claims_fts_data": 2,
+          "claims_fts_idx": 0,
+          "claims_fts_docsize": 0,
+          "claims_fts_config": 1,
+          "sources_fts": 3,
+          "sources_fts_data": 2,
+          "sources_fts_idx": 0,
+          "sources_fts_docsize": 0,
+          "sources_fts_config": 1
+        },
+        "recent_activity": 5,
+        "integrity_status": "fail",
+        "system_operational": true
+      },
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "da7fc110b4244c294edcf745927fa8bdfbcc3142a7fdd176a42c58e62be6c0de",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "0ee1c65e-e220-4886-9486-705fc114a0f0",
+      "timestamp": "2025-09-27T16:56:17.602173",
+      "event_type": "system_started",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "initialize",
+      "user_id": null,
+      "session_id": "afbdbfa3-8398-419a-85e6-5dc6463ceb49",
+      "input_data": {},
+      "output_data": {},
+      "metadata": {
+        "verbose": false,
+        "database": "evidence.db"
+      },
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "da7fc110b4244c294edcf745927fa8bdfbcc3142a7fdd176a42c58e62be6c0de",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "a3aed10b-4d3c-421c-bdb4-9d07971377f8",
+      "timestamp": "2025-09-27T16:55:40.501770",
+      "event_type": "error_occurred",
+      "level": "error",
+      "component": "test_component",
+      "operation": "test_error",
+      "user_id": null,
+      "session_id": "4db6b55d-584c-4fbe-9d22-b03150704611",
+      "input_data": {},
+      "output_data": {},
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "fe26426c9b5e8f141c4319005aac19ad021803169f662b913582ee114074d9a8",
+      "processing_time": 0.0,
+      "error_message": "Test error message",
+      "stack_trace": null
+    },
+    {
+      "event_id": "8c9cf918-5de9-4520-98bd-66bb9a6655ac",
+      "timestamp": "2025-09-27T16:55:30.952910",
+      "event_type": "query_executed",
+      "level": "info",
+      "component": "test",
+      "operation": "consistency_test",
+      "user_id": null,
+      "session_id": "f48a0fa3-d635-4e88-8e5e-d8034429cbf2",
+      "input_data": {
+        "test": "data"
+      },
+      "output_data": {},
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "fbb3ff8d7536cb347415415d12b74aaff4ba0c6a0d01c916d98b4849154b6703",
+      "processing_time": 1.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "84aaba0d-710e-407c-8d1b-1857bd152683",
+      "timestamp": "2025-09-27T16:55:30.688205",
+      "event_type": "query_executed",
+      "level": "info",
+      "component": "test",
+      "operation": "consistency_test",
+      "user_id": null,
+      "session_id": "f48a0fa3-d635-4e88-8e5e-d8034429cbf2",
+      "input_data": {
+        "test": "data"
+      },
+      "output_data": {},
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "fbb3ff8d7536cb347415415d12b74aaff4ba0c6a0d01c916d98b4849154b6703",
+      "processing_time": 1.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "bf4a44de-cd36-4055-aa8f-38bcd7422d86",
+      "timestamp": "2025-09-27T16:55:20.761032",
+      "event_type": "system_stopped",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "shutdown",
+      "user_id": null,
+      "session_id": "2f9ece9e-8f19-418a-a873-ede344ca45f8",
+      "input_data": {},
+      "output_data": {},
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "ace648881c1c449feba70b2e4a887a784e24dc67c0d16964c31c8067a4add316",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "ca239863-dd38-48b2-9c73-01ce94ef8ba5",
+      "timestamp": "2025-09-27T16:55:20.319798",
+      "event_type": "export_created",
+      "level": "info",
+      "component": "audit_system",
+      "operation": "export_audit_data",
+      "user_id": null,
+      "session_id": "2f9ece9e-8f19-418a-a873-ede344ca45f8",
+      "input_data": {
+        "format": "json",
+        "output_path": "/tmp/tmp38ath97j/cli_export.json"
+      },
+      "output_data": {
+        "events_count": 22,
+        "profiles_count": 4
+      },
+      "metadata": {
+        "file_size": 30501
+      },
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "ace648881c1c449feba70b2e4a887a784e24dc67c0d16964c31c8067a4add316",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "5c9ba252-e968-43f2-be0c-5316b2d28010",
+      "timestamp": "2025-09-27T16:55:19.918192",
+      "event_type": "system_started",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "show_database_status",
+      "user_id": null,
+      "session_id": "2f9ece9e-8f19-418a-a873-ede344ca45f8",
+      "input_data": {},
+      "output_data": {
+        "database_path": "/tmp/tmpqr8wm20c.db",
+        "table_statistics": {
+          "speakers": 0,
+          "evidence_sources": 1,
+          "evidence_claims": 3,
+          "evidence_relationships": 0,
+          "processing_log": 0,
+          "claims_fts": 3,
+          "claims_fts_data": 5,
+          "claims_fts_idx": 3,
+          "claims_fts_docsize": 3,
+          "claims_fts_config": 1,
+          "sources_fts": 1,
+          "sources_fts_data": 2,
+          "sources_fts_idx": 0,
+          "sources_fts_docsize": 0,
+          "sources_fts_config": 1
+        },
+        "recent_activity": 5,
+        "integrity_status": "fail",
+        "system_operational": true
+      },
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "ace648881c1c449feba70b2e4a887a784e24dc67c0d16964c31c8067a4add316",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "8155731b-71ab-40ec-b1de-c6fd88defa7d",
+      "timestamp": "2025-09-27T16:55:19.308604",
+      "event_type": "synthesis_generated",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "execute_synthesis",
+      "user_id": null,
+      "session_id": "2f9ece9e-8f19-418a-a873-ede344ca45f8",
+      "input_data": {
+        "query_text": "government surveillance",
+        "query_type": "full_text"
+      },
+      "output_data": {
+        "overall_confidence": 0.655,
+        "total_sources": 1,
+        "total_claims": 1,
+        "profile_id": "092dad1f-7deb-4c4b-8422-ffec620cc655"
+      },
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "ace648881c1c449feba70b2e4a887a784e24dc67c0d16964c31c8067a4add316",
+      "processing_time": 0.0016663074493408203,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "7f968329-35ec-4624-9975-e9af743cda35",
+      "timestamp": "2025-09-27T16:55:18.896389",
+      "event_type": "analysis_completed",
+      "level": "info",
+      "component": "audit_system",
+      "operation": "create_reproducibility_profile",
+      "user_id": null,
+      "session_id": "2f9ece9e-8f19-418a-a873-ede344ca45f8",
+      "input_data": {
+        "query_hash": "bcab37744e6469cc69f27489334d271cba2cc0de66359eedd49649e0407c9527"
+      },
+      "output_data": {
+        "profile_id": "092dad1f-7deb-4c4b-8422-ffec620cc655",
+        "validation_checksum": "7139a7f2d909394006f96a6f3b87624a62430a678587d4ea60016207fd78d29a"
+      },
+      "metadata": {
+        "processing_steps_count": 3
+      },
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "ace648881c1c449feba70b2e4a887a784e24dc67c0d16964c31c8067a4add316",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "21e9e7d5-5927-410d-a87d-dde4075cf8e7",
+      "timestamp": "2025-09-27T16:55:18.343450",
+      "event_type": "query_executed",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "execute_search",
+      "user_id": null,
+      "session_id": "2f9ece9e-8f19-418a-a873-ede344ca45f8",
+      "input_data": {
+        "query_text": "surveillance",
+        "query_type": "full_text",
+        "limit": 5,
+        "sort_by": "relevance"
+      },
+      "output_data": {
+        "result_count": 3,
+        "processing_time": 0.001529693603515625
+      },
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "ace648881c1c449feba70b2e4a887a784e24dc67c0d16964c31c8067a4add316",
+      "processing_time": 0.001529693603515625,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "d24ebcc7-9a6a-48cd-8fd4-23a5dc948887",
+      "timestamp": "2025-09-27T16:55:17.874587",
+      "event_type": "system_started",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "initialize",
+      "user_id": null,
+      "session_id": "2f9ece9e-8f19-418a-a873-ede344ca45f8",
+      "input_data": {},
+      "output_data": {},
+      "metadata": {
+        "verbose": false,
+        "database": "/tmp/tmpqr8wm20c.db"
+      },
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "ace648881c1c449feba70b2e4a887a784e24dc67c0d16964c31c8067a4add316",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "8eebfa62-8dd5-4dfa-9b80-1d2d8e74d394",
+      "timestamp": "2025-09-27T16:55:08.454388",
+      "event_type": "export_created",
+      "level": "info",
+      "component": "audit_system",
+      "operation": "export_audit_data",
+      "user_id": null,
+      "session_id": "cceea1aa-721f-455a-a150-479b1156d7dc",
+      "input_data": {
+        "format": "json",
+        "output_path": "/tmp/tmplrfg86xg/audit_export.json"
+      },
+      "output_data": {
+        "events_count": 16,
+        "profiles_count": 3
+      },
+      "metadata": {
+        "file_size": 22467
+      },
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "bdf22b77085a1a646e1e26a52b042f8a93dd43d667feb6c7a36aaa95625154b8",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "f59a6744-ae0c-4363-8e58-c1d7a5e8154b",
+      "timestamp": "2025-09-27T16:55:07.762259",
+      "event_type": "analysis_completed",
+      "level": "info",
+      "component": "audit_system",
+      "operation": "verify_reproducibility",
+      "user_id": null,
+      "session_id": "cceea1aa-721f-455a-a150-479b1156d7dc",
+      "input_data": {
+        "profile_id": "6d0267e9-3304-4647-9a19-9fb833a07edd"
+      },
+      "output_data": {
+        "profile_id": "6d0267e9-3304-4647-9a19-9fb833a07edd",
+        "verification_timestamp": "2025-09-27T16:55:07.439183",
+        "query_match": true,
+        "database_match": true,
+        "result_match": true,
+        "stored_query_hash": "07c29fe8a0a3df6b0091d837b84b6401e60d951c94dc733d5356fe73072d5da7",
+        "current_query_hash": "07c29fe8a0a3df6b0091d837b84b6401e60d951c94dc733d5356fe73072d5da7",
+        "stored_db_hash": "error:name 'sqlite3' is not defined",
+        "current_db_hash": "error:name 'sqlite3' is not defined",
+        "stored_result_hash": "0b64c92d545c39ef5a05e6c59d8867fdc74473c2beb37b5bbd1d35d61c107faf",
+        "current_result_hash": "0b64c92d545c39ef5a05e6c59d8867fdc74473c2beb37b5bbd1d35d61c107faf",
+        "reproducible": true,
+        "status": "success",
+        "reason": "Analysis fully reproduced"
+      },
+      "metadata": {
+        "reproducible": true
+      },
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "bdf22b77085a1a646e1e26a52b042f8a93dd43d667feb6c7a36aaa95625154b8",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "0c5fe755-5b6d-44d4-a30a-95c56436e355",
+      "timestamp": "2025-09-27T16:55:07.117784",
+      "event_type": "analysis_completed",
+      "level": "info",
+      "component": "audit_system",
+      "operation": "create_reproducibility_profile",
+      "user_id": null,
+      "session_id": "cceea1aa-721f-455a-a150-479b1156d7dc",
+      "input_data": {
+        "query_hash": "07c29fe8a0a3df6b0091d837b84b6401e60d951c94dc733d5356fe73072d5da7"
+      },
+      "output_data": {
+        "profile_id": "6d0267e9-3304-4647-9a19-9fb833a07edd",
+        "validation_checksum": "b6c55e73772185246d70fea528df0d6857220590609578e05fdc07a7951eb7d6"
+      },
+      "metadata": {
+        "processing_steps_count": 3
+      },
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "bdf22b77085a1a646e1e26a52b042f8a93dd43d667feb6c7a36aaa95625154b8",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "cd17a44a-9465-4591-99a2-75bb2f553413",
+      "timestamp": "2025-09-27T16:55:06.457860",
+      "event_type": "query_executed",
+      "level": "info",
+      "component": "test_component",
+      "operation": "test_operation",
+      "user_id": null,
+      "session_id": "cceea1aa-721f-455a-a150-479b1156d7dc",
+      "input_data": {
+        "query": "test"
+      },
+      "output_data": {
+        "results": 5
+      },
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "bdf22b77085a1a646e1e26a52b042f8a93dd43d667feb6c7a36aaa95625154b8",
+      "processing_time": 1.5,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "1de34376-37ee-4a16-a405-3fff83dc10c5",
+      "timestamp": "2025-09-27T16:53:49.312811",
+      "event_type": "query_executed",
+      "level": "info",
+      "component": "test",
+      "operation": "consistency_test",
+      "user_id": null,
+      "session_id": "c64161bd-4ed6-46ac-be02-077ea1f2d300",
+      "input_data": {
+        "test": "data"
+      },
+      "output_data": {},
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "8afc6fe970ebe143b8de80bf6a93fcf968d66dbeaeb038ea12483988e8da796c",
+      "processing_time": 1.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "4a7c32cc-cd96-4682-82cb-466e820ee7c0",
+      "timestamp": "2025-09-27T16:53:48.888797",
+      "event_type": "query_executed",
+      "level": "info",
+      "component": "test",
+      "operation": "consistency_test",
+      "user_id": null,
+      "session_id": "c64161bd-4ed6-46ac-be02-077ea1f2d300",
+      "input_data": {
+        "test": "data"
+      },
+      "output_data": {},
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "8afc6fe970ebe143b8de80bf6a93fcf968d66dbeaeb038ea12483988e8da796c",
+      "processing_time": 1.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "ab0aa9de-620f-400c-a828-f4de38610299",
+      "timestamp": "2025-09-27T16:53:31.400754",
+      "event_type": "system_stopped",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "shutdown",
+      "user_id": null,
+      "session_id": "88c97ed6-4149-456b-92fe-69b3fba19a78",
+      "input_data": {},
+      "output_data": {},
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "d1ddda7b645357744c4b4d9a5ca76cad979cdb02086ddabc1e816f2b681d0caf",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "e42f9fc0-0931-417f-a67d-ea3fd67b66a9",
+      "timestamp": "2025-09-27T16:53:31.060759",
+      "event_type": "export_created",
+      "level": "info",
+      "component": "audit_system",
+      "operation": "export_audit_data",
+      "user_id": null,
+      "session_id": "88c97ed6-4149-456b-92fe-69b3fba19a78",
+      "input_data": {
+        "format": "json",
+        "output_path": "/tmp/tmpw1r6yp4r/cli_export.json"
+      },
+      "output_data": {
+        "events_count": 9,
+        "profiles_count": 2
+      },
+      "metadata": {
+        "file_size": 13958
+      },
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "d1ddda7b645357744c4b4d9a5ca76cad979cdb02086ddabc1e816f2b681d0caf",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "5c7abc63-d211-4d9a-9d2e-c2a76bc43623",
+      "timestamp": "2025-09-27T16:53:30.578199",
+      "event_type": "system_started",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "show_database_status",
+      "user_id": null,
+      "session_id": "88c97ed6-4149-456b-92fe-69b3fba19a78",
+      "input_data": {},
+      "output_data": {
+        "database_path": "/tmp/tmplsxe_kpb.db",
+        "table_statistics": {
+          "speakers": 0,
+          "evidence_sources": 1,
+          "evidence_claims": 3,
+          "evidence_relationships": 0,
+          "processing_log": 0,
+          "claims_fts": 3,
+          "claims_fts_data": 5,
+          "claims_fts_idx": 3,
+          "claims_fts_docsize": 3,
+          "claims_fts_config": 1,
+          "sources_fts": 1,
+          "sources_fts_data": 2,
+          "sources_fts_idx": 0,
+          "sources_fts_docsize": 0,
+          "sources_fts_config": 1
+        },
+        "recent_activity": 5,
+        "integrity_status": "fail",
+        "system_operational": true
+      },
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "d1ddda7b645357744c4b4d9a5ca76cad979cdb02086ddabc1e816f2b681d0caf",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "8d3d6332-96e3-48e5-94ec-3a108c820bdd",
+      "timestamp": "2025-09-27T16:53:29.623139",
+      "event_type": "synthesis_generated",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "execute_synthesis",
+      "user_id": null,
+      "session_id": "88c97ed6-4149-456b-92fe-69b3fba19a78",
+      "input_data": {
+        "query_text": "government surveillance",
+        "query_type": "full_text"
+      },
+      "output_data": {
+        "overall_confidence": 0.655,
+        "total_sources": 1,
+        "total_claims": 1,
+        "profile_id": "134b0d71-f616-4dfc-b1b0-4dcf14a50f70"
+      },
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "d1ddda7b645357744c4b4d9a5ca76cad979cdb02086ddabc1e816f2b681d0caf",
+      "processing_time": 0.0017752647399902344,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "a6926140-155b-42c2-a982-9df02f8a6126",
+      "timestamp": "2025-09-27T16:53:29.211494",
+      "event_type": "analysis_completed",
+      "level": "info",
+      "component": "audit_system",
+      "operation": "create_reproducibility_profile",
+      "user_id": null,
+      "session_id": "88c97ed6-4149-456b-92fe-69b3fba19a78",
+      "input_data": {
+        "query_hash": "bcab37744e6469cc69f27489334d271cba2cc0de66359eedd49649e0407c9527"
+      },
+      "output_data": {
+        "profile_id": "134b0d71-f616-4dfc-b1b0-4dcf14a50f70",
+        "validation_checksum": "3941ed8d1b798caa5d64fdd184c6509d99840cb61020d9631cf6ce9597c09edb"
+      },
+      "metadata": {
+        "processing_steps_count": 3
+      },
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "d1ddda7b645357744c4b4d9a5ca76cad979cdb02086ddabc1e816f2b681d0caf",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "0bfc3175-a0eb-4122-91a9-22ee61fc28bf",
+      "timestamp": "2025-09-27T16:53:28.314617",
+      "event_type": "query_executed",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "execute_search",
+      "user_id": null,
+      "session_id": "88c97ed6-4149-456b-92fe-69b3fba19a78",
+      "input_data": {
+        "query_text": "surveillance",
+        "query_type": "full_text",
+        "limit": 5,
+        "sort_by": "relevance"
+      },
+      "output_data": {
+        "result_count": 3,
+        "processing_time": 0.0016105175018310547
+      },
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "d1ddda7b645357744c4b4d9a5ca76cad979cdb02086ddabc1e816f2b681d0caf",
+      "processing_time": 0.0016105175018310547,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "25bf0de1-9969-41f8-b42e-781b22f9c506",
+      "timestamp": "2025-09-27T16:53:27.825629",
+      "event_type": "system_started",
+      "level": "info",
+      "component": "sherlock_cli",
+      "operation": "initialize",
+      "user_id": null,
+      "session_id": "88c97ed6-4149-456b-92fe-69b3fba19a78",
+      "input_data": {},
+      "output_data": {},
+      "metadata": {
+        "verbose": false,
+        "database": "/tmp/tmplsxe_kpb.db"
+      },
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "d1ddda7b645357744c4b4d9a5ca76cad979cdb02086ddabc1e816f2b681d0caf",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "fdfd5235-7557-41fe-94d1-d780234709f3",
+      "timestamp": "2025-09-27T16:53:13.701579",
+      "event_type": "export_created",
+      "level": "info",
+      "component": "audit_system",
+      "operation": "export_audit_data",
+      "user_id": null,
+      "session_id": "a00f9175-845d-4239-b19b-9ed4285af234",
+      "input_data": {
+        "format": "json",
+        "output_path": "/tmp/tmpqun7b_i0/audit_export.json"
+      },
+      "output_data": {
+        "events_count": 3,
+        "profiles_count": 1
+      },
+      "metadata": {
+        "file_size": 5924
+      },
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "1ae6ee5397bee4289a79ea0ad06ee95ef96491f016f4bc9cb95fe8745ae27cf3",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "6ec1374b-1065-4d57-b0be-62131ad9ebb7",
+      "timestamp": "2025-09-27T16:53:11.550671",
+      "event_type": "analysis_completed",
+      "level": "info",
+      "component": "audit_system",
+      "operation": "verify_reproducibility",
+      "user_id": null,
+      "session_id": "a00f9175-845d-4239-b19b-9ed4285af234",
+      "input_data": {
+        "profile_id": "4d8e4d23-ca06-4c3c-acee-ebf227768812"
+      },
+      "output_data": {
+        "profile_id": "4d8e4d23-ca06-4c3c-acee-ebf227768812",
+        "verification_timestamp": "2025-09-27T16:53:10.566568",
+        "query_match": true,
+        "database_match": true,
+        "result_match": true,
+        "stored_query_hash": "07c29fe8a0a3df6b0091d837b84b6401e60d951c94dc733d5356fe73072d5da7",
+        "current_query_hash": "07c29fe8a0a3df6b0091d837b84b6401e60d951c94dc733d5356fe73072d5da7",
+        "stored_db_hash": "error:name 'sqlite3' is not defined",
+        "current_db_hash": "error:name 'sqlite3' is not defined",
+        "stored_result_hash": "0b64c92d545c39ef5a05e6c59d8867fdc74473c2beb37b5bbd1d35d61c107faf",
+        "current_result_hash": "0b64c92d545c39ef5a05e6c59d8867fdc74473c2beb37b5bbd1d35d61c107faf",
+        "reproducible": true,
+        "status": "success",
+        "reason": "Analysis fully reproduced"
+      },
+      "metadata": {
+        "reproducible": true
+      },
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "1ae6ee5397bee4289a79ea0ad06ee95ef96491f016f4bc9cb95fe8745ae27cf3",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "e34028d3-b7ff-4501-a871-f01a7d37e975",
+      "timestamp": "2025-09-27T16:53:09.976553",
+      "event_type": "analysis_completed",
+      "level": "info",
+      "component": "audit_system",
+      "operation": "create_reproducibility_profile",
+      "user_id": null,
+      "session_id": "a00f9175-845d-4239-b19b-9ed4285af234",
+      "input_data": {
+        "query_hash": "07c29fe8a0a3df6b0091d837b84b6401e60d951c94dc733d5356fe73072d5da7"
+      },
+      "output_data": {
+        "profile_id": "4d8e4d23-ca06-4c3c-acee-ebf227768812",
+        "validation_checksum": "66b137f0eb4df4b8dcade358dfdae7f0d0d5424f0b0a6a2bb8af565950831304"
+      },
+      "metadata": {
+        "processing_steps_count": 3
+      },
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "1ae6ee5397bee4289a79ea0ad06ee95ef96491f016f4bc9cb95fe8745ae27cf3",
+      "processing_time": 0.0,
+      "error_message": null,
+      "stack_trace": null
+    },
+    {
+      "event_id": "ac0e2fa9-f6f0-454e-a08b-03f18043e937",
+      "timestamp": "2025-09-27T16:53:08.634379",
+      "event_type": "query_executed",
+      "level": "info",
+      "component": "test_component",
+      "operation": "test_operation",
+      "user_id": null,
+      "session_id": "a00f9175-845d-4239-b19b-9ed4285af234",
+      "input_data": {
+        "query": "test"
+      },
+      "output_data": {
+        "results": 5
+      },
+      "metadata": {},
+      "system_version": "1.0.0",
+      "database_hash": "error:name 'sqlite3' is not defined",
+      "configuration_hash": "1ae6ee5397bee4289a79ea0ad06ee95ef96491f016f4bc9cb95fe8745ae27cf3",
+      "processing_time": 1.5,
+      "error_message": null,
+      "stack_trace": null
+    }
+  ],
+  "reproducibility_profiles": [
+    {
+      "profile_id": "4d8e4d23-ca06-4c3c-acee-ebf227768812",
+      "created_at": "2025-09-27T16:53:09.310678",
+      "query_hash": "07c29fe8a0a3df6b0091d837b84b6401e60d951c94dc733d5356fe73072d5da7",
+      "database_state_hash": "error:name 'sqlite3' is not defined",
+      "system_configuration": {
+        "system_version": "1.0.0",
+        "database_path": "/tmp/tmpgi5gfm9f.db",
+        "audit_database_path": "audit.db",
+        "python_version": "3.12.3 (main, Aug 14 2025, 17:47:21) [GCC 13.3.0]",
+        "platform": "linux"
+      },
+      "dependency_versions": {
+        "sqlite3": "3.45.1",
+        "json": "builtin"
+      },
+      "processing_steps": [
+        "step1",
+        "step2",
+        "step3"
+      ],
+      "result_hash": "0b64c92d545c39ef5a05e6c59d8867fdc74473c2beb37b5bbd1d35d61c107faf",
+      "validation_checksum": "66b137f0eb4df4b8dcade358dfdae7f0d0d5424f0b0a6a2bb8af565950831304",
+      "verification_timestamp": "2025-09-27T16:53:10.566568"
+    },
+    {
+      "profile_id": "134b0d71-f616-4dfc-b1b0-4dcf14a50f70",
+      "created_at": "2025-09-27T16:53:28.824911",
+      "query_hash": "bcab37744e6469cc69f27489334d271cba2cc0de66359eedd49649e0407c9527",
+      "database_state_hash": "error:name 'sqlite3' is not defined",
+      "system_configuration": {
+        "system_version": "1.0.0",
+        "database_path": "/tmp/tmplsxe_kpb.db",
+        "audit_database_path": "audit.db",
+        "python_version": "3.12.3 (main, Aug 14 2025, 17:47:21) [GCC 13.3.0]",
+        "platform": "linux"
+      },
+      "dependency_versions": {
+        "sqlite3": "3.45.1",
+        "json": "builtin"
+      },
+      "processing_steps": [
+        "query_execution",
+        "5_block_synthesis",
+        "confidence_calculation"
+      ],
+      "result_hash": "98957c1b09bfc97a20102fa2f15cc20cd1c0de05758e6e7777f543bc7c16af62",
+      "validation_checksum": "3941ed8d1b798caa5d64fdd184c6509d99840cb61020d9631cf6ce9597c09edb",
+      "verification_timestamp": null
+    },
+    {
+      "profile_id": "6d0267e9-3304-4647-9a19-9fb833a07edd",
+      "created_at": "2025-09-27T16:55:06.784357",
+      "query_hash": "07c29fe8a0a3df6b0091d837b84b6401e60d951c94dc733d5356fe73072d5da7",
+      "database_state_hash": "error:name 'sqlite3' is not defined",
+      "system_configuration": {
+        "system_version": "1.0.0",
+        "database_path": "/tmp/tmp4r7aywee.db",
+        "audit_database_path": "audit.db",
+        "python_version": "3.12.3 (main, Aug 14 2025, 17:47:21) [GCC 13.3.0]",
+        "platform": "linux"
+      },
+      "dependency_versions": {
+        "sqlite3": "3.45.1",
+        "json": "builtin"
+      },
+      "processing_steps": [
+        "step1",
+        "step2",
+        "step3"
+      ],
+      "result_hash": "0b64c92d545c39ef5a05e6c59d8867fdc74473c2beb37b5bbd1d35d61c107faf",
+      "validation_checksum": "b6c55e73772185246d70fea528df0d6857220590609578e05fdc07a7951eb7d6",
+      "verification_timestamp": "2025-09-27T16:55:07.439183"
+    },
+    {
+      "profile_id": "092dad1f-7deb-4c4b-8422-ffec620cc655",
+      "created_at": "2025-09-27T16:55:18.663365",
+      "query_hash": "bcab37744e6469cc69f27489334d271cba2cc0de66359eedd49649e0407c9527",
+      "database_state_hash": "error:name 'sqlite3' is not defined",
+      "system_configuration": {
+        "system_version": "1.0.0",
+        "database_path": "/tmp/tmpqr8wm20c.db",
+        "audit_database_path": "audit.db",
+        "python_version": "3.12.3 (main, Aug 14 2025, 17:47:21) [GCC 13.3.0]",
+        "platform": "linux"
+      },
+      "dependency_versions": {
+        "sqlite3": "3.45.1",
+        "json": "builtin"
+      },
+      "processing_steps": [
+        "query_execution",
+        "5_block_synthesis",
+        "confidence_calculation"
+      ],
+      "result_hash": "bdcc83da6b3745b3aaf92b7b73ac703f3faf8e4fe3b51ae23d75655514605778",
+      "validation_checksum": "7139a7f2d909394006f96a6f3b87624a62430a678587d4ea60016207fd78d29a",
+      "verification_timestamp": null
+    },
+    {
+      "profile_id": "cad21986-8a13-4238-850f-d2e30b373334",
+      "created_at": "2025-09-27T16:57:33.736352",
+      "query_hash": "51e22e3349da59217ea3444157f5a304d6341356173f6b0eefb90ff9aa9c8a6b",
+      "database_state_hash": "error:name 'sqlite3' is not defined",
+      "system_configuration": {
+        "system_version": "1.0.0",
+        "database_path": "evidence.db",
+        "audit_database_path": "audit.db",
+        "python_version": "3.12.3 (main, Aug 14 2025, 17:47:21) [GCC 13.3.0]",
+        "platform": "linux"
+      },
+      "dependency_versions": {
+        "sqlite3": "3.45.1",
+        "json": "builtin"
+      },
+      "processing_steps": [
+        "query_execution",
+        "5_block_synthesis",
+        "confidence_calculation"
+      ],
+      "result_hash": "7004afdad5b9547f1c621c2527245bb557f232285dae6b78c22b116a18f23827",
+      "validation_checksum": "b3c88ef09414978fb64437541e1b220bf30fa1fc679ccb3af8ddd107d7cf5523",
+      "verification_timestamp": null
+    },
+    {
+      "profile_id": "c91ff7cb-0841-42f8-88f4-d197a83942ba",
+      "created_at": "2025-09-27T16:57:35.687128",
+      "query_hash": "a1fa6974b8cab4c93dc0e32e58c4d3dbc909540d21cbfdc75fe9835201b57e11",
+      "database_state_hash": "error:name 'sqlite3' is not defined",
+      "system_configuration": {
+        "system_version": "1.0.0",
+        "database_path": "evidence.db",
+        "audit_database_path": "audit.db",
+        "python_version": "3.12.3 (main, Aug 14 2025, 17:47:21) [GCC 13.3.0]",
+        "platform": "linux"
+      },
+      "dependency_versions": {
+        "sqlite3": "3.45.1",
+        "json": "builtin"
+      },
+      "processing_steps": [
+        "query_execution",
+        "5_block_synthesis",
+        "confidence_calculation"
+      ],
+      "result_hash": "4e04129f1eec0f5f0978ef1b547678133018ce3f40f14e4a94ad27449b3e1e6b",
+      "validation_checksum": "49a2db8d918116442e394a6bd7d12c130fb18d697547256e38062183f0a3ecb5",
+      "verification_timestamp": null
+    }
+  ],
+  "integrity_checks": [
+    {
+      "check_id": "4ed3fd50-0e72-488d-8571-a8fad5c18f88",
+      "timestamp": "2025-09-27T16:56:18.260032",
+      "check_type": "comprehensive",
+      "target_hash": "da7fc110b4244c294edcf745927fa8bdfbcc3142a7fdd176a42c58e62be6c0de",
+      "current_hash": "da7fc110b4244c294edcf745927fa8bdfbcc3142a7fdd176a42c58e62be6c0de",
+      "status": "fail",
+      "details": {
+        "check_id": "4ed3fd50-0e72-488d-8571-a8fad5c18f88",
+        "timestamp": "2025-09-27T16:56:18.260032",
+        "overall_status": "fail",
+        "checks": {
+          "audit_database": {
+            "status": "pass",
+            "details": "ok"
+          },
+          "evidence_database": {
+            "status": "fail",
+            "details": "name 'sqlite3' is not defined"
+          },
+          "configuration": {
+            "status": "pass",
+            "details": "Current: da7fc110b4244c294edcf745927fa8bdfbcc3142a7fdd176a42c58e62be6c0de, Expected: da7fc110b4244c294edcf745927fa8bdfbcc3142a7fdd176a42c58e62be6c0de"
+          },
+          "events_validation": {
+            "status": "pass",
+            "details": "All events valid"
+          }
+        }
+      }
+    },
+    {
+      "check_id": "6bdff26e-532b-4499-8f0c-c6fa966e5312",
+      "timestamp": "2025-09-27T16:55:19.612164",
+      "check_type": "comprehensive",
+      "target_hash": "ace648881c1c449feba70b2e4a887a784e24dc67c0d16964c31c8067a4add316",
+      "current_hash": "ace648881c1c449feba70b2e4a887a784e24dc67c0d16964c31c8067a4add316",
+      "status": "fail",
+      "details": {
+        "check_id": "6bdff26e-532b-4499-8f0c-c6fa966e5312",
+        "timestamp": "2025-09-27T16:55:19.612164",
+        "overall_status": "fail",
+        "checks": {
+          "audit_database": {
+            "status": "pass",
+            "details": "ok"
+          },
+          "evidence_database": {
+            "status": "fail",
+            "details": "name 'sqlite3' is not defined"
+          },
+          "configuration": {
+            "status": "pass",
+            "details": "Current: ace648881c1c449feba70b2e4a887a784e24dc67c0d16964c31c8067a4add316, Expected: ace648881c1c449feba70b2e4a887a784e24dc67c0d16964c31c8067a4add316"
+          },
+          "events_validation": {
+            "status": "pass",
+            "details": "All events valid"
+          }
+        }
+      }
+    },
+    {
+      "check_id": "49da6bf2-7091-4f85-b6bf-9a5529745b0e",
+      "timestamp": "2025-09-27T16:55:08.135542",
+      "check_type": "comprehensive",
+      "target_hash": "bdf22b77085a1a646e1e26a52b042f8a93dd43d667feb6c7a36aaa95625154b8",
+      "current_hash": "bdf22b77085a1a646e1e26a52b042f8a93dd43d667feb6c7a36aaa95625154b8",
+      "status": "fail",
+      "details": {
+        "check_id": "49da6bf2-7091-4f85-b6bf-9a5529745b0e",
+        "timestamp": "2025-09-27T16:55:08.135542",
+        "overall_status": "fail",
+        "checks": {
+          "audit_database": {
+            "status": "pass",
+            "details": "ok"
+          },
+          "evidence_database": {
+            "status": "fail",
+            "details": "name 'sqlite3' is not defined"
+          },
+          "configuration": {
+            "status": "pass",
+            "details": "Current: bdf22b77085a1a646e1e26a52b042f8a93dd43d667feb6c7a36aaa95625154b8, Expected: bdf22b77085a1a646e1e26a52b042f8a93dd43d667feb6c7a36aaa95625154b8"
+          },
+          "events_validation": {
+            "status": "pass",
+            "details": "All events valid"
+          }
+        }
+      }
+    },
+    {
+      "check_id": "4a3c633a-70ad-4701-b86a-aa5be2bd8352",
+      "timestamp": "2025-09-27T16:53:30.241787",
+      "check_type": "comprehensive",
+      "target_hash": "d1ddda7b645357744c4b4d9a5ca76cad979cdb02086ddabc1e816f2b681d0caf",
+      "current_hash": "d1ddda7b645357744c4b4d9a5ca76cad979cdb02086ddabc1e816f2b681d0caf",
+      "status": "fail",
+      "details": {
+        "check_id": "4a3c633a-70ad-4701-b86a-aa5be2bd8352",
+        "timestamp": "2025-09-27T16:53:30.241787",
+        "overall_status": "fail",
+        "checks": {
+          "audit_database": {
+            "status": "pass",
+            "details": "ok"
+          },
+          "evidence_database": {
+            "status": "fail",
+            "details": "name 'sqlite3' is not defined"
+          },
+          "configuration": {
+            "status": "pass",
+            "details": "Current: d1ddda7b645357744c4b4d9a5ca76cad979cdb02086ddabc1e816f2b681d0caf, Expected: d1ddda7b645357744c4b4d9a5ca76cad979cdb02086ddabc1e816f2b681d0caf"
+          },
+          "events_validation": {
+            "status": "pass",
+            "details": "All events valid"
+          }
+        }
+      }
+    },
+    {
+      "check_id": "3b3e95c2-5f7a-413b-b59f-e50cf5a316a1",
+      "timestamp": "2025-09-27T16:53:13.132951",
+      "check_type": "comprehensive",
+      "target_hash": "1ae6ee5397bee4289a79ea0ad06ee95ef96491f016f4bc9cb95fe8745ae27cf3",
+      "current_hash": "1ae6ee5397bee4289a79ea0ad06ee95ef96491f016f4bc9cb95fe8745ae27cf3",
+      "status": "fail",
+      "details": {
+        "check_id": "3b3e95c2-5f7a-413b-b59f-e50cf5a316a1",
+        "timestamp": "2025-09-27T16:53:13.132951",
+        "overall_status": "fail",
+        "checks": {
+          "audit_database": {
+            "status": "pass",
+            "details": "ok"
+          },
+          "evidence_database": {
+            "status": "fail",
+            "details": "name 'sqlite3' is not defined"
+          },
+          "configuration": {
+            "status": "pass",
+            "details": "Current: 1ae6ee5397bee4289a79ea0ad06ee95ef96491f016f4bc9cb95fe8745ae27cf3, Expected: 1ae6ee5397bee4289a79ea0ad06ee95ef96491f016f4bc9cb95fe8745ae27cf3"
+          },
+          "events_validation": {
+            "status": "pass",
+            "details": "All events valid"
+          }
+        }
+      }
+    }
+  ],
+  "statistics": {
+    "total_events": 47,
+    "total_profiles": 6,
+    "total_integrity_checks": 5
+  }
+}

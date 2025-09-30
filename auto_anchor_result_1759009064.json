@@ -1,0 +1,29 @@
+{
+  "success": false,
+  "confidence": 0.245241506687109,
+  "processing_time": 28.4425790309906,
+  "selected_anchors": {
+    "SPEAKER_1": "auto_anchors/SPEAKER_1_51s.wav"
+  },
+  "quality_metrics": {
+    "total_candidates": 1,
+    "selected_anchors": 1,
+    "avg_quality_all": 0.735724520061327,
+    "avg_quality_selected": 0.735724520061327,
+    "avg_snr_db": 37.70235061645508,
+    "avg_isolation": 0.4933328628540039,
+    "speakers_detected": 1
+  },
+  "fallback_reason": "Confidence 24.5% below threshold 85.0%",
+  "candidates": [
+    {
+      "speaker_id": "SPEAKER_1",
+      "start_time": 51.99,
+      "end_time": 59.0,
+      "duration": 7.009999999999998,
+      "quality_score": 0.735724520061327,
+      "snr_db": 37.70235061645508,
+      "confidence": 0.735724520061327
+    }
+  ]
+}

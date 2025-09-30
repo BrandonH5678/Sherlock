@@ -1,0 +1,28 @@
+graph TD
+    %% Sherlock Analysis Flow Diagram
+    %% Query: surveillance metadata collection
+
+    Q["🔍 Query<br/>surveillance metadata collecti..."]
+
+    E["✅ ESTABLISHED<br/>Confidence: 95.0%"]
+    style E fill:#90EE90
+    C["⚠️ CONTESTED<br/>Confidence: 100.0%"]
+    style C fill:#90EE90
+    W["🧠 REASONING<br/>Confidence: 73.0%"]
+    style W fill:#FFE4B5
+    F["🚩 FLAGS<br/>Confidence: 80.0%"]
+    style F fill:#90EE90
+    N["➡️ NEXT STEPS<br/>Confidence: 20.0%"]
+    style N fill:#F08080
+    S["📊 SYNTHESIS<br/>Overall: 72.5%<br/>Sources: 1"]
+    style S fill:#FFE4B5
+
+    %% Flow connections
+    Q --> E
+    Q --> C
+    Q --> W
+    E --> S
+    C --> S
+    W --> S
+    W --> F
+    S --> N

@@ -1,0 +1,22 @@
+❌ Processing failed - check /home/johnny5/Sherlock/gladio_processing.log for details
+
+🎯 AUTONOMOUS PROCESSING STATUS
+================================
+
+📁 Processing Log: /home/johnny5/Sherlock/gladio_processing.log
+📊 Results Summary: /home/johnny5/Sherlock/gladio_results.txt
+🗄️ Database: gladio_intelligence.db
+
+Check these files for complete results when you return.
+
+❌ Database not found - processing may have failed
+
+🎯 AUTONOMOUS PROCESSING STATUS
+================================
+
+📁 Processing Log: /home/johnny5/Sherlock/gladio_processing.log
+📊 Results Summary: /home/johnny5/Sherlock/gladio_results.txt
+🗄️ Database: gladio_intelligence.db
+
+Check these files for complete results when you return.
+
