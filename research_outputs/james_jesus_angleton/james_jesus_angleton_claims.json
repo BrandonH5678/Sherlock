@@ -1,0 +1,9 @@
+{
+  "claims": [
+    {
+      "claim_text": "Mock claim about James Jesus Angleton",
+      "confidence": 0.5,
+      "source_chunk": 0
+    }
+  ]
+}

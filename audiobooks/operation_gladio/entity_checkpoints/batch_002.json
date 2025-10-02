@@ -1,0 +1,4599 @@
+{
+  "batch_id": 2,
+  "entity_count": 656,
+  "entities": [
+    {
+      "name": "Licio Gelli",
+      "entity_type": "person",
+      "context": "or attacks throughout Italy with P2 puppet master Licio Gelli. He was diverting the financial police from probi",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "William Casey",
+      "entity_type": "person",
+      "context": "was holding a private audience with CIA director William Casey, the Turks were provided with nine-millimeter bro",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "Santo Vito",
+      "entity_type": "person",
+      "context": "n February 3, 1981, for a series of meetings with General Santo Vito. The assassination, in keeping with the strategy",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "Intelligence Administration",
+      "entity_type": "person",
+      "context": "ent who also worked in tandem with East Germany's General Intelligence Administration, Hauptverwaltung Aufkl\u00e4rung. This enhancement cou",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "Santo Vito",
+      "entity_type": "person",
+      "context": "sure. The Bulgarian thesis. In Rome, Shackley and Santo Vito worked with Francesco Patienza, the second in com",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "he Soviets. The plan would involve a multitude of CIA associates, including journalist Claire Sterling,",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "Right Wing Prodeo Movement, Francesco Pazienza, a CIA informant, and SISMI official who helped engineer",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "SISMI",
+      "entity_type": "organization",
+      "context": "ovement, Francesco Pazienza, a CIA informant, and SISMI official who helped engineer the Bologna bombing,",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "by the Sicilian mafia, the Turkish babas, and the CIA. The SISMI general was also implementing the stra",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "SISMI",
+      "entity_type": "organization",
+      "context": "cilian mafia, the Turkish babas, and the CIA. The SISMI general was also implementing the strategy of ten",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "by launching terror attacks throughout Italy with P2 puppet master Licio Gelli. He was diverting the f",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "o the Vatican Shell companies. He was serving the CIA by commissioning underworld figures to conduct hi",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "SISMI",
+      "entity_type": "organization",
+      "context": "with Francesco Patienza, the second in command at SISMI, and Father Felix Morlion, a Dominican friar and",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "OSS",
+      "entity_type": "organization",
+      "context": "ather Felix Morlion, a Dominican friar and former OSS spook, and developing the Bulgarian thesis, a bog",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "KGB",
+      "entity_type": "organization",
+      "context": "e Security, CSS, who had been commissioned by the KGB director Yuri Andropov to kill the Holy Father. T",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "tion of the Holy Homicide got underway, a team of CIA spin doctors, including Claire Sterling, Michael",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "er, who possessed a literary flair, served as the CIA station chief in Ankara. For this reason he could",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "e information on Antonov. Ladin, who acted as the CIA's contact with SISMI, had close ties to NBC and o",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "SISMI",
+      "entity_type": "organization",
+      "context": "tonov. Ladin, who acted as the CIA's contact with SISMI, had close ties to NBC and other major American n",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ajor American news outlets. Sterling remained the CIA's leading agent of disinformation. In 1981, when",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "an outgrowth of gladio. It had been set up by the CIA under former Nazi general Reinhard Gehlen, who be",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "John Paul II was holding a private audience with CIA director William Casey, the Turks were provided w",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "received training on the use of these weapons by CIA agent Frank Terpill. The semi-automatics had been",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "Banco Ambrosiano",
+      "entity_type": "organization",
+      "context": "from probing too deeply into the transactions of Banco Ambrosiano and the ongoing flow of millions in cash to the V",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "Grey Wolves",
+      "entity_type": "organization",
+      "context": "the agent who had been assigned to work with the Grey Wolves. Santo Vito soon emerged as the lead character in",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "National Security Council",
+      "entity_type": "organization",
+      "context": "Ankara, Michael Ladine, a consultant to the U.S. National Security Council, Father Felix Morlion of the Right Wing Prodeo Mo",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "he Soviets. The plan would involve a multitude of CIA associates, including journalist Claire Sterling,",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "Right Wing Prodeo Movement, Francesco Pazienza, a CIA informant, and SISMI official who helped engineer",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "up by the Sicilian mafia, the Turkish babas, and the CIA. The SISMI general was also implementing the stra",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "siano and the ongoing flow of millions in cash to the Vatican Shell companies. He was serving the CIA by commis",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "sh to the Vatican Shell companies. He was serving the CIA by commissioning underworld figures to conduct hi",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "tion of the Holy Homicide got underway, a team of CIA spin doctors, including Claire Sterling, Michael",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "Henzer, who possessed a literary flair, served as the CIA station chief in Ankara. For this reason he could",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "nside information on Antonov. Ladin, who acted as the CIA's contact with SISMI, had close ties to NBC and o",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "er major American news outlets. Sterling remained the CIA's leading agent of disinformation. In 1981, when",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "of March 1981, Count Morange passed a warning to the Vatican Security Services about a planned attack by an un",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "was an outgrowth of gladio. It had been set up by the CIA under former Nazi general Reinhard Gehlen, who be",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "John Paul II was holding a private audience with CIA director William Casey, the Turks were provided w",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "received training on the use of these weapons by CIA agent Frank Terpill. The semi-automatics had been",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "his pistol under a truck before he was colored by the Vatican Security Chief. The Pope was rushed to the Gemell",
+      "line_number": 100,
+      "confidence": 0.8
+    },
+    {
+      "name": "Francesco Crucici",
+      "entity_type": "person",
+      "context": "ive and six pints of blood. A moment or two later Dr. Francesco Crucici later recalled it would have been too late. One o",
+      "line_number": 102,
+      "confidence": 0.8
+    },
+    {
+      "name": "Santo Vito",
+      "entity_type": "person",
+      "context": "is clandestine meetings with Count de Marange and General Santo Vito. Unexpected visitors. Aoka was sentenced to life",
+      "line_number": 102,
+      "confidence": 0.8
+    },
+    {
+      "name": "Santo Vito",
+      "entity_type": "person",
+      "context": "urprising visitors, including Francesco Pazienza, General Santo Vito, Father Morleyon, members of the Camara, includin",
+      "line_number": 102,
+      "confidence": 0.8
+    },
+    {
+      "name": "Marcinkus",
+      "entity_type": "person",
+      "context": "and Monsignor Marcello Morgante, who represented Archbishop Marcinkus of the IOR. The visits were choreographed by Pazi",
+      "line_number": 102,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "nlikely figures at the scene of the crime. Former CIA agents Theodore Shackley and Tom Klein's. The pre",
+      "line_number": 102,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "llow prisoner, Raffaello Coutolo, agents from the CIA, and Monsignor Marcello Morgante, who represented",
+      "line_number": 102,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "ante, who represented Archbishop Marcinkus of the IOR. The visits were choreographed by Pazienza to adv",
+      "line_number": 102,
+      "confidence": 0.8
+    },
+    {
+      "name": "KGB",
+      "entity_type": "organization",
+      "context": "alian prosecutors. He had acted in service to the KGB. The assassination team had included an accountan",
+      "line_number": 102,
+      "confidence": 0.8
+    },
+    {
+      "name": "KGB",
+      "entity_type": "organization",
+      "context": "oclaimed his innocence and denied any ties to the KGB or the CSS. The grilling continued with injection",
+      "line_number": 102,
+      "confidence": 0.8
+    },
+    {
+      "name": "KGB",
+      "entity_type": "organization",
+      "context": "swing. Claire Stirling published articles on the KGB's involvement in the attempt on John Paul II's li",
+      "line_number": 102,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "y and that both authors were in the employ of the CIA. But the story was unraveling almost as soon as i",
+      "line_number": 102,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ves and the Babas to Stibam International and the CIA. He pinpointed Henri Arsane as a key figure in th",
+      "line_number": 102,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "d to follow the information trail provided by the CIA station chief, opting instead to investigate the",
+      "line_number": 102,
+      "confidence": 0.8
+    },
+    {
+      "name": "Grey Wolves",
+      "entity_type": "organization",
+      "context": "e Turkish police, established Ahoka's ties to the Grey Wolves and right-wing terrorists. He realized that the w",
+      "line_number": 102,
+      "confidence": 0.8
+    },
+    {
+      "name": "Grey Wolves",
+      "entity_type": "organization",
+      "context": "ore discoveries, including the ties of Ahoka, the Grey Wolves and the Babas to Stibam International and the CIA",
+      "line_number": 102,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "ian court, claiming that the incident occurred in Vatican City, a sovereign state. When his demand for a ch",
+      "line_number": 102,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "nlikely figures at the scene of the crime. Former CIA agents Theodore Shackley and Tom Klein's. The pre",
+      "line_number": 102,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "g fellow prisoner, Raffaello Coutolo, agents from the CIA, and Monsignor Marcello Morgante, who represented",
+      "line_number": 102,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "acity and that both authors were in the employ of the CIA. But the story was unraveling almost as soon as i",
+      "line_number": 102,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "Wolves and the Babas to Stibam International and the CIA. He pinpointed Henri Arsane as a key figure in th",
+      "line_number": 102,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "fused to follow the information trail provided by the CIA station chief, opting instead to investigate the",
+      "line_number": 102,
+      "confidence": 0.8
+    },
+    {
+      "name": "Santo Vito",
+      "entity_type": "person",
+      "context": "in custody, Palermo issued an arrest warrant for General Santo Vito, the head of SISMI. Santo Vito was not only the k",
+      "line_number": 104,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "e. Understand? Michael Harare to Jean Chip Tatum, CIA helicopter pilot, 1985. Six months before the att",
+      "line_number": 104,
+      "confidence": 0.8
+    },
+    {
+      "name": "NATO",
+      "entity_type": "organization",
+      "context": "d by Bekir Cehlenk. He spoke of the arms from the NATO bases that were being supplied in exchange for th",
+      "line_number": 104,
+      "confidence": 0.8
+    },
+    {
+      "name": "SISMI",
+      "entity_type": "organization",
+      "context": "cted by some very powerful individuals, including SISMI and NATO officials. By keeping Stebam under his w",
+      "line_number": 104,
+      "confidence": 0.8
+    },
+    {
+      "name": "NATO",
+      "entity_type": "organization",
+      "context": "me very powerful individuals, including SISMI and NATO officials. By keeping Stebam under his watchful e",
+      "line_number": 104,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ipments was $400 billion. Making inquiries to the CIA, Palermo was told that Arsene should not be taken",
+      "line_number": 104,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "t of the US National Security Agency, worked with P2 in providing exoset missiles to the Argentine gov",
+      "line_number": 104,
+      "confidence": 0.8
+    },
+    {
+      "name": "SISMI",
+      "entity_type": "organization",
+      "context": "iated the sale of weapons to the Middle East with SISMI head Santo Vito. A prominent P2 member, the Colon",
+      "line_number": 104,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "ddle East with SISMI head Santo Vito. A prominent P2 member, the Colonel worked with the CIA in develo",
+      "line_number": 104,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "prominent P2 member, the Colonel worked with the CIA in developing and selling a secret superweapon ca",
+      "line_number": 104,
+      "confidence": 0.8
+    },
+    {
+      "name": "NATO",
+      "entity_type": "organization",
+      "context": "ters and flight simulators with the assistance of NATO officials to Libya and other Arab nations. He wor",
+      "line_number": 104,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "worked in partnership with two fellow members of P2, Flavio Carboni and Francesco Pazienza. Angelo De",
+      "line_number": 104,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ania. The missiles he testified were delivered on CIA cargo planes that departed from the Ciampiro mili",
+      "line_number": 104,
+      "confidence": 0.8
+    },
+    {
+      "name": "SISMI",
+      "entity_type": "organization",
+      "context": "f Stebam's trafficking and arms was controlled by SISMI. The pizza connection. Palermo was just getting s",
+      "line_number": 104,
+      "confidence": 0.8
+    },
+    {
+      "name": "SISMI",
+      "entity_type": "organization",
+      "context": "rrest warrant for General Santo Vito, the head of SISMI. Santo Vito was not only the key figure in protec",
+      "line_number": 104,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "he pope. At the direction of Liscio Gelli and his CIA overlords, the SISMI general had planted false le",
+      "line_number": 104,
+      "confidence": 0.8
+    },
+    {
+      "name": "SISMI",
+      "entity_type": "organization",
+      "context": "ection of Liscio Gelli and his CIA overlords, the SISMI general had planted false leads in the Bologna bo",
+      "line_number": 104,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ail, and fled to the United States. Coaxed by the CIA to return and face charges, the general returned",
+      "line_number": 104,
+      "confidence": 0.8
+    },
+    {
+      "name": "Gambino crime family",
+      "entity_type": "organization",
+      "context": "combined with other drug deliveries to create the Gambino crime family's pizza connection. Palermo further discovered th",
+      "line_number": 104,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "e. Understand? Michael Harare to Jean Chip Tatum, CIA helicopter pilot, 1985. Six months before the att",
+      "line_number": 104,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "e shipments was $400 billion. Making inquiries to the CIA, Palermo was told that Arsene should not be taken",
+      "line_number": 104,
+      "confidence": 0.8
+    },
+    {
+      "name": "Agency",
+      "entity_type": "organization",
+      "context": "in Rome and an agent of the US National Security Agency, worked with P2 in providing exoset missiles to t",
+      "line_number": 104,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "o. A prominent P2 member, the Colonel worked with the CIA in developing and selling a secret superweapon ca",
+      "line_number": 104,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ania. The missiles he testified were delivered on CIA cargo planes that departed from the Ciampiro mili",
+      "line_number": 104,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "he pope. At the direction of Liscio Gelli and his CIA overlords, the SISMI general had planted false le",
+      "line_number": 104,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ed bail, and fled to the United States. Coaxed by the CIA to return and face charges, the general returned",
+      "line_number": 104,
+      "confidence": 0.8
+    },
+    {
+      "name": "Roberto Calvi",
+      "entity_type": "person",
+      "context": "cash. The money was to be used for the murder of Roberto Calvi. Chapter 18. Black Friars Bridge. The priests wil",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "Roberto Calvi",
+      "entity_type": "person",
+      "context": "es, their soul lives on, so it's not a bad thing. Roberto Calvi to his daughter Anna, April 1982, quoted in Ruper",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "William Casey",
+      "entity_type": "person",
+      "context": "rican arms dealer, at the request of CIA director William Casey. One of the first shipments from these firms was",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "William Casey",
+      "entity_type": "person",
+      "context": "Jackson Stevens. In accordance with the wishes of William Casey, the CIA director under President Reagan, the BCC",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "Marsinkus",
+      "entity_type": "person",
+      "context": "n of Catholic priests in Chicago, the hometown of Archbishop Marsinkus. Special Delivery. Arthur Hartman, another direct",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "Santo Vito",
+      "entity_type": "person",
+      "context": "peration Gladio. He was dispatched to serve SISMI General Santo Vito by former NATO Commander and Secretary of State A",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "re G. Shackley, the former deputy director of the CIA, who had been in charge of all covert operations.",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "s. New Undertakings After the raid on Stibam, the CIA created new shipping companies to perpetuate the",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "Byrne, an American arms dealer, at the request of CIA director William Casey. One of the first shipment",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "with 200 million users throughout the world. The CIA's share of this business was used to finance the",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "00 heroin laboratories operating in Pakistan. The CIA deposited a large share of its profits from these",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ions of the world, including Pakistan. Before the CIA program, there were fewer than 5,000 heroin users",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "y offices in London and Karachi. James R. Bath, a CIA associate and the business partner of George W. B",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "accordance with the wishes of William Casey, the CIA director under President Reagan, the BCCI stood a",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "being smuggled into the small airport in Mina by CIA assets, including Pilot Berry Seal. These assets",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ing to the Cary Committee report, operated as the CIA's principal liaison for the entire Middle East fr",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ernational $23 billion operation. Through it, the CIA had shelled out more than $83 million to Lucio Ja",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "t was used to post large financial credits to the IOR and an association of Catholic priests in Chicago",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "decision to kill Calvi was not taken lightly. The CIA had tried to resolve the Ambrosiano affair by pro",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "SISMI",
+      "entity_type": "organization",
+      "context": "erve Operation Gladio. He was dispatched to serve SISMI General Santo Vito by former NATO Commander and S",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "NATO",
+      "entity_type": "organization",
+      "context": "tched to serve SISMI General Santo Vito by former NATO Commander and Secretary of State Alexander Haig,",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "ary of State Henry Kissinger. A leading member of P2, he met regularly with Licio Jalei and was later",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "Banco Ambrosiano",
+      "entity_type": "organization",
+      "context": "nt information exists. Additional funds came from Banco Ambrosiano and the Atlanta branch of Banca Nationale del Lav",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "Operation Gladio",
+      "entity_type": "organization",
+      "context": "lled out more than $83 million to Lucio Jalei for Operation Gladio and the October Surprise. From it, the agency pro",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "Operation Gladio",
+      "entity_type": "organization",
+      "context": "za, had abandoned his medical profession to serve Operation Gladio. He was dispatched to serve SISMI General Santo V",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "Gambino crime family",
+      "entity_type": "organization",
+      "context": "Defense Clark M. Clifford. The cash came from the Gambino crime family, which was shelling out $50 million for each ship",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "Mujahideen",
+      "entity_type": "organization",
+      "context": "'s share of this business was used to finance the Mujahideen in Afghanistan, the guerrilla forces in Angola, t",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "National Security Council",
+      "entity_type": "organization",
+      "context": "know where it leads. It is a trail blocked by the National Security Council. Holy sea secrets. By 1985, BCCI had become an in",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "eodore G. Shackley, the former deputy director of the CIA, who had been in charge of all covert operations.",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "tions. New Undertakings After the raid on Stibam, the CIA created new shipping companies to perpetuate the",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "Byrne, an American arms dealer, at the request of CIA director William Casey. One of the first shipment",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "with 200 million users throughout the world. The CIA's share of this business was used to finance the",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "00 heroin laboratories operating in Pakistan. The CIA deposited a large share of its profits from these",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "regions of the world, including Pakistan. Before the CIA program, there were fewer than 5,000 heroin users",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "y offices in London and Karachi. James R. Bath, a CIA associate and the business partner of George W. B",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": ". In accordance with the wishes of William Casey, the CIA director under President Reagan, the BCCI stood a",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "being smuggled into the small airport in Mina by CIA assets, including Pilot Berry Seal. These assets",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "cording to the Cary Committee report, operated as the CIA's principal liaison for the entire Middle East fr",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "international $23 billion operation. Through it, the CIA had shelled out more than $83 million to Lucio Ja",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "gency provided infusions of discretionary cash to the Vatican shell companies, including Aaron S.A. Strange to",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "decision to kill Calvi was not taken lightly. The CIA had tried to resolve the Ambrosiano affair by pro",
+      "line_number": 106,
+      "confidence": 0.8
+    },
+    {
+      "name": "Marcinkus",
+      "entity_type": "person",
+      "context": "As soon as this happened Calvi's family contacted Archbishop Marcinkus to seek his help in springing the banker from his",
+      "line_number": 108,
+      "confidence": 0.8
+    },
+    {
+      "name": "Marcinkus",
+      "entity_type": "person",
+      "context": "t 1st Calvi had no choice, saved to appear before Archbishop Marcinkus with hat in hand. The affair was about to explode",
+      "line_number": 108,
+      "confidence": 0.8
+    },
+    {
+      "name": "Marcinkus",
+      "entity_type": "person",
+      "context": "alone for $907 million. The letter was signed by Archbishop Marcinkus, along with his administrative assistants, Luigi",
+      "line_number": 108,
+      "confidence": 0.8
+    },
+    {
+      "name": "Marcinkus",
+      "entity_type": "person",
+      "context": "siano was reflected by optimistic statements from Archbishop Marcinkus. In March 1982, as the storm clouds gathered arou",
+      "line_number": 108,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ans to the Vatican's shell companies. Through his CIA contacts he arranged for two American investors,",
+      "line_number": 108,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "cinkus responded to their pleas by saying, if the IOR accepts any responsibility, it will not only be t",
+      "line_number": 108,
+      "confidence": 0.8
+    },
+    {
+      "name": "Banco Ambrosiano",
+      "entity_type": "organization",
+      "context": "plan to plug the gaping $1.75 billion hole within Banco Ambrosiano that had been created by loans to the Vatican's s",
+      "line_number": 108,
+      "confidence": 0.8
+    },
+    {
+      "name": "Banco Ambrosiano",
+      "entity_type": "organization",
+      "context": "nanza that the eight companies, which had drained Banco Ambrosiano of all its cash reserves, were in fact legitimate",
+      "line_number": 108,
+      "confidence": 0.8
+    },
+    {
+      "name": "Banco Ambrosiano",
+      "entity_type": "organization",
+      "context": "ccounts showed indebtedness to the Lima branch of Banco Ambrosiano alone for $907 million. The letter was signed by",
+      "line_number": 108,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican Bank",
+      "entity_type": "organization",
+      "context": "th a letter of his own, this one stating that the Vatican Bank would entail no liabilities or suffer no future d",
+      "line_number": 108,
+      "confidence": 0.8
+    },
+    {
+      "name": "Banco Ambrosiano",
+      "entity_type": "organization",
+      "context": "ason to doubt. We have no intention of ceding the Banco Ambrosiano shares in our possession. Butch job. While Marcin",
+      "line_number": 108,
+      "confidence": 0.8
+    },
+    {
+      "name": "Banco Ambrosiano",
+      "entity_type": "organization",
+      "context": "s were raised by journalists throughout Italy and Banco Ambrosiano came under increased scrutiny. On May 31st, 1982,",
+      "line_number": 108,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "anco Ambrosiano that had been created by loans to the Vatican's shell companies. Through his CIA contacts he ar",
+      "line_number": 108,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ans to the Vatican's shell companies. Through his CIA contacts he arranged for two American investors,",
+      "line_number": 108,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "R accepts any responsibility, it will not only be the Vatican's image that will suffer. You will lose as well.",
+      "line_number": 108,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "of all its cash reserves, were in fact legitimate Vatican concerns. Marcinkus realized that some action had",
+      "line_number": 108,
+      "confidence": 0.8
+    },
+    {
+      "name": "Church",
+      "entity_type": "organization",
+      "context": "s were known, secured and approved by Holy Mother Church. The letter, dated September 1st, 1981, was writt",
+      "line_number": 108,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "letter, dated September 1st, 1981, was written on Vatican letterhead. It read as follows, gentlemen, this i",
+      "line_number": 108,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "s with a letter of his own, this one stating that the Vatican Bank would entail no liabilities or suffer no fut",
+      "line_number": 108,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "and for a call on all loans that had been made to the Vatican. Rossone was causing unnecessary agitation. Pazie",
+      "line_number": 108,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "n, requesting a full accounting of the lending to the Vatican's eight shell companies. The board, under increas",
+      "line_number": 108,
+      "confidence": 0.8
+    },
+    {
+      "name": "Roberto Calvi",
+      "entity_type": "person",
+      "context": "ne in all respects except the name of its bearer. Roberto Calvi had been crudely but simply adjusted to John Robe",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "Roberto Calvi",
+      "entity_type": "person",
+      "context": "s going to break loose. On June 17th, the body of Roberto Calvi was found hanging from an orange noose under Blac",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "Marcinkus",
+      "entity_type": "person",
+      "context": "ith the letter of patronage that they, along with Archbishop Marcinkus, had signed and sealed. By any banking standard,",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "attempt to make disclosures that would place the CIA's major covert operation in certain jeopardy. Thi",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "ds, including Prime Minister Andriotti, about the IOR's involvement in money laundering and wholesale f",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "mmitments by selling the wealth controlled by the IOR. It is an enormous patrimony. I estimate it to be",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "ten billion dollars. To help the Ambrosiano, the IOR could start to sell it, its patrimony, in chunks",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "eared before Luigi Manini, deputy director of the IOR, and Pellegrino Distrobo, the IOR's chief account",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "director of the IOR, and Pellegrino Distrobo, the IOR's chief accountant, and demanded payment on the l",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "for its offshore holdings. They presented the two IOR officials with the letter of patronage that they,",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "itted fraud. The letter of patronage was from the IOR and it was a guarantee. All that was missing was",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "osiano shares in sufficient quantity to guarantee IOR control over the institution. Working for the Vat",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "Banco Ambrosiano",
+      "entity_type": "organization",
+      "context": "o incur debts in foreign currency in order to buy Banco Ambrosiano shares in sufficient quantity to guarantee IOR co",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "coherence and loyalty. He added, The Vatican has betrayed and abandoned me. After documenting",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "Church",
+      "entity_type": "organization",
+      "context": "f serving the political and economic expansion of the Church, that the thousands of millions of dollars that I",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "hat I gave to solidarity with the express will of the Vatican, and that the sums which I provided to organize t",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "in peace. L'Opse lingue. Writing such a letter to the Vatican at this point would not result in Calvi's living",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ight attempt to make disclosures that would place the CIA's major covert operation in certain jeopardy. Thi",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "he now told Flavio Carboni, his new best friend, the Vatican will have to rent a building in Washington behind",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "om Milan, Calvi again complained to Carboni about the Vatican's refusal to pay its debts. The Vatican, he said,",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "about the Vatican's refusal to pay its debts. The Vatican, he said, should honor its commitments by selling",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "I shall reveal things which once known will rock the Vatican. The Pope will have to resign. He stuffed several",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "s worshipful master. In a letter, Calvi said that the Vatican needed him to launch an effective, political, rel",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "tee IOR control over the institution. Working for the Vatican, he added, meant providing financial assistance t",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "forces. These efforts he maintained ensured that the Vatican would have an authoritative presence in countries",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "vakia paid Flavio Carbone $6 million on behalf of the Vatican for the contents of the Black Briefcase. On April",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "funding had been provided by Ambrosiano through a Vatican dummy corporation in Panama. The brothel and the",
+      "line_number": 110,
+      "confidence": 0.8
+    },
+    {
+      "name": "Michele Sindona",
+      "entity_type": "person",
+      "context": "nted testimony to the financial police concerning Michele Sindona's financial dealings with the Vatican and Jelly's",
+      "line_number": 112,
+      "confidence": 0.8
+    },
+    {
+      "name": "Licio Gelli",
+      "entity_type": "person",
+      "context": "the publication of the P2 list on March 17, 1981, Licio Gelli was forced to flee the country. News of the gener",
+      "line_number": 112,
+      "confidence": 0.8
+    },
+    {
+      "name": "Aldo Moro",
+      "entity_type": "person",
+      "context": "e kidnapping and murder of Italy's Prime Minister Aldo Moro, who sought to form a coalition government with I",
+      "line_number": 112,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "evi and Carboni continued to do business with the IOR by laundering drug money through the chameleon, a",
+      "line_number": 112,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "murder by contract group had been more useful to P2 and the commanders of Operation Gladio. The stree",
+      "line_number": 112,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "ished an article that made the connection between P2 and Moro's fate. By 1982, the Banda's hit list ha",
+      "line_number": 112,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "iated the probe into the activities of Calvi, the IOR, and Banco Ambrosiano, Giorgio Ambrosoli, who pre",
+      "line_number": 112,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "as investigating the activities and membership of P2, and Boris Giuliano, the Palermo police deputy su",
+      "line_number": 112,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "ut Sindona's laundering of drug funds through the IOR. In addition to the killings, the Banda was respo",
+      "line_number": 112,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "on the papal throne. After the publication of the P2 list on March 17, 1981, Licio Gelli was forced to",
+      "line_number": 112,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "s, and ecclesiastical dignitaries who belonged to P2 had been published before, most notably by Mino P",
+      "line_number": 112,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "journalism. For this reason, the discovery of the P2 list at Gelli's Villa jolted the Italian press in",
+      "line_number": 112,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ughout Italy and Central Europe. The fears of the CIA came to full fruition. John Paul II's refusal to",
+      "line_number": 112,
+      "confidence": 0.8
+    },
+    {
+      "name": "Banco Ambrosiano",
+      "entity_type": "organization",
+      "context": "to money on loan to the Vatican, through Calvi's Banco Ambrosiano and never returned. After the Orlandi fact, even",
+      "line_number": 112,
+      "confidence": 0.8
+    },
+    {
+      "name": "Banco Ambrosiano",
+      "entity_type": "organization",
+      "context": "probe into the activities of Calvi, the IOR, and Banco Ambrosiano, Giorgio Ambrosoli, who presented testimony to th",
+      "line_number": 112,
+      "confidence": 0.8
+    },
+    {
+      "name": "Banco Ambrosiano",
+      "entity_type": "organization",
+      "context": "ted hit on Roberto Rosone, the deputy chairman of Banco Ambrosiano. After participating in the murder of Calvi, the",
+      "line_number": 112,
+      "confidence": 0.8
+    },
+    {
+      "name": "Operation Gladio",
+      "entity_type": "organization",
+      "context": "had been more useful to P2 and the commanders of Operation Gladio. The street gang from northern Rome came to the f",
+      "line_number": 112,
+      "confidence": 0.8
+    },
+    {
+      "name": "Operation Gladio",
+      "entity_type": "organization",
+      "context": "he killings could not repair the damage caused to Operation Gladio by the Ambrosiano affairs and the obstinate poll",
+      "line_number": 112,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "end to attacks by the band, and not only against the Vatican. These pressures by the band were due to money on",
+      "line_number": 112,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "ressures by the band were due to money on loan to the Vatican, through Calvi's Banco Ambrosiano and never retur",
+      "line_number": 112,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "cerning Michele Sindona's financial dealings with the Vatican and Jelly's Masonic Lodge, Lieutenant Colonel Ant",
+      "line_number": 112,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "cuments to Italian investigators that established the Vatican's ownership of the United Trading Corporation of",
+      "line_number": 112,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "throughout Italy and Central Europe. The fears of the CIA came to full fruition. John Paul II's refusal to",
+      "line_number": 112,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "John Paul II's refusal to shore up the losses of the Vatican's shell companies had resulted in",
+      "line_number": 112,
+      "confidence": 0.8
+    },
+    {
+      "name": "Aldo Moro",
+      "entity_type": "person",
+      "context": "y and the United States, along with a letter from Aldo Moro that mentioned the presence of NATO guerrilla act",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Alberto Dalla Ciesa",
+      "entity_type": "person",
+      "context": "ian Democratic government. This exposure prompted General Alberto Dalla Ciesa of the Carabinieri to come to the realization tha",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Dalla Ciesa",
+      "entity_type": "person",
+      "context": "ladio was beginning to unravel. On May 1st, 1982, General Dalla Ciesa arrived in Palermo as the new prefect of Sicily.",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Marcincus",
+      "entity_type": "person",
+      "context": "the Bank of Italy appeared at the IOR to confront Archbishop Marcincus about his part in the collapse of Banco Ambrosian",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Agostino Casaroli",
+      "entity_type": "person",
+      "context": "e Adventures of Paul Marcincus. To Quiet Matters, Cardinal Agostino Casaroli, the Vatican's Secretary of State, proposed the c",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "in the exposure of P2, the Radon Stebham, and the collapse of Arnaldo F",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "s, that these militants were being manipulated by P2, and that P2 fell under the command of SISMI. He",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "militants were being manipulated by P2, and that P2 fell under the command of SISMI. He also uncovere",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "SISMI",
+      "entity_type": "organization",
+      "context": "ated by P2, and that P2 fell under the command of SISMI. He also uncovered evidence that the funding for",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": ". He also uncovered evidence that the funding for P2 and its strategy of tension was coming from a her",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "NATO",
+      "entity_type": "organization",
+      "context": "ter from Aldo Moro that mentioned the presence of NATO guerrilla activities on Italian soil. When Dalla",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "t the Gambino in Zerrilo, Spatola Mafia Clan, and P2 were involved in a heroin-smuggling racket nettin",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "missioners from the Bank of Italy appeared at the IOR to confront Archbishop Marcincus about his part i",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "e Archbishop then showed the commissioners to the IOR, informing them that neither the Bank of Italy no",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "g for a clear assumption of responsibility by the IOR. While the waiting continued, the Italian press r",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "and its relationship with the Sicilian mafia and P2. Rome's daily newspaper La Repubblica began to pu",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "aud by the Holy See. One document showed that the IOR had received two deposits from Banco and Dino of",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "Corporation of Panama now owned the money and the IOR had no control over it. Still, the Pope refused t",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Banco Ambrosiano",
+      "entity_type": "organization",
+      "context": "ishop Marcincus about his part in the collapse of Banco Ambrosiano. Most of the $1.75 billion remained missing and M",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Banco Ambrosiano",
+      "entity_type": "organization",
+      "context": "by Calvi, which stated that whatever happened to Banco Ambrosiano and the eight corporations mentioned in the patro",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Banco Ambrosiano",
+      "entity_type": "organization",
+      "context": "into the Vatican's involvement in the collapse of Banco Ambrosiano. Three were to be named by the Vatican and three",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican Bank",
+      "entity_type": "organization",
+      "context": "Banco and Dino asked for its money back. But the Vatican Bank refused, saying that the United Trading Corporati",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Red Brigades",
+      "entity_type": "organization",
+      "context": "e Carabinieri to come to the realization that the Red Brigades were a puppet organization of right-wing militant",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Operation Gladio",
+      "entity_type": "organization",
+      "context": "te in the face. His worst fears were coming true. Operation Gladio was beginning to unravel. On May 1st, 1982, Gener",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Mafia",
+      "entity_type": "organization",
+      "context": "informed him that the Gambino in Zerrilo, Spatola Mafia Clan, and P2 were involved in a heroin-smuggling",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Gambino crime family",
+      "entity_type": "organization",
+      "context": "Federal Bureau of Investigation and the extended Gambino crime family in New York and New Jersey were put under constan",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Mafia",
+      "entity_type": "organization",
+      "context": "informed him that the Gambino in Zerrilo, Spatola Mafia Clan, and P2 were involved in a heroin-smuggling",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "t corporations mentioned in the patronage letter, the Vatican would suffer no future damage or loss. The Archbi",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "d any jurisdiction within the sanctified walls of Vatican City. But the Italian government maintained press",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "inued, the Italian press ran daily articles about the Vatican and its relationship with the Sicilian mafia and",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "us. To Quiet Matters, Cardinal Agostino Casaroli, the Vatican's Secretary of State, proposed the creation of a",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "six-man commission to make an investigation into the Vatican's involvement in the collapse of Banco Ambrosiano",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "se of Banco Ambrosiano. Three were to be named by the Vatican and three by the Italian Ministry of the Treasury",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "d, were inconclusive. At the end of October 1982, the Vatican officials ruled that Holy Mother Church had no in",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Church",
+      "entity_type": "organization",
+      "context": "982, the Vatican officials ruled that Holy Mother Church had no interest in the dummy corporations and had",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "llars had vanished within a black hole created by the Vatican's shell companies. The Italian government was lef",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "ords of the Banca del Gotardo in Switzerland that the Vatican indeed had set up and controlled the dummy corpor",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "Bank. One dated November 21, 1974, and signed by Vatican officials, was a request for the Swiss bank to op",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "982, Banco and Dino asked for its money back. But the Vatican Bank refused, saying that the United Trading Corp",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "l over it. Still, the Pope refused to acknowledge the Vatican's ownership of the companies for fear such an adm",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "Emanuella Orlandi, the 15-year-old daughter of a Vatican employee, disappeared without a trace while on he",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "d without a trace while on her way to her home in Vatican City from a music lesson at the Pontifical Instit",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "n, Emanuella Orlandi, only because she belongs to the Vatican State. We are not a revolutionary or terror organ",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "ge regarding the demands of his organization with the Vatican. Several days later, Ercole Orlandi, Emanuella's",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "ived. The prelate at first said no, no one within the Vatican had heard from the kidnappers. Thanks to persiste",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "SDE, Italy's Domestic Intelligence Service, found the Vatican strangely uncooperative and unwilling to share th",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "l rules and above all the logistical structure of the Vatican. The SISDE official went on to write that it was",
+      "line_number": 114,
+      "confidence": 0.8
+    },
+    {
+      "name": "Roberto Calvi",
+      "entity_type": "person",
+      "context": "i said that she had ongoing sexual relations with Roberto Calvi and Archbishop Marcinkus. She claimed that she ha",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Roberto Calvi",
+      "entity_type": "person",
+      "context": "tican's shell companies, and the strange death of Roberto Calvi. Emmanuella represented a $200 million baby. Marc",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Casaroli",
+      "entity_type": "person",
+      "context": "the conversations between the American caller and Cardinal Casaroli. The tapes, along with the intercept, mysteriousl",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Casaroli",
+      "entity_type": "person",
+      "context": "of documents on the Orlandy case to the office of Cardinal Casaroli. Parisi and his fellow magistrates sent requests",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Marcinkus",
+      "entity_type": "person",
+      "context": "he coastal town of Torvianica, not far from Rome. Archbishop Marcinkus, Ms. Minardi said, visited Emanuella several time",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Marcinkus",
+      "entity_type": "person",
+      "context": "d ongoing sexual relations with Roberto Calvi and Archbishop Marcinkus. She claimed that she had received a villa in Mon",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Hugo Polletti",
+      "entity_type": "person",
+      "context": "d at $27 billion. The sale had been engineered by Cardinal Hugo Polletti, the vicar of the diocese of Rome and a member of",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Polletti",
+      "entity_type": "person",
+      "context": "ns from the IOR. Thanks to the sale of the villa, Cardinal Polletti emerged as a leading figure in the case of the mi",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Marcincus",
+      "entity_type": "person",
+      "context": "the Holy See. If the matter was simply financial, Archbishop Marcincus would have provided the restitution. If the matte",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Casaroli",
+      "entity_type": "person",
+      "context": "political, the resolution would have been made by Cardinal Casaroli, the Secretary of State. But the extortion appear",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Marcincus",
+      "entity_type": "person",
+      "context": "nister episode. Rumors had been rampant about the Archbishop Marcincus' taste for young girls and for sex parties within",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Poletti",
+      "entity_type": "person",
+      "context": "pping, the Vatican's attempts at obstruction, and Cardinal Poletti's participation in the payoff. Emmanuella, by thi",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Poletti",
+      "entity_type": "person",
+      "context": "was in the Banda's custody, worked through P2 and Cardinal Poletti, not to secure Emmanuella's immediate release, bu",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Poletti",
+      "entity_type": "person",
+      "context": "and ecclesiastical dignitaries was sanctioned by Cardinal Poletti. In 2006, an anonymous caller to Cilla Visto, who",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Marcinkas",
+      "entity_type": "person",
+      "context": "remain under examination. Chapter 20 Works of God Archbishop Marcinkas had a beautiful apartment in Rome, very comfortab",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "the vicar of the diocese of Rome and a member of P2. Nicoletti transformed the villa into a nightclub",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "f Jazz, which received substantial loans from the IOR. Thanks to the sale of the villa, Cardinal Pollet",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "of adverse publicity because of his membership in P2 and his alliance with Lisio Gelli. He had also re",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "they kidnapped the girl in order to blackmail the IOR head for the money they had lost through Ambrosia",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "vastating in the wake of the Sindona episode, the P2 headlines, the collapse of the Vatican's shell co",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "e girl was in the Banda's custody, worked through P2 and Cardinal Poletti, not to secure Emmanuella's",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Opus Dei",
+      "entity_type": "organization",
+      "context": "ved criticism for his advancement of the cause of Opus Dei, a secretive Catholic sect that had served to est",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "Italian police had placed on a phone line within the Vatican after the caller demanded access to Secretary of",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "arelli, the second highest-ranking officer within the Vatican's central office of vigilance. In one taped conve",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "f vigilance. In one taped conversation with other Vatican officials, Bonarelli said that he had sent boxes",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "on attempt. At the end of July, ANSA reported, in the Vatican the prevailing opinion is that the people respons",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "excuse to extort considerable sums of money from the Vatican, an exchange for the girl to throw investigators",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "onte Carlo from Calvi, while Marcinkus provided a Vatican position for one of her relatives. Ms. Minardi ad",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "Pettis in arranging the kidnapping and contacting the Vatican with the terms for her release. The payoff. Event",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "investigating magistrates obtained evidence that the Vatican had made the payoff to the Banda in a circuitous",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "y compiled that served to explain the kidnapping, the Vatican's attempts at obstruction, and Cardinal Poletti's",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "indona episode, the P2 headlines, the collapse of the Vatican's shell companies, and the strange death of Rober",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "pated in the killing of Calvi, made peace between the Vatican and the mob by accepting a real estate deal as a",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Church",
+      "entity_type": "organization",
+      "context": "t would have rocked the foundation of Holy Mother Church. His place among the saints and ecclesiastical di",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "ions. Liscio Gelli, interview with Philip Willan, the Vatican at war, 2013. On May 24, 1984, a goodwill payment",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "of two hundred fifty million dollars was made by the Vatican to Ambrosiano creditors at the headquarters of th",
+      "line_number": 116,
+      "confidence": 0.8
+    },
+    {
+      "name": "Michele Sindona",
+      "entity_type": "person",
+      "context": "g closure to other matters, including the case of Michele Sindona, the man who knew too much. Presidential please.",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "Michele Sindona",
+      "entity_type": "person",
+      "context": "ited States. And the closing. Respectfully yours, Michele Sindona. David Kennedy, Nixon's former Secretary of the T",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "William Casey",
+      "entity_type": "person",
+      "context": "ffiliated with the movement included CIA director William Casey, William Simon of Citicorp, Francis X. Stankard o",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "Studies",
+      "entity_type": "person",
+      "context": "this money ended up at the Chilean Institute for General Studies, IGS, an Opus Dei think tank. The members of IGS",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "Joseph Michele Cremi",
+      "entity_type": "person",
+      "context": "y Gambino, Rosario Spatola, Vincenzo Spatola, and Dr. Joseph Michele Cremi were named as unindicted co-conspirators. In the",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "ration came from a mysterious deposit made in the IOR by Secretary of State Casaroli in the amount of $",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "rop up the papacy after the damage wrought by the IOR, the organization assumed the liradet of parochia",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "who became affiliated with the movement included CIA director William Casey, William Simon of Citicorp",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "shareholder of an Opus Dei bank in Barcelona. The CIA funding. Because Opus Dei was vehemently anti-com",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "us Dei was vehemently anti-communist, in 1971 the CIA began to funnel millions into its coffers to thwa",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "rgest newspaper in Santiago and one that received CIA subsidies. The coup against the democratically el",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "as a foreign minister. Throughout the 1980s, the CIA made use of Opus Dei's Milites Christi, soldiers",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "imminent collapse of the USSR. How much money the CIA provided to Opus Dei remains a mystery. The CIA r",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "e CIA provided to Opus Dei remains a mystery. The CIA refuses to release any records regarding its rela",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "nances in order to ward off a future debacle, the CIA was forced to bring closure to other matters, inc",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "urchased the Rome Daily American on behalf of the CIA, to prevent it from falling into the hands of the",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "communist propaganda. As a result of this effort, P2 gained control of Corriere della Sera, Italy's le",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "Banco Ambrosiano",
+      "entity_type": "organization",
+      "context": "d attempt to return from financial ashes as nuevo Banco Ambrosiano. In exchange for these benefactions, John Paul II",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "Opus Dei",
+      "entity_type": "organization",
+      "context": "mount of $406 million. The source of the cash was Opus Dei, work of God, a deeply conservative Catholic orga",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "Opus Dei",
+      "entity_type": "organization",
+      "context": "ishop could discipline or sanction it. Overnight, Opus Dei emerged as a global ecclesiastical movement witho",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "Opus Dei",
+      "entity_type": "organization",
+      "context": "the society of Jesus had been granted such power. Opus Dei. Founded in 1928 by Jose Maria Escriva, a Spanish",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "Opus Dei",
+      "entity_type": "organization",
+      "context": "Jose Maria Escriva, a Spanish priest and lawyer, Opus Dei is a movement in which members adhere to the way,",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "Opus Dei",
+      "entity_type": "organization",
+      "context": "who contribute a lion's share of their income to Opus Dei, but have not yet adopted the divine vocation of",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "Opus Dei",
+      "entity_type": "organization",
+      "context": "ocation of daily spiritual regimentation. Despite Opus Dei's espousal of an intransigent obedience to Cathol",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "Opus Dei",
+      "entity_type": "organization",
+      "context": "w by remaining a secret society like Freemasonry. Opus Dei does not publish its membership list, and members",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "Opus Dei",
+      "entity_type": "organization",
+      "context": "of secrecy. In an essay titled The Inner World of Opus Dei, Roche writes, internally, it is totalitarian and",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "Opus Dei",
+      "entity_type": "organization",
+      "context": "orthodox. By 1984, when the reparation was made, Opus Dei had become a $3 billion enterprise, controlling 6",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "Opus Dei",
+      "entity_type": "organization",
+      "context": "ct since his bank was a leading shareholder of an Opus Dei bank in Barcelona. The CIA funding. Because Opus",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "Opus Dei",
+      "entity_type": "organization",
+      "context": "s Dei bank in Barcelona. The CIA funding. Because Opus Dei was vehemently anti-communist, in 1971 the CIA be",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "Opus Dei",
+      "entity_type": "organization",
+      "context": "he Chilean Institute for General Studies, IGS, an Opus Dei think tank. The members of IGS included prominent",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "Opus Dei",
+      "entity_type": "organization",
+      "context": "r of IGS was Hern\u00e1n Cub\u00edos, founder of Kepasa, an Opus Dei magazine and publisher of El Mercurio, the larges",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "Opus Dei",
+      "entity_type": "organization",
+      "context": "nister. Throughout the 1980s, the CIA made use of Opus Dei's Milites Christi, soldiers of Christ, as a prima",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "Opus Dei",
+      "entity_type": "organization",
+      "context": "rly one billion dollars by the end of the decade. Opus Dei also organized courses, seminars, and conferences",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "Opus Dei",
+      "entity_type": "organization",
+      "context": "e of the USSR. How much money the CIA provided to Opus Dei remains a mystery. The CIA refuses to release any",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "Opus Dei",
+      "entity_type": "organization",
+      "context": "mine national security. As plans got underway for Opus Dei to take control of the Vatican's finances in orde",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "Church",
+      "entity_type": "organization",
+      "context": "nization within the history of the Roman Catholic Church saved the society of Jesus had been granted such",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "who became affiliated with the movement included CIA director William Casey, William Simon of Citicorp",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "shareholder of an Opus Dei bank in Barcelona. The CIA funding. Because Opus Dei was vehemently anti-com",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "e Opus Dei was vehemently anti-communist, in 1971 the CIA began to funnel millions into its coffers to thwa",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "rgest newspaper in Santiago and one that received CIA subsidies. The coup against the democratically el",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "rged as a foreign minister. Throughout the 1980s, the CIA made use of Opus Dei's Milites Christi, soldiers",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "the imminent collapse of the USSR. How much money the CIA provided to Opus Dei remains a mystery. The CIA r",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "e CIA provided to Opus Dei remains a mystery. The CIA refuses to release any records regarding its rela",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "lans got underway for Opus Dei to take control of the Vatican's finances in order to ward off a future debacle,",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "s finances in order to ward off a future debacle, the CIA was forced to bring closure to other matters, inc",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ad purchased the Rome Daily American on behalf of the CIA, to prevent it from falling into the hands of the",
+      "line_number": 118,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "Bontade, were the third. Bontade was a member of P2 and his brother-in-law, Giacomo Vitale, another F",
+      "line_number": 120,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "ntegral member of the clan. Through his ties with P2, the extended family gained the protection of Pri",
+      "line_number": 120,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "Prime Minister Giulio Andriotti and interned the CIA. The drug bust. During his stay in Sicily, Kenny",
+      "line_number": 120,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "of Ambrosiano, but also about his involvement in P2 and the secret society's support for right-wing g",
+      "line_number": 120,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "units. Taking the bait. Alarms were sounded. The CIA dispatched Carlo Rocchi, one of its Italian agent",
+      "line_number": 120,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "he world's establishment. Sintona spoke of jelly, P2, and the fear of an Italian communist dictatorshi",
+      "line_number": 120,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "te House. And he talked about the Vatican and the IOR's involvement in laundering dirty money.",
+      "line_number": 120,
+      "confidence": 0.8
+    },
+    {
+      "name": "Banco Ambrosiano",
+      "entity_type": "organization",
+      "context": "ter the raid on Jelly's Villa and the collapse of Banco Ambrosiano, Sintona finally broke and began to prattle from",
+      "line_number": 120,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "n of Prime Minister Giulio Andriotti and interned the CIA. The drug bust. During his stay in Sicily, Kenny",
+      "line_number": 120,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "the chief bank investigator who tried to uncover the Vatican's connection to the mafia. On January 25, 1982, S",
+      "line_number": 120,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "our goal. Sintona went on to talk not only about the Vatican's subversive attempts to gain control of Ambrosia",
+      "line_number": 120,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "units. Taking the bait. Alarms were sounded. The CIA dispatched Carlo Rocchi, one of its Italian agent",
+      "line_number": 120,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "r Martin and the White House. And he talked about the Vatican and the IOR's involvement in laundering dirty mon",
+      "line_number": 120,
+      "confidence": 0.8
+    },
+    {
+      "name": "Michele Sindona",
+      "entity_type": "person",
+      "context": "istered extreme unction. Forty-eight hours later, Michele Sindona, the man known as Saint Peter's banker, was dead.",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "Roberto Calvi",
+      "entity_type": "person",
+      "context": "hat the Vatican Bank had acted as an umbrella for Roberto Calvi's illicit transactions. That it owned a substanti",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "Paul Marcinkus",
+      "entity_type": "person",
+      "context": "ants were issued for the three top IOR officials. Archbishop Paul Marcinkus, Luigi Menini, and Pellegrino del Strobel. The ar",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "Santo Vito",
+      "entity_type": "person",
+      "context": "he jailhouse deaths of Henri Arsane of Stibam and General Santo Vito of SISMI. And they could poison the coffee of a c",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "Paul Marcinkus",
+      "entity_type": "person",
+      "context": "ants were issued for the three top IOR officials. Archbishop Paul Marcinkus, Luigi Menini, and Pellegrino del Strobel. The ar",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "ahamas. Minus a service fee. The Pope's bank, the IOR, had been involved in such services since its fou",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "such services since its founding. In general, the IOR catered to other banks, whose more privileged cli",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "rity and secrecy offered by Vatican channels. The IOR would open a running account with the Italian cre",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "deposit the Lire in cash in that account. And the IOR would credit to him abroad in the currency and th",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "y and the bank of his choice. In the process, the IOR would deduct a commission that was slightly highe",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "lected to mention his long-standing ties with the CIA in a covert operation called Gladio. It was best,",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "bankruptcy, Sindona began to receive visits from P2 members, who no doubt reminded him, once again, o",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "USA ones. Sindona, still unaware that Rocky was a CIA agent, surrendered all of his notes and documents",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "SISMI",
+      "entity_type": "organization",
+      "context": "Henri Arsane of Stibam and General Santo Vito of SISMI. And they could poison the coffee of a celebrated",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "on. Arrest warrants were issued for the three top IOR officials. Archbishop Paul Marcinkus, Luigi Menin",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "crimes took place on Italian soil. No one in the CIA wanted the gorilla to testify in court about his",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "the gorilla to testify in court about his ties to P2 and the Sicilian mafia, nor about the transfer of",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican Bank",
+      "entity_type": "organization",
+      "context": "the investigating magistrates concluded that the Vatican Bank had acted as an umbrella for Roberto Calvi's illi",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "Banco Ambrosiano",
+      "entity_type": "organization",
+      "context": "ransactions. That it owned a substantial share of Banco Ambrosiano as well as the dummy corporations. And that it wa",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "Opus Dei",
+      "entity_type": "organization",
+      "context": "yment to Ambrosiano creditors from the coffers of Opus Dei did not close the criminal probe of the massive b",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "sought the added security and secrecy offered by Vatican channels. The IOR would open a running account wi",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "neglected to mention his long-standing ties with the CIA in a covert operation called Gladio. It was best,",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "USA ones. Sindona, still unaware that Rocky was a CIA agent, surrendered all of his notes and documents",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "987, the investigating magistrates concluded that the Vatican Bank had acted as an umbrella for Roberto Calvi's",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "arrests were not made. To protect its officials, the Vatican pointed to Article 11 of the Lateran Treaty of 19",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "Church",
+      "entity_type": "organization",
+      "context": "nment in the central institutions of the Catholic Church. Italy's highest court upheld this stipulation an",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "arrested and brought to trial in Italy. The three Vatican bankers remained safe from extradition within the",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "ion within the sanctity of the sovereign state of Vatican City. Marcinkus remained under papal protection u",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "ade the strange ruling that Marcinkus possessed a Vatican passport and could not be extradited to Italy eve",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "his crimes took place on Italian soil. No one in the CIA wanted the gorilla to testify in court about his",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "nd so he stayed sheltered from justice not within Vatican City but Sun City, Arizona, where he joined a pre",
+      "line_number": 122,
+      "confidence": 0.8
+    },
+    {
+      "name": "Timothy Drew",
+      "entity_type": "person",
+      "context": "This movement, prompted by such black leaders as Timothy Drew, Noble Drew Ali, Elijah Pool, Elijah Muhammad, an",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "Malcolm X",
+      "entity_type": "person",
+      "context": "Elijah Pool, Elijah Muhammad, and Malcolm Little, Malcolm X, had given rise to hundreds of mosques within Ame",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "Abdullah Azam",
+      "entity_type": "person",
+      "context": "ide more support for the Mujahideen, the CIA used Abdullah Azam, Osama bin Laden's mentor, to set up a cell of Al",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "Osama bin Laden",
+      "entity_type": "person",
+      "context": "t for the Mujahideen, the CIA used Abdullah Azam, Osama bin Laden's mentor, to set up a cell of Al-Qaeda within Mas",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "George H.W. Bush",
+      "entity_type": "person",
+      "context": "rector John McCown, Prescott Bush Jr., brother of George H.W. Bush, President Reagan's National Security Advisor Wil",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "Felice Casson",
+      "entity_type": "person",
+      "context": "is much higher. The rest went into hiding. Judge Felice Casson, member of the Gladio Commission, of the United S",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "Arthur Rouse",
+      "entity_type": "person",
+      "context": "ends and costs of our national security policies. Arthur Rouse, Gladio, the secret U.S. war to subvert Italian d",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "Jose Sanchez Asiain",
+      "entity_type": "person",
+      "context": "resident was Philippe Devec. The other three were Dr. Jose Sanchez Asiain, former chairman of Banco Bilbao, Thomas Pitzker,",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vernon",
+      "entity_type": "person",
+      "context": "ity Advisor William P. Clark, Deputy CIA Director General Vernon A. Walters, and Count Alexander de Merange, the f",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "Mubarak Jilani",
+      "entity_type": "person",
+      "context": "n the Holy War to liberate their Muslim brothers. Sheikh Mubarak Jilani, one of the first of these missionaries to arrive",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "Jilani",
+      "entity_type": "person",
+      "context": "geous to train the new recruits on American soil, Sheikh Jilani, with the help of the CIA, set up paramilitary tr",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "ng his geraniums and begonias. The grandmaster of P2 had stolen the gold from the Yugoslavian governme",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "upervisory board of lay experts was set up at the IOR. Its president was Angelo Caloya, head of the Med",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "can businessman. The new managing director of the IOR was Giovanni Bodio, also from Medio Credito Lomba",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "ino Foundation, an account Garofano set up at the IOR. Jose Sanchez Asiain was a disciple of Bishop \u00c1lv",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "er of Malta, along with Secretary of State Hague, CIA Director Casey, Treasury Secretary William Simon,",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "sury Secretary William Simon, Lycio Jelly, former CIA Director John McCown, Prescott Bush Jr., brother",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ational Security Advisor William P. Clark, Deputy CIA Director General Vernon A. Walters, and Count Ale",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "holic society that remained in the service of the CIA and a clandestine group of global economists. CHA",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ttle in Washington. In an ironic twist, confessed CIA mole, Aldrich Ames, had raised the basic question",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "1996. At the time of Indona's strange death, the CIA's main concern was no longer left-wing political",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "e evil empire to the point of total collapse, the CIA continued to infuse the Holy War with munitions a",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "iving $250 million a year in dirty money from the CIA to battle the 115,000 Soviet troops occupying the",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ched nearly $1 billion by 1988. By this time, the CIA was also shipping highly sophisticated weaponry,",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "In an effort to supply recruits to the Jihad, the CIA once again focused its attention on America's bla",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "osques within America's inner cities. By 1980 the CIA began to send hundreds of militant Muslim mission",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "hey were killed in action. The cash came from the CIA's coffers, the training camps. Realizing it would",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "merican soil, Sheikh Jilani, with the help of the CIA, set up paramilitary training camps in rural area",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "merica would testify that they were agents of the CIA. The Al-Qaeda cell. To provide more support for t",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": ". To provide more support for the Mujahideen, the CIA used Abdullah Azam, Osama bin Laden's mentor, to",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "Deutsche Bank",
+      "entity_type": "organization",
+      "context": "f Banco Bilbao, Thomas Pitzker, a director of the Deutsche Bank, and Thomas Misiosi, an American businessman. The",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "Deutsche Bank",
+      "entity_type": "organization",
+      "context": "ute replacement for Hermann Habs, the head of the Deutsche Bank and Pitzger's boss. Habs had been forced to resig",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "Opus Dei",
+      "entity_type": "organization",
+      "context": "the reorganization of the Vatican Finances under Opus Dei that got underway in 1989, a new five-member supe",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "Opus Dei",
+      "entity_type": "organization",
+      "context": "ly's second largest industrial firm. Garofano, an Opus Dei supernumerary, served with Caloya on the Vatican'",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "Opus Dei",
+      "entity_type": "organization",
+      "context": "Portillo, who served as the general president of Opus Dei. Although Thomas Misiosi may not have been a memb",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "Opus Dei",
+      "entity_type": "organization",
+      "context": "ough Thomas Misiosi may not have been a member of Opus Dei, he shared its reactionary ideology. Misiosi was",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "Mujahideen",
+      "entity_type": "organization",
+      "context": "remained devoutly Islamic, were supportive of the Mujahideen in their struggle against their communist overlor",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "Mujahideen",
+      "entity_type": "organization",
+      "context": "mps set up by Jilani, had joined the ranks of the Mujahideen in Afghanistan, and that several had been killed",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "Al-Qaeda",
+      "entity_type": "organization",
+      "context": "uld testify that they were agents of the CIA. The Al-Qaeda cell. To provide more support for the Mujahideen,",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "Mujahideen",
+      "entity_type": "organization",
+      "context": "he Al-Qaeda cell. To provide more support for the Mujahideen, the CIA used Abdullah Azam, Osama bin Laden's me",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "Al-Qaeda",
+      "entity_type": "organization",
+      "context": "am, Osama bin Laden's mentor, to set up a cell of Al-Qaeda within Masjid Al-Farouq on Atlantic Avenue in Bro",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "Al-Qaeda",
+      "entity_type": "organization",
+      "context": "nue in Brooklyn, New York. The cell, known as the Al-Qaeda cell,",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "he Nazis. The New Order. In the reorganization of the Vatican Finances under Opus Dei that got underway in 1989",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "an Opus Dei supernumerary, served with Caloya on the Vatican's Ethics and Finance Committee until 1993, when h",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "er of Malta, along with Secretary of State Hague, CIA Director Casey, Treasury Secretary William Simon,",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "sury Secretary William Simon, Lycio Jelly, former CIA Director John McCown, Prescott Bush Jr., brother",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ational Security Advisor William P. Clark, Deputy CIA Director General Vernon A. Walters, and Count Ale",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "Church",
+      "entity_type": "organization",
+      "context": "a knight of the SMOM. The finances of Holy Mother Church were now in the hands of a secret Catholic societ",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "Catholic society that remained in the service of the CIA and a clandestine group of global economists. CHA",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ttle in Washington. In an ironic twist, confessed CIA mole, Aldrich Ames, had raised the basic question",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "wer, 1996. At the time of Indona's strange death, the CIA's main concern was no longer left-wing political",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "e the evil empire to the point of total collapse, the CIA continued to infuse the Holy War with munitions a",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "receiving $250 million a year in dirty money from the CIA to battle the 115,000 Soviet troops occupying the",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "reached nearly $1 billion by 1988. By this time, the CIA was also shipping highly sophisticated weaponry,",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "es. In an effort to supply recruits to the Jihad, the CIA once again focused its attention on America's bla",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "of mosques within America's inner cities. By 1980 the CIA began to send hundreds of militant Muslim mission",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "if they were killed in action. The cash came from the CIA's coffers, the training camps. Realizing it would",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "on American soil, Sheikh Jilani, with the help of the CIA, set up paramilitary training camps in rural area",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "om America would testify that they were agents of the CIA. The Al-Qaeda cell. To provide more support for t",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "cell. To provide more support for the Mujahideen, the CIA used Abdullah Azam, Osama bin Laden's mentor, to",
+      "line_number": 124,
+      "confidence": 0.8
+    },
+    {
+      "name": "Stansfield Turner",
+      "entity_type": "person",
+      "context": "ant about it. I'm better informed about the Gulf. Admiral Stansfield Turner, director of the CIA from 1977 to 1981 adamantly",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ecial passports to enter the United States by the CIA. A feud erupted between the older African America",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "rch 1, 1991. The crime has never been solved. New CIA Amigos. The soaring expenses for the covert war i",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "d the secret armies in Western Europe, caused the CIA to forge new alliances. In 1980, the agency deplo",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "s to a warehouse in Honduras that was operated by CIA operatives Oliver North and Richard Secord. The w",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "h in one transaction amounted to $14 million. The CIA also made business arrangements with other drug l",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "e business was generating $50 billion a year. The CIA had found a source of funding to augment its ongo",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "SISMI",
+      "entity_type": "organization",
+      "context": "tti to access the archives of the headquarters of SISMI within Palazzo Braschi in Rome. Within the archiv",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "SISMI",
+      "entity_type": "organization",
+      "context": "egarding the parallel and occult structure within SISMI that functioned to condition the political life o",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "NATO",
+      "entity_type": "organization",
+      "context": "driotti said. It is about the activities based on NATO planning that have been started for the eventuali",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "NATO",
+      "entity_type": "organization",
+      "context": "elation of its contents would violate a breach of NATO security. A censored report was delivered several",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "as Gladio had been set up on Italian soil by the CIA at the start of the Cold War. The army was well a",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ut stay-behind forces that had been funded by the CIA to thwart the spread of communism. In different c",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ministers worked in close corroboration with the CIA to address every incursion of communism within th",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "Gulf. Admiral Stansfield Turner, director of the CIA from 1977 to 1981 adamantly refused to answer que",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ms of the numerous massacres in Italy, the former CIA director angrily shouted, I said no question",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "Operation Gladio",
+      "entity_type": "organization",
+      "context": "contingent began its withdrawal from Afghanistan, Operation Gladio came to an end in Western Europe. The official fi",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "Operation Gladio",
+      "entity_type": "organization",
+      "context": "lled, I was the only one who knew something about Operation Gladio. This could have been unfortunate for me. Andriot",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "Operation Gladio",
+      "entity_type": "organization",
+      "context": "ervice report titled, The So-Called Parallel SID, Operation Gladio to the Commission. After examining it, Chairman G",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "Senate",
+      "entity_type": "organization",
+      "context": "parallel in Italian history. In 1988, the Italian Senate established the Parliamentary Commission of the I",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "Senate",
+      "entity_type": "organization",
+      "context": "ished the Parliamentary Commission of the Italian Senate for the investigation of terrorism in Italy under",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "d special passports to enter the United States by the CIA. A feud erupted between the older African America",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "rch 1, 1991. The crime has never been solved. New CIA Amigos. The soaring expenses for the covert war i",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "a and the secret armies in Western Europe, caused the CIA to forge new alliances. In 1980, the agency deplo",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "s to a warehouse in Honduras that was operated by CIA operatives Oliver North and Richard Secord. The w",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "h in one transaction amounted to $14 million. The CIA also made business arrangements with other drug l",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "e business was generating $50 billion a year. The CIA had found a source of funding to augment its ongo",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "nown as Gladio had been set up on Italian soil by the CIA at the start of the Cold War. The army was well a",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "about stay-behind forces that had been funded by the CIA to thwart the spread of communism. In different c",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "rior ministers worked in close corroboration with the CIA to address every incursion of communism within th",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "the Gulf. Admiral Stansfield Turner, director of the CIA from 1977 to 1981 adamantly refused to answer que",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ms of the numerous massacres in Italy, the former CIA director angrily shouted, I said no question",
+      "line_number": 126,
+      "confidence": 0.8
+    },
+    {
+      "name": "Pope John Paul II",
+      "entity_type": "person",
+      "context": "st Mino Piccarelli. In the midst of these trials, Pope John Paul II took time in the Vatican to clasp Andriotti's han",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "George H. W. Bush",
+      "entity_type": "person",
+      "context": "cretary general Manfred Vorner and U.S. president George H. W. Bush. Neither supported the document nor offered an ex",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "Aldo Moro",
+      "entity_type": "person",
+      "context": "or all records regarding the Red Brigades and the Aldo Moro kidnapping. They, too, received the rote reply. T",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "Malcolm Byrne",
+      "entity_type": "person",
+      "context": "o's necessity. The Stone Wall. On April 15, 1991, Malcolm Byrne, deputy director of the National Security Archive",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "Fiorenzo Angelini",
+      "entity_type": "person",
+      "context": "I expressed its contempt of the court's decision. Cardinal Fiorenzo Angelini, upon learning the news, compared Andriotti to Je",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "Camillo Ruini",
+      "entity_type": "person",
+      "context": "t the verdict can only be rejected by good sense. Cardinal Camillo Ruini, head of the Italian bishops' conference and a ke",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "NATO",
+      "entity_type": "organization",
+      "context": "ces of the states concerned in collaboration with NATO. C. Fearing the danger that such clandestine netw",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "NATO",
+      "entity_type": "organization",
+      "context": "y certain U.S. military personnel at shape and in NATO of the right to encourage the establishment in Eu",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "NATO",
+      "entity_type": "organization",
+      "context": "commission, the council, the secretary general of NATO, the governments of the member states, and the Un",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "NATO",
+      "entity_type": "organization",
+      "context": "tates government. The resolution was forwarded to NATO secretary general Manfred Vorner and U.S. preside",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "a freedom of information request, FOIA, with the CIA concerning gladio. Specifically, he asked for all",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "its standard response in a letter that said, the CIA can neither confirm nor deny the existence or non",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "r request. When Byrne appealed this decision, the CIA claimed that information regarding Gladio remaine",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "'s commission under Giovanni Pellegrino asked the CIA for all records regarding the Red Brigades and th",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "dnapping. They, too, received the rote reply. The CIA can neither confirm nor deny the existence of doc",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": ". Like Andriotti, he had been an active member of P2 during the years of lead. The Vatican II expresse",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "Operation Gladio",
+      "entity_type": "organization",
+      "context": "h any records relating to the activities known as Operation Gladio, particularly in France, Germany, or Italy. Byrne",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "Red Brigades",
+      "entity_type": "organization",
+      "context": "grino asked the CIA for all records regarding the Red Brigades and the Aldo Moro kidnapping. They, too, received",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "Parliament",
+      "entity_type": "organization",
+      "context": "fficial Condemnation On November 22, the European Parliament, the directly elected parliamentary institution o",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "Senate",
+      "entity_type": "organization",
+      "context": "n were equally futile. In March 1995, the Italian Senate's commission under Giovanni Pellegrino asked the",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "Supreme Court",
+      "entity_type": "organization",
+      "context": "t verdict and hoped for his resurrection from the Supreme Court. Nosservatore Romano, the official Vatican newspa",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "iled a freedom of information request, FOIA, with the CIA concerning gladio. Specifically, he asked for all",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ided its standard response in a letter that said, the CIA can neither confirm nor deny the existence or non",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "your request. When Byrne appealed this decision, the CIA claimed that information regarding Gladio remaine",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "nate's commission under Giovanni Pellegrino asked the CIA for all records regarding the Red Brigades and th",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "dnapping. They, too, received the rote reply. The CIA can neither confirm nor deny the existence of doc",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "t of these trials, Pope John Paul II took time in the Vatican to clasp Andriotti's hands and to offer the belea",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "active member of P2 during the years of lead. The Vatican II expressed its contempt of the court's decision",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "Supreme Court. Nosservatore Romano, the official Vatican newspaper, expressed its full solidarity with And",
+      "line_number": 128,
+      "confidence": 0.8
+    },
+    {
+      "name": "Roberto Calvi",
+      "entity_type": "person",
+      "context": "bed shoulders with Licio Gelli, Michele Sindonna, Roberto Calvi, and John Paul II, died on May 6, 2013, at the ag",
+      "line_number": 130,
+      "confidence": 0.8
+    },
+    {
+      "name": "Licio Gelli",
+      "entity_type": "person",
+      "context": "ctober 2003. Andriotti, who rubbed shoulders with Licio Gelli, Michele Sindonna, Roberto Calvi, and John Paul I",
+      "line_number": 130,
+      "confidence": 0.8
+    },
+    {
+      "name": "Pope John Paul II",
+      "entity_type": "person",
+      "context": "t killer involved with the attempt to assassinate Pope John Paul II, was killed in a car crash. Two other bodies were",
+      "line_number": 130,
+      "confidence": 0.8
+    },
+    {
+      "name": "FBI",
+      "entity_type": "organization",
+      "context": "o-Russian officials in Azerbaijan. Sebel Edmonds, FBI whistleblower, friends, enemies, both boiling fro",
+      "line_number": 130,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ission, which sought his testimony concerning the CIA's involvement with the legal Turkish paramilitary",
+      "line_number": 130,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "and secure in Chicago and in the employee of the CIA. But the commission was only able to scratch the",
+      "line_number": 130,
+      "confidence": 0.8
+    },
+    {
+      "name": "NATO",
+      "entity_type": "organization",
+      "context": "his cell and his cell block suddenly opened and a NATO helicopter mysteriously appeared to whisk him awa",
+      "line_number": 130,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "attle was sent on US intelligence missions by the CIA to the newly created republics in Central Asia th",
+      "line_number": 130,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ground to the chanting of cries, Allah is great. CIA's fantasy land. Sattle's acts of political agitat",
+      "line_number": 130,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "on among the Uyghurs were designed to further the CIA's goal of transforming the Chinese province into",
+      "line_number": 130,
+      "confidence": 0.8
+    },
+    {
+      "name": "Grey Wolves",
+      "entity_type": "organization",
+      "context": "s position. Grossman had been the handler for the Grey Wolves, the gladio unit in which Satlu had been a member",
+      "line_number": 130,
+      "confidence": 0.8
+    },
+    {
+      "name": "Mujahideen",
+      "entity_type": "organization",
+      "context": "ajor terrorist incident by Chechen rebels and the Mujahideen against Russia. Between 1996 and 2002, we, the Un",
+      "line_number": 130,
+      "confidence": 0.8
+    },
+    {
+      "name": "Kurdistan Workers",
+      "entity_type": "organization",
+      "context": "shal all of the country's resources to combat the Kurdistan Workers' Party, PKK, a militant group that sought to crea",
+      "line_number": 130,
+      "confidence": 0.8
+    },
+    {
+      "name": "PKK",
+      "entity_type": "organization",
+      "context": "resources to combat the Kurdistan Workers' Party, PKK, a militant group that sought to create an indepe",
+      "line_number": 130,
+      "confidence": 0.8
+    },
+    {
+      "name": "PKK",
+      "entity_type": "organization",
+      "context": "t Ayar, to launch a series of attacks against the PKK and to assassinate its leaders. To assist in the",
+      "line_number": 130,
+      "confidence": 0.8
+    },
+    {
+      "name": "Supreme Court",
+      "entity_type": "organization",
+      "context": "tti. The murder verdict was overturned by Italy's Supreme Court in October 2003. Andriotti, who rubbed shoulders",
+      "line_number": 130,
+      "confidence": 0.8
+    },
+    {
+      "name": "National Security Council",
+      "entity_type": "organization",
+      "context": "organized crime had been tightened by the Turkish National Security Council's decision to marshal all of the country's resour",
+      "line_number": 130,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "Commission, which sought his testimony concerning the CIA's involvement with the legal Turkish paramilitary",
+      "line_number": 130,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "safe and secure in Chicago and in the employee of the CIA. But the commission was only able to scratch the",
+      "line_number": 130,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "o, Sattle was sent on US intelligence missions by the CIA to the newly created republics in Central Asia th",
+      "line_number": 130,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ground to the chanting of cries, Allah is great. CIA's fantasy land. Sattle's acts of political agitat",
+      "line_number": 130,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "tation among the Uyghurs were designed to further the CIA's goal of transforming the Chinese province into",
+      "line_number": 130,
+      "confidence": 0.8
+    },
+    {
+      "name": "Sayedi Kourdi",
+      "entity_type": "person",
+      "context": "ralized bank. Gulen was a student and follower of Sheikh Sayedi Kourdi, 1878 to 1960, also known as Sayedi Norsi, the fo",
+      "line_number": 132,
+      "confidence": 0.8
+    },
+    {
+      "name": "NATO",
+      "entity_type": "organization",
+      "context": "movement. Such a movement could not emanate from NATO headquarters, let alone Langley, Virginia. The re",
+      "line_number": 132,
+      "confidence": 0.8
+    },
+    {
+      "name": "FBI",
+      "entity_type": "organization",
+      "context": "y employing Turkey as a proxy. Sibel Edmonds, the FBI's former Turkish translator and her renowned whis",
+      "line_number": 132,
+      "confidence": 0.8
+    },
+    {
+      "name": "NATO",
+      "entity_type": "organization",
+      "context": "and effectively. Turkey was the perfect proxy. A NATO ally and a puppet regime. This started more than",
+      "line_number": 132,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "task did not seem daunting. Thanks to Gladio, the CIA had controlled Turkish affairs for decades. Sattl",
+      "line_number": 132,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "of Uighurs were transported to Afghanistan by the CIA for training in guerrilla warfare by the Mujahide",
+      "line_number": 132,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "under Sattler's expert direction. Graham Fuller, CIA super-spy, offered this explanation for radicaliz",
+      "line_number": 132,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "lligence organization which remained bound to the CIA. Mark Grossman, the leading US official in Turkey",
+      "line_number": 132,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "1980s, Gulen worked with the gray wolves and the CIA in covert operations against the PKK and other co",
+      "line_number": 132,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "or to Turkey. By 1990, Gulen had emerged as a key CIA asset and began to establish over 350 mosques and",
+      "line_number": 132,
+      "confidence": 0.8
+    },
+    {
+      "name": "Grey Wolves",
+      "entity_type": "organization",
+      "context": "ntral Asia in political and economic bondage. The Grey Wolves, the youth military unit formed by Turkay, were n",
+      "line_number": 132,
+      "confidence": 0.8
+    },
+    {
+      "name": "Mujahideen",
+      "entity_type": "organization",
+      "context": "the CIA for training in guerrilla warfare by the Mujahideen. When they returned to Xinjiang, they formed the",
+      "line_number": 132,
+      "confidence": 0.8
+    },
+    {
+      "name": "PKK",
+      "entity_type": "organization",
+      "context": "xists. And they were violent. Clashes between the PKK and the Turkish government had resulted in the de",
+      "line_number": 132,
+      "confidence": 0.8
+    },
+    {
+      "name": "PKK",
+      "entity_type": "organization",
+      "context": "lves and the CIA in covert operations against the PKK and other communist groups. His primary contact w",
+      "line_number": 132,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "his task did not seem daunting. Thanks to Gladio, the CIA had controlled Turkish affairs for decades. Sattl",
+      "line_number": 132,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "eds of Uighurs were transported to Afghanistan by the CIA for training in guerrilla warfare by the Mujahide",
+      "line_number": 132,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "under Sattler's expert direction. Graham Fuller, CIA super-spy, offered this explanation for radicaliz",
+      "line_number": 132,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "intelligence organization which remained bound to the CIA. Mark Grossman, the leading US official in Turkey",
+      "line_number": 132,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "the 1980s, Gulen worked with the gray wolves and the CIA in covert operations against the PKK and other co",
+      "line_number": 132,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "or to Turkey. By 1990, Gulen had emerged as a key CIA asset and began to establish over 350 mosques and",
+      "line_number": 132,
+      "confidence": 0.8
+    },
+    {
+      "name": "Pope John Paul II",
+      "entity_type": "person",
+      "context": "oran. He was also granted a private audience with Pope John Paul II, who was blithely unaware of Gulen's tirades agai",
+      "line_number": 134,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "came known as Gladio II. Throughout the 1990s the CIA sought to soften Gulen's image. The Muslim preach",
+      "line_number": 134,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ist Party. The same authorities uncovered Gulen's CIA connections. The seventy teachers he had sent to",
+      "line_number": 134,
+      "confidence": 0.8
+    },
+    {
+      "name": "FBI",
+      "entity_type": "organization",
+      "context": "us activities. After his arrival in Pennsylvania, FBI and Homeland Security officials made numerous att",
+      "line_number": 134,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "n Gulen's behalf. The dignitaries included former CIA officials Graham Fuller and George Phytus, along",
+      "line_number": 134,
+      "confidence": 0.8
+    },
+    {
+      "name": "FBI",
+      "entity_type": "organization",
+      "context": "that circles the area in search of intruders. The FBI has been called to the scene, but no action has b",
+      "line_number": 134,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "y activity. The compound reportedly remains under CIA protection. Hidden agenda. In his public statemen",
+      "line_number": 134,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "s arrival in Pennsylvania, Gulen, with the aid of CIA advisors, helped to create the justice and",
+      "line_number": 134,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "t became known as Gladio II. Throughout the 1990s the CIA sought to soften Gulen's image. The Muslim preach",
+      "line_number": 134,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "d cried, \"'Til this day Catholic missionaries and the Vatican have been behind all atrocities. The Vatican is t",
+      "line_number": 134,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "the Vatican have been behind all atrocities. The Vatican is the whole of the snake, the whole of the viper",
+      "line_number": 134,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "ist Party. The same authorities uncovered Gulen's CIA connections. The seventy teachers he had sent to",
+      "line_number": 134,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "n Gulen's behalf. The dignitaries included former CIA officials Graham Fuller and George Phytus, along",
+      "line_number": 134,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "y activity. The compound reportedly remains under CIA protection. Hidden agenda. In his public statemen",
+      "line_number": 134,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "s arrival in Pennsylvania, Gulen, with the aid of CIA advisors, helped to create the justice and",
+      "line_number": 134,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "tism. The schools throughout Central Asia contain CIA operatives who function under the guise of Americ",
+      "line_number": 136,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "borders, realizing that they serve to advance the CIA master plan. Even the Netherlands, a nation that",
+      "line_number": 136,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "fter the upheavals within the Sicilian Mafia, the CIA and the Babas established sophisticated laborator",
+      "line_number": 136,
+      "confidence": 0.8
+    },
+    {
+      "name": "NATO",
+      "entity_type": "organization",
+      "context": "at ran from Bulgaria to Brussels, the location of NATO's headquarters. With the drug trade booming, new",
+      "line_number": 136,
+      "confidence": 0.8
+    },
+    {
+      "name": "FBI",
+      "entity_type": "organization",
+      "context": "ug bust. Oz managed to escape from the custody of FBI agents and made his way to the JFK airport for a",
+      "line_number": 136,
+      "confidence": 0.8
+    },
+    {
+      "name": "NATO",
+      "entity_type": "organization",
+      "context": "possessed diplomatic immunity, along with special NATO clearance. To make the smuggling even easier, NAT",
+      "line_number": 136,
+      "confidence": 0.8
+    },
+    {
+      "name": "NATO",
+      "entity_type": "organization",
+      "context": "ATO clearance. To make the smuggling even easier, NATO cargo planes transported heroin from Turkey to Br",
+      "line_number": 136,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "red through a small circle of banks including the IOR were long past. By 2014, $500 billion to $1 trill",
+      "line_number": 136,
+      "confidence": 0.8
+    },
+    {
+      "name": "Sicilian Mafia",
+      "entity_type": "organization",
+      "context": "the heroin trade. After the upheavals within the Sicilian Mafia, the CIA and the Babas established sophisticated",
+      "line_number": 136,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "tism. The schools throughout Central Asia contain CIA operatives who function under the guise of Americ",
+      "line_number": 136,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "eir borders, realizing that they serve to advance the CIA master plan. Even the Netherlands, a nation that",
+      "line_number": 136,
+      "confidence": 0.8
+    },
+    {
+      "name": "Mafia",
+      "entity_type": "organization",
+      "context": "in trade. After the upheavals within the Sicilian Mafia, the CIA and the Babas established sophisticated",
+      "line_number": 136,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "e. After the upheavals within the Sicilian Mafia, the CIA and the Babas established sophisticated laborator",
+      "line_number": 136,
+      "confidence": 0.8
+    },
+    {
+      "name": "Pope John Paul II",
+      "entity_type": "person",
+      "context": "omfortable or not considered politically correct. Pope John Paul II, speaking to a gathering of Catholic journalists,",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Pope John Paul II",
+      "entity_type": "person",
+      "context": "gathering of Catholic journalists, December 2002. Pope John Paul II never censured, let alone excommunicated, any ecc",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Pope John Paul II",
+      "entity_type": "person",
+      "context": "dollars. Receiving word of the criminal charges, Pope John Paul II reassured the members of the Roman Curia that the",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Agostino Casaroli",
+      "entity_type": "person",
+      "context": "ommunication of anyone who joins a Masonic Lodge, Cardinal Agostino Casaroli remained the Vatican Secretary of State until his",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Hugo Poletti",
+      "entity_type": "person",
+      "context": "tican Secretary of State until his death in 1989. Cardinal Hugo Poletti held his position as President of the Preservatio",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Leo Swaynans",
+      "entity_type": "person",
+      "context": "n of the Faith and of the Liturgical Academy, and Cardinal Leo Swaynans stayed on as Protector of the Church of St. Peter",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Sebastiano Baggio",
+      "entity_type": "person",
+      "context": "Jelly's Lodge were elevated in rank and dignity. Cardinal Sebastiano Baggio rose from his position as President of the Vatica",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Giuseppe Ferrioli",
+      "entity_type": "person",
+      "context": "chbishop of Siena Colle di Val del Sa Montalcino. Archbishop Giuseppe Ferrioli, who was a member of the Second Congregation of P",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Priest",
+      "entity_type": "person",
+      "context": "o, climbed the ecclesiastical ladder to emerge as Cardinal Priest of Saint Ignatio de Loyola a Campo Marzio. Father",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "P2",
+      "entity_type": "organization",
+      "context": "ated, any ecclesiastical official who belonged to P2. Despite the Canon law mandating immediate excomm",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "e online banking scam with the cooperation of the IOR. Antonio Orlando, the capo who masterminded the o",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "nvestigators were prevented from probing into the IOR's part in the criminal operation because of the s",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "article on November 19, 2001, that identified the IOR, along with banks in countries such as Mauritius,",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "merica. The alliance between organized crime, the CIA and the Vatican had set a course the church could",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican Bank",
+      "entity_type": "organization",
+      "context": "ce it was channeled into numbered accounts at the Vatican Bank. Spiritual cleansing. Just before the arrest, Orl",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Operation Gladio",
+      "entity_type": "organization",
+      "context": "of the free and the home of the brave, thanks to Operation Gladio, became a narco-capitalistic country. Chapter 23",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Sicilian Mafia",
+      "entity_type": "organization",
+      "context": "John Paul II allowed the relationship between the Sicilian Mafia and the Holy See to remain intact. His reign resu",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Mafia",
+      "entity_type": "organization",
+      "context": "Father Giuseppe Pulisi, an ardent opponent of the Mafia, who was gunned down and killed in front of his p",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Mafia",
+      "entity_type": "organization",
+      "context": "d and liberated, especially from the power of the Mafia. But the Pope's words rang hollow in the midst of",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Sicilian Mafia",
+      "entity_type": "organization",
+      "context": "beatification of Father Pulisi, 21 members of the Sicilian Mafia were arrested in Palermo for conducting an elabor",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Mafia",
+      "entity_type": "organization",
+      "context": "k of Sicily. Giuseppe Lumia, head of Italy's anti-Mafia commission, said that the scheme showed how dange",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "asonic Lodge, Cardinal Agostino Casaroli remained the Vatican Secretary of State until his death in 1989. Cardi",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Church",
+      "entity_type": "organization",
+      "context": "d Cardinal Leo Swaynans stayed on as Protector of the Church of St. Peter in Chains, outside Rome. Other cleri",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "ano Baggio rose from his position as President of the Vatican City State to become Camerlengo Treasurer of the",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "n of Public Affairs, became a leading official of the Vatican Secretariat of State. Father Pio Lagi, the papal",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Church",
+      "entity_type": "organization",
+      "context": "olo, a member of the Council of Public Affairs of the Church, became a Cardinal and President of the Pontifica",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "al and President of the Pontifical Commission for Vatican City State. Father Virgilio Levi was promoted fro",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "promoted from Assistant Director of the Official Vatican Newspaper to Executive Director of Vatican Radio.",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "ficial Vatican Newspaper to Executive Director of Vatican Radio. Father Pasquale Marchi, the private secret",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "f St. Peter. Father Pio Vito Pinto, an attach\u00e9 to the Vatican Secretary of State, became a Monsignor and Dean o",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Church",
+      "entity_type": "organization",
+      "context": "of the Roman Rota, the highest appellate court of the Church. Monsignor Mario Rizzi, Prelate's Bishop of the H",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "f Rome. Father Roberto Tucci, Director General of Vatican Radio, climbed the ecclesiastical ladder to emerg",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "arzio. Father Pietro Vergari, Protocol Officer of the Vatican Office Seniatura, became Rector of the Santa Poli",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "from which Emanuella Orlandi had been kidnapped. Vatican Incorporated. Throughout his long pontificate, Jo",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Mafia",
+      "entity_type": "organization",
+      "context": "II allowed the relationship between the Sicilian Mafia and the Holy See to remain intact. His reign resu",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "hings. It rather resulted in the stabilization of Vatican Incorporated as a financial and political institu",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Mafia",
+      "entity_type": "organization",
+      "context": "of Father Giuseppe Pulisi, an ardent opponent of the Mafia, who was gunned down and killed in front of his p",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Mafia",
+      "entity_type": "organization",
+      "context": "eemed and liberated, especially from the power of the Mafia. But the Pope's words rang hollow in the midst of",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "nsactions between the Sicilian crime families and the Vatican. On October 3, 1999, three years after John Paul",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Mafia",
+      "entity_type": "organization",
+      "context": "tion of Father Pulisi, 21 members of the Sicilian Mafia were arrested in Palermo for conducting an elabor",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "ovince it was channeled into numbered accounts at the Vatican Bank. Spiritual cleansing. Just before the arrest",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Mafia",
+      "entity_type": "organization",
+      "context": "k of Sicily. Giuseppe Lumia, head of Italy's anti-Mafia commission, said that the scheme showed how dange",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "inal operation because of the sovereign status of Vatican City. As further proof that business had returned",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "ther proof that business had returned as usual at the Vatican in the wake of the Ambrosiano scandal, London's D",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "homa and Arkansas filed a federal lawsuit against the Vatican, in accordance with the Racketeer Influenced and",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "II reassured the members of the Roman Curia that the Vatican, as a sovereign state, was immune from such litig",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Church",
+      "entity_type": "organization",
+      "context": "ter the Ambrosiano Affair that the Roman Catholic Church was presented in US court as a criminal organizat",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "in America. The alliance between organized crime, the CIA and the Vatican had set a course the church could",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "The alliance between organized crime, the CIA and the Vatican had set a course the church could not alter. It w",
+      "line_number": 138,
+      "confidence": 0.8
+    },
+    {
+      "name": "Paul Marcinkus",
+      "entity_type": "person",
+      "context": "or the Sicilian connection, never made mention of Archbishop Paul Marcinkus and the Vatican Bank, and never approached the su",
+      "line_number": 140,
+      "confidence": 0.8
+    },
+    {
+      "name": "Cormac Murphy",
+      "entity_type": "person",
+      "context": "oorly educated rural women. Britain, according to Cardinal Cormac Murphy O'Connor, the head of the Catholic Church in Engl",
+      "line_number": 140,
+      "confidence": 0.8
+    },
+    {
+      "name": "Keith",
+      "entity_type": "person",
+      "context": "cs in Scotland attended mass with any regularity. Cardinal Keith O'Brien, the country's head prelate, said, There",
+      "line_number": 140,
+      "confidence": 0.8
+    },
+    {
+      "name": "Joseph Ratzinger",
+      "entity_type": "person",
+      "context": "sist that the abusers were, in fact, the victims. Cardinal Joseph Ratzinger, John Paul II's spokesman, said, It has to do wit",
+      "line_number": 140,
+      "confidence": 0.8
+    },
+    {
+      "name": "Bernard Francis Law",
+      "entity_type": "person",
+      "context": "he Pope's greatest chains was giving sanctuary to Cardinal Bernard Francis Law, a horrendous enabler of child abuse who resigned",
+      "line_number": 140,
+      "confidence": 0.8
+    },
+    {
+      "name": "Paul Marcinkus",
+      "entity_type": "person",
+      "context": "or the Sicilian connection, never made mention of Archbishop Paul Marcinkus and the Vatican Bank, and never approached the su",
+      "line_number": 140,
+      "confidence": 0.8
+    },
+    {
+      "name": "Ratzinger",
+      "entity_type": "person",
+      "context": "the Vatican Bank remained a magnet for notoriety, Cardinal Ratzinger, who ascended to the papal throne as Benedict XVI",
+      "line_number": 140,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "n-dollar settlements. But the accounts within the IOR remain out of the reach of altar boys who were se",
+      "line_number": 140,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican Bank",
+      "entity_type": "organization",
+      "context": "ure within the Apostolic Palace, which houses the Vatican Bank. Diases may be sued and fall into bankruptcy. Per",
+      "line_number": 140,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican Bank",
+      "entity_type": "organization",
+      "context": "made mention of Archbishop Paul Marcinkus and the Vatican Bank, and never approached the subject of gladio and t",
+      "line_number": 140,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican Bank",
+      "entity_type": "organization",
+      "context": "Polish Pope. John Paul II's successor. Since the Vatican Bank remained a magnet for notoriety, Cardinal Ratzing",
+      "line_number": 140,
+      "confidence": 0.8
+    },
+    {
+      "name": "Church",
+      "entity_type": "organization",
+      "context": "e of John Paul II's death on April 2, 2005, Roman Church membership in the United States was falling at th",
+      "line_number": 140,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "thirds never went to mass. Despite the rulings of the Vatican, 40% of Spaniards believed that abortion was a fu",
+      "line_number": 140,
+      "confidence": 0.8
+    },
+    {
+      "name": "Church",
+      "entity_type": "organization",
+      "context": "Cormac Murphy O'Connor, the head of the Catholic Church in England and Wales, has become a pagan country.",
+      "line_number": 140,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "ligation declined from 2.63 million in 1963, when the Vatican Council was in full session, to less than one mil",
+      "line_number": 140,
+      "confidence": 0.8
+    },
+    {
+      "name": "Church",
+      "entity_type": "organization",
+      "context": "sleep with whomever they want. Throughout Europe, the Church had lost more than 1.5 million members since the",
+      "line_number": 140,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "more than 1.5 million members since the close of Vatican II. And every year the situation continued to wor",
+      "line_number": 140,
+      "confidence": 0.8
+    },
+    {
+      "name": "Church",
+      "entity_type": "organization",
+      "context": "Thereby, once again, treating the Roman Catholic Church as a criminal and corrupt organization. This prob",
+      "line_number": 140,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "secure within the Apostolic Palace, which houses the Vatican Bank. Diases may be sued and fall into bankruptcy",
+      "line_number": 140,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "ver made mention of Archbishop Paul Marcinkus and the Vatican Bank, and never approached the subject of gladio",
+      "line_number": 140,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "o. St. Hood, now. Before the end of January 2006, the Vatican had received over two million letters testifying",
+      "line_number": 140,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "the Polish Pope. John Paul II's successor. Since the Vatican Bank remained a magnet for notoriety, Cardinal Ra",
+      "line_number": 140,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "s? Why did it engage in black operations with the CIA and subversive political activity on a global sca",
+      "line_number": 142,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": ", Pope Francis announced his decision to keep the IOR open for business, despite the eruption of new mo",
+      "line_number": 142,
+      "confidence": 0.8
+    },
+    {
+      "name": "IOR",
+      "entity_type": "organization",
+      "context": "signor Nunzios Carano, a senior accountant at the IOR. At the close of 2013, Monival uncovered 105 tran",
+      "line_number": 142,
+      "confidence": 0.8
+    },
+    {
+      "name": "Operation Gladio",
+      "entity_type": "organization",
+      "context": "s if such stars continue to shine. This concludes Operation Gladio by Paul L. Williams, PhD. Narrated by Michael Pri",
+      "line_number": 142,
+      "confidence": 0.8
+    },
+    {
+      "name": "Mafia",
+      "entity_type": "organization",
+      "context": "unholy trinity of Gladio, Church, State, and the Mafia, a union of power, ambition, and greed. Dante eme",
+      "line_number": 142,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "austive dossier of compromising information about the Vatican that had never seen the light of day because he f",
+      "line_number": 142,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "ason for my death is in here. I've seen things in the Vatican that would frighten anyone. When the investigator",
+      "line_number": 142,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "es are obliged to respect the sovereign status of the Vatican. A lack of transparency. In another ill-advised a",
+      "line_number": 142,
+      "confidence": 0.8
+    },
+    {
+      "name": "Church",
+      "entity_type": "organization",
+      "context": "would have raised embarrassing questions. Why had the Church obtained controlling interest in companies that s",
+      "line_number": 142,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "e questions would lead to more questions. How had the Vatican bank become the laundry for the Sicilian and Turk",
+      "line_number": 142,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "in a cathedral with popes and cardinals? Why had the Vatican bank sold counterfeit securities and established",
+      "line_number": 142,
+      "confidence": 0.8
+    },
+    {
+      "name": "CIA",
+      "entity_type": "organization",
+      "context": "lines? Why did it engage in black operations with the CIA and subversive political activity on a global sca",
+      "line_number": 142,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "6% to 27%. The plague of pedophilia persisted and the Vatican bank remained one of the world's leading laundrie",
+      "line_number": 142,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "ritual Hercules to clean out the Orgian stable of Vatican Incorporated. But Francis, who exuded considerabl",
+      "line_number": 142,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "o diocese were neither defruct nor condemned. The Vatican bank was not closed, but rather remained as a sep",
+      "line_number": 142,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "f 2013, Monival uncovered 105 transactions within the Vatican bank that smacked of money laundering, a signific",
+      "line_number": 142,
+      "confidence": 0.8
+    },
+    {
+      "name": "Church",
+      "entity_type": "organization",
+      "context": "des of hypocrisy that had made the Roman Catholic Church one of the world's most disgraced institutions. I",
+      "line_number": 142,
+      "confidence": 0.8
+    },
+    {
+      "name": "Church",
+      "entity_type": "organization",
+      "context": "ted with the Holy Spirit in renewing and updating the Church in keeping with her pristine features, those feat",
+      "line_number": 142,
+      "confidence": 0.8
+    },
+    {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "context": "aise all kinds of objections. For this reason, no Vatican official was permitted to question John Paul II's",
+      "line_number": 142,
+      "confidence": 0.8
+    },
+    {
+      "name": "Church",
+      "entity_type": "organization",
+      "context": "ame crystallized in the unholy trinity of Gladio, Church, State, and the Mafia, a union of power, ambition",
+      "line_number": 142,
+      "confidence": 0.8
+    },
+    {
+      "name": "Mafia",
+      "entity_type": "organization",
+      "context": "the unholy trinity of Gladio, Church, State, and the Mafia, a union of power, ambition, and greed. Dante eme",
+      "line_number": 142,
+      "confidence": 0.8
+    }
+  ],
+  "timestamp": "2025-09-30T19:26:46.296175"
+}

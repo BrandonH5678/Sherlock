@@ -1,0 +1,11 @@
+{
+  "source_id": "thread3_knapp_statement_congress",
+  "entities_extracted": {
+    "programs": 8,
+    "organizations": 10,
+    "people": 5,
+    "locations": 15
+  },
+  "claims_extracted": 4,
+  "timestamp": "2025-09-30T21:12:58.320410"
+}

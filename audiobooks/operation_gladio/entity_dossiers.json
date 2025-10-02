@@ -1,0 +1,3766 @@
+{
+  "metadata": {
+    "total_entities": 212,
+    "people": 187,
+    "organizations": 25,
+    "generated": "2025-09-30T19:27:29.765357"
+  },
+  "dossiers": {
+    "Alan Dulles": {
+      "name": "Alan Dulles",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 11,
+      "first_appearance_line": 0,
+      "roles": [
+        "In addition to his law practice, Alan Dulles was elected in 1927 as the first president of the",
+        "Donovan shared it with James Jesus Angleton, Alan Dulles, the OSS Swiss director, and William Little",
+        "paganda Due, or P2, met with the full approval of Alan Dulles, the CIA director, and a 33rd degree M",
+        "Among its members were Alan Dulles, CIA director from 1953 to 1961, William F",
+        "Alan Dulles, the Swiss director of the US Office of Strategic"
+      ],
+      "affiliations": [
+        "CIA",
+        "OSS",
+        "P2"
+      ],
+      "contexts": [
+        "atrocities, 1994. We're fighting the wrong enemy. Alan Dulles, the Swiss director of the US Office of Strategic",
+        "illions of Jews. In addition to his law practice, Alan Dulles was elected in 1927 as the first president of the",
+        "ity. The Fort Hunt Conference. The worst fears of Alan Dulles for the post-war period began to materialize in F",
+        "van. Donovan shared it with James Jesus Angleton, Alan Dulles, the OSS Swiss director, and William Little Bill",
+        "of the Navy James V. Forestall, O.S.S. officials Alan Dulles and Murray Gurfine, and Lieutenant Commander Haff",
+        "eneral Vandenberg, the director of CIG, recruited Alan Dulles, who had returned to his law practice in New York",
+        "nce of issuing such false reports, the CIA, under Alan Dulles, initiated Operation Mockingbird in 1953. This op",
+        "paganda Due, or P2, met with the full approval of Alan Dulles, the CIA director, and a 33rd degree Mason, who r",
+        "with William Colby, the OSS agent in France, and Alan Dulles, the OSS director, in the establishment of the Of",
+        "d White House dignitaries. Among its members were Alan Dulles, CIA director from 1953 to 1961, William F. Buckl"
+      ],
+      "confidence": 0.8
+    },
+    "Heinrich Himmler": {
+      "name": "Heinrich Himmler",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 0,
+      "roles": [
+        "a Vatican messengers from Schuttstaffel, SS chief Heinrich Himmler, and Walter Schellenberg, head of"
+      ],
+      "affiliations": [
+        "Vatican"
+      ],
+      "contexts": [
+        "a Vatican messengers from Schuttstaffel, SS chief Heinrich Himmler, and Walter Schellenberg, head of the Sikter Heig"
+      ],
+      "confidence": 0.8
+    },
+    "Walter Schellenberg": {
+      "name": "Walter Schellenberg",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 0,
+      "roles": [
+        "rom Schuttstaffel, SS chief Heinrich Himmler, and Walter Schellenberg, head of the Sikter Heights Di"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "rom Schuttstaffel, SS chief Heinrich Himmler, and Walter Schellenberg, head of the Sikter Heights Dienst, the SS foreig"
+      ],
+      "confidence": 0.8
+    },
+    "Roberto Calvi": {
+      "name": "Roberto Calvi",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 22,
+      "first_appearance_line": 0,
+      "roles": [
+        "Cisalpine had been set up by Sindona, Roberto Calvi, and Archbishop Marcinkus through Banco Ambrosia",
+        "The new investigation, headed by Judge Luca Mucc",
+        "Franco Di Bella, director of C",
+        "These contacts granted him entry to Roberto Calvi, the head of Banco Ambrosiano, and in turn to Arc",
+        "i said that she had ongoing sexual relations with Roberto Calvi and Archbishop Marcinkus"
+      ],
+      "affiliations": [
+        "Vatican",
+        "CIA",
+        "P2"
+      ],
+      "contexts": [
+        ", even the files of Pope Paul VI, Michel Sindona, Roberto Calvi, Archbishop Paul Marcinkus, and other individuals",
+        "nt with a dark moustache and brooding black eyes. Roberto Calvi, a fellow member of P2, served as the assistant m",
+        "future prime minister of Italy. Michele Sindona. Roberto Calvi. Umberto Ortolani. Franco Di Bella, director of C",
+        "he Bahamas. Cisalpine had been set up by Sindona, Roberto Calvi, and Archbishop Marcinkus through Banco Ambrosian",
+        "tropo. Major industrial and financial concerns to Roberto Calvi, Chairman of Banco Ambrosiano. Tisch got his mone",
+        "from Marcinkus and the Holy Father, but also from Roberto Calvi, the new direttore generale of Banco Ambrosiano i",
+        "Bank of Italy was investigating the links between Roberto Calvi of Banco Ambrosiano and the Vatican Bank, includi",
+        "his position as the head of the IOR. The ties to Roberto Calvi, Lisio Jelly, and the CIA were renewed, and the t",
+        "the Camorra. These contacts granted him entry to Roberto Calvi, the head of Banco Ambrosiano, and in turn to Arc",
+        "m over the head with a hammer. Roberto Rossone on Roberto Calvi. Quoted in Philip Willens, the Vatican at War, 20"
+      ],
+      "confidence": 0.8
+    },
+    "Paul Marcinkus": {
+      "name": "Paul Marcinkus",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 12,
+      "first_appearance_line": 0,
+      "roles": [
+        "filled with the cash to their trusted old friend Archbishop Paul Marcinkus",
+        "Archbishop Paul Marcinkus, Luigi Menini, and Pellegrino del Strobel",
+        "or the Sicilian connection, never made mention of Archbishop Paul Marcinkus and the Vatican Bank, an",
+        "y impressed that three holy men from the Vatican, Archbishop Paul Marcinkus, Cardinal Giuseppe Capri",
+        "l VI, trusted secretary, and, last but not least, Archbishop Paul Marcinkus, who controlled the vast"
+      ],
+      "affiliations": [
+        "Vatican"
+      ],
+      "contexts": [
+        "s of Pope Paul VI, Michel Sindona, Roberto Calvi, Archbishop Paul Marcinkus, and other individuals long dead remain classifie",
+        "s of Pope Paul VI, Michel Sindona, Roberto Calvi, Archbishop Paul Marcinkus, and other individuals long dead remain classifie",
+        "l VI, trusted secretary, and, last but not least, Archbishop Paul Marcinkus, who controlled the vast wealth of Holy Mother Ch",
+        "l VI, trusted secretary, and, last but not least, Archbishop Paul Marcinkus, who controlled the vast wealth of Holy Mother Ch",
+        "y impressed that three holy men from the Vatican, Archbishop Paul Marcinkus, Cardinal Giuseppe Caprio and Cardinal Sergio Gar",
+        "filled with the cash to their trusted old friend Archbishop Paul Marcinkus. It was late at night, but the Vatican banker was",
+        "y impressed that three holy men from the Vatican, Archbishop Paul Marcinkus, Cardinal Giuseppe Caprio and Cardinal Sergio Gar",
+        "filled with the cash to their trusted old friend Archbishop Paul Marcinkus. It was late at night, but the Vatican banker was",
+        "ants were issued for the three top IOR officials. Archbishop Paul Marcinkus, Luigi Menini, and Pellegrino del Strobel. The ar",
+        "ants were issued for the three top IOR officials. Archbishop Paul Marcinkus, Luigi Menini, and Pellegrino del Strobel. The ar"
+      ],
+      "confidence": 0.8000000000000002
+    },
+    "Pope Paul VI": {
+      "name": "Pope Paul VI",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 15,
+      "first_appearance_line": 0,
+      "roles": [
+        "Before his death, Pope Paul VI decided to put to task the College of Cardinals b",
+        "attacked Santiago's Cardinal Ra\u00fal Silva Enriquez",
+        "ueling since most of the files, even the files of Pope Paul VI, Michel Sindona, Roberto Calvi, Archb",
+        "received the title Gentleman of His Holiness from Pope Paul VI, and Bruno Tasandin, the managing dir",
+        "as Cardinal Giovanni Battista Montini, who became Pope Paul VI, birth of P2"
+      ],
+      "affiliations": [
+        "Vatican",
+        "P2"
+      ],
+      "contexts": [
+        "ueling since most of the files, even the files of Pope Paul VI, Michel Sindona, Roberto Calvi, Archbishop Paul M",
+        "Vatican Undersecretary of State who would become Pope Paul VI, for help in locating opponents to the fascist re",
+        "hen the Vatican Undersecretary of State and later Pope Paul VI. Through Montini, the FBN arranged to divert the",
+        "as Cardinal Giovanni Battista Montini, who became Pope Paul VI, birth of P2. To protect the clandestine nature o",
+        "dmaster of Masonic Lodges, Bishop Pasquale Machi, Pope Paul VI, Private Secretary, Monsignor Francesco Marchisan",
+        "according to plan. One of Montini's first acts as Pope Paul VI was the appointment of jelly as Equitem Ordinus S",
+        "ne brought jelly in close contact with the future Pope Paul VI. At the close of the war, Monsignor Montini had b",
+        "with her closest family and friends, even asking Pope Paul VI for help. The Crisis Committee. Steve Pechenick,",
+        "instead of upholding the latest encyclicals from Pope Paul VI, called upon the Vatican in their official procla",
+        "attacked Santiago's Cardinal Ra\u00fal Silva Enriquez. Pope Paul VI was at his wit's end. After trying to appease the"
+      ],
+      "confidence": 0.8
+    },
+    "Max": {
+      "name": "Max",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 0,
+      "roles": [
+        "Morris and CIA Director Stansfield Turner, wou",
+        "litary and intelligence officials, including Rear Admiral Max K"
+      ],
+      "affiliations": [
+        "CIA"
+      ],
+      "contexts": [
+        "iscuss the proposal, the German High Command sent Prince Max von Hoennlohe, a Prussian aristocrat and business",
+        "litary and intelligence officials, including Rear Admiral Max K. Morris and CIA Director Stansfield Turner, wou"
+      ],
+      "confidence": 0.8
+    },
+    "CIA": {
+      "name": "CIA",
+      "entity_type": "organization",
+      "aliases": [
+        "Agency"
+      ],
+      "mention_count": 797,
+      "first_appearance_line": 0,
+      "roles": [
+        "Some, including former CIA director William Casey and BCCI customers and Ira",
+        "John Paul II was holding a private audience with CIA director William Casey, the Turks were provided",
+        "Sindona, still unaware that Rocky was a CIA agent, surrendered all of his notes and documents",
+        "on Walters, who had become the Deputy Director of the CIA under George H",
+        "e expert Vernon Walters, William Harvey, chief of the CIA station in Rome, and Colonel Renzo Rocca, "
+      ],
+      "affiliations": [
+        "Vatican",
+        "Mujahideen",
+        "NATO",
+        "Red Brigades",
+        "OSS",
+        "Mafia",
+        "CIA",
+        "Opus Dei",
+        "Al-Qaeda",
+        "P2"
+      ],
+      "contexts": [
+        "adio The Unholy Alliance Between the Vatican, the CIA, and the Mafia by Paul L. Williams, Ph.D. Narrate",
+        "view, where I met William Buckley, the celebrated CIA spook. I encountered the wrath of Rome while writ",
+        "ble government records regarding the Vatican, the CIA, and the mafia. The task has been grueling since",
+        "1987, six million people had died as a result of CIA covert operations. Former State Department offici",
+        "m correctly calls this an American Holocaust. The CIA justifies these actions as part of its war agains",
+        "y in the Cold War. Indeed, nothing has infuriated CIA directors quite like a nation's desire to stay ou",
+        "out of the Cold War. Steve Kangus, a timeline of CIA atrocities, 1994. We're fighting the wrong enemy.",
+        "n Gladio The Unholy Alliance Between the Vatican, the CIA, and the Mafia by Paul L. Williams, Ph.D. Narrate",
+        "view, where I met William Buckley, the celebrated CIA spook. I encountered the wrath of Rome while writ",
+        "ailable government records regarding the Vatican, the CIA, and the mafia. The task has been grueling since"
+      ],
+      "confidence": 0.8
+    },
+    "P2": {
+      "name": "P2",
+      "entity_type": "organization",
+      "aliases": [],
+      "mention_count": 98,
+      "first_appearance_line": 0,
+      "roles": [
+        "taining files and a list of five hundred names of P2 members in prominent positions and headed off t",
+        "vastating in the wake of the Sindona episode, the P2 headlines, the collapse of the Vatican's shell ",
+        "Italy's prime minister, Andrio",
+        "operative who worked closely with P2-controlled SISMI",
+        "As the new leader of P2, Jelly continued to amass telling documents not o"
+      ],
+      "affiliations": [
+        "Mafia",
+        "Vatican",
+        "CIA",
+        "P2"
+      ],
+      "contexts": [
+        "tion of Mussolini, the Ambrosiano Affair, and the P2 scandal. These topics had garnered headlines thro",
+        "ttista Montini, who became Pope Paul VI, birth of P2. To protect the clandestine nature of Catholic Gl",
+        "One such unit became known as Propaganda Due, or P2. The name P2 was derived from Propaganda Masonica",
+        "t became known as Propaganda Due, or P2. The name P2 was derived from Propaganda Masonica, a lodge for",
+        "revitalization of the lodge as Propaganda Due, or P2, met with the full approval of Alan Dulles, the C",
+        "ristocrat. This Lodge would eventually unite with P2 in an attempt to overthrow the Italian government",
+        "Catholic Masons. By 1965, the membership role of P2 contained the names of many ecclesiastical dignit",
+        "come members of Masonic Lodges, many with ties to P2. It is difficult to believe that the Supreme Pont",
+        "er positions upon learning of their membership in P2 and other Masonic lodges. As it transformed into",
+        "Jelly, an avowed atheist and the Grand Master of P2, who became a Knight of Malta, one of the favorit"
+      ],
+      "confidence": 0.8
+    },
+    "FBI": {
+      "name": "FBI",
+      "entity_type": "organization",
+      "aliases": [],
+      "mention_count": 8,
+      "first_appearance_line": 0,
+      "roles": [
+        "Oz managed to escape from the custody of FBI agents and made his way to the JFK airport for a",
+        "Archbishop was placed among the dead files of the FBI"
+      ],
+      "affiliations": [
+        "FBI"
+      ],
+      "contexts": [
+        "of the Metro and as a consultant, C.I.9, for the FBI. My findings, including the ties between the Vati",
+        "Archbishop was placed among the dead files of the FBI. The Preliminary Report. One week after his elect",
+        "e establishment of the Balkan route. By 2004, the FBI announced that the ethnic Albanians had replaced",
+        "o-Russian officials in Azerbaijan. Sebel Edmonds, FBI whistleblower, friends, enemies, both boiling fro",
+        "y employing Turkey as a proxy. Sibel Edmonds, the FBI's former Turkish translator and her renowned whis",
+        "us activities. After his arrival in Pennsylvania, FBI and Homeland Security officials made numerous att",
+        "that circles the area in search of intruders. The FBI has been called to the scene, but no action has b",
+        "ug bust. Oz managed to escape from the custody of FBI agents and made his way to the JFK airport for a"
+      ],
+      "confidence": 0.8
+    },
+    "OSS": {
+      "name": "OSS",
+      "entity_type": "organization",
+      "aliases": [],
+      "mention_count": 35,
+      "first_appearance_line": 0,
+      "roles": [
+        "her of The Washington Post, Edward Martin, former OSS deputy chief of staff and U",
+        "rgentina from 1964 to 1968, Henry Sturgis Morgan, OSS officer and co-founder of Morgan Stanley, Jaco",
+        "Earl Brennan, the OSS director in Italy, reached out to Monsignor Giova",
+        "communiques with William, Wild Bill Donovan, the OSS chief in Washington, Dulles expressed his eager",
+        "Lieutenant General Leroy Joseph Manor, who worke"
+      ],
+      "affiliations": [
+        "CIA",
+        "OSS"
+      ],
+      "contexts": [
+        "ector of the US Office of Strategic Services, the OSS, came to this conclusion at the close of 1942, wh",
+        "communiques with William, Wild Bill Donovan, the OSS chief in Washington, Dulles expressed his eagerne",
+        "sion of the war, Dulles became convinced that the OSS must reach out to these stay-behind armies in ord",
+        "ssistance. This task, he informed Donovan and the OSS top brass in Washington, could be accomplished th",
+        "nts. Poetry and paranoia. Dulles was not the only OSS official involved in establishing stay-behind uni",
+        "f the secret counter-intelligence SCI unit of the OSS. Few were more qualified for the position. Unfort",
+        "olution. Angleton's father, Hugh, also served the OSS. Before the war, Hugh had been the president of t",
+        "deploying Exmus under the covert direction of the OSS. Borghese was amenable to the terms, especially s",
+        "oviet aggression. For a while, Angleton and other OSS officials, including Donovan, toyed with the idea",
+        "m Germany, France, and Austria. By 1946, when the OSS morphed into the Central Intelligence Group, the"
+      ],
+      "confidence": 0.8
+    },
+    "Vatican": {
+      "name": "Vatican",
+      "entity_type": "organization",
+      "aliases": [
+        "IOR",
+        "Church",
+        "Vatican Bank"
+      ],
+      "mention_count": 511,
+      "first_appearance_line": 0,
+      "roles": [
+        "ore Palestra, Legal Council of the Sacred Rota of the Vatican State, Archbishop Michele Pellegrino, ",
+        "Archbishop Marcinkus was forced to submit to the",
+        "missioners from the Bank of Italy appeared at the IOR to confront Archbishop Marcincus about his par",
+        "Archbishop Paul Marcinkus, Luigi Menin",
+        "mproni, Member of the Tribunal of the Vicarate of the Vatican, Bishop Dino Trabazzini, Bishop of Rie"
+      ],
+      "affiliations": [
+        "Vatican",
+        "FBI",
+        "Mafia",
+        "CIA",
+        "Opus Dei",
+        "P2"
+      ],
+      "contexts": [
+        "ties. I was told to expunge all references to the Vatican Bank, including the donation of Mussolini, the Ambrosi",
+        "ents Operation Gladio The Unholy Alliance Between the Vatican, the CIA, and the Mafia by Paul L. Williams, Ph.D",
+        "Roman Catholic. My parish was St John the Baptist Church in West Scranton, where I learned by rote the Bal",
+        "d the assurance that the teachings of Holy Mother Church were Semper e Adam, always the same, binding the",
+        "c Scholars. I also penned a number of articles on Vatican II and the effects of Adjournamento for National",
+        "hing you always wanted to know about the Catholic Church for a double day. Double day at that time was a p",
+        "hat time was a publishing outlet for the Catholic Church through its imprint, image books, and an imprimat",
+        "s heretics. The problem arose with the subject of the Church's temporalities. I was told to expunge all refere",
+        "ralities. I was told to expunge all references to the Vatican Bank, including the donation of Mussolini, the Am",
+        "equent years, I probed deeper into the affairs of Vatican Incorporated during my tenure as the editor and p"
+      ],
+      "confidence": 0.8
+    },
+    "Operation Gladio": {
+      "name": "Operation Gladio",
+      "entity_type": "organization",
+      "aliases": [],
+      "mention_count": 22,
+      "first_appearance_line": 0,
+      "roles": [
+        "had been more useful to P2 and the commanders of Operation Gladio",
+        "Paolo Taviani, one of the founders of the Christ",
+        "He was dispatched to serve SISMI General Santo V",
+        "Cody, by his own admission, was a CIA operative",
+        "After examining it, Chairman G"
+      ],
+      "affiliations": [
+        "Vatican",
+        "CIA",
+        "P2"
+      ],
+      "contexts": [
+        "This is Audible. Tantor Audio Presents Operation Gladio The Unholy Alliance Between the Vatican, the CIA,",
+        "uld have a profound effect on the undertakings of Operation Gladio. Galen's guerrillas. Having established contact w",
+        "h's Black Nobility joined the mafia in support of Operation Gladio. Paolo Taviani, one of the founders of the Christ",
+        "Time for action. 1969 was also a banner year for Operation Gladio. The radical left was on the rise throughout Ital",
+        "the attack had been conducted in accordance with Operation Gladio. Damning evidence. But the Italian police investi",
+        "iticians, industrialists, and mafiosi involved in Operation Gladio, and the smuggling of hot money out of Italy. The",
+        "IA and US State Department officials in charge of Operation Gladio were at their wit's end. The threat of communism",
+        "nst communism and his openness to the strategy of Operation Gladio. Cody, by his own admission, was a CIA operative",
+        "Italian politicians and businessmen in service to Operation Gladio, and still others for the foreign embassies of Ir",
+        "2003. It began as a means of providing funding to Operation Gladio and its strategy of tension, along with to Operat"
+      ],
+      "confidence": 0.8
+    },
+    "Mafia": {
+      "name": "Mafia",
+      "entity_type": "organization",
+      "aliases": [],
+      "mention_count": 34,
+      "first_appearance_line": 0,
+      "roles": [
+        "Giuseppe Lumia, head of Italy's anti-Mafia commission, said that the scheme showed how dange",
+        "ean of the College of Cardinals, had provided the Mafia with a letter bearing the official insignia ",
+        "n, Dean of the College of Cardinals, had provided the Mafia with a letter bearing the official insig"
+      ],
+      "affiliations": [
+        "Mafia",
+        "Vatican",
+        "CIA",
+        "P2"
+      ],
+      "contexts": [
+        "ly Alliance Between the Vatican, the CIA, and the Mafia by Paul L. Williams, Ph.D. Narrated by Michael Pr",
+        "re of the Vatican Exposed, Money, Murder, and the Mafia, which was published by Prometheus in 2001. For t",
+        "Unholy Alliance Between the Vatican, the CIA, and the Mafia by Paul L. Williams, Ph.D. Narrated by Michael Pr",
+        "e core of the Vatican Exposed, Money, Murder, and the Mafia, which was published by Prometheus in 2001. For t",
+        "n importance before the rise of Marxist doctrine. Mafia-Masons Propaganda duet also became a magnet for t",
+        "n importance before the rise of Marxist doctrine. Mafia-Masons Propaganda duet also became a magnet for t",
+        "importance to the CIA by forging close ties to La Mafia Cruzena, a drug cartel formed by Hugo Bancer Suar",
+        "importance to the CIA by forging close ties to La Mafia Cruzena, a drug cartel formed by Hugo Bancer Suar",
+        "army. The recruits came to include members of the Mafia, Italian street gangs, and neo-fascist organizati",
+        "dio army. The recruits came to include members of the Mafia, Italian street gangs, and neo-fascist organizati"
+      ],
+      "confidence": 0.8
+    },
+    "Gambino crime family": {
+      "name": "Gambino crime family",
+      "entity_type": "organization",
+      "aliases": [],
+      "mention_count": 7,
+      "first_appearance_line": 0,
+      "roles": [],
+      "affiliations": [
+        "Vatican"
+      ],
+      "contexts": [
+        "dings, including the ties between the Vatican and Gambino crime family, constituted the core of the Vatican Exposed, Mon",
+        "nd Lucky Luciano, now developed close ties to the Gambino crime family, which by marriage included the Inzarello and Spa",
+        "heroin was trucked to pizza parlors owned by the Gambino crime family in New York.",
+        "ndona was safe and secure with the members of the Gambino crime family. Cindona, however, had to save face. For this rea",
+        "combined with other drug deliveries to create the Gambino crime family's pizza connection. Palermo further discovered th",
+        "Defense Clark M. Clifford. The cash came from the Gambino crime family, which was shelling out $50 million for each ship",
+        "Federal Bureau of Investigation and the extended Gambino crime family in New York and New Jersey were put under constan"
+      ],
+      "confidence": 0.8
+    },
+    "Reinhard Galen": {
+      "name": "Reinhard Galen",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 2,
+      "roles": [
+        "her said that the unit had been organized by Nazi General Reinhard Galen, who remained sheltered wit",
+        "mand, Dulles conducted meetings in Bern with Nazi General Reinhard Galen, the head of German militar"
+      ],
+      "affiliations": [
+        "Vatican"
+      ],
+      "contexts": [
+        "mand, Dulles conducted meetings in Bern with Nazi General Reinhard Galen, the head of German military intelligence. Galen",
+        "her said that the unit had been organized by Nazi General Reinhard Galen, who remained sheltered within Vatican City. Geor"
+      ],
+      "confidence": 0.8
+    },
+    "Carl Wolf": {
+      "name": "Carl Wolf",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 2,
+      "roles": [
+        "ngton, could be accomplished through Galen and SS General Carl Wolf"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "ngton, could be accomplished through Galen and SS General Carl Wolf. Another Nazi Dulles had become friends with. The"
+      ],
+      "confidence": 0.8
+    },
+    "Funio Valerio Borghese": {
+      "name": "Funio Valerio Borghese",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 4,
+      "roles": [],
+      "affiliations": [],
+      "contexts": [
+        "ere of great use to his son. One such contact was Prince Funio Valerio Borghese, a member of the Catholic Black nobility, the Ita"
+      ],
+      "confidence": 0.8
+    },
+    "Wolf": {
+      "name": "Wolf",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 4,
+      "roles": [
+        "On April 13, 1945, Borghese met with General Wolf and Angleton at a villa on Garda Lake, where they"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "of the war. On April 13, 1945, Borghese met with General Wolf and Angleton at a villa on Garda Lake, where they"
+      ],
+      "confidence": 0.8
+    },
+    "Chiang Kai": {
+      "name": "Chiang Kai",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 4,
+      "roles": [
+        "China province of Yunnan, Hallowell observed that General Chiang Kai-shek, leader of the Kuomintang,"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "China province of Yunnan, Hallowell observed that General Chiang Kai-shek, leader of the Kuomintang, KMT, the Chinese"
+      ],
+      "confidence": 0.8
+    },
+    "William Wild Bill Donovan": {
+      "name": "William Wild Bill Donovan",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 4,
+      "roles": [
+        "neral? Hallowell presented this idea to his boss, General William Wild Bill Donovan"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "neral? Hallowell presented this idea to his boss, General William Wild Bill Donovan. Donovan shared it with James Jesus Angleton, Ala"
+      ],
+      "confidence": 0.8
+    },
+    "Clare": {
+      "name": "Clare",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 4,
+      "roles": [
+        "erving the Strategic Service Unit, and Lieutenant General Clare L"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "erving the Strategic Service Unit, and Lieutenant General Clare L. Channault, the military advisor to Chiang Kai-"
+      ],
+      "confidence": 0.8
+    },
+    "Chang": {
+      "name": "Chang",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 4,
+      "first_appearance_line": 6,
+      "roles": [
+        "By 1950 thousands of General Chang's troops had been driven into the Shan states of",
+        "obtain cold cash by adopting the same measures as General Chang",
+        "ady involved with providing shipments of opium to General Chang, and with giving three sticky brown ",
+        "international arms dealer, to provide services to General Chang's National Army"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "obtain cold cash by adopting the same measures as General Chang. It could supply heroin to the black community in",
+        "ady involved with providing shipments of opium to General Chang, and with giving three sticky brown bars to Burme",
+        "ead from Burma to Marseille. By 1950 thousands of General Chang's troops had been driven into the Shan states of",
+        "international arms dealer, to provide services to General Chang's National Army. The primary function of the WCC"
+      ],
+      "confidence": 0.8
+    },
+    "Patton": {
+      "name": "Patton",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 8,
+      "roles": [
+        "alba after driving 55 miles from the beachhead of General Patton's Seventh Army in Palermo"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "alba after driving 55 miles from the beachhead of General Patton's Seventh Army in Palermo. Don Calo and his men c"
+      ],
+      "confidence": 0.8
+    },
+    "Carter": {
+      "name": "Carter",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 10,
+      "roles": [
+        "In a memo dated June 30, 1945, Brigadier General Carter W"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "dropped. In a memo dated June 30, 1945, Brigadier General Carter W. Clark wrote that the records regarding Genevie"
+      ],
+      "confidence": 0.8
+    },
+    "Vandenberg": {
+      "name": "Vandenberg",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 10,
+      "roles": [
+        "According to Richard Helms in his memoirs, General Vandenberg, the director of CIG, recruited Alan D"
+      ],
+      "affiliations": [
+        "CIA"
+      ],
+      "contexts": [
+        "e CIA. According to Richard Helms in his memoirs, General Vandenberg, the director of CIG, recruited Alan Dulles, who"
+      ],
+      "confidence": 0.8
+    },
+    "Roscoe": {
+      "name": "Roscoe",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 10,
+      "roles": [
+        "Rear Admiral Roscoe H"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "he Mellon Banking, Oil and Aluminum fortune. Rear Admiral Roscoe H. Schellenketter, of the ONI, became the executi"
+      ],
+      "confidence": 0.8
+    },
+    "Development Corporation": {
+      "name": "Development Corporation",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 10,
+      "roles": [
+        "financial aspect of the narcotics venture through General Development Corporation, a shell company i"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "financial aspect of the narcotics venture through General Development Corporation, a shell company in Miami. Angleton would handle"
+      ],
+      "confidence": 0.8
+    },
+    "Hillen Ketter": {
+      "name": "Hillen Ketter",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 12,
+      "roles": [
+        "At the insistence of Rear Admiral Hillen Ketter, the archivist set the office of naval intelligen"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "ies to organized crime. At the insistence of Rear Admiral Hillen Ketter, the archivist set the office of naval intelligen"
+      ],
+      "confidence": 0.8
+    },
+    "Francis Spellman": {
+      "name": "Francis Spellman",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 3,
+      "first_appearance_line": 14,
+      "roles": [
+        "Cardinal Francis Spellman presided over the proceedings and sanctioned futu",
+        "ation was deemed so important by the Vatican that Cardinal Francis Spellman of New York formed a pro",
+        "One reason for the secrecy, as Cardinal Francis Spellman of New York later revealed, was that subver"
+      ],
+      "affiliations": [
+        "Vatican"
+      ],
+      "contexts": [
+        "t confidentiality. One reason for the secrecy, as Cardinal Francis Spellman of New York later revealed, was that subversive g",
+        "nual gatherings of the SMOM in Rome and New York. Cardinal Francis Spellman presided over the proceedings and sanctioned futu",
+        "ation was deemed so important by the Vatican that Cardinal Francis Spellman of New York formed a pro-GEM lobby in Washington."
+      ],
+      "confidence": 0.8000000000000002
+    },
+    "William Casey": {
+      "name": "William Casey",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 9,
+      "first_appearance_line": 16,
+      "roles": [
+        "was holding a private audience with CIA director William Casey, the Turks were provided with nine-mi",
+        "rican arms dealer, at the request of CIA director William Casey",
+        "Prominent spooks, including CIA director William Casey, made regular visits to the BCCI's headquarte",
+        "Some, including former CIA director William Casey and BCCI customers and Iranian arms dealers Ben B",
+        "Bush, the director of the CIA"
+      ],
+      "affiliations": [
+        "CIA"
+      ],
+      "contexts": [
+        "usades. Other spooks were also knighted including William Casey, William Colby, and John McCown, who were all fut",
+        "Cartel. Prominent spooks, including CIA director William Casey, made regular visits to the BCCI's headquarters i",
+        "unavailable. Some, including former CIA director William Casey and BCCI customers and Iranian arms dealers Ben B",
+        "with George H. W. Bush, the director of the CIA. William Casey, the manager of the Reagan-Bush campaign, who lat",
+        "lso a member of the SMOM, along with CIA director William Casey, Secretary of State Alexander Haig, Treasury Secr",
+        "was holding a private audience with CIA director William Casey, the Turks were provided with nine-millimeter bro",
+        "rican arms dealer, at the request of CIA director William Casey. One of the first shipments from these firms was",
+        "Jackson Stevens. In accordance with the wishes of William Casey, the CIA director under President Reagan, the BCC",
+        "ffiliated with the movement included CIA director William Casey, William Simon of Citicorp, Francis X. Stankard o"
+      ],
+      "confidence": 0.8
+    },
+    "Vernon Walters": {
+      "name": "Vernon Walters",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 7,
+      "first_appearance_line": 16,
+      "roles": [
+        "d John McCown, who were all future CIA directors",
+        "cCown, who were all future CIA directors",
+        "elligence officials, including Lieutenant Colonel Vernon Walters, the CIA's chief coup engineer",
+        "General Vernon Walters, who had become the Deputy Director of the CIA un",
+        "t Carter's National Security Advisor, and General Vernon Walters, the U"
+      ],
+      "affiliations": [
+        "CIA"
+      ],
+      "contexts": [
+        "cCown, who were all future CIA directors. General Vernon Walters, who had become the Deputy Director of the CIA un",
+        "d John McCown, who were all future CIA directors. General Vernon Walters, who had become the Deputy Director of the CIA un",
+        "close cooperation with CIA secret warfare expert Vernon Walters, William Harvey, chief of the CIA station in Rome",
+        "complish this objective, Jelly, at the bidding of Vernon Walters and other CIA officials, underwent the initiation",
+        "elligence officials, including Lieutenant Colonel Vernon Walters, the CIA's chief coup engineer. In 1964 the gradu",
+        "t Carter's National Security Advisor, and General Vernon Walters, the U.S. Ambassador at Large. By 1981, over 100",
+        "President Carter's National Security Advisor, and General Vernon Walters, the U.S. Ambassador at Large. By 1981, over 100"
+      ],
+      "confidence": 0.8
+    },
+    "George H. W. Bush": {
+      "name": "George H. W. Bush",
+      "entity_type": "person",
+      "aliases": [
+        "George H.W. Bush"
+      ],
+      "mention_count": 5,
+      "first_appearance_line": 16,
+      "roles": [
+        "cretary general Manfred Vorner and U",
+        "along with Brent Scowcroft, who became president George H",
+        "Bush, the director of the CIA",
+        "president George H",
+        "o had become the Deputy Director of the CIA under George H"
+      ],
+      "affiliations": [
+        "CIA"
+      ],
+      "contexts": [
+        "o had become the Deputy Director of the CIA under George H.W. Bush, Albert Carone, mentioned in the previous chapter",
+        "along with Brent Scowcroft, who became president George H. W. Bush's national security advisor. John R. Bath, an all",
+        ", Litzio Jelly made trips to Langley to meet with George H. W. Bush, the director of the CIA. William Casey, the mana",
+        "rector John McCown, Prescott Bush Jr., brother of George H.W. Bush, President Reagan's National Security Advisor Wil",
+        "cretary general Manfred Vorner and U.S. president George H. W. Bush. Neither supported the document nor offered an ex"
+      ],
+      "confidence": 0.8
+    },
+    "Reinhard Gehlen": {
+      "name": "Reinhard Gehlen",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 16,
+      "roles": [
+        "An SMOM Knight of particular interest was General Reinhard Gehlen, who had served as Hitler's Intell"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "onovan. An SMOM Knight of particular interest was General Reinhard Gehlen, who had served as Hitler's Intelligence Chief fo"
+      ],
+      "confidence": 0.8
+    },
+    "NATO": {
+      "name": "NATO",
+      "entity_type": "organization",
+      "aliases": [],
+      "mention_count": 33,
+      "first_appearance_line": 16,
+      "roles": [
+        "The resolution was forwarded to NATO secretary general Manfred Vorner and U",
+        "eral Lyman Lemnitzer, Supreme Allied Commander of NATO from 1963 to 1969, Dean Atchison, U",
+        "ain David Carrot, a CIA operative attached to the NATO command in Verona",
+        "tched to serve SISMI General Santo Vito by former NATO Commander and Secretary of State Alexander Ha",
+        "edia outlets Radio Free Europe and Radio Liberty, NATO General and future Secretary of State Alexand"
+      ],
+      "affiliations": [
+        "NATO",
+        "CIA"
+      ],
+      "contexts": [
+        "edia outlets Radio Free Europe and Radio Liberty, NATO General and future Secretary of State Alexander H",
+        "hanks in part to his efforts, lodges popped up on NATO bases throughout the country, beginning with the",
+        "ent remained under the direct sway of the CIA and NATO. Gladio's first coup. In 1960 the Gladio operatio",
+        "The momentum was provided by the reaction against NATO's involvement in Vietnam. The breakdown of tradit",
+        "n investigating Gladio, quoted in Daniel Ganser's NATO's secret armies. The strategy of tension gained i",
+        "ain David Carrot, a CIA operative attached to the NATO command in Verona. Carrot worked in tandem with g",
+        "an explosive that was used almost exclusively by NATO and US forces. A week later, more arms were found",
+        "asion which might not happen, took up the task on NATO's behalf of preventing a slip to the left in the",
+        "entagon and expelled the European headquarters of NATO. The Gaulle's actions were triggered by a series",
+        "adio during the Cold War. It guarded one-third of NATO's total borders with Warsaw-packed countries and"
+      ],
+      "confidence": 0.8
+    },
+    "Banco Ambrosiano": {
+      "name": "Banco Ambrosiano",
+      "entity_type": "organization",
+      "aliases": [],
+      "mention_count": 43,
+      "first_appearance_line": 16,
+      "roles": [
+        "all the banks in all the world, the directors of Banco Ambrosiano were the least likely to question ",
+        "The firm was headed by 67-year-old Henri Arsan,",
+        "from Roberto Calvi, the new direttore generale of Banco Ambrosiano in Milan, who refused to receive ",
+        "r, often a cleric, to the central headquarters of Banco Ambrosiano in Milan",
+        "financial concerns to Roberto Calvi, Chairman of Banco Ambrosiano"
+      ],
+      "affiliations": [
+        "Vatican",
+        "P2"
+      ],
+      "contexts": [
+        "ily in Catholic banks throughout Italy, including Banco Ambrosiano. These banks, thanks to the Lateran Treaty, which",
+        "member of P2, served as the assistant manager of Banco Ambrosiano, a wealthy parochial bank in Milan. Few banks wer",
+        "banks were more prestigious. Established in 1894, Banco Ambrosiano operated to provide credit without offending the",
+        "mas that transferred deposits from the cartels to Banco Ambrosiano and the Italian banks under Sindona's control. Fr",
+        ", Roberto Calvi, and Archbishop Marcinkus through Banco Ambrosiano Holding, a Luxembourg company under the Holy See'",
+        "financial concerns to Roberto Calvi, Chairman of Banco Ambrosiano. Tisch got his money. The Securities and Exchange",
+        "t Cindona received the $40 million from Calvi and Banco Ambrosiano, and nowhere can investigators find proof that FA",
+        "from Roberto Calvi, the new direttore generale of Banco Ambrosiano in Milan, who refused to receive his telephone ca",
+        "ese companies began to receive massive loans from Banco Ambrosiano in Milan and Banco Ambrosiano holding in Luxembou",
+        "massive loans from Banco Ambrosiano in Milan and Banco Ambrosiano holding in Luxembourg. Such investment seemed sec"
+      ],
+      "confidence": 0.7999999999999999
+    },
+    "Chang Kaishik": {
+      "name": "Chang Kaishik",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 18,
+      "roles": [
+        "um began to flow from Turkey, the CIA worked with General Chang Kaishik and his Kuomintang, KMT army"
+      ],
+      "affiliations": [
+        "CIA"
+      ],
+      "contexts": [
+        "um began to flow from Turkey, the CIA worked with General Chang Kaishik and his Kuomintang, KMT army, to create a supplem"
+      ],
+      "confidence": 0.8
+    },
+    "Pao Srinanda": {
+      "name": "Pao Srinanda",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 18,
+      "roles": [
+        "In Bangkok, General Pao Srinanda, Director General of Thailand's National Police,"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "he return flight to the poppy fields. In Bangkok, General Pao Srinanda, Director General of Thailand's National Police,"
+      ],
+      "confidence": 0.8
+    },
+    "Pao": {
+      "name": "Pao",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 18,
+      "roles": [
+        "General Pao developed a close friendship with Donovan, who ha"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "it had launched in 1948. Intelligence subculture. General Pao developed a close friendship with Donovan, who ha"
+      ],
+      "confidence": 0.8
+    },
+    "Michele Sindona": {
+      "name": "Michele Sindona",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 15,
+      "first_appearance_line": 20,
+      "roles": [
+        "e Italy's Prime Minister",
+        "Presidential please",
+        ", the Cardinal developed close relationships with Michele Sindona and Archbishop Marcincus",
+        "litical party and future prime minister of Italy"
+      ],
+      "affiliations": [
+        "Vatican"
+      ],
+      "contexts": [
+        "naging the billions, Spada turned to tax attorney Michele Sindona, a leading figure in the Sicilian mafia, presenti",
+        ", Massimo Spada, the lay deligato of the IOR, and Michele Sindona, Spada's financial assistant. At this time, Sindo",
+        "e Italy's Prime Minister. By the end of the year, Michele Sindona was inducted into the Lodge in an elaborate cerem",
+        "uncil Magistrate Ugo Zilletti, and Vatican Banker Michele Sindona. In addition, the membership list contained the n",
+        "ow easy it is to shoot him. Chapter 6 The Rise of Michele Sindona So long as the bank invests those drug deposits i",
+        "ted in Penny Lerneuse in Banks We Trust. In 1957, Michele Sindona attended",
+        ". The fall of Vito Genovese propelled the rise of Michele Sindona. The aspiring mob lawyer, with the blessing of hi",
+        "Massimo Spada, the late delegato of the IOR, and Michele Sindona,",
+        "litical party and future prime minister of Italy. Michele Sindona. Roberto Calvi. Umberto Ortolani. Franco Di Bella",
+        "vit to the court, said, the communists' hatred of Michele Sindona is due to the fact that he is an anti-communist a"
+      ],
+      "confidence": 0.8
+    },
+    "Spellman": {
+      "name": "Spellman",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 20,
+      "roles": [
+        "An unfortunate visit by Cardinal Spellman has been followed by those of Cardinal Gilroy and",
+        "Cardinal Spellman's endorsement"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "conceal the flow of money from the heroin trade. Cardinal Spellman's endorsement. By 1958, the opium trade in Southe",
+        "ity of the United States. An unfortunate visit by Cardinal Spellman has been followed by those of Cardinal Gilroy and"
+      ],
+      "confidence": 0.8
+    },
+    "Gilroy": {
+      "name": "Gilroy",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 20,
+      "roles": [
+        "y Cardinal Spellman has been followed by those of Cardinal Gilroy and the Archbishop of Canberra"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "y Cardinal Spellman has been followed by those of Cardinal Gilroy and the Archbishop of Canberra. Great sums are sp"
+      ],
+      "confidence": 0.8
+    },
+    "Powell": {
+      "name": "Powell",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 20,
+      "roles": [
+        "The agency also presented General Powell, the lynchpin in the Asian drug connection, as Am"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "from Yunnan to Bangkok. The agency also presented General Powell, the lynchpin in the Asian drug connection, as Am"
+      ],
+      "confidence": 0.8
+    },
+    "Giuseppe Siri": {
+      "name": "Giuseppe Siri",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 22,
+      "roles": [
+        "Cardinal Giuseppe Siri and the Italian Episcopal Conference supervised i"
+      ],
+      "affiliations": [],
+      "contexts": [
+        ", a region of Italy bordering the Communist Bloc. Cardinal Giuseppe Siri and the Italian Episcopal Conference supervised i"
+      ],
+      "confidence": 0.8
+    },
+    "Giovanni Battista Montini": {
+      "name": "Giovanni Battista Montini",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 22,
+      "roles": [
+        "One of them was Cardinal Giovanni Battista Montini, who became Pope Paul VI, birth of P2",
+        "The agency's favored candidate was Cardinal Giovanni Battista Montini, the former Bishop of Milan, w",
+        "number of bishops and monsignors"
+      ],
+      "affiliations": [
+        "P2"
+      ],
+      "contexts": [
+        "number of bishops and monsignors. One of them was Cardinal Giovanni Battista Montini, who became Pope Paul VI, birth of P2. To protect",
+        "f Saint Peter. The agency's favored candidate was Cardinal Giovanni Battista Montini, the former Bishop of Milan, whose father had bee"
+      ],
+      "confidence": 0.8
+    },
+    "Leonardo Messino": {
+      "name": "Leonardo Messino",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 22,
+      "roles": [],
+      "affiliations": [],
+      "contexts": [
+        "es. Concerning this development, Sicilian mobster Leonardo Messino said, many will meet"
+      ],
+      "confidence": 0.8
+    },
+    "Augustine Bea": {
+      "name": "Augustine Bea",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 24,
+      "roles": [
+        "otardi Alessandro, President of Fratelli Maristi, Cardinal Augustine Bea, the Vatican Secretary of S"
+      ],
+      "affiliations": [
+        "Vatican"
+      ],
+      "contexts": [
+        "otardi Alessandro, President of Fratelli Maristi, Cardinal Augustine Bea, the Vatican Secretary of State, Salvatore Baldas"
+      ],
+      "confidence": 0.8
+    },
+    "Achille Liena": {
+      "name": "Achille Liena",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 24,
+      "roles": [
+        "r of the Vatican Newspaper, L'Osservatore Romano, Cardinal Achille Liena, Bishop of Lille and Grandm"
+      ],
+      "affiliations": [
+        "Vatican"
+      ],
+      "contexts": [
+        "r of the Vatican Newspaper, L'Osservatore Romano, Cardinal Achille Liena, Bishop of Lille and Grandmaster of Masonic Lodge"
+      ],
+      "confidence": 0.8
+    },
+    "Michele Pellegrino": {
+      "name": "Michele Pellegrino",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 24,
+      "roles": [
+        "Council of the Sacred Rota of the Vatican State, Archbishop Michele Pellegrino, later Cardinal, Spir"
+      ],
+      "affiliations": [
+        "Vatican"
+      ],
+      "contexts": [
+        "Council of the Sacred Rota of the Vatican State, Archbishop Michele Pellegrino, later Cardinal, Spiritual Head of Turin, Father"
+      ],
+      "confidence": 0.8
+    },
+    "John Marie Vio": {
+      "name": "John Marie Vio",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 24,
+      "roles": [
+        "Cardinal, Director General of Vatican Radio, and Cardinal John Marie Vio, Secretary of State under P"
+      ],
+      "affiliations": [
+        "Vatican"
+      ],
+      "contexts": [
+        "Cardinal, Director General of Vatican Radio, and Cardinal John Marie Vio, Secretary of State under Paul VI. Over the next"
+      ],
+      "confidence": 0.8
+    },
+    "Hugo Rosner": {
+      "name": "Hugo Rosner",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 24,
+      "roles": [],
+      "affiliations": [],
+      "contexts": [
+        "Austrian Sports Club. In 1947, Theodore Socek and Dr. Hugo Rosner were arrested in Vienna when the Austrian police"
+      ],
+      "confidence": 0.8
+    },
+    "Prime Minister": {
+      "name": "Prime Minister",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 24,
+      "roles": [
+        "Baffled by the High Court's decision, the Prime Minister said,"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "omment. Baffled by the High Court's decision, the Prime Minister said,"
+      ],
+      "confidence": 0.8
+    },
+    "Parliament": {
+      "name": "Parliament",
+      "entity_type": "organization",
+      "aliases": [],
+      "mention_count": 3,
+      "first_appearance_line": 24,
+      "roles": [],
+      "affiliations": [],
+      "contexts": [
+        "ion. By 1950, Franz Ola, a member of the Austrian Parliament, had regrouped the covert unit under the code nam",
+        "or of Catholic action and a member of the Italian Parliament. The rigged papal election. Montini was an ardent",
+        "fficial Condemnation On November 22, the European Parliament, the directly elected parliamentary institution o"
+      ],
+      "confidence": 0.8000000000000002
+    },
+    "Grey Wolves": {
+      "name": "Grey Wolves",
+      "entity_type": "organization",
+      "aliases": [],
+      "mention_count": 14,
+      "first_appearance_line": 26,
+      "roles": [
+        "the agent who had been assigned to work with the Grey Wolves",
+        "y counter-guerrilla, General Keenan-Evron and the Grey Wolves, Turkey's Gladio unit, initiated yet a"
+      ],
+      "affiliations": [
+        "CIA"
+      ],
+      "contexts": [
+        "ction Party and its paramilitary youth group, the Grey Wolves, with CIA funds. The new party espoused a fanatic",
+        "y counter-guerrilla, General Keenan-Evron and the Grey Wolves, Turkey's Gladio unit, initiated yet another succ",
+        "ontaining all Turkish Gladio units, including the Grey Wolves. The recruits were trained at paramilitary center",
+        "cks and to place the blame on the communists. The Grey Wolves, as the militant arm of the Pan-Turkism movement,",
+        "t region of the country. By 1976, there were 1700 Grey Wolves organizations within Turkey, with about 200,000 r",
+        ", Abuzer Urlu, Bekir Celenk and Hussein Cil, were Grey Wolves and leading babas, members of the Turkish underwo",
+        "arms for right-wing Turkish groups, including the Grey Wolves, the Palestine Liberation Organization in Lebanon",
+        "ime of the meetings. He allegedly worked with the Grey Wolves and Kintex and became a key figure in the arms fo",
+        "ute, and receive the latest list of news from the Grey Wolves in Turkey. After exchanging parting pleasantries,",
+        "the agent who had been assigned to work with the Grey Wolves. Santo Vito soon emerged as the lead character in"
+      ],
+      "confidence": 0.8
+    },
+    "Giulio Andreotti": {
+      "name": "Giulio Andreotti",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 28,
+      "roles": [
+        "dition was so profound that former Prime Minister Giulio Andreotti, a former member of P2, proclaime",
+        "Vatican's secretary of state under John Paul II, Giulio Andreotti, the co-founder of the Catholic De"
+      ],
+      "affiliations": [
+        "Vatican",
+        "P2"
+      ],
+      "contexts": [
+        "Vatican's secretary of state under John Paul II, Giulio Andreotti, the co-founder of the Catholic Democratic Party,",
+        "dition was so profound that former Prime Minister Giulio Andreotti, a former member of P2, proclaimed him the savior"
+      ],
+      "confidence": 0.8
+    },
+    "Giacomo Lercaro": {
+      "name": "Giacomo Lercaro",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 28,
+      "roles": [
+        "At these affairs he befriended Cardinal Giacomo Lercaro, who became one of the four moderators of th"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "t powerful layman. At these affairs he befriended Cardinal Giacomo Lercaro, who became one of the four moderators of the Sec"
+      ],
+      "confidence": 0.8
+    },
+    "Montini": {
+      "name": "Montini",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 28,
+      "roles": [
+        "of cash to prominent Catholic clerics, including Archbishop Montini"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "of cash to prominent Catholic clerics, including Archbishop Montini. Through Sindona, Gelli strengthened his ties not"
+      ],
+      "confidence": 0.8
+    },
+    "Giovanni De Lorenzo": {
+      "name": "Giovanni De Lorenzo",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 28,
+      "roles": [
+        "In Italy, Gelli served as the CIA's liaison to General Giovanni De Lorenzo, who, upon the recommenda"
+      ],
+      "affiliations": [
+        "CIA"
+      ],
+      "contexts": [
+        "d. In Italy, Gelli served as the CIA's liaison to General Giovanni De Lorenzo, who, upon the recommendation of U.S. Ambassador"
+      ],
+      "confidence": 0.8
+    },
+    "De Lorenzo": {
+      "name": "De Lorenzo",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 3,
+      "first_appearance_line": 28,
+      "roles": [
+        "As a result of this surveillance, Jelly and General De Lorenzo compiled files on more than 157,000 p",
+        "General De Lorenzo, together with 20 other senior army officers, dra",
+        "With the appointment of General De Lorenzo, came a directive from William Harvey, chief of t"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "s throughout the country. With the appointment of General De Lorenzo, came a directive from William Harvey, chief of t",
+        "al managers, and high-ranking military officials. General De Lorenzo, together with 20 other senior army officers, dra",
+        "inia. As a result of this surveillance, Jelly and General De Lorenzo compiled files on more than 157,000 people of pro"
+      ],
+      "confidence": 0.8000000000000002
+    },
+    "Aldo Moro": {
+      "name": "Aldo Moro",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 8,
+      "first_appearance_line": 30,
+      "roles": [
+        "CIA operative who was later convicted of killing Aldo Moro",
+        "e kidnapping and murder of Italy's Prime Minister Aldo Moro, who sought to form a coalition governme",
+        "But plans for the coup were revived after Aldo Moro, Italy's prime minister, announced his intent to",
+        "oncluded with the assassination of Prime Minister Aldo Moro and the installation of Christian Democr"
+      ],
+      "affiliations": [
+        "NATO",
+        "CIA",
+        "P2",
+        "Red Brigades"
+      ],
+      "contexts": [
+        "oncluded with the assassination of Prime Minister Aldo Moro and the installation of Christian Democrat Cesare",
+        "CIA operative who was later convicted of killing Aldo Moro. The school acted as an intermediary for meetings",
+        "heaval. But plans for the coup were revived after Aldo Moro, Italy's prime minister, announced his intent to",
+        "978. The strategy of tension was still in effect. Aldo Moro remained intent on forming a coalition government",
+        "nca Privatta, P2 and the strategy of tension, the Aldo Moro affair, and the mysterious death of his predecess",
+        "e kidnapping and murder of Italy's Prime Minister Aldo Moro, who sought to form a coalition government with I",
+        "y and the United States, along with a letter from Aldo Moro that mentioned the presence of NATO guerrilla act",
+        "or all records regarding the Red Brigades and the Aldo Moro kidnapping. They, too, received the rote reply. T"
+      ],
+      "confidence": 0.8
+    },
+    "Carlo Celieri": {
+      "name": "Carlo Celieri",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 30,
+      "roles": [
+        "Such findings prompted General Carlo Celieri, the former head of the Carabinieri, to commissio"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "while pulling the trigger. Such findings prompted General Carlo Celieri, the former head of the Carabinieri, to commissio"
+      ],
+      "confidence": 0.8
+    },
+    "Celieri": {
+      "name": "Celieri",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 30,
+      "roles": [
+        "On April 27, 1969, General Celieri was found dead on a dirt road outside Padua, the"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "n an investigation into SIFAR. On April 27, 1969, General Celieri was found dead on a dirt road outside Padua, the"
+      ],
+      "confidence": 0.8
+    },
+    "Giorgio Manis": {
+      "name": "Giorgio Manis",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 30,
+      "roles": [
+        "General Giorgio Manis, who was to provide evidence to the commission, d"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "e Padua, the victim of a mysterious car accident. General Giorgio Manis, who was to provide evidence to the commission, d"
+      ],
+      "confidence": 0.8
+    },
+    "Joseph Michele Crimi": {
+      "name": "Joseph Michele Crimi",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 30,
+      "roles": [
+        "Joseph Michele Crimi, General Vito Michele of the SID, General Raffael",
+        "f Italy's Financial Police, Italy's Chief Surgeon Dr"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "f Italy's Financial Police, Italy's Chief Surgeon Dr. Joseph Michele Crimi, General Vito Michele of the SID, General Raffael"
+      ],
+      "confidence": 0.8
+    },
+    "Vito Michele": {
+      "name": "Vito Michele",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 30,
+      "roles": [
+        "Joseph Michele Crimi, General Vito Michele of the SID, General Raffaele Giudice of the Finan",
+        "sandin, general director of Corriere della Serra",
+        "General Vito Michele, chief of the Italian army intelligence service f",
+        ", Italy's Chief Surgeon Dr"
+      ],
+      "affiliations": [],
+      "contexts": [
+        ", Italy's Chief Surgeon Dr. Joseph Michele Crimi, General Vito Michele of the SID, General Raffaele Giudice of the Finan",
+        "sandin, general director of Corriere della Serra. General Vito Michele, chief of the Italian army intelligence service f"
+      ],
+      "confidence": 0.8
+    },
+    "Raffaele Giudice": {
+      "name": "Raffaele Giudice",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 30,
+      "roles": [
+        "General Raffaele Giudice, commander of the Guardia di Finanza from 1974 to",
+        "h Michele Crimi, General Vito Michele of the SID, General Raffaele Giudice of the Financial Guard, S",
+        "General Giovanni Battista Palumbo"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "h Michele Crimi, General Vito Michele of the SID, General Raffaele Giudice of the Financial Guard, Supreme Council Magistrat",
+        "nco Picciotti. General Giovanni Battista Palumbo. General Raffaele Giudice, commander of the Guardia di Finanza from 1974 to"
+      ],
+      "confidence": 0.8
+    },
+    "Alexander Haig": {
+      "name": "Alexander Haig",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 30,
+      "roles": [
+        "ilies, but also such notable political figures as General Alexander Haig, President Nixon's chief of"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "ilies, but also such notable political figures as General Alexander Haig, President Nixon's chief of staff, and Henry Kiss"
+      ],
+      "confidence": 0.8
+    },
+    "Supreme Court": {
+      "name": "Supreme Court",
+      "entity_type": "organization",
+      "aliases": [],
+      "mention_count": 5,
+      "first_appearance_line": 30,
+      "roles": [
+        "r in Milan and later the president of the Italian Supreme Court",
+        "Carmelo Spagnuolo, president of the Supreme Court in Rome, swore that the charges against Sindona w"
+      ],
+      "affiliations": [
+        "Vatican",
+        "P2"
+      ],
+      "contexts": [
+        "r in Milan and later the president of the Italian Supreme Court. This ensured that P2, despite its acts of terror",
+        "ona's behalf. Carmelo Spagnuolo, president of the Supreme Court in Rome, swore that the charges against Sindona w",
+        "was arrested and sentenced to death. The military Supreme Court immediately overturned the verdict and Cifci was",
+        "t verdict and hoped for his resurrection from the Supreme Court. Nosservatore Romano, the official Vatican newspa",
+        "tti. The murder verdict was overturned by Italy's Supreme Court in October 2003. Andriotti, who rubbed shoulders"
+      ],
+      "confidence": 0.8
+    },
+    "Massimo Spada": {
+      "name": "Massimo Spada",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 32,
+      "roles": [],
+      "affiliations": [],
+      "contexts": [
+        "arrangement that brought him in close contact to Prince Massimo Spada, the late delegato of the IOR, and Michele Sindon"
+      ],
+      "confidence": 0.8
+    },
+    "Opus Dei": {
+      "name": "Opus Dei",
+      "entity_type": "organization",
+      "aliases": [],
+      "mention_count": 29,
+      "first_appearance_line": 32,
+      "roles": [
+        "Portillo, who served as the general president of Opus Dei",
+        "When Opus Dei elicited support from Chilean bishops for the ove",
+        "he Chilean Institute for General Studies, IGS, an Opus Dei think tank for the planning of the revolu",
+        "r of IGS was Hern\u00e1n Cub\u00edos, founder of Kepasa, an Opus Dei magazine and publisher of El Mercurio, th",
+        "he Chilean Institute for General Studies, IGS, an Opus Dei think tank"
+      ],
+      "affiliations": [
+        "Vatican",
+        "CIA",
+        "Opus Dei"
+      ],
+      "contexts": [
+        "y, with billions in assets including shares in an Opus Dei bank in Barcelona. In 1955, Kennedy became a cons",
+        "be unleashed by Catholic organizations, including Opus Dei and Catholic Action, working in tandem with the N",
+        "th America, got underway in the early 1970s. When Opus Dei elicited support from Chilean bishops for the ove",
+        "he Chilean Institute for General Studies, IGS, an Opus Dei think tank for the planning of the revolution. IG",
+        "ons, such as Hern\u00e1n Cub\u00edos, founder of Capasa, an Opus Dei magazine, and publisher of El Mercurio, the large",
+        "e village also housed factions including sects of Opus Dei members and Freemasons and fascists. The ladder c",
+        "ved criticism for his advancement of the cause of Opus Dei, a secretive Catholic sect that had served to est",
+        "mount of $406 million. The source of the cash was Opus Dei, work of God, a deeply conservative Catholic orga",
+        "ishop could discipline or sanction it. Overnight, Opus Dei emerged as a global ecclesiastical movement witho",
+        "the society of Jesus had been granted such power. Opus Dei. Founded in 1928 by Jose Maria Escriva, a Spanish"
+      ],
+      "confidence": 0.8
+    },
+    "Alberto": {
+      "name": "Alberto",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 34,
+      "roles": [
+        "re, and he was assigned as a special assistant to Cardinal Alberto di Giorio"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "re, and he was assigned as a special assistant to Cardinal Alberto di Giorio. The gruff cleric from Cicero was now r"
+      ],
+      "confidence": 0.8
+    },
+    "Marsinkus": {
+      "name": "Marsinkus",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 34,
+      "roles": [
+        "ral Bureau of Narcotics, FBN, worked closely with Archbishop Marsinkus",
+        "n of Catholic priests in Chicago, the hometown of Archbishop Marsinkus"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "ral Bureau of Narcotics, FBN, worked closely with Archbishop Marsinkus. According to Tullius Tulli Akampora, a former CI",
+        "n of Catholic priests in Chicago, the hometown of Archbishop Marsinkus. Special Delivery. Arthur Hartman, another direct"
+      ],
+      "confidence": 0.8
+    },
+    "Sindona Bank": {
+      "name": "Sindona Bank",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 34,
+      "roles": [],
+      "affiliations": [],
+      "contexts": [
+        "unds into the newly created BPF. In this way, the Sindona Bank served as the principal means of launching the 19"
+      ],
+      "confidence": 0.8
+    },
+    "Sergio Gheri": {
+      "name": "Sergio Gheri",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 38,
+      "roles": [
+        "rcinkus, who now became Secretary of the IOR, and Cardinal Sergio Gheri, Governor of Vatican City"
+      ],
+      "affiliations": [
+        "Vatican"
+      ],
+      "contexts": [
+        "rcinkus, who now became Secretary of the IOR, and Cardinal Sergio Gheri, Governor of Vatican City. However, both clerics"
+      ],
+      "confidence": 0.8
+    },
+    "Motors": {
+      "name": "Motors",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 38,
+      "roles": [
+        "o in London, the Morgan Bank, the Banker's Trust, General Motors, General Electric, Shell Oil, Gulf ",
+        "s throughout the country, killing executives from General Motors, Ford and Chrysler, and raiding mil"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "o in London, the Morgan Bank, the Banker's Trust, General Motors, General Electric, Shell Oil, Gulf Oil, and Bethl",
+        "s throughout the country, killing executives from General Motors, Ford and Chrysler, and raiding military bases fo"
+      ],
+      "confidence": 0.8
+    },
+    "Electric": {
+      "name": "Electric",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 38,
+      "roles": [
+        "Morgan Bank, the Banker's Trust, General Motors, General Electric, Shell Oil, Gulf Oil, and Bethlehe",
+        "s such as American Telephone and Telegraph, AT&T, General Electric, Chrysler, and Pan-American World"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "Morgan Bank, the Banker's Trust, General Motors, General Electric, Shell Oil, Gulf Oil, and Bethlehem Steel. The Va",
+        "s such as American Telephone and Telegraph, AT&T, General Electric, Chrysler, and Pan-American World Airways were de"
+      ],
+      "confidence": 0.8
+    },
+    "Pope Paul": {
+      "name": "Pope Paul",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 38,
+      "roles": [],
+      "affiliations": [],
+      "contexts": [
+        "the Holy See for a response. Through a spokesman, Pope Paul said, our policy is to avoid maintaining control"
+      ],
+      "confidence": 0.8
+    },
+    "Marcinkus": {
+      "name": "Marcinkus",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 17,
+      "first_appearance_line": 40,
+      "roles": [
+        "sure that the bonds would be accepted as genuine, Archbishop Marcinkus made trial deposits at the Ha",
+        "ne had been set up by Sindona, Roberto Calvi, and Archbishop Marcinkus through Banco Ambrosiano Hold",
+        "nnounced on September 28th his decision to remove Archbishop Marcinkus from the IOR, to transfer Car",
+        "Archbishop Marcinkus was forced to submit to the indignity of intensiv",
+        "The letter was signed by Archbishop Marcinkus, along with his administrative assistants, Luigi"
+      ],
+      "affiliations": [
+        "Vatican"
+      ],
+      "contexts": [
+        "rg. The scheme would require the participation of Archbishop Marcinkus, since the Catholic nature of the companies would",
+        "ne had been set up by Sindona, Roberto Calvi, and Archbishop Marcinkus through Banco Ambrosiano Holding, a Luxembourg co",
+        "sh deposits. Cisalpine's immediate success caused Archbishop Marcinkus to proclaim that the shell company represented a",
+        "ry 1975, called the Pope a traitor to the Church. Archbishop Marcinkus was forced to submit to the indignity of intensiv",
+        "sure that the bonds would be accepted as genuine, Archbishop Marcinkus made trial deposits at the Handel's Banken in Zur",
+        "vi, but also leading Vatican officials, including Archbishop Marcinkus and his too-close IOR associates Luigi Manini and",
+        "nnounced on September 28th his decision to remove Archbishop Marcinkus from the IOR, to transfer Cardinal Baggio to the",
+        "ual. Cardinal Vio remained Secretary of State and Archbishop Marcinkus returned to his position as the head of the IOR.",
+        "wn the street for a meeting with Calvi, Jelly and Archbishop Marcinkus at Banco, Ambrosiano, where they could discuss th",
+        "and Monsignor Marcello Morgante, who represented Archbishop Marcinkus of the IOR. The visits were choreographed by Pazi"
+      ],
+      "confidence": 0.8
+    },
+    "Alexander Hague": {
+      "name": "Alexander Hague",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 40,
+      "roles": [
+        "issued orders to Liizio Gelli through his deputy, General Alexander Hague, for the implementation of"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "issued orders to Liizio Gelli through his deputy, General Alexander Hague, for the implementation of terror attacks and cou"
+      ],
+      "confidence": 0.8
+    },
+    "Giandaleo Maletti": {
+      "name": "Giandaleo Maletti",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 40,
+      "roles": [
+        "e, during the trial of three other ON operatives, General Giandaleo Maletti, former head of Italian "
+      ],
+      "affiliations": [],
+      "contexts": [
+        "e, during the trial of three other ON operatives, General Giandaleo Maletti, former head of Italian counter-intelligence, sai"
+      ],
+      "confidence": 0.8
+    },
+    "Franco Freda": {
+      "name": "Franco Freda",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 40,
+      "roles": [],
+      "affiliations": [
+        "CIA"
+      ],
+      "contexts": [
+        "ted by the CIA or an outside intelligence agency, Franco Freda said, The life of everyone is manipulated by thos"
+      ],
+      "confidence": 0.8
+    },
+    "Gerardo Cervale": {
+      "name": "Gerardo Cervale",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 42,
+      "roles": [
+        "This second discovery prompted General Gerardo Cervale, the commander of Gladio and Italian military"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "in a nearby cave. This second discovery prompted General Gerardo Cervale, the commander of Gladio and Italian military int"
+      ],
+      "confidence": 0.8
+    },
+    "Red Brigades": {
+      "name": "Red Brigades",
+      "entity_type": "organization",
+      "aliases": [],
+      "mention_count": 8,
+      "first_appearance_line": 42,
+      "roles": [],
+      "affiliations": [
+        "Red Brigades",
+        "CIA"
+      ],
+      "contexts": [
+        "days later, another anonymous call implicated the Red Brigades, the far-left communist group that had engaged in",
+        "lan was that the attack should be put down to the Red Brigades which were on the rise at the time. Brescia, wher",
+        "ately blamed the left-wing terrorist organization Red Brigades for the kidnapping and proceeded to crack down on",
+        "8, the committee forged a memo, attributed to the Red Brigades, stating that Morro was dead. Pechenick said that",
+        "the Italian public for the worst, and to let the Red Brigades know that the state would not negotiate for Morro",
+        "World War II. Blame, of course, was placed on the Red Brigades and the Radical Left. But there was a problem tha",
+        "e Carabinieri to come to the realization that the Red Brigades were a puppet organization of right-wing militant",
+        "grino asked the CIA for all records regarding the Red Brigades and the Aldo Moro kidnapping. They, too, received"
+      ],
+      "confidence": 0.8
+    },
+    "William Westmoreland": {
+      "name": "William Westmoreland",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 44,
+      "roles": [
+        "ds that had been published under the authority of General William Westmoreland, the US Army's chief "
+      ],
+      "affiliations": [],
+      "contexts": [
+        "ds that had been published under the authority of General William Westmoreland, the US Army's chief of staff. The dossier inform"
+      ],
+      "confidence": 0.8
+    },
+    "Giovanni Torizzi": {
+      "name": "Giovanni Torizzi",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 44,
+      "roles": [
+        "Admiral Giovanni Torizzi, chief of the general staff of the army",
+        "he Crisis Committee were members of P2, including Admiral Giovanni Torizzi, head of general staff of"
+      ],
+      "affiliations": [
+        "P2"
+      ],
+      "contexts": [
+        "he Crisis Committee were members of P2, including Admiral Giovanni Torizzi, head of general staff of the defense, general Gi",
+        "lian army intelligence service from 1978 to 1981. Admiral Giovanni Torizzi, chief of the general staff of the army. General"
+      ],
+      "confidence": 0.8
+    },
+    "SISMI": {
+      "name": "SISMI",
+      "entity_type": "organization",
+      "aliases": [],
+      "mention_count": 23,
+      "first_appearance_line": 44,
+      "roles": [
+        "He was dispatched to serve SISMI General Santo Vito by former NATO Commander and S",
+        "Henri Arsane of Stibam and General Santo Vito of SISMI",
+        "the defense, general Giuseppe Santovito, head of SISMI, Walter Palosi, head of CSIS, Center for Stra",
+        "rrest warrant for General Santo Vito, the head of SISMI",
+        "operative who worked closely with P2-controlled SISMI"
+      ],
+      "affiliations": [
+        "NATO",
+        "CIA",
+        "P2"
+      ],
+      "contexts": [
+        "the defense, general Giuseppe Santovito, head of SISMI, Walter Palosi, head of CSIS, Center for Strategi",
+        "een held captive in an apartment complex owned by SISMI, Italy's military agency. And four, the bullets t",
+        "ua, and Parma. All, thanks to the intervention of SISMI, were released from custody. Jelly and his fellow",
+        ". operative who worked closely with P2-controlled SISMI. Ladine, at the time, was serving at the Center f",
+        "report, which was leaked to the Italian press by SISMI, placed the blame for the bombing on a group of i",
+        "gence, military, media and political officials in SISMI, along with several prominent Argentines. Some of",
+        "uty director of Italy's army intelligence service SISMI. General Franco Picciotti. General Giovanni Batti",
+        "ed insight into Gelli's close ties to the CIA and SISMI. Adding to the treasure trove of information came",
+        ", Father Felix Morleon, and General Santo Vito of SISMI.",
+        "ovement, Francesco Pazienza, a CIA informant, and SISMI official who helped engineer the Bologna bombing,"
+      ],
+      "confidence": 0.8
+    },
+    "Paul Marsinkus": {
+      "name": "Paul Marsinkus",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 46,
+      "roles": [
+        "anini, who served under the direct supervision of Archbishop Paul Marsinkus"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "anini, who served under the direct supervision of Archbishop Paul Marsinkus. Why would the Brigadiers, avowed atheists, emplo"
+      ],
+      "confidence": 0.8
+    },
+    "Giuseppe Santovito": {
+      "name": "Giuseppe Santovito",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 48,
+      "roles": [
+        "General Giuseppe Santovito, chief of the Italian army intelligence service f",
+        "e Riservati, in the Italian minister of interior",
+        "Another leading principal in Stebam was General Giuseppe Santovito, the head of Italy's military int"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "e Riservati, in the Italian minister of interior. General Giuseppe Santovito, chief of the Italian army intelligence service f",
+        "perative. Another leading principal in Stebam was General Giuseppe Santovito, the head of Italy's military intelligence agency"
+      ],
+      "confidence": 0.8
+    },
+    "Giulio Grassini": {
+      "name": "Giulio Grassini",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 48,
+      "roles": [
+        "General Giulio Grassini, head of Italy's central intelligence service SIS",
+        "Torizzi, chief of the general staff of the army"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "Torizzi, chief of the general staff of the army. General Giulio Grassini, head of Italy's central intelligence service SIS"
+      ],
+      "confidence": 0.8
+    },
+    "Pietro Musomecci": {
+      "name": "Pietro Musomecci",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 48,
+      "roles": [
+        "General Pietro Musomecci, deputy director of Italy's army intelligence ser"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "ral intelligence service SISDE from 1977 to 1981. General Pietro Musomecci, deputy director of Italy's army intelligence ser"
+      ],
+      "confidence": 0.8
+    },
+    "Franco Picciotti": {
+      "name": "Franco Picciotti",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 48,
+      "roles": [
+        "General Franco Picciotti"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "ector of Italy's army intelligence service SISMI. General Franco Picciotti. General Giovanni Battista Palumbo. General Raffa"
+      ],
+      "confidence": 0.8
+    },
+    "Giovanni Battista Palumbo": {
+      "name": "Giovanni Battista Palumbo",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 48,
+      "roles": [
+        "General Raffaele Giudice, commander of the Guard",
+        "General Franco Picciotti"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "lligence service SISMI. General Franco Picciotti. General Giovanni Battista Palumbo. General Raffaele Giudice, commander of the Guard"
+      ],
+      "confidence": 0.8
+    },
+    "Orazio Giannini": {
+      "name": "Orazio Giannini",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 48,
+      "roles": [
+        "General Orazio Giannini, commander of the Guardia di Finanza from 1980 to"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "nder of the Guardia di Finanza from 1974 to 1978. General Orazio Giannini, commander of the Guardia di Finanza from 1980 to"
+      ],
+      "confidence": 0.8
+    },
+    "Francisco Franco": {
+      "name": "Francisco Franco",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 48,
+      "roles": [
+        "stay-behind army became security consultants for General Francisco Franco's secret police, conductin"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "stay-behind army became security consultants for General Francisco Franco's secret police, conducting over a thousand viole"
+      ],
+      "confidence": 0.8
+    },
+    "Keenan": {
+      "name": "Keenan",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 50,
+      "roles": [
+        "behind Army counter-guerrilla, General Keenan-Evron and the Grey Wolves, Turkey's Gladio unit,"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "behind Army counter-guerrilla, General Keenan-Evron and the Grey Wolves, Turkey's Gladio unit,"
+      ],
+      "confidence": 0.8
+    },
+    "Emilio Marcera": {
+      "name": "Emilio Marcera",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 50,
+      "roles": [
+        "Among its charter members were Admiral Emilio Marcera, Ra\u00fal Alberto Lastiri, former Argentine presid"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "shed in Argentina. Among its charter members were Admiral Emilio Marcera, Ra\u00fal Alberto Lastiri, former Argentine president"
+      ],
+      "confidence": 0.8
+    },
+    "Domingo Roa Perez": {
+      "name": "Domingo Roa Perez",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 52,
+      "roles": [
+        "and in Maracaibo, Venezuela, 22 pastors called on Archbishop Domingo Roa Perez to resign"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "and in Maracaibo, Venezuela, 22 pastors called on Archbishop Domingo Roa Perez to resign. Several hundred priests and laymen pet"
+      ],
+      "confidence": 0.8
+    },
+    "Mario Casariego": {
+      "name": "Mario Casariego",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 52,
+      "roles": [
+        "aymen petitioned the Guatemalan Congress to expel Archbishop Mario Casariego, Cardinal of Guatemala "
+      ],
+      "affiliations": [],
+      "contexts": [
+        "aymen petitioned the Guatemalan Congress to expel Archbishop Mario Casariego, Cardinal of Guatemala City. In Argentina, a grou"
+      ],
+      "confidence": 0.8
+    },
+    "Studies": {
+      "name": "Studies",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 52,
+      "roles": [
+        "this money ended up at the Chilean Institute for General Studies, IGS, an Opus Dei think tank",
+        "helling out millions to the Chilean Institute for General Studies, IGS, an Opus Dei think tank for t"
+      ],
+      "affiliations": [
+        "Opus Dei"
+      ],
+      "contexts": [
+        "helling out millions to the Chilean Institute for General Studies, IGS, an Opus Dei think tank for the planning of",
+        "this money ended up at the Chilean Institute for General Studies, IGS, an Opus Dei think tank. The members of IGS"
+      ],
+      "confidence": 0.8
+    },
+    "Augusto Pinochet": {
+      "name": "Augusto Pinochet",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 52,
+      "roles": [
+        "n Chile, where in 1976, the military regime under General Augusto Pinochet ignored international con",
+        "mediately upon seizing control of the presidency, General Augusto Pinochet rounded up thousands of a"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "mediately upon seizing control of the presidency, General Augusto Pinochet rounded up thousands of alleged communists in the",
+        "n Chile, where in 1976, the military regime under General Augusto Pinochet ignored international condemnation and the congre"
+      ],
+      "confidence": 0.8
+    },
+    "Pinochet": {
+      "name": "Pinochet",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 52,
+      "roles": [
+        "Leaders of the military hunters, including General Pinochet, were devout Catholics",
+        "government demanding the General's release"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "Pope. Leaders of the military hunters, including General Pinochet, were devout Catholics. Indeed, when Pinochet was",
+        "government demanding the General's release. When General Pinochet finally went on trial in 2005, a Chilean judge as"
+      ],
+      "confidence": 0.8
+    },
+    "Alfonso Lopez Trujillo": {
+      "name": "Alfonso Lopez Trujillo",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 52,
+      "roles": [
+        "When Pinochet initiated his pogrom, Archbishop Alfonso Lopez Trujillo, General Secretary of the Lati"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "justifiable. When Pinochet initiated his pogrom, Archbishop Alfonso Lopez Trujillo, General Secretary of the Latin American Episcopa"
+      ],
+      "confidence": 0.8
+    },
+    "Secretary": {
+      "name": "Secretary",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 52,
+      "roles": [
+        "ed his pogrom, Archbishop Alfonso Lopez Trujillo, General Secretary of the Latin American Episcopal "
+      ],
+      "affiliations": [],
+      "contexts": [
+        "ed his pogrom, Archbishop Alfonso Lopez Trujillo, General Secretary of the Latin American Episcopal Conference, said,"
+      ],
+      "confidence": 0.8
+    },
+    "Angelo Sodano": {
+      "name": "Angelo Sodano",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 52,
+      "roles": [
+        "ing Pinochet's arrest, Vatican Secretary of State Cardinal Angelo Sodano, on behalf of the Holy Fath"
+      ],
+      "affiliations": [
+        "Vatican"
+      ],
+      "contexts": [
+        "ing Pinochet's arrest, Vatican Secretary of State Cardinal Angelo Sodano, on behalf of the Holy Father, sent a letter to t"
+      ],
+      "confidence": 0.8
+    },
+    "Senate": {
+      "name": "Senate",
+      "entity_type": "organization",
+      "aliases": [],
+      "mention_count": 5,
+      "first_appearance_line": 52,
+      "roles": [],
+      "affiliations": [],
+      "contexts": [
+        "findings resulted in an investigation by the U.S. Senate, which served to confirm his claims. The perfect",
+        "n news of such undertakings began to surface, the Senate established the Church Committee in 1974 to probe",
+        "parallel in Italian history. In 1988, the Italian Senate established the Parliamentary Commission of the I",
+        "ished the Parliamentary Commission of the Italian Senate for the investigation of terrorism in Italy under",
+        "n were equally futile. In March 1995, the Italian Senate's commission under Giovanni Pellegrino asked the"
+      ],
+      "confidence": 0.8
+    },
+    "Oscar Arnulfo Romero": {
+      "name": "Oscar Arnulfo Romero",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 54,
+      "roles": [
+        "rical assassinations culminating in the murder of Archbishop Oscar Arnulfo Romero, a leading propone"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "rical assassinations culminating in the murder of Archbishop Oscar Arnulfo Romero, a leading proponent of liberation theology. The"
+      ],
+      "confidence": 0.8
+    },
+    "Jorge Vidalha": {
+      "name": "Jorge Vidalha",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 54,
+      "roles": [
+        "sponsors of the military junta, which was led by General Jorge Vidalha"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "sponsors of the military junta, which was led by General Jorge Vidalha. On February 16th, 1976, six weeks before the cou"
+      ],
+      "confidence": 0.8
+    },
+    "Jorge Videl": {
+      "name": "Jorge Videl",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 54,
+      "roles": [
+        "ertainly, the new pontiff upheld the interests of General Jorge Videl and Admiral Emilio Massera dur",
+        "On the eve of the coup, General Jorge Videl and other plotters received the blessing of the A"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "ler, Catholic complicity. On the eve of the coup, General Jorge Videl and other plotters received the blessing of the A",
+        "ertainly, the new pontiff upheld the interests of General Jorge Videl and Admiral Emilio Massera during the Dirty War a"
+      ],
+      "confidence": 0.8
+    },
+    "Tortolo": {
+      "name": "Tortolo",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 54,
+      "roles": [
+        "As he emerged from that meeting, Archbishop Tortolo said that, although the church has its own speci"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "ops' Conference. As he emerged from that meeting, Archbishop Tortolo said that, although the church has its own specif",
+        "ops' Conference. As he emerged from that meeting, Archbishop Tortolo said that, although the church has its own specif"
+      ],
+      "confidence": 0.8
+    },
+    "Videl": {
+      "name": "Videl",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 54,
+      "roles": [
+        "General Videl, who is currently serving a life sentence for his"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "disappearances should be ignored. Papal sanction. General Videl, who is currently serving a life sentence for his"
+      ],
+      "confidence": 0.8
+    },
+    "Raul Francisco Primatesta": {
+      "name": "Raul Francisco Primatesta",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 54,
+      "roles": [
+        "ty war, told reporters that he had conferred with Cardinal Raul Francisco Primatesta, the leading Ar"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "ty war, told reporters that he had conferred with Cardinal Raul Francisco Primatesta, the leading Argentine cleric, about the regime's"
+      ],
+      "confidence": 0.8
+    },
+    "Jorge Mario Bergoglio": {
+      "name": "Jorge Mario Bergoglio",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 56,
+      "roles": [
+        "Bergoglio Triumphant On March 13, 2013, Cardinal Jorge Mario Bergoglio ascended to the throne of Sai"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "she said. Bergoglio Triumphant On March 13, 2013, Cardinal Jorge Mario Bergoglio ascended to the throne of Saint Peter as Pope Fra"
+      ],
+      "confidence": 0.8
+    },
+    "Emilio Massera": {
+      "name": "Emilio Massera",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 56,
+      "roles": [
+        "f upheld the interests of General Jorge Videl and Admiral Emilio Massera during the Dirty War and se"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "f upheld the interests of General Jorge Videl and Admiral Emilio Massera during the Dirty War and served to suppress all m"
+      ],
+      "confidence": 0.8
+    },
+    "Father Iorio": {
+      "name": "Father Iorio",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 56,
+      "roles": [],
+      "affiliations": [],
+      "contexts": [
+        "r release, but much to the contrary. In addition, Father Iorio said that Bergoglio had expelled him from a teach"
+      ],
+      "confidence": 0.8
+    },
+    "Chester Ward": {
+      "name": "Chester Ward",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 58,
+      "roles": [
+        "Fourteen years later, Rear Admiral Chester Ward, a member of the CFR for 16 years, reported that"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "ion since that of FDR. Fourteen years later, Rear Admiral Chester Ward, a member of the CFR for 16 years, reported that"
+      ],
+      "confidence": 0.8
+    },
+    "Lyman Lemnitzer": {
+      "name": "Lyman Lemnitzer",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 60,
+      "roles": [
+        "Ambassador to the USSR from 1969 to 1973, General Lyman Lemnitzer, Supreme Allied Commander of NATO "
+      ],
+      "affiliations": [
+        "NATO"
+      ],
+      "contexts": [
+        "nd U.S. Ambassador to the USSR from 1969 to 1973, General Lyman Lemnitzer, Supreme Allied Commander of NATO from 1963 to 19"
+      ],
+      "confidence": 0.8
+    },
+    "William": {
+      "name": "William",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 60,
+      "roles": [
+        "an of the Federal Reserve from 1970 to 1978, Navy Admiral William J"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "an of the Federal Reserve from 1970 to 1978, Navy Admiral William J. Crowe, Thomas S. Gates, U.S. Secretary of Defe"
+      ],
+      "confidence": 0.8
+    },
+    "John Mitchell": {
+      "name": "John Mitchell",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 60,
+      "roles": [
+        "er, in which President Richard Nixon and Attorney General John Mitchell had been partners"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "er, in which President Richard Nixon and Attorney General John Mitchell had been partners. Cindona informed the Securitie"
+      ],
+      "confidence": 0.8
+    },
+    "Licio Gelli": {
+      "name": "Licio Gelli",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 4,
+      "first_appearance_line": 62,
+      "roles": [],
+      "affiliations": [
+        "P2"
+      ],
+      "contexts": [
+        "after the stroke of midnight on October 4, 1974, Licio Gelli made a call to Cindona, who was staying at a chal",
+        "or attacks throughout Italy with P2 puppet master Licio Gelli. He was diverting the financial police from probi",
+        "the publication of the P2 list on March 17, 1981, Licio Gelli was forced to flee the country. News of the gener",
+        "ctober 2003. Andriotti, who rubbed shoulders with Licio Gelli, Michele Sindonna, Roberto Calvi, and John Paul I"
+      ],
+      "confidence": 0.8
+    },
+    "Marcel": {
+      "name": "Marcel",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 64,
+      "roles": [
+        "right, Tridentin Conservatives, including French Archbishop Marcel of Fevella, demanded Paul VI's ab"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "right, Tridentin Conservatives, including French Archbishop Marcel of Fevella, demanded Paul VI's abdication. The tr"
+      ],
+      "confidence": 0.8
+    },
+    "Joseph Michelli Creamy": {
+      "name": "Joseph Michelli Creamy",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 66,
+      "roles": [
+        "The chief surgeon for the Palermo Police Departm"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "of such a coalition prompted Cindona to meet with Dr. Joseph Michelli Creamy. The chief surgeon for the Palermo Police Departm"
+      ],
+      "confidence": 0.8
+    },
+    "Morris": {
+      "name": "Morris",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 66,
+      "roles": [
+        "of US involvement, Cindona produced a letter from Admiral Morris",
+        "Admiral Morris advanced the notion of the coup with Admiral Stan"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "Morris, a prominent naval intelligence official. Admiral Morris advanced the notion of the coup with Admiral Stan",
+        "of US involvement, Cindona produced a letter from Admiral Morris. See? It is true, he told the American mobsters."
+      ],
+      "confidence": 0.8
+    },
+    "Stansfield Turner": {
+      "name": "Stansfield Turner",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 66,
+      "roles": [
+        "miral Morris advanced the notion of the coup with Admiral Stansfield Turner, the CIA director, and p",
+        "Admiral Stansfield Turner, director of the CIA from 1977 to 1981 adamantly"
+      ],
+      "affiliations": [
+        "CIA"
+      ],
+      "contexts": [
+        "miral Morris advanced the notion of the coup with Admiral Stansfield Turner, the CIA director, and preliminary plans got unde",
+        "ant about it. I'm better informed about the Gulf. Admiral Stansfield Turner, director of the CIA from 1977 to 1981 adamantly"
+      ],
+      "confidence": 0.8
+    },
+    "Michelli Creamy": {
+      "name": "Michelli Creamy",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 66,
+      "roles": [
+        "Michelli Creamy had generals in the Italian Army drawing up maps"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "e Sicily from the mainland. He informed them that Dr. Michelli Creamy had generals in the Italian Army drawing up maps",
+        "e. For this reason, on September 25th, he allowed Dr. Michelli Creamy to shoot him in the left thigh on an examining ta"
+      ],
+      "confidence": 0.8
+    },
+    "Vang Pau": {
+      "name": "Vang Pau",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 66,
+      "roles": [
+        "s that had been provided by the CIA to Lieutenant General Vang Pau of the Royal Lao Army"
+      ],
+      "affiliations": [
+        "CIA"
+      ],
+      "contexts": [
+        "s that had been provided by the CIA to Lieutenant General Vang Pau of the Royal Lao Army. So much opium was flowing"
+      ],
+      "confidence": 0.8
+    },
+    "Earl Preston Yates": {
+      "name": "Earl Preston Yates",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 68,
+      "roles": [
+        "The President of the Nugan Hand Bank was Admiral Earl Preston Yates, who served as the Deputy Chief "
+      ],
+      "affiliations": [],
+      "contexts": [
+        "k Staff. The President of the Nugan Hand Bank was Admiral Earl Preston Yates, who served as the Deputy Chief of Staff at U.S."
+      ],
+      "confidence": 0.8
+    },
+    "Edwin Fahey Black": {
+      "name": "Edwin Fahey Black",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 68,
+      "roles": [
+        "General Edwin Fahey Black, the bank's representative in Hawaii, commanded A"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "l stages of the American withdrawal from Vietnam. General Edwin Fahey Black, the bank's representative in Hawaii, commanded A"
+      ],
+      "confidence": 0.8
+    },
+    "Leroy Joseph Manor": {
+      "name": "Leroy Joseph Manor",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 68,
+      "roles": [
+        "Lieutenant General Leroy Joseph Manor, who worked for the bank in the Philippines, had"
+      ],
+      "affiliations": [
+        "OSS"
+      ],
+      "contexts": [
+        "the Office of Strategic Services, OSS. Lieutenant General Leroy Joseph Manor, who worked for the bank in the Philippines, had"
+      ],
+      "confidence": 0.8
+    },
+    "Earl Cock": {
+      "name": "Earl Cock",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 68,
+      "roles": [
+        "nted Chief of Staff of the Pacific Command, while General Earl Cock, a World War II veteran and form"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "nted Chief of Staff of the Pacific Command, while General Earl Cock, a World War II veteran and former Brigadier Gene"
+      ],
+      "confidence": 0.8
+    },
+    "Guy Parker": {
+      "name": "Guy Parker",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 68,
+      "roles": [],
+      "affiliations": [
+        "CIA"
+      ],
+      "contexts": [
+        "nent CIA officials. A partial list is as follows. Dr. Guy Parker, an expert from the Rand Corporation, a CIA think"
+      ],
+      "confidence": 0.8
+    },
+    "Richard": {
+      "name": "Richard",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 68,
+      "roles": [
+        "Cord, Director of the Defense Security Assista",
+        "Major General Richard C"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "tank who served as a financial consultant. Major General Richard C. Cord, Director of the Defense Security Assista"
+      ],
+      "confidence": 0.8
+    },
+    "National Security Council": {
+      "name": "National Security Council",
+      "entity_type": "organization",
+      "aliases": [],
+      "mention_count": 4,
+      "first_appearance_line": 68,
+      "roles": [],
+      "affiliations": [
+        "OSS"
+      ],
+      "contexts": [
+        "he Vietnam War, having previously served with the National Security Council, NSC, and the Office of Strategic Services, OSS.",
+        "Ankara, Michael Ladine, a consultant to the U.S. National Security Council, Father Felix Morlion of the Right Wing Prodeo Mo",
+        "know where it leads. It is a trail blocked by the National Security Council. Holy sea secrets. By 1985, BCCI had become an in",
+        "organized crime had been tightened by the Turkish National Security Council's decision to marshal all of the country's resour"
+      ],
+      "confidence": 0.8
+    },
+    "Pope John Paul II": {
+      "name": "Pope John Paul II",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 9,
+      "first_appearance_line": 70,
+      "roles": [],
+      "affiliations": [
+        "Vatican"
+      ],
+      "contexts": [
+        "his is confirmed by my choice of these two names. Pope John Paul II, Redemptor Hominis, March 4, 1979. Before his dea",
+        "t Ali Awka, who later would shoot and nearly kill Pope John Paul II. By 1975, according to the US Drug Enforcement Ad",
+        "as misled, lied to, and suppressed the truth from Pope John Paul II since October 1978, or the present Pope also stan",
+        "st Mino Piccarelli. In the midst of these trials, Pope John Paul II took time in the Vatican to clasp Andriotti's han",
+        "t killer involved with the attempt to assassinate Pope John Paul II, was killed in a car crash. Two other bodies were",
+        "oran. He was also granted a private audience with Pope John Paul II, who was blithely unaware of Gulen's tirades agai",
+        "omfortable or not considered politically correct. Pope John Paul II, speaking to a gathering of Catholic journalists,",
+        "gathering of Catholic journalists, December 2002. Pope John Paul II never censured, let alone excommunicated, any ecc",
+        "dollars. Receiving word of the criminal charges, Pope John Paul II reassured the members of the Roman Curia that the"
+      ],
+      "confidence": 0.8
+    },
+    "William Colby": {
+      "name": "William Colby",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 70,
+      "roles": [],
+      "affiliations": [],
+      "contexts": [
+        "ented Nuganhand in Thailand. The man nobody knew. William Colby served as legal counsel. After organizing the Gla"
+      ],
+      "confidence": 0.8
+    },
+    "Cody": {
+      "name": "Cody",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 72,
+      "roles": [
+        "eter Sellers! They've made Peter Sellers a pope!' Cardinal Cody"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "eter Sellers! They've made Peter Sellers a pope!' Cardinal Cody. The conclave may not have been bugged, but it ha"
+      ],
+      "confidence": 0.8
+    },
+    "Giovanni Benelli": {
+      "name": "Giovanni Benelli",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 72,
+      "roles": [
+        "he CIA was fearful that the Cardinals might elect Cardinal Giovanni Benelli, the Archbishop of Flore",
+        "On September 7, Cardinal Giovanni Benelli, the Archbishop of Florence, conveyed to the Holy"
+      ],
+      "affiliations": [
+        "CIA"
+      ],
+      "contexts": [
+        "he CIA was fearful that the Cardinals might elect Cardinal Giovanni Benelli, the Archbishop of Florence, or Cardinal Luizio L",
+        "transfers. Financial shenanigans. On September 7, Cardinal Giovanni Benelli, the Archbishop of Florence, conveyed to the Holy"
+      ],
+      "confidence": 0.8
+    },
+    "Luizio Lorscheider": {
+      "name": "Luizio Lorscheider",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 72,
+      "roles": [
+        "Giovanni Benelli, the Archbishop of Florence, or Cardinal Luizio Lorscheider, the leading Catholic p"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "Giovanni Benelli, the Archbishop of Florence, or Cardinal Luizio Lorscheider, the leading Catholic prelate in Brazil as pope."
+      ],
+      "confidence": 0.8
+    },
+    "Marcincus": {
+      "name": "Marcincus",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 6,
+      "first_appearance_line": 72,
+      "roles": [
+        "Rumors had been rampant about the Archbishop Marcincus' taste for young girls and for sex parties wi",
+        "If the matter was simply financial, Archbishop Marcincus would have provided the restitution",
+        "Sergeant Rogan came upon Archbishop Marcincus in a courtyard near the Vatican bank",
+        "oped close relationships with Michele Sindona and Archbishop Marcincus",
+        "the Bank of Italy appeared at the IOR to confront Archbishop Marcincus about his part in the collaps"
+      ],
+      "affiliations": [
+        "Vatican"
+      ],
+      "contexts": [
+        "Sindona affair that he called for the removal of Archbishop Marcincus as the head of the Vatican Bank. Cardinal Lorsche",
+        "oped close relationships with Michele Sindona and Archbishop Marcincus. During the 1970s, Cody diverted millions of doll",
+        "an village. At 6.45 a.m. Sergeant Rogan came upon Archbishop Marcincus in a courtyard near the Vatican bank. This was mo",
+        "the Bank of Italy appeared at the IOR to confront Archbishop Marcincus about his part in the collapse of Banco Ambrosian",
+        "the Holy See. If the matter was simply financial, Archbishop Marcincus would have provided the restitution. If the matte",
+        "nister episode. Rumors had been rampant about the Archbishop Marcincus' taste for young girls and for sex parties within"
+      ],
+      "confidence": 0.8000000000000002
+    },
+    "Lorscheider": {
+      "name": "Lorscheider",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 72,
+      "roles": [
+        "Cardinal Lorscheider represented an even more odious choice since he w",
+        "bishop Marcincus as the head of the Vatican Bank"
+      ],
+      "affiliations": [
+        "Vatican"
+      ],
+      "contexts": [
+        "bishop Marcincus as the head of the Vatican Bank. Cardinal Lorscheider represented an even more odious choice since he w"
+      ],
+      "confidence": 0.8
+    },
+    "John Cody": {
+      "name": "John Cody",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 72,
+      "roles": [
+        "d his first heart attack, the agency arranged for Cardinal John Cody, the Archbishop of Chicago, to "
+      ],
+      "affiliations": [],
+      "contexts": [
+        "d his first heart attack, the agency arranged for Cardinal John Cody, the Archbishop of Chicago, to travel to Poland f"
+      ],
+      "confidence": 0.8
+    },
+    "Carol Wojtyla": {
+      "name": "Carol Wojtyla",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 72,
+      "roles": [
+        "f Chicago, to travel to Poland for a meeting with Cardinal Carol Wojtyla, the Archbishop of Krakow, "
+      ],
+      "affiliations": [],
+      "contexts": [
+        "f Chicago, to travel to Poland for a meeting with Cardinal Carol Wojtyla, the Archbishop of Krakow, who had attracted the"
+      ],
+      "confidence": 0.8
+    },
+    "John Crowell": {
+      "name": "John Crowell",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 72,
+      "roles": [
+        "While Cody remained in Poland, Cardinal John Crowell of Philadelphia began to work the phones in sup"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "cy for the papacy. While Cody remained in Poland, Cardinal John Crowell of Philadelphia began to work the phones in suppo"
+      ],
+      "confidence": 0.8
+    },
+    "Sebastiano Baggio": {
+      "name": "Sebastiano Baggio",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 3,
+      "first_appearance_line": 72,
+      "roles": [
+        "of a dark horse was necessitated by the fear that Cardinal Sebastiano Baggio, the prefect of the sac",
+        "ther name on the list was that of Vio's assistant Cardinal Sebastiano Baggio, Masonic name Siba, Lod",
+        "Cardinal Sebastiano Baggio rose from his position as President of the Vatica"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "of a dark horse was necessitated by the fear that Cardinal Sebastiano Baggio, the prefect of the sacred congregation for bisho",
+        "ther name on the list was that of Vio's assistant Cardinal Sebastiano Baggio, Masonic name Siba, Lodge number 851640, date of",
+        "Jelly's Lodge were elevated in rank and dignity. Cardinal Sebastiano Baggio rose from his position as President of the Vatica"
+      ],
+      "confidence": 0.8000000000000002
+    },
+    "Bonelli": {
+      "name": "Bonelli",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 72,
+      "roles": [
+        "Through Cardinal Bonelli, who became his friend and counselor, John Paul w"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "the Continental Illinois Bank in Chicago. Through Cardinal Bonelli, who became his friend and counselor, John Paul w"
+      ],
+      "confidence": 0.8
+    },
+    "Vio": {
+      "name": "Vio",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 7,
+      "first_appearance_line": 72,
+      "roles": [
+        "l Baggio to the diocese of Florence, and to force Cardinal Vio into retirement",
+        "Cardinal Vio and the Masonic cardinals had engineered his camp",
+        "on the internal workings of the Vatican Bank from Cardinal Vio, who remained the Holy See's Secretar",
+        "ian Masons of the Zurich Lodge who confirmed that Cardinal Vio, indeed, had been inducted into the O",
+        "Despite Cardinal Vio's care in fabricating the fiction, the story quic"
+      ],
+      "affiliations": [
+        "Vatican"
+      ],
+      "contexts": [
+        "on the internal workings of the Vatican Bank from Cardinal Vio, who remained the Holy See's Secretary of State.",
+        "ian Masons of the Zurich Lodge who confirmed that Cardinal Vio, indeed, had been inducted into the Order of Free",
+        "l Baggio to the diocese of Florence, and to force Cardinal Vio into retirement. This contention is supported by",
+        "as McGee saw the pope's condition, he telephoned Cardinal Vio, who occupied an apartment within the Lateran pal",
+        "yocardial infarction. The story unravels. Despite Cardinal Vio's care in fabricating the fiction, the story quic",
+        "ings about the new pope eventually came to light. Cardinal Vio and the Masonic cardinals had engineered his camp",
+        "tican incorporated returned to business as usual. Cardinal Vio remained Secretary of State and Archbishop Marcin"
+      ],
+      "confidence": 0.8
+    },
+    "Benelli": {
+      "name": "Benelli",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 3,
+      "first_appearance_line": 72,
+      "roles": [
+        "the Vatican bureaucracy, such as the progressive Cardinal Benelli or the conservative Cardinal Ciri",
+        "The final report, Cardinal Benelli told the Pope, could result in criminal charges n",
+        "Neither Cardinal Benelli nor the Pope were aware that the troublesome matt"
+      ],
+      "affiliations": [
+        "Vatican"
+      ],
+      "contexts": [
+        "s to Judge Emilio Alessandrini. The final report, Cardinal Benelli told the Pope, could result in criminal charges n",
+        "es Luigi Manini and Pellegrino Distroble. Neither Cardinal Benelli nor the Pope were aware that the troublesome matt",
+        "the Vatican bureaucracy, such as the progressive Cardinal Benelli or the conservative Cardinal Ciri. They were stun"
+      ],
+      "confidence": 0.8000000000000002
+    },
+    "Sicilian Mafia": {
+      "name": "Sicilian Mafia",
+      "entity_type": "organization",
+      "aliases": [],
+      "mention_count": 4,
+      "first_appearance_line": 72,
+      "roles": [],
+      "affiliations": [
+        "Mafia",
+        "CIA"
+      ],
+      "contexts": [
+        "iate predecessors. And few within the CIA and the Sicilian Mafia fancied him a threat to the existing order of thi",
+        "the heroin trade. After the upheavals within the Sicilian Mafia, the CIA and the Babas established sophisticated",
+        "John Paul II allowed the relationship between the Sicilian Mafia and the Holy See to remain intact. His reign resu",
+        "beatification of Father Pulisi, 21 members of the Sicilian Mafia were arrested in Palermo for conducting an elabor"
+      ],
+      "confidence": 0.8
+    },
+    "Jean Vio": {
+      "name": "Jean Vio",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 74,
+      "roles": [
+        "At the top of the list was the name of Cardinal Jean Vio, the Vatican Secretary of State"
+      ],
+      "affiliations": [
+        "Vatican"
+      ],
+      "contexts": [
+        "St. Peter. At the top of the list was the name of Cardinal Jean Vio, the Vatican Secretary of State. Vio's Masonic na"
+      ],
+      "confidence": 0.8
+    },
+    "Pericle Felizzi": {
+      "name": "Pericle Felizzi",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 74,
+      "roles": [
+        "with Italian officials through his close friends Cardinal Pericle Felizzi and Monsignor Giovanni Ben"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "with Italian officials through his close friends Cardinal Pericle Felizzi and Monsignor Giovanni Benelli, whose names did n"
+      ],
+      "confidence": 0.8
+    },
+    "Baggio": {
+      "name": "Baggio",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 74,
+      "roles": [
+        "th the authorities and received confirmation that Cardinal Baggio, indeed, was a Mason in good stand",
+        "ve Archbishop Marcinkus from the IOR, to transfer Cardinal Baggio to the diocese of Florence, and to"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "th the authorities and received confirmation that Cardinal Baggio, indeed, was a Mason in good standing. By the end",
+        "ve Archbishop Marcinkus from the IOR, to transfer Cardinal Baggio to the diocese of Florence, and to force Cardinal"
+      ],
+      "confidence": 0.8
+    },
+    "Ugo Poletti": {
+      "name": "Ugo Poletti",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 74,
+      "roles": [
+        "onsignor Agostino Casaroli, his foreign minister, Cardinal Ugo Poletti, the vicar of Rome, Monsignor"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "onsignor Agostino Casaroli, his foreign minister, Cardinal Ugo Poletti, the vicar of Rome, Monsignor Pasquale Machi, who"
+      ],
+      "confidence": 0.8
+    },
+    "Renato Buzonetti": {
+      "name": "Renato Buzonetti",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 74,
+      "roles": [],
+      "affiliations": [
+        "Vatican"
+      ],
+      "contexts": [
+        "again. A Physician's Pronouncement Vio telephoned Dr. Renato Buzonetti, the Vatican physician, and instructed McGee to m"
+      ],
+      "confidence": 0.8
+    },
+    "Buzonetti": {
+      "name": "Buzonetti",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 74,
+      "roles": [],
+      "affiliations": [
+        "Vatican"
+      ],
+      "contexts": [
+        "reason for her abrupt dismissal from the Vatican. Dr. Buzonetti arrived at 5.45, examined the body, and announced",
+        "r McGee, that is, before 5 a.m., before he called Dr. Buzonetti, and before he had even seen the body. What's mor"
+      ],
+      "confidence": 0.8
+    },
+    "Carlo Confalonieri": {
+      "name": "Carlo Confalonieri",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 76,
+      "roles": [
+        "Vio conveyed the news of the Pope's death to Cardinal Carlo Confalonieri, the 86-year-old Dean of th"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "a.m. Vio conveyed the news of the Pope's death to Cardinal Carlo Confalonieri, the 86-year-old Dean of the Sacred College, Card"
+      ],
+      "confidence": 0.8
+    },
+    "Agostino Casaroli": {
+      "name": "Agostino Casaroli",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 5,
+      "first_appearance_line": 76,
+      "roles": [
+        "To Quiet Matters, Cardinal Agostino Casaroli, the Vatican's Secretary of State, proposed the c",
+        "ino Andreata, Italy's Treasury Minister, met with Cardinal Agostino Casaroli, the Vatican's Secretar",
+        "One day before the taping was to take place, Cardinal Agostino Casaroli, who remained the Secretary ",
+        "ieri, the 86-year-old Dean of the Sacred College, Cardinal Agostino Casaroli, head of the Vatican Di",
+        "ommunication of anyone who joins a Masonic Lodge, Cardinal Agostino Casaroli remained the Vatican Se"
+      ],
+      "affiliations": [
+        "Vatican"
+      ],
+      "contexts": [
+        "ieri, the 86-year-old Dean of the Sacred College, Cardinal Agostino Casaroli, head of the Vatican Diplomatic Corps, and Sergea",
+        "ino Andreata, Italy's Treasury Minister, met with Cardinal Agostino Casaroli, the Vatican's Secretary of State, to urge the se",
+        "nny. One day before the taping was to take place, Cardinal Agostino Casaroli, who remained the Secretary of State for the Holy",
+        "e Adventures of Paul Marcincus. To Quiet Matters, Cardinal Agostino Casaroli, the Vatican's Secretary of State, proposed the c",
+        "ommunication of anyone who joins a Masonic Lodge, Cardinal Agostino Casaroli remained the Vatican Secretary of State until his"
+      ],
+      "confidence": 0.8
+    },
+    "Bernardo Buzanetti": {
+      "name": "Bernardo Buzanetti",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 76,
+      "roles": [],
+      "affiliations": [],
+      "contexts": [
+        "one who wasn't intent on reading. The physician, Dr. Bernardo Buzanetti, who hastened to the Pope's room, verified the de"
+      ],
+      "confidence": 0.8
+    },
+    "Carlo Fritzario": {
+      "name": "Carlo Fritzario",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 76,
+      "roles": [],
+      "affiliations": [],
+      "contexts": [
+        "e had absolutely no cardiopathic characteristics, Dr. Carlo Fritzario said. Besides, his low blood pressure should, in",
+        "d absolutely no cardiopathic characteristics, Dr. Carlo Fritzario said. Besides, his low blood pressure should, in"
+      ],
+      "confidence": 0.8
+    },
+    "Antonio": {
+      "name": "Antonio",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 76,
+      "roles": [],
+      "affiliations": [],
+      "contexts": [
+        "influenza attack. This diagnosis was verified by Dr. Antonio DaRoz, who examined the Pope on Saturday, Septemb"
+      ],
+      "confidence": 0.8
+    },
+    "Christian Barnard": {
+      "name": "Christian Barnard",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 76,
+      "roles": [],
+      "affiliations": [],
+      "contexts": [
+        "heart specialists throughout the world, including Dr. Christian Barnard of South Africa and Dr. Seamus Bunim of London, t"
+      ],
+      "confidence": 0.8
+    },
+    "Seamus Bunim": {
+      "name": "Seamus Bunim",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 76,
+      "roles": [],
+      "affiliations": [],
+      "contexts": [
+        "cluding Dr. Christian Barnard of South Africa and Dr. Seamus Bunim of London, took to task Dr. Butzanetti's diagnosi"
+      ],
+      "confidence": 0.8
+    },
+    "Butzanetti": {
+      "name": "Butzanetti",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 76,
+      "roles": [],
+      "affiliations": [],
+      "contexts": [
+        "rica and Dr. Seamus Bunim of London, took to task Dr. Butzanetti's diagnosis of myocardial infarction without cond"
+      ],
+      "confidence": 0.8
+    },
+    "Ciri": {
+      "name": "Ciri",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 76,
+      "roles": [
+        "progressive Cardinal Benelli or the conservative Cardinal Ciri"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "progressive Cardinal Benelli or the conservative Cardinal Ciri. They were stunned to hear the name of Wojtyla. E"
+      ],
+      "confidence": 0.8
+    },
+    "Stefan Wojcinski": {
+      "name": "Stefan Wojcinski",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 76,
+      "roles": [
+        "o elect a pole, such as the famous anti-communist Cardinal Stefan Wojcinski, but quite another to el"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "o elect a pole, such as the famous anti-communist Cardinal Stefan Wojcinski, but quite another to elect one about whom so lit"
+      ],
+      "confidence": 0.8
+    },
+    "Mujahideen": {
+      "name": "Mujahideen",
+      "entity_type": "organization",
+      "aliases": [],
+      "mention_count": 11,
+      "first_appearance_line": 78,
+      "roles": [],
+      "affiliations": [
+        "CIA",
+        "Al-Qaeda",
+        "Mujahideen"
+      ],
+      "contexts": [
+        "ear before the Soviet invasion, Hekmachar and his Mujahideen, holy warriors, burned universities and girls' sc",
+        "s and a network of laboratories was set up by the Mujahideen along the Afghan-Pakistan border. The morphine ba",
+        "issued a memorandum making clear its stake in the Mujahideen. The United States' larger interest would be serv",
+        "uniquely capable of carrying the munitions to the Mujahideen in the mountains. To make matters worse, the Holy",
+        "Angola, and from the Contras in Nicaragua to the Mujahideen in Afghanistan and Central Asia. In 1981, Count A",
+        "'s share of this business was used to finance the Mujahideen in Afghanistan, the guerrilla forces in Angola, t",
+        "remained devoutly Islamic, were supportive of the Mujahideen in their struggle against their communist overlor",
+        "mps set up by Jilani, had joined the ranks of the Mujahideen in Afghanistan, and that several had been killed",
+        "he Al-Qaeda cell. To provide more support for the Mujahideen, the CIA used Abdullah Azam, Osama bin Laden's me",
+        "ajor terrorist incident by Chechen rebels and the Mujahideen against Russia. Between 1996 and 2002, we, the Un"
+      ],
+      "confidence": 0.8
+    },
+    "Osama bin Laden": {
+      "name": "Osama bin Laden",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 80,
+      "roles": [
+        "lestinian terrorist Abu Nidal, al-Qaeda chieftain Osama bin Laden, Liberian president Samuel Doe, an"
+      ],
+      "affiliations": [
+        "CIA",
+        "Al-Qaeda",
+        "Mujahideen"
+      ],
+      "contexts": [
+        "lestinian terrorist Abu Nidal, al-Qaeda chieftain Osama bin Laden, Liberian president Samuel Doe, and leading membe",
+        "t for the Mujahideen, the CIA used Abdullah Azam, Osama bin Laden's mentor, to set up a cell of Al-Qaeda within Mas"
+      ],
+      "confidence": 0.8
+    },
+    "Mersinkis": {
+      "name": "Mersinkis",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 82,
+      "roles": [
+        "lvi, the head of Banco Ambrosiano, and in turn to Archbishop Mersinkis of the IOR"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "lvi, the head of Banco Ambrosiano, and in turn to Archbishop Mersinkis of the IOR. At the close of 1975, Urlu, Telenc an"
+      ],
+      "confidence": 0.8
+    },
+    "Dewey Claridge": {
+      "name": "Dewey Claridge",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 82,
+      "roles": [
+        "Dwayne Dewey Claridge served as the CIA station chief in Ankara at the"
+      ],
+      "affiliations": [
+        "CIA"
+      ],
+      "contexts": [
+        "base and the probable customer was Israel. Dwayne Dewey Claridge served as the CIA station chief in Ankara at the"
+      ],
+      "confidence": 0.8
+    },
+    "Alfredo Stresner": {
+      "name": "Alfredo Stresner",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 86,
+      "roles": [
+        "het, Bolivia's Hugo P\u00e1ncer Su\u00e1rez, and Paraguay's General Alfredo Stresner"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "het, Bolivia's Hugo P\u00e1ncer Su\u00e1rez, and Paraguay's General Alfredo Stresner. The second purpose. The second purpose of the sc"
+      ],
+      "confidence": 0.8
+    },
+    "Michele Crimi": {
+      "name": "Michele Crimi",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 90,
+      "roles": [],
+      "affiliations": [],
+      "contexts": [
+        "s he learned of Cindona's demands, jelly summoned Dr. Michele Crimi and Cindona to his villa in Arezzo, where he warn"
+      ],
+      "confidence": 0.8
+    },
+    "Giuseppe Caprio": {
+      "name": "Giuseppe Caprio",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 92,
+      "roles": [
+        "men from the Vatican, Archbishop Paul Marcinkus, Cardinal Giuseppe Caprio and Cardinal Sergio Garry,"
+      ],
+      "affiliations": [
+        "Vatican"
+      ],
+      "contexts": [
+        "men from the Vatican, Archbishop Paul Marcinkus, Cardinal Giuseppe Caprio and Cardinal Sergio Garry, would be testifying on"
+      ],
+      "confidence": 0.8
+    },
+    "Sergio Garry": {
+      "name": "Sergio Garry",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 92,
+      "roles": [
+        "shop Paul Marcinkus, Cardinal Giuseppe Caprio and Cardinal Sergio Garry, would be testifying on Sind"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "shop Paul Marcinkus, Cardinal Giuseppe Caprio and Cardinal Sergio Garry, would be testifying on Sindona's behalf, as it w"
+      ],
+      "confidence": 0.8
+    },
+    "Joseph Michele Cremi": {
+      "name": "Joseph Michele Cremi",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 92,
+      "roles": [],
+      "affiliations": [],
+      "contexts": [
+        "was a hoax, the Sicilian police began to question Dr. Joseph Michele Cremi. They knew that Michele Cremi had sheltered Sindo",
+        "y Gambino, Rosario Spatola, Vincenzo Spatola, and Dr. Joseph Michele Cremi were named as unindicted co-conspirators. In the"
+      ],
+      "confidence": 0.8
+    },
+    "Michele Cremi": {
+      "name": "Michele Cremi",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 92,
+      "roles": [],
+      "affiliations": [],
+      "contexts": [
+        "0-mile trip to Arezzo in the midst of the ordeal. Michele Cremi said that he had made the trip to see a dentist,"
+      ],
+      "confidence": 0.8
+    },
+    "Kenan Evren": {
+      "name": "Kenan Evren",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 96,
+      "roles": [
+        "In 1980, General Kenan Evren, the commander of the counter-guerrillas, a Gladi"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "stage than in Turkey. Terror in Turkey. In 1980, General Kenan Evren, the commander of the counter-guerrillas, a Gladi"
+      ],
+      "confidence": 0.8
+    },
+    "PKK": {
+      "name": "PKK",
+      "entity_type": "organization",
+      "aliases": [],
+      "mention_count": 6,
+      "first_appearance_line": 96,
+      "roles": [
+        "t Ayar, to launch a series of attacks against the PKK and to assassinate its leaders"
+      ],
+      "affiliations": [
+        "CIA"
+      ],
+      "contexts": [
+        "f the wolves, the CIA unleashed them to fight the PKK. The Kurdistan Workers Party. Formed in 1978, the",
+        "The Kurdistan Workers Party. Formed in 1978, the PKK sought to establish a Marxist Leninist state in a",
+        "resources to combat the Kurdistan Workers' Party, PKK, a militant group that sought to create an indepe",
+        "t Ayar, to launch a series of attacks against the PKK and to assassinate its leaders. To assist in the",
+        "xists. And they were violent. Clashes between the PKK and the Turkish government had resulted in the de",
+        "lves and the CIA in covert operations against the PKK and other communist groups. His primary contact w"
+      ],
+      "confidence": 0.8000000000000002
+    },
+    "Kurdistan Workers": {
+      "name": "Kurdistan Workers",
+      "entity_type": "organization",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 96,
+      "roles": [],
+      "affiliations": [
+        "CIA"
+      ],
+      "contexts": [
+        "ves, the CIA unleashed them to fight the PKK. The Kurdistan Workers Party. Formed in 1978, the PKK sought to establis",
+        "shal all of the country's resources to combat the Kurdistan Workers' Party, PKK, a militant group that sought to crea"
+      ],
+      "confidence": 0.8
+    },
+    "William Donovan": {
+      "name": "William Donovan",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 98,
+      "roles": [],
+      "affiliations": [],
+      "contexts": [
+        "ted the culmination of the dreams of Alan Dulles, William Donovan, Paul Hellowell, and James Jesus Angleton. Ergeni"
+      ],
+      "confidence": 0.8
+    },
+    "Santo Vito": {
+      "name": "Santo Vito",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 8,
+      "first_appearance_line": 98,
+      "roles": [
+        "in custody, Palermo issued an arrest warrant for General Santo Vito, the head of SISMI",
+        "he jailhouse deaths of Henri Arsane of Stibam and General Santo Vito of SISMI",
+        "m Wilson, Lisa O'Jelly, Father Felix Morleon, and General Santo Vito of SISMI",
+        "n February 3, 1981, for a series of meetings with General Santo Vito",
+        "He was dispatched to serve SISMI General Santo Vito by former NATO Commander and Secretary of State "
+      ],
+      "affiliations": [
+        "NATO"
+      ],
+      "contexts": [
+        "m Wilson, Lisa O'Jelly, Father Felix Morleon, and General Santo Vito of SISMI.",
+        "n February 3, 1981, for a series of meetings with General Santo Vito. The assassination, in keeping with the strategy",
+        "sure. The Bulgarian thesis. In Rome, Shackley and Santo Vito worked with Francesco Patienza, the second in com",
+        "is clandestine meetings with Count de Marange and General Santo Vito. Unexpected visitors. Aoka was sentenced to life",
+        "urprising visitors, including Francesco Pazienza, General Santo Vito, Father Morleyon, members of the Camara, includin",
+        "in custody, Palermo issued an arrest warrant for General Santo Vito, the head of SISMI. Santo Vito was not only the k",
+        "peration Gladio. He was dispatched to serve SISMI General Santo Vito by former NATO Commander and Secretary of State A",
+        "he jailhouse deaths of Henri Arsane of Stibam and General Santo Vito of SISMI. And they could poison the coffee of a c"
+      ],
+      "confidence": 0.8
+    },
+    "Intelligence Administration": {
+      "name": "Intelligence Administration",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 100,
+      "roles": [
+        "ent who also worked in tandem with East Germany's General Intelligence Administration, Hauptverwaltu"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "ent who also worked in tandem with East Germany's General Intelligence Administration, Hauptverwaltung Aufkl\u00e4rung. This enhancement cou"
+      ],
+      "confidence": 0.8
+    },
+    "KGB": {
+      "name": "KGB",
+      "entity_type": "organization",
+      "aliases": [],
+      "mention_count": 4,
+      "first_appearance_line": 100,
+      "roles": [
+        "e Security, CSS, who had been commissioned by the KGB director Yuri Andropov to kill the Holy Father"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "e Security, CSS, who had been commissioned by the KGB director Yuri Andropov to kill the Holy Father. T",
+        "alian prosecutors. He had acted in service to the KGB. The assassination team had included an accountan",
+        "oclaimed his innocence and denied any ties to the KGB or the CSS. The grilling continued with injection",
+        "swing. Claire Stirling published articles on the KGB's involvement in the attempt on John Paul II's li"
+      ],
+      "confidence": 0.8
+    },
+    "Francesco Crucici": {
+      "name": "Francesco Crucici",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 102,
+      "roles": [],
+      "affiliations": [],
+      "contexts": [
+        "ive and six pints of blood. A moment or two later Dr. Francesco Crucici later recalled it would have been too late. One o"
+      ],
+      "confidence": 0.8
+    },
+    "Alberto Dalla Ciesa": {
+      "name": "Alberto Dalla Ciesa",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 114,
+      "roles": [
+        "This exposure prompted General Alberto Dalla Ciesa of the Carabinieri to come to the realization tha"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "ian Democratic government. This exposure prompted General Alberto Dalla Ciesa of the Carabinieri to come to the realization tha"
+      ],
+      "confidence": 0.8
+    },
+    "Dalla Ciesa": {
+      "name": "Dalla Ciesa",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 114,
+      "roles": [
+        "On May 1st, 1982, General Dalla Ciesa arrived in Palermo as the new prefect of Sicily"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "ladio was beginning to unravel. On May 1st, 1982, General Dalla Ciesa arrived in Palermo as the new prefect of Sicily."
+      ],
+      "confidence": 0.8
+    },
+    "Casaroli": {
+      "name": "Casaroli",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 3,
+      "first_appearance_line": 116,
+      "roles": [
+        "political, the resolution would have been made by Cardinal Casaroli, the Secretary of State",
+        "the conversations between the American caller and Cardinal Casaroli",
+        "of documents on the Orlandy case to the office of Cardinal Casaroli"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "the conversations between the American caller and Cardinal Casaroli. The tapes, along with the intercept, mysteriousl",
+        "of documents on the Orlandy case to the office of Cardinal Casaroli. Parisi and his fellow magistrates sent requests",
+        "political, the resolution would have been made by Cardinal Casaroli, the Secretary of State. But the extortion appear"
+      ],
+      "confidence": 0.8000000000000002
+    },
+    "Hugo Polletti": {
+      "name": "Hugo Polletti",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 116,
+      "roles": [
+        "The sale had been engineered by Cardinal Hugo Polletti, the vicar of the diocese of Rome and a membe"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "d at $27 billion. The sale had been engineered by Cardinal Hugo Polletti, the vicar of the diocese of Rome and a member of"
+      ],
+      "confidence": 0.8
+    },
+    "Polletti": {
+      "name": "Polletti",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 116,
+      "roles": [
+        "Thanks to the sale of the villa, Cardinal Polletti emerged as a leading figure in the case of the mi"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "ns from the IOR. Thanks to the sale of the villa, Cardinal Polletti emerged as a leading figure in the case of the mi"
+      ],
+      "confidence": 0.8
+    },
+    "Poletti": {
+      "name": "Poletti",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 3,
+      "first_appearance_line": 116,
+      "roles": [
+        "was in the Banda's custody, worked through P2 and Cardinal Poletti, not to secure Emmanuella's immed",
+        "and ecclesiastical dignitaries was sanctioned by Cardinal Poletti",
+        "pping, the Vatican's attempts at obstruction, and Cardinal Poletti's participation in the payoff"
+      ],
+      "affiliations": [
+        "Vatican",
+        "P2"
+      ],
+      "contexts": [
+        "pping, the Vatican's attempts at obstruction, and Cardinal Poletti's participation in the payoff. Emmanuella, by thi",
+        "was in the Banda's custody, worked through P2 and Cardinal Poletti, not to secure Emmanuella's immediate release, bu",
+        "and ecclesiastical dignitaries was sanctioned by Cardinal Poletti. In 2006, an anonymous caller to Cilla Visto, who"
+      ],
+      "confidence": 0.8000000000000002
+    },
+    "Marcinkas": {
+      "name": "Marcinkas",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 116,
+      "roles": [
+        "Chapter 20 Works of God Archbishop Marcinkas had a beautiful apartment in Rome, very comfortab"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "remain under examination. Chapter 20 Works of God Archbishop Marcinkas had a beautiful apartment in Rome, very comfortab"
+      ],
+      "confidence": 0.8
+    },
+    "Timothy Drew": {
+      "name": "Timothy Drew",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 124,
+      "roles": [
+        "This movement, prompted by such black leaders as Timothy Drew, Noble Drew Ali, Elijah Pool, Elijah M"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "This movement, prompted by such black leaders as Timothy Drew, Noble Drew Ali, Elijah Pool, Elijah Muhammad, an"
+      ],
+      "confidence": 0.8
+    },
+    "Malcolm X": {
+      "name": "Malcolm X",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 124,
+      "roles": [],
+      "affiliations": [],
+      "contexts": [
+        "Elijah Pool, Elijah Muhammad, and Malcolm Little, Malcolm X, had given rise to hundreds of mosques within Ame"
+      ],
+      "confidence": 0.8
+    },
+    "Abdullah Azam": {
+      "name": "Abdullah Azam",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 124,
+      "roles": [],
+      "affiliations": [
+        "CIA",
+        "Mujahideen"
+      ],
+      "contexts": [
+        "ide more support for the Mujahideen, the CIA used Abdullah Azam, Osama bin Laden's mentor, to set up a cell of Al"
+      ],
+      "confidence": 0.8
+    },
+    "Felice Casson": {
+      "name": "Felice Casson",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 124,
+      "roles": [],
+      "affiliations": [],
+      "contexts": [
+        "is much higher. The rest went into hiding. Judge Felice Casson, member of the Gladio Commission, of the United S"
+      ],
+      "confidence": 0.8
+    },
+    "Arthur Rouse": {
+      "name": "Arthur Rouse",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 124,
+      "roles": [],
+      "affiliations": [],
+      "contexts": [
+        "ends and costs of our national security policies. Arthur Rouse, Gladio, the secret U.S. war to subvert Italian d"
+      ],
+      "confidence": 0.8
+    },
+    "Jose Sanchez Asiain": {
+      "name": "Jose Sanchez Asiain",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 124,
+      "roles": [
+        "Jose Sanchez Asiain, former chairman of Banco Bilbao, Thomas Pitzker,"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "resident was Philippe Devec. The other three were Dr. Jose Sanchez Asiain, former chairman of Banco Bilbao, Thomas Pitzker,"
+      ],
+      "confidence": 0.8
+    },
+    "Vernon": {
+      "name": "Vernon",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 124,
+      "roles": [
+        "Clark, Deputy CIA Director General Vernon A"
+      ],
+      "affiliations": [
+        "CIA"
+      ],
+      "contexts": [
+        "ity Advisor William P. Clark, Deputy CIA Director General Vernon A. Walters, and Count Alexander de Merange, the f"
+      ],
+      "confidence": 0.8
+    },
+    "Mubarak Jilani": {
+      "name": "Mubarak Jilani",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 124,
+      "roles": [],
+      "affiliations": [],
+      "contexts": [
+        "n the Holy War to liberate their Muslim brothers. Sheikh Mubarak Jilani, one of the first of these missionaries to arrive"
+      ],
+      "confidence": 0.8
+    },
+    "Jilani": {
+      "name": "Jilani",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 124,
+      "roles": [],
+      "affiliations": [
+        "CIA"
+      ],
+      "contexts": [
+        "geous to train the new recruits on American soil, Sheikh Jilani, with the help of the CIA, set up paramilitary tr"
+      ],
+      "confidence": 0.8
+    },
+    "Deutsche Bank": {
+      "name": "Deutsche Bank",
+      "entity_type": "organization",
+      "aliases": [],
+      "mention_count": 2,
+      "first_appearance_line": 124,
+      "roles": [
+        "ute replacement for Hermann Habs, the head of the Deutsche Bank and Pitzger's boss",
+        "f Banco Bilbao, Thomas Pitzker, a director of the Deutsche Bank, and Thomas Misiosi, an American bus"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "f Banco Bilbao, Thomas Pitzker, a director of the Deutsche Bank, and Thomas Misiosi, an American businessman. The",
+        "ute replacement for Hermann Habs, the head of the Deutsche Bank and Pitzger's boss. Habs had been forced to resig"
+      ],
+      "confidence": 0.8
+    },
+    "Al-Qaeda": {
+      "name": "Al-Qaeda",
+      "entity_type": "organization",
+      "aliases": [],
+      "mention_count": 3,
+      "first_appearance_line": 124,
+      "roles": [
+        "uld testify that they were agents of the CIA"
+      ],
+      "affiliations": [
+        "CIA",
+        "Al-Qaeda",
+        "Mujahideen"
+      ],
+      "contexts": [
+        "uld testify that they were agents of the CIA. The Al-Qaeda cell. To provide more support for the Mujahideen,",
+        "am, Osama bin Laden's mentor, to set up a cell of Al-Qaeda within Masjid Al-Farouq on Atlantic Avenue in Bro",
+        "nue in Brooklyn, New York. The cell, known as the Al-Qaeda cell,"
+      ],
+      "confidence": 0.8000000000000002
+    },
+    "Malcolm Byrne": {
+      "name": "Malcolm Byrne",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 128,
+      "roles": [
+        "On April 15, 1991, Malcolm Byrne, deputy director of the National Security Archive"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "o's necessity. The Stone Wall. On April 15, 1991, Malcolm Byrne, deputy director of the National Security Archive"
+      ],
+      "confidence": 0.8
+    },
+    "Fiorenzo Angelini": {
+      "name": "Fiorenzo Angelini",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 128,
+      "roles": [
+        "Cardinal Fiorenzo Angelini, upon learning the news, compared Andriotti to Je"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "I expressed its contempt of the court's decision. Cardinal Fiorenzo Angelini, upon learning the news, compared Andriotti to Je"
+      ],
+      "confidence": 0.8
+    },
+    "Camillo Ruini": {
+      "name": "Camillo Ruini",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 128,
+      "roles": [
+        "Cardinal Camillo Ruini, head of the Italian bishops' conference and a ke"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "t the verdict can only be rejected by good sense. Cardinal Camillo Ruini, head of the Italian bishops' conference and a ke"
+      ],
+      "confidence": 0.8
+    },
+    "Sayedi Kourdi": {
+      "name": "Sayedi Kourdi",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 132,
+      "roles": [],
+      "affiliations": [],
+      "contexts": [
+        "ralized bank. Gulen was a student and follower of Sheikh Sayedi Kourdi, 1878 to 1960, also known as Sayedi Norsi, the fo"
+      ],
+      "confidence": 0.8
+    },
+    "Hugo Poletti": {
+      "name": "Hugo Poletti",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 138,
+      "roles": [
+        "Cardinal Hugo Poletti held his position as President of the Preservatio"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "tican Secretary of State until his death in 1989. Cardinal Hugo Poletti held his position as President of the Preservatio"
+      ],
+      "confidence": 0.8
+    },
+    "Leo Swaynans": {
+      "name": "Leo Swaynans",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 138,
+      "roles": [
+        "n of the Faith and of the Liturgical Academy, and Cardinal Leo Swaynans stayed on as Protector of th"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "n of the Faith and of the Liturgical Academy, and Cardinal Leo Swaynans stayed on as Protector of the Church of St. Peter"
+      ],
+      "confidence": 0.8
+    },
+    "Giuseppe Ferrioli": {
+      "name": "Giuseppe Ferrioli",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 138,
+      "roles": [
+        "Archbishop Giuseppe Ferrioli, who was a member of the Second Congregation of P",
+        "chbishop of Siena Colle di Val del Sa Montalcino"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "chbishop of Siena Colle di Val del Sa Montalcino. Archbishop Giuseppe Ferrioli, who was a member of the Second Congregation of P"
+      ],
+      "confidence": 0.8
+    },
+    "Priest": {
+      "name": "Priest",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 138,
+      "roles": [
+        "o, climbed the ecclesiastical ladder to emerge as Cardinal Priest of Saint Ignatio de Loyola a Campo"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "o, climbed the ecclesiastical ladder to emerge as Cardinal Priest of Saint Ignatio de Loyola a Campo Marzio. Father"
+      ],
+      "confidence": 0.8
+    },
+    "Cormac Murphy": {
+      "name": "Cormac Murphy",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 140,
+      "roles": [
+        "Britain, according to Cardinal Cormac Murphy O'Connor, the head of the Catholic Church in Engl"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "oorly educated rural women. Britain, according to Cardinal Cormac Murphy O'Connor, the head of the Catholic Church in Engl"
+      ],
+      "confidence": 0.8
+    },
+    "Keith": {
+      "name": "Keith",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 140,
+      "roles": [
+        "Cardinal Keith O'Brien, the country's head prelate, said, There"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "cs in Scotland attended mass with any regularity. Cardinal Keith O'Brien, the country's head prelate, said, There"
+      ],
+      "confidence": 0.8
+    },
+    "Joseph Ratzinger": {
+      "name": "Joseph Ratzinger",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 140,
+      "roles": [
+        "Cardinal Joseph Ratzinger, John Paul II's spokesman, said, It has to do wit"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "sist that the abusers were, in fact, the victims. Cardinal Joseph Ratzinger, John Paul II's spokesman, said, It has to do wit"
+      ],
+      "confidence": 0.8
+    },
+    "Bernard Francis Law": {
+      "name": "Bernard Francis Law",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 140,
+      "roles": [
+        "he Pope's greatest chains was giving sanctuary to Cardinal Bernard Francis Law, a horrendous enabler"
+      ],
+      "affiliations": [],
+      "contexts": [
+        "he Pope's greatest chains was giving sanctuary to Cardinal Bernard Francis Law, a horrendous enabler of child abuse who resigned"
+      ],
+      "confidence": 0.8
+    },
+    "Ratzinger": {
+      "name": "Ratzinger",
+      "entity_type": "person",
+      "aliases": [],
+      "mention_count": 1,
+      "first_appearance_line": 140,
+      "roles": [
+        "the Vatican Bank remained a magnet for notoriety, Cardinal Ratzinger, who ascended to the papal thro"
+      ],
+      "affiliations": [
+        "Vatican"
+      ],
+      "contexts": [
+        "the Vatican Bank remained a magnet for notoriety, Cardinal Ratzinger, who ascended to the papal throne as Benedict XVI"
+      ],
+      "confidence": 0.8
+    }
+  }
+}

@@ -1,0 +1,113 @@
+# Sherlock: Local-First Deep Research System - Dependencies
+# Python 3.10+ required
+
+# ============================================================================
+# CLI Framework
+# ============================================================================
+typer[all]>=0.9.0          # Rich CLI framework with colors and tables
+rich>=13.5.0               # Beautiful terminal formatting
+
+# ============================================================================
+# Database
+# ============================================================================
+sqlalchemy>=2.0.21         # ORM and database abstraction
+alembic>=1.12.0            # Database migrations
+psycopg2-binary>=2.9.9     # PostgreSQL adapter (optional, for pgvector)
+pgvector>=0.2.3            # PostgreSQL vector similarity (optional)
+
+# ============================================================================
+# Speech Recognition & Diarization
+# ============================================================================
+faster-whisper>=0.10.0     # CPU-optimized Whisper (CTranslate2 backend)
+webrtcvad>=2.0.10          # Voice activity detection
+resemblyzer>=0.1.3         # Speaker embedding generation
+
+# Audio processing
+pydub>=0.25.1              # Audio manipulation
+soundfile>=0.12.1          # Audio file I/O
+
+# Clustering for unsupervised diarization
+hdbscan>=0.8.33            # Density-based clustering
+scikit-learn>=1.3.0        # Machine learning utilities
+
+# ============================================================================
+# Video & Audio Ingest
+# ============================================================================
+yt-dlp>=2023.7.6           # YouTube downloader (actively maintained fork of youtube-dl)
+ffmpeg-python>=0.2.0       # FFmpeg wrapper for audio/video processing
+
+# ============================================================================
+# Document Processing
+# ============================================================================
+pdfminer.six>=20221105     # PDF text extraction
+pypdf2>=3.0.1              # PDF manipulation
+pytesseract>=0.3.10        # OCR (requires tesseract system package)
+pillow>=10.0.0             # Image processing
+
+# ============================================================================
+# Natural Language Processing (Optional, for future semantic search)
+# ============================================================================
+transformers>=4.33.0       # Hugging Face transformers for embeddings
+torch>=2.0.1               # PyTorch (CPU-only sufficient)
+sentence-transformers>=2.2.2  # Sentence embeddings for semantic search
+
+# ============================================================================
+# Data Validation & Serialization
+# ============================================================================
+pydantic>=2.3.0            # Data validation and settings management
+orjson>=3.9.0              # Fast JSON parsing/serialization
+
+# ============================================================================
+# Utilities
+# ============================================================================
+python-dotenv>=1.0.0       # Environment variable management
+tqdm>=4.66.0               # Progress bars
+click>=8.1.0               # Command-line utilities (used by typer)
+
+# ============================================================================
+# Testing & Development
+# ============================================================================
+pytest>=7.4.2              # Testing framework
+pytest-cov>=4.1.0          # Coverage reporting
+ruff>=0.0.292              # Fast Python linter and formatter
+ipython>=8.15.0            # Interactive Python shell
+
+# ============================================================================
+# J5A Integration
+# ============================================================================
+# Note: J5A is a separate system with its own dependencies.
+# Sherlock communicates with J5A via shared database tables (j5a_handoff).
+# No direct Python dependencies required for J5A integration.
+
+# ============================================================================
+# System Requirements (not installable via pip)
+# ============================================================================
+# - ffmpeg (audio/video processing): sudo apt-get install ffmpeg
+# - tesseract-ocr (OCR): sudo apt-get install tesseract-ocr
+# - espeak-ng (optional, for TTS testing): sudo apt-get install espeak-ng
+
+# ============================================================================
+# Platform Notes
+# ============================================================================
+# - Tested on Linux Mint MATE (Ubuntu 22.04 base)
+# - CPU-only operation (no GPU required)
+# - Memory: 16GB RAM recommended, 3.0GB per process limit (J5A constraint)
+# - Python 3.10+ required for modern type hints and pattern matching
+
+# ============================================================================
+# Installation
+# ============================================================================
+# Standard installation:
+#   python3 -m venv venv
+#   source venv/bin/activate
+#   pip install --upgrade pip
+#   pip install -r requirements.txt
+#
+# Development installation (includes testing/linting):
+#   pip install -r requirements.txt
+#   pip install pytest ruff ipython
+#
+# Optional PostgreSQL + pgvector (for semantic search):
+#   sudo apt-get install postgresql postgresql-contrib
+#   sudo -u postgres psql -c "CREATE EXTENSION vector;"
+#   pip install psycopg2-binary pgvector

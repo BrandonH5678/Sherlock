@@ -1,0 +1,9 @@
+{
+  "claims": [
+    {
+      "claim_text": "Mock claim about Allen Dulles",
+      "confidence": 0.5,
+      "source_chunk": 0
+    }
+  ]
+}

@@ -1,0 +1,4682 @@
+{
+  "batch_id": 1,
+  "event_count": 275,
+  "events": [
+    {
+      "event_id": "event_50_0",
+      "year": 1977,
+      "month": null,
+      "day": null,
+      "time_description": "1977",
+      "event_description": "behind Army counter-guerrilla, General Keenan-Evron and the Grey Wolves, Turkey's Gladio unit, initiated yet another successful military coup to seize control of the government. Like Italy, Turkey rem",
+      "entities_involved": [
+        "P2",
+        "Grey Wolves",
+        "Alberto",
+        "Vatican",
+        "Emilio Marcera"
+      ],
+      "line_number": 50,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_1",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "behind Army counter-guerrilla, General Keenan-Evron and the Grey Wolves, Turkey's Gladio unit, initiated yet another successful military coup to seize control of the government. Like Italy, Turkey rem",
+      "entities_involved": [
+        "P2",
+        "Grey Wolves",
+        "Alberto",
+        "Vatican",
+        "Emilio Marcera"
+      ],
+      "line_number": 50,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_2",
+      "year": 1964,
+      "month": null,
+      "day": null,
+      "time_description": "1964",
+      "event_description": "behind Army counter-guerrilla, General Keenan-Evron and the Grey Wolves, Turkey's Gladio unit, initiated yet another successful military coup to seize control of the government. Like Italy, Turkey rem",
+      "entities_involved": [
+        "P2",
+        "Grey Wolves",
+        "Alberto",
+        "Vatican",
+        "Emilio Marcera"
+      ],
+      "line_number": 50,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_3",
+      "year": 1971,
+      "month": null,
+      "day": null,
+      "time_description": "1971",
+      "event_description": "behind Army counter-guerrilla, General Keenan-Evron and the Grey Wolves, Turkey's Gladio unit, initiated yet another successful military coup to seize control of the government. Like Italy, Turkey rem",
+      "entities_involved": [
+        "P2",
+        "Grey Wolves",
+        "Alberto",
+        "Vatican",
+        "Emilio Marcera"
+      ],
+      "line_number": 50,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_4",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "1969",
+      "event_description": "behind Army counter-guerrilla, General Keenan-Evron and the Grey Wolves, Turkey's Gladio unit, initiated yet another successful military coup to seize control of the government. Like Italy, Turkey rem",
+      "entities_involved": [
+        "P2",
+        "Grey Wolves",
+        "Alberto",
+        "Vatican",
+        "Emilio Marcera"
+      ],
+      "line_number": 50,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_5",
+      "year": 1974,
+      "month": null,
+      "day": null,
+      "time_description": "1974",
+      "event_description": "behind Army counter-guerrilla, General Keenan-Evron and the Grey Wolves, Turkey's Gladio unit, initiated yet another successful military coup to seize control of the government. Like Italy, Turkey rem",
+      "entities_involved": [
+        "P2",
+        "Grey Wolves",
+        "Alberto",
+        "Vatican",
+        "Emilio Marcera"
+      ],
+      "line_number": 50,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_6",
+      "year": 1967,
+      "month": null,
+      "day": null,
+      "time_description": "1967",
+      "event_description": "behind Army counter-guerrilla, General Keenan-Evron and the Grey Wolves, Turkey's Gladio unit, initiated yet another successful military coup to seize control of the government. Like Italy, Turkey rem",
+      "entities_involved": [
+        "P2",
+        "Grey Wolves",
+        "Alberto",
+        "Vatican",
+        "Emilio Marcera"
+      ],
+      "line_number": 50,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_7",
+      "year": 1974,
+      "month": null,
+      "day": null,
+      "time_description": "1974",
+      "event_description": "behind Army counter-guerrilla, General Keenan-Evron and the Grey Wolves, Turkey's Gladio unit, initiated yet another successful military coup to seize control of the government. Like Italy, Turkey rem",
+      "entities_involved": [
+        "P2",
+        "Grey Wolves",
+        "Alberto",
+        "Vatican",
+        "Emilio Marcera"
+      ],
+      "line_number": 50,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_8",
+      "year": 1975,
+      "month": null,
+      "day": null,
+      "time_description": "1975",
+      "event_description": "behind Army counter-guerrilla, General Keenan-Evron and the Grey Wolves, Turkey's Gladio unit, initiated yet another successful military coup to seize control of the government. Like Italy, Turkey rem",
+      "entities_involved": [
+        "P2",
+        "Grey Wolves",
+        "Alberto",
+        "Vatican",
+        "Emilio Marcera"
+      ],
+      "line_number": 50,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_9",
+      "year": 1968,
+      "month": null,
+      "day": null,
+      "time_description": "1968",
+      "event_description": "behind Army counter-guerrilla, General Keenan-Evron and the Grey Wolves, Turkey's Gladio unit, initiated yet another successful military coup to seize control of the government. Like Italy, Turkey rem",
+      "entities_involved": [
+        "P2",
+        "Grey Wolves",
+        "Alberto",
+        "Vatican",
+        "Emilio Marcera"
+      ],
+      "line_number": 50,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_10",
+      "year": 1950,
+      "month": null,
+      "day": null,
+      "time_description": "the 1950s",
+      "event_description": "behind Army counter-guerrilla, General Keenan-Evron and the Grey Wolves, Turkey's Gladio unit, initiated yet another successful military coup to seize control of the government. Like Italy, Turkey rem",
+      "entities_involved": [
+        "P2",
+        "Grey Wolves",
+        "Alberto",
+        "Vatican",
+        "Emilio Marcera"
+      ],
+      "line_number": 50,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_11",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "1969",
+      "event_description": "the day they declared was not economic development but political oppression. What's more, in an official proclamation known as the Medellin document, the clerics declared that violence is sometimes ne",
+      "entities_involved": [
+        "Alfonso Lopez Trujillo",
+        "Angelo Sodano",
+        "Banco Ambrosiano",
+        "Roberto Calvi",
+        "Vatican"
+      ],
+      "line_number": 52,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_12",
+      "year": 1971,
+      "month": null,
+      "day": null,
+      "time_description": "1971",
+      "event_description": "the day they declared was not economic development but political oppression. What's more, in an official proclamation known as the Medellin document, the clerics declared that violence is sometimes ne",
+      "entities_involved": [
+        "Alfonso Lopez Trujillo",
+        "Angelo Sodano",
+        "Banco Ambrosiano",
+        "Roberto Calvi",
+        "Vatican"
+      ],
+      "line_number": 52,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_13",
+      "year": 1998,
+      "month": null,
+      "day": null,
+      "time_description": "1998",
+      "event_description": "the day they declared was not economic development but political oppression. What's more, in an official proclamation known as the Medellin document, the clerics declared that violence is sometimes ne",
+      "entities_involved": [
+        "Alfonso Lopez Trujillo",
+        "Angelo Sodano",
+        "Banco Ambrosiano",
+        "Roberto Calvi",
+        "Vatican"
+      ],
+      "line_number": 52,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_14",
+      "year": 2005,
+      "month": null,
+      "day": null,
+      "time_description": "2005",
+      "event_description": "the day they declared was not economic development but political oppression. What's more, in an official proclamation known as the Medellin document, the clerics declared that violence is sometimes ne",
+      "entities_involved": [
+        "Alfonso Lopez Trujillo",
+        "Angelo Sodano",
+        "Banco Ambrosiano",
+        "Roberto Calvi",
+        "Vatican"
+      ],
+      "line_number": 52,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_15",
+      "year": 1975,
+      "month": null,
+      "day": null,
+      "time_description": "1975",
+      "event_description": "the day they declared was not economic development but political oppression. What's more, in an official proclamation known as the Medellin document, the clerics declared that violence is sometimes ne",
+      "entities_involved": [
+        "Alfonso Lopez Trujillo",
+        "Angelo Sodano",
+        "Banco Ambrosiano",
+        "Roberto Calvi",
+        "Vatican"
+      ],
+      "line_number": 52,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_16",
+      "year": 1971,
+      "month": null,
+      "day": null,
+      "time_description": "1971",
+      "event_description": "the day they declared was not economic development but political oppression. What's more, in an official proclamation known as the Medellin document, the clerics declared that violence is sometimes ne",
+      "entities_involved": [
+        "Alfonso Lopez Trujillo",
+        "Angelo Sodano",
+        "Banco Ambrosiano",
+        "Roberto Calvi",
+        "Vatican"
+      ],
+      "line_number": 52,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_17",
+      "year": 1974,
+      "month": null,
+      "day": null,
+      "time_description": "1974",
+      "event_description": "the day they declared was not economic development but political oppression. What's more, in an official proclamation known as the Medellin document, the clerics declared that violence is sometimes ne",
+      "entities_involved": [
+        "Alfonso Lopez Trujillo",
+        "Angelo Sodano",
+        "Banco Ambrosiano",
+        "Roberto Calvi",
+        "Vatican"
+      ],
+      "line_number": 52,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_18",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "1980",
+      "event_description": "the day they declared was not economic development but political oppression. What's more, in an official proclamation known as the Medellin document, the clerics declared that violence is sometimes ne",
+      "entities_involved": [
+        "Alfonso Lopez Trujillo",
+        "Angelo Sodano",
+        "Banco Ambrosiano",
+        "Roberto Calvi",
+        "Vatican"
+      ],
+      "line_number": 52,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_19",
+      "year": 1975,
+      "month": null,
+      "day": null,
+      "time_description": "1975",
+      "event_description": "the day they declared was not economic development but political oppression. What's more, in an official proclamation known as the Medellin document, the clerics declared that violence is sometimes ne",
+      "entities_involved": [
+        "Alfonso Lopez Trujillo",
+        "Angelo Sodano",
+        "Banco Ambrosiano",
+        "Roberto Calvi",
+        "Vatican"
+      ],
+      "line_number": 52,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_20",
+      "year": 1996,
+      "month": null,
+      "day": null,
+      "time_description": "1996",
+      "event_description": "the day they declared was not economic development but political oppression. What's more, in an official proclamation known as the Medellin document, the clerics declared that violence is sometimes ne",
+      "entities_involved": [
+        "Alfonso Lopez Trujillo",
+        "Angelo Sodano",
+        "Banco Ambrosiano",
+        "Roberto Calvi",
+        "Vatican"
+      ],
+      "line_number": 52,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_21",
+      "year": 1970,
+      "month": null,
+      "day": null,
+      "time_description": "early 1970s",
+      "event_description": "the day they declared was not economic development but political oppression. What's more, in an official proclamation known as the Medellin document, the clerics declared that violence is sometimes ne",
+      "entities_involved": [
+        "Alfonso Lopez Trujillo",
+        "Angelo Sodano",
+        "Banco Ambrosiano",
+        "Roberto Calvi",
+        "Vatican"
+      ],
+      "line_number": 52,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_22",
+      "year": 1970,
+      "month": null,
+      "day": null,
+      "time_description": "the 1970s",
+      "event_description": "the day they declared was not economic development but political oppression. What's more, in an official proclamation known as the Medellin document, the clerics declared that violence is sometimes ne",
+      "entities_involved": [
+        "Alfonso Lopez Trujillo",
+        "Angelo Sodano",
+        "Banco Ambrosiano",
+        "Roberto Calvi",
+        "Vatican"
+      ],
+      "line_number": 52,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_23",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "1976",
+      "event_description": "institutionally elected governments. The plan gave rise to a series of clerical assassinations culminating in the murder of Archbishop Oscar Arnulfo Romero, a leading proponent of liberation theology.",
+      "entities_involved": [
+        "Raul Francisco Primatesta",
+        "Carter",
+        "Jorge Vidalha",
+        "Tortolo",
+        "Videl"
+      ],
+      "line_number": 54,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_24",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "1976",
+      "event_description": "institutionally elected governments. The plan gave rise to a series of clerical assassinations culminating in the murder of Archbishop Oscar Arnulfo Romero, a leading proponent of liberation theology.",
+      "entities_involved": [
+        "Raul Francisco Primatesta",
+        "Carter",
+        "Jorge Vidalha",
+        "Tortolo",
+        "Videl"
+      ],
+      "line_number": 54,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_25",
+      "year": 1983,
+      "month": null,
+      "day": null,
+      "time_description": "1983",
+      "event_description": "institutionally elected governments. The plan gave rise to a series of clerical assassinations culminating in the murder of Archbishop Oscar Arnulfo Romero, a leading proponent of liberation theology.",
+      "entities_involved": [
+        "Raul Francisco Primatesta",
+        "Carter",
+        "Jorge Vidalha",
+        "Tortolo",
+        "Videl"
+      ],
+      "line_number": 54,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_26",
+      "year": 1977,
+      "month": null,
+      "day": null,
+      "time_description": "1977",
+      "event_description": "institutionally elected governments. The plan gave rise to a series of clerical assassinations culminating in the murder of Archbishop Oscar Arnulfo Romero, a leading proponent of liberation theology.",
+      "entities_involved": [
+        "Raul Francisco Primatesta",
+        "Carter",
+        "Jorge Vidalha",
+        "Tortolo",
+        "Videl"
+      ],
+      "line_number": 54,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_27",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "1976",
+      "event_description": "institutionally elected governments. The plan gave rise to a series of clerical assassinations culminating in the murder of Archbishop Oscar Arnulfo Romero, a leading proponent of liberation theology.",
+      "entities_involved": [
+        "Raul Francisco Primatesta",
+        "Carter",
+        "Jorge Vidalha",
+        "Tortolo",
+        "Videl"
+      ],
+      "line_number": 54,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_28",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "institutionally elected governments. The plan gave rise to a series of clerical assassinations culminating in the murder of Archbishop Oscar Arnulfo Romero, a leading proponent of liberation theology.",
+      "entities_involved": [
+        "Raul Francisco Primatesta",
+        "Carter",
+        "Jorge Vidalha",
+        "Tortolo",
+        "Videl"
+      ],
+      "line_number": 54,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_29",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "1976",
+      "event_description": "institutionally elected governments. The plan gave rise to a series of clerical assassinations culminating in the murder of Archbishop Oscar Arnulfo Romero, a leading proponent of liberation theology.",
+      "entities_involved": [
+        "Raul Francisco Primatesta",
+        "Carter",
+        "Jorge Vidalha",
+        "Tortolo",
+        "Videl"
+      ],
+      "line_number": 54,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_30",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "1976",
+      "event_description": "institutionally elected governments. The plan gave rise to a series of clerical assassinations culminating in the murder of Archbishop Oscar Arnulfo Romero, a leading proponent of liberation theology.",
+      "entities_involved": [
+        "Raul Francisco Primatesta",
+        "Carter",
+        "Jorge Vidalha",
+        "Tortolo",
+        "Videl"
+      ],
+      "line_number": 54,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_31",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "1976",
+      "event_description": "institutionally elected governments. The plan gave rise to a series of clerical assassinations culminating in the murder of Archbishop Oscar Arnulfo Romero, a leading proponent of liberation theology.",
+      "entities_involved": [
+        "Raul Francisco Primatesta",
+        "Carter",
+        "Jorge Vidalha",
+        "Tortolo",
+        "Videl"
+      ],
+      "line_number": 54,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_32",
+      "year": 1977,
+      "month": null,
+      "day": null,
+      "time_description": "1977",
+      "event_description": "institutionally elected governments. The plan gave rise to a series of clerical assassinations culminating in the murder of Archbishop Oscar Arnulfo Romero, a leading proponent of liberation theology.",
+      "entities_involved": [
+        "Raul Francisco Primatesta",
+        "Carter",
+        "Jorge Vidalha",
+        "Tortolo",
+        "Videl"
+      ],
+      "line_number": 54,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_33",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "1976",
+      "event_description": "institutionally elected governments. The plan gave rise to a series of clerical assassinations culminating in the murder of Archbishop Oscar Arnulfo Romero, a leading proponent of liberation theology.",
+      "entities_involved": [
+        "Raul Francisco Primatesta",
+        "Carter",
+        "Jorge Vidalha",
+        "Tortolo",
+        "Videl"
+      ],
+      "line_number": 54,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_34",
+      "year": 2013,
+      "month": null,
+      "day": null,
+      "time_description": "March 17, 2013",
+      "event_description": "The bodies were burned daily, at 5.30 in the afternoon, usually after having been cut up with a circular saw. Eventually the E.S. MA officials hit upon the idea of aerial disposal at sea. The dead wer",
+      "entities_involved": [
+        "Father Iorio",
+        "Videl",
+        "Vatican",
+        "Jorge Videl",
+        "Secretary"
+      ],
+      "line_number": 56,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_35",
+      "year": 2013,
+      "month": null,
+      "day": null,
+      "time_description": "March 13, 2013",
+      "event_description": "The bodies were burned daily, at 5.30 in the afternoon, usually after having been cut up with a circular saw. Eventually the E.S. MA officials hit upon the idea of aerial disposal at sea. The dead wer",
+      "entities_involved": [
+        "Father Iorio",
+        "Videl",
+        "Vatican",
+        "Jorge Videl",
+        "Secretary"
+      ],
+      "line_number": 56,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_36",
+      "year": 1985,
+      "month": null,
+      "day": null,
+      "time_description": "1985",
+      "event_description": "The bodies were burned daily, at 5.30 in the afternoon, usually after having been cut up with a circular saw. Eventually the E.S. MA officials hit upon the idea of aerial disposal at sea. The dead wer",
+      "entities_involved": [
+        "Father Iorio",
+        "Videl",
+        "Vatican",
+        "Jorge Videl",
+        "Secretary"
+      ],
+      "line_number": 56,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_37",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "1976",
+      "event_description": "The bodies were burned daily, at 5.30 in the afternoon, usually after having been cut up with a circular saw. Eventually the E.S. MA officials hit upon the idea of aerial disposal at sea. The dead wer",
+      "entities_involved": [
+        "Father Iorio",
+        "Videl",
+        "Vatican",
+        "Jorge Videl",
+        "Secretary"
+      ],
+      "line_number": 56,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_38",
+      "year": 2013,
+      "month": null,
+      "day": null,
+      "time_description": "2013",
+      "event_description": "The bodies were burned daily, at 5.30 in the afternoon, usually after having been cut up with a circular saw. Eventually the E.S. MA officials hit upon the idea of aerial disposal at sea. The dead wer",
+      "entities_involved": [
+        "Father Iorio",
+        "Videl",
+        "Vatican",
+        "Jorge Videl",
+        "Secretary"
+      ],
+      "line_number": 56,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_39",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "1976",
+      "event_description": "The bodies were burned daily, at 5.30 in the afternoon, usually after having been cut up with a circular saw. Eventually the E.S. MA officials hit upon the idea of aerial disposal at sea. The dead wer",
+      "entities_involved": [
+        "Father Iorio",
+        "Videl",
+        "Vatican",
+        "Jorge Videl",
+        "Secretary"
+      ],
+      "line_number": 56,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_40",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "1976",
+      "event_description": "The bodies were burned daily, at 5.30 in the afternoon, usually after having been cut up with a circular saw. Eventually the E.S. MA officials hit upon the idea of aerial disposal at sea. The dead wer",
+      "entities_involved": [
+        "Father Iorio",
+        "Videl",
+        "Vatican",
+        "Jorge Videl",
+        "Secretary"
+      ],
+      "line_number": 56,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_41",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "1976",
+      "event_description": "The bodies were burned daily, at 5.30 in the afternoon, usually after having been cut up with a circular saw. Eventually the E.S. MA officials hit upon the idea of aerial disposal at sea. The dead wer",
+      "entities_involved": [
+        "Father Iorio",
+        "Videl",
+        "Vatican",
+        "Jorge Videl",
+        "Secretary"
+      ],
+      "line_number": 56,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_42",
+      "year": 2007,
+      "month": null,
+      "day": null,
+      "time_description": "2007",
+      "event_description": "The bodies were burned daily, at 5.30 in the afternoon, usually after having been cut up with a circular saw. Eventually the E.S. MA officials hit upon the idea of aerial disposal at sea. The dead wer",
+      "entities_involved": [
+        "Father Iorio",
+        "Videl",
+        "Vatican",
+        "Jorge Videl",
+        "Secretary"
+      ],
+      "line_number": 56,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_43",
+      "year": 2005,
+      "month": null,
+      "day": null,
+      "time_description": "2005",
+      "event_description": "The bodies were burned daily, at 5.30 in the afternoon, usually after having been cut up with a circular saw. Eventually the E.S. MA officials hit upon the idea of aerial disposal at sea. The dead wer",
+      "entities_involved": [
+        "Father Iorio",
+        "Videl",
+        "Vatican",
+        "Jorge Videl",
+        "Secretary"
+      ],
+      "line_number": 56,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_44",
+      "year": 2013,
+      "month": null,
+      "day": null,
+      "time_description": "2013",
+      "event_description": "The bodies were burned daily, at 5.30 in the afternoon, usually after having been cut up with a circular saw. Eventually the E.S. MA officials hit upon the idea of aerial disposal at sea. The dead wer",
+      "entities_involved": [
+        "Father Iorio",
+        "Videl",
+        "Vatican",
+        "Jorge Videl",
+        "Secretary"
+      ],
+      "line_number": 56,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_45",
+      "year": 2013,
+      "month": null,
+      "day": null,
+      "time_description": "2013",
+      "event_description": "included, took place one week following the death of Venezuelan President Hugo Ch\u00e1vez. By the end of 2013 Bergoglio emerged as the most popular cleric on planet Earth, earning an approval rating of ei",
+      "entities_involved": [
+        "Carter",
+        "Mafia",
+        "OSS",
+        "William",
+        "Senate"
+      ],
+      "line_number": 58,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_46",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "included, took place one week following the death of Venezuelan President Hugo Ch\u00e1vez. By the end of 2013 Bergoglio emerged as the most popular cleric on planet Earth, earning an approval rating of ei",
+      "entities_involved": [
+        "Carter",
+        "Mafia",
+        "OSS",
+        "William",
+        "Senate"
+      ],
+      "line_number": 58,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_47",
+      "year": 1948,
+      "month": null,
+      "day": null,
+      "time_description": "1948",
+      "event_description": "included, took place one week following the death of Venezuelan President Hugo Ch\u00e1vez. By the end of 2013 Bergoglio emerged as the most popular cleric on planet Earth, earning an approval rating of ei",
+      "entities_involved": [
+        "Carter",
+        "Mafia",
+        "OSS",
+        "William",
+        "Senate"
+      ],
+      "line_number": 58,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_48",
+      "year": 1953,
+      "month": null,
+      "day": null,
+      "time_description": "1953",
+      "event_description": "included, took place one week following the death of Venezuelan President Hugo Ch\u00e1vez. By the end of 2013 Bergoglio emerged as the most popular cleric on planet Earth, earning an approval rating of ei",
+      "entities_involved": [
+        "Carter",
+        "Mafia",
+        "OSS",
+        "William",
+        "Senate"
+      ],
+      "line_number": 58,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_49",
+      "year": 1954,
+      "month": null,
+      "day": null,
+      "time_description": "1954",
+      "event_description": "included, took place one week following the death of Venezuelan President Hugo Ch\u00e1vez. By the end of 2013 Bergoglio emerged as the most popular cleric on planet Earth, earning an approval rating of ei",
+      "entities_involved": [
+        "Carter",
+        "Mafia",
+        "OSS",
+        "William",
+        "Senate"
+      ],
+      "line_number": 58,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_50",
+      "year": 1957,
+      "month": null,
+      "day": null,
+      "time_description": "1957",
+      "event_description": "included, took place one week following the death of Venezuelan President Hugo Ch\u00e1vez. By the end of 2013 Bergoglio emerged as the most popular cleric on planet Earth, earning an approval rating of ei",
+      "entities_involved": [
+        "Carter",
+        "Mafia",
+        "OSS",
+        "William",
+        "Senate"
+      ],
+      "line_number": 58,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_51",
+      "year": 1961,
+      "month": null,
+      "day": null,
+      "time_description": "1961",
+      "event_description": "included, took place one week following the death of Venezuelan President Hugo Ch\u00e1vez. By the end of 2013 Bergoglio emerged as the most popular cleric on planet Earth, earning an approval rating of ei",
+      "entities_involved": [
+        "Carter",
+        "Mafia",
+        "OSS",
+        "William",
+        "Senate"
+      ],
+      "line_number": 58,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_52",
+      "year": 1974,
+      "month": null,
+      "day": null,
+      "time_description": "1974",
+      "event_description": "included, took place one week following the death of Venezuelan President Hugo Ch\u00e1vez. By the end of 2013 Bergoglio emerged as the most popular cleric on planet Earth, earning an approval rating of ei",
+      "entities_involved": [
+        "Carter",
+        "Mafia",
+        "OSS",
+        "William",
+        "Senate"
+      ],
+      "line_number": 58,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_53",
+      "year": 1974,
+      "month": null,
+      "day": null,
+      "time_description": "1974",
+      "event_description": "included, took place one week following the death of Venezuelan President Hugo Ch\u00e1vez. By the end of 2013 Bergoglio emerged as the most popular cleric on planet Earth, earning an approval rating of ei",
+      "entities_involved": [
+        "Carter",
+        "Mafia",
+        "OSS",
+        "William",
+        "Senate"
+      ],
+      "line_number": 58,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_54",
+      "year": 1972,
+      "month": null,
+      "day": null,
+      "time_description": "1972",
+      "event_description": "included, took place one week following the death of Venezuelan President Hugo Ch\u00e1vez. By the end of 2013 Bergoglio emerged as the most popular cleric on planet Earth, earning an approval rating of ei",
+      "entities_involved": [
+        "Carter",
+        "Mafia",
+        "OSS",
+        "William",
+        "Senate"
+      ],
+      "line_number": 58,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_55",
+      "year": 1961,
+      "month": null,
+      "day": null,
+      "time_description": "1961",
+      "event_description": "included, took place one week following the death of Venezuelan President Hugo Ch\u00e1vez. By the end of 2013 Bergoglio emerged as the most popular cleric on planet Earth, earning an approval rating of ei",
+      "entities_involved": [
+        "Carter",
+        "Mafia",
+        "OSS",
+        "William",
+        "Senate"
+      ],
+      "line_number": 58,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_56",
+      "year": 1950,
+      "month": null,
+      "day": null,
+      "time_description": "the 1950s",
+      "event_description": "included, took place one week following the death of Venezuelan President Hugo Ch\u00e1vez. By the end of 2013 Bergoglio emerged as the most popular cleric on planet Earth, earning an approval rating of ei",
+      "entities_involved": [
+        "Carter",
+        "Mafia",
+        "OSS",
+        "William",
+        "Senate"
+      ],
+      "line_number": 58,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_57",
+      "year": 1972,
+      "month": null,
+      "day": null,
+      "time_description": "March 6, 1972",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_58",
+      "year": 1972,
+      "month": null,
+      "day": null,
+      "time_description": "July 20, 1972",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_59",
+      "year": 1973,
+      "month": null,
+      "day": null,
+      "time_description": "July 22, 1973",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_60",
+      "year": 1972,
+      "month": null,
+      "day": null,
+      "time_description": "1972",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_61",
+      "year": 1953,
+      "month": null,
+      "day": null,
+      "time_description": "1953",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_62",
+      "year": 1961,
+      "month": null,
+      "day": null,
+      "time_description": "1961",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_63",
+      "year": 1964,
+      "month": null,
+      "day": null,
+      "time_description": "1964",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_64",
+      "year": 1968,
+      "month": null,
+      "day": null,
+      "time_description": "1968",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_65",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "1969",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_66",
+      "year": 1973,
+      "month": null,
+      "day": null,
+      "time_description": "1973",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_67",
+      "year": 1963,
+      "month": null,
+      "day": null,
+      "time_description": "1963",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_68",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "1969",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_69",
+      "year": 1949,
+      "month": null,
+      "day": null,
+      "time_description": "1949",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_70",
+      "year": 1953,
+      "month": null,
+      "day": null,
+      "time_description": "1953",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_71",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "1969",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_72",
+      "year": 1973,
+      "month": null,
+      "day": null,
+      "time_description": "1973",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_73",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "1969",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_74",
+      "year": 1971,
+      "month": null,
+      "day": null,
+      "time_description": "1971",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_75",
+      "year": 1963,
+      "month": null,
+      "day": null,
+      "time_description": "1963",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_76",
+      "year": 1977,
+      "month": null,
+      "day": null,
+      "time_description": "1977",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_77",
+      "year": 1970,
+      "month": null,
+      "day": null,
+      "time_description": "1970",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_78",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_79",
+      "year": 1959,
+      "month": null,
+      "day": null,
+      "time_description": "1959",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_80",
+      "year": 1961,
+      "month": null,
+      "day": null,
+      "time_description": "1961",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_81",
+      "year": 1946,
+      "month": null,
+      "day": null,
+      "time_description": "1946",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_82",
+      "year": 1983,
+      "month": null,
+      "day": null,
+      "time_description": "1983",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_83",
+      "year": 1961,
+      "month": null,
+      "day": null,
+      "time_description": "1961",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_84",
+      "year": 1968,
+      "month": null,
+      "day": null,
+      "time_description": "1968",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_85",
+      "year": 1968,
+      "month": null,
+      "day": null,
+      "time_description": "1968",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_86",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_87",
+      "year": 1956,
+      "month": null,
+      "day": null,
+      "time_description": "1956",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_88",
+      "year": 1973,
+      "month": null,
+      "day": null,
+      "time_description": "1973",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_89",
+      "year": 1965,
+      "month": null,
+      "day": null,
+      "time_description": "1965",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_90",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "1969",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_91",
+      "year": 1972,
+      "month": null,
+      "day": null,
+      "time_description": "1972",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_92",
+      "year": 1972,
+      "month": null,
+      "day": null,
+      "time_description": "1972",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_93",
+      "year": 1972,
+      "month": null,
+      "day": null,
+      "time_description": "1972",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_94",
+      "year": 1946,
+      "month": null,
+      "day": null,
+      "time_description": "1946",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_95",
+      "year": 1968,
+      "month": null,
+      "day": null,
+      "time_description": "1968",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_96",
+      "year": 1958,
+      "month": null,
+      "day": null,
+      "time_description": "1958",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_97",
+      "year": 1958,
+      "month": null,
+      "day": null,
+      "time_description": "1958",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_98",
+      "year": 1973,
+      "month": null,
+      "day": null,
+      "time_description": "1973",
+      "event_description": "Five, three different Republicans have occupied the White House for a period of sixteen years. Four Democrats have held this most powerful post for seventeen years. With the exception of the first sev",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "Carter",
+        "Banco Ambrosiano",
+        "OSS"
+      ],
+      "line_number": 60,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_99",
+      "year": 1972,
+      "month": null,
+      "day": null,
+      "time_description": "July 18, 1972",
+      "event_description": "Bigun told the police that he had been forced to fly to the United States and had been transported to several cities, including St. Louis, New Orleans, and Las Vegas, where he was grilled about the so",
+      "entities_involved": [
+        "Wolf",
+        "Carter",
+        "Vatican",
+        "Richard",
+        "CIA"
+      ],
+      "line_number": 62,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_100",
+      "year": 1972,
+      "month": null,
+      "day": null,
+      "time_description": "July 13, 1972",
+      "event_description": "Bigun told the police that he had been forced to fly to the United States and had been transported to several cities, including St. Louis, New Orleans, and Las Vegas, where he was grilled about the so",
+      "entities_involved": [
+        "Wolf",
+        "Carter",
+        "Vatican",
+        "Richard",
+        "CIA"
+      ],
+      "line_number": 62,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_101",
+      "year": 1974,
+      "month": null,
+      "day": null,
+      "time_description": "October 4, 1974",
+      "event_description": "Bigun told the police that he had been forced to fly to the United States and had been transported to several cities, including St. Louis, New Orleans, and Las Vegas, where he was grilled about the so",
+      "entities_involved": [
+        "Wolf",
+        "Carter",
+        "Vatican",
+        "Richard",
+        "CIA"
+      ],
+      "line_number": 62,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_102",
+      "year": 1974,
+      "month": null,
+      "day": null,
+      "time_description": "1974",
+      "event_description": "Bigun told the police that he had been forced to fly to the United States and had been transported to several cities, including St. Louis, New Orleans, and Las Vegas, where he was grilled about the so",
+      "entities_involved": [
+        "Wolf",
+        "Carter",
+        "Vatican",
+        "Richard",
+        "CIA"
+      ],
+      "line_number": 62,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_103",
+      "year": 1972,
+      "month": null,
+      "day": null,
+      "time_description": "1972",
+      "event_description": "Bigun told the police that he had been forced to fly to the United States and had been transported to several cities, including St. Louis, New Orleans, and Las Vegas, where he was grilled about the so",
+      "entities_involved": [
+        "Wolf",
+        "Carter",
+        "Vatican",
+        "Richard",
+        "CIA"
+      ],
+      "line_number": 62,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_104",
+      "year": 1972,
+      "month": null,
+      "day": null,
+      "time_description": "1972",
+      "event_description": "Bigun told the police that he had been forced to fly to the United States and had been transported to several cities, including St. Louis, New Orleans, and Las Vegas, where he was grilled about the so",
+      "entities_involved": [
+        "Wolf",
+        "Carter",
+        "Vatican",
+        "Richard",
+        "CIA"
+      ],
+      "line_number": 62,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_105",
+      "year": 1973,
+      "month": null,
+      "day": null,
+      "time_description": "1973",
+      "event_description": "Bigun told the police that he had been forced to fly to the United States and had been transported to several cities, including St. Louis, New Orleans, and Las Vegas, where he was grilled about the so",
+      "entities_involved": [
+        "Wolf",
+        "Carter",
+        "Vatican",
+        "Richard",
+        "CIA"
+      ],
+      "line_number": 62,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_106",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "1976",
+      "event_description": "Bigun told the police that he had been forced to fly to the United States and had been transported to several cities, including St. Louis, New Orleans, and Las Vegas, where he was grilled about the so",
+      "entities_involved": [
+        "Wolf",
+        "Carter",
+        "Vatican",
+        "Richard",
+        "CIA"
+      ],
+      "line_number": 62,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_107",
+      "year": 1974,
+      "month": null,
+      "day": null,
+      "time_description": "1974",
+      "event_description": "Bigun told the police that he had been forced to fly to the United States and had been transported to several cities, including St. Louis, New Orleans, and Las Vegas, where he was grilled about the so",
+      "entities_involved": [
+        "Wolf",
+        "Carter",
+        "Vatican",
+        "Richard",
+        "CIA"
+      ],
+      "line_number": 62,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_108",
+      "year": 1974,
+      "month": null,
+      "day": null,
+      "time_description": "1974",
+      "event_description": "Bigun told the police that he had been forced to fly to the United States and had been transported to several cities, including St. Louis, New Orleans, and Las Vegas, where he was grilled about the so",
+      "entities_involved": [
+        "Wolf",
+        "Carter",
+        "Vatican",
+        "Richard",
+        "CIA"
+      ],
+      "line_number": 62,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_109",
+      "year": 1975,
+      "month": null,
+      "day": null,
+      "time_description": "1975",
+      "event_description": "Bigun told the police that he had been forced to fly to the United States and had been transported to several cities, including St. Louis, New Orleans, and Las Vegas, where he was grilled about the so",
+      "entities_involved": [
+        "Wolf",
+        "Carter",
+        "Vatican",
+        "Richard",
+        "CIA"
+      ],
+      "line_number": 62,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_110",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "Bigun told the police that he had been forced to fly to the United States and had been transported to several cities, including St. Louis, New Orleans, and Las Vegas, where he was grilled about the so",
+      "entities_involved": [
+        "Wolf",
+        "Carter",
+        "Vatican",
+        "Richard",
+        "CIA"
+      ],
+      "line_number": 62,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_111",
+      "year": 1974,
+      "month": null,
+      "day": null,
+      "time_description": "1974",
+      "event_description": "Bigun told the police that he had been forced to fly to the United States and had been transported to several cities, including St. Louis, New Orleans, and Las Vegas, where he was grilled about the so",
+      "entities_involved": [
+        "Wolf",
+        "Carter",
+        "Vatican",
+        "Richard",
+        "CIA"
+      ],
+      "line_number": 62,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_112",
+      "year": 1970,
+      "month": null,
+      "day": null,
+      "time_description": "1970",
+      "event_description": "Bigun told the police that he had been forced to fly to the United States and had been transported to several cities, including St. Louis, New Orleans, and Las Vegas, where he was grilled about the so",
+      "entities_involved": [
+        "Wolf",
+        "Carter",
+        "Vatican",
+        "Richard",
+        "CIA"
+      ],
+      "line_number": 62,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_113",
+      "year": 1974,
+      "month": null,
+      "day": null,
+      "time_description": "1974",
+      "event_description": "Bigun told the police that he had been forced to fly to the United States and had been transported to several cities, including St. Louis, New Orleans, and Las Vegas, where he was grilled about the so",
+      "entities_involved": [
+        "Wolf",
+        "Carter",
+        "Vatican",
+        "Richard",
+        "CIA"
+      ],
+      "line_number": 62,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_114",
+      "year": 1974,
+      "month": null,
+      "day": null,
+      "time_description": "1974",
+      "event_description": "Bigun told the police that he had been forced to fly to the United States and had been transported to several cities, including St. Louis, New Orleans, and Las Vegas, where he was grilled about the so",
+      "entities_involved": [
+        "Wolf",
+        "Carter",
+        "Vatican",
+        "Richard",
+        "CIA"
+      ],
+      "line_number": 62,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_115",
+      "year": 1974,
+      "month": null,
+      "day": null,
+      "time_description": "1974",
+      "event_description": "Bigun told the police that he had been forced to fly to the United States and had been transported to several cities, including St. Louis, New Orleans, and Las Vegas, where he was grilled about the so",
+      "entities_involved": [
+        "Wolf",
+        "Carter",
+        "Vatican",
+        "Richard",
+        "CIA"
+      ],
+      "line_number": 62,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_116",
+      "year": 1971,
+      "month": null,
+      "day": null,
+      "time_description": "1971",
+      "event_description": "Bigun told the police that he had been forced to fly to the United States and had been transported to several cities, including St. Louis, New Orleans, and Las Vegas, where he was grilled about the so",
+      "entities_involved": [
+        "Wolf",
+        "Carter",
+        "Vatican",
+        "Richard",
+        "CIA"
+      ],
+      "line_number": 62,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_117",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "September 7, 1976",
+      "event_description": "you. If you don't, our enemies will torture you. They may even kill you. It is very dangerous, Mikaela. Things have changed. Things indeed had changed. Throughout Europe, prominent bankers had lost a ",
+      "entities_involved": [
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Antonio",
+        "Mafia"
+      ],
+      "line_number": 64,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_118",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "July 11, 1979",
+      "event_description": "you. If you don't, our enemies will torture you. They may even kill you. It is very dangerous, Mikaela. Things have changed. Things indeed had changed. Throughout Europe, prominent bankers had lost a ",
+      "entities_involved": [
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Antonio",
+        "Mafia"
+      ],
+      "line_number": 64,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_119",
+      "year": 1975,
+      "month": null,
+      "day": null,
+      "time_description": "1975",
+      "event_description": "you. If you don't, our enemies will torture you. They may even kill you. It is very dangerous, Mikaela. Things have changed. Things indeed had changed. Throughout Europe, prominent bankers had lost a ",
+      "entities_involved": [
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Antonio",
+        "Mafia"
+      ],
+      "line_number": 64,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_120",
+      "year": 1973,
+      "month": null,
+      "day": null,
+      "time_description": "1973",
+      "event_description": "you. If you don't, our enemies will torture you. They may even kill you. It is very dangerous, Mikaela. Things have changed. Things indeed had changed. Throughout Europe, prominent bankers had lost a ",
+      "entities_involved": [
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Antonio",
+        "Mafia"
+      ],
+      "line_number": 64,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_121",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "1976",
+      "event_description": "you. If you don't, our enemies will torture you. They may even kill you. It is very dangerous, Mikaela. Things have changed. Things indeed had changed. Throughout Europe, prominent bankers had lost a ",
+      "entities_involved": [
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Antonio",
+        "Mafia"
+      ],
+      "line_number": 64,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_122",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "you. If you don't, our enemies will torture you. They may even kill you. It is very dangerous, Mikaela. Things have changed. Things indeed had changed. Throughout Europe, prominent bankers had lost a ",
+      "entities_involved": [
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Antonio",
+        "Mafia"
+      ],
+      "line_number": 64,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_123",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "you. If you don't, our enemies will torture you. They may even kill you. It is very dangerous, Mikaela. Things have changed. Things indeed had changed. Throughout Europe, prominent bankers had lost a ",
+      "entities_involved": [
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Antonio",
+        "Mafia"
+      ],
+      "line_number": 64,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_124",
+      "year": 1972,
+      "month": null,
+      "day": null,
+      "time_description": "1972",
+      "event_description": "continued to plan a coup that would mark the culmination of the years of lead, the annexation of Sicily from mainland Italy. This plan, initially approved by the Nixon administration in 1972, called f",
+      "entities_involved": [
+        "Morris",
+        "P2",
+        "Banco Ambrosiano",
+        "Vatican",
+        "Michelli Creamy"
+      ],
+      "line_number": 66,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_125",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "continued to plan a coup that would mark the culmination of the years of lead, the annexation of Sicily from mainland Italy. This plan, initially approved by the Nixon administration in 1972, called f",
+      "entities_involved": [
+        "Morris",
+        "P2",
+        "Banco Ambrosiano",
+        "Vatican",
+        "Michelli Creamy"
+      ],
+      "line_number": 66,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_126",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "1976",
+      "event_description": "continued to plan a coup that would mark the culmination of the years of lead, the annexation of Sicily from mainland Italy. This plan, initially approved by the Nixon administration in 1972, called f",
+      "entities_involved": [
+        "Morris",
+        "P2",
+        "Banco Ambrosiano",
+        "Vatican",
+        "Michelli Creamy"
+      ],
+      "line_number": 66,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_127",
+      "year": 1977,
+      "month": null,
+      "day": null,
+      "time_description": "1977",
+      "event_description": "continued to plan a coup that would mark the culmination of the years of lead, the annexation of Sicily from mainland Italy. This plan, initially approved by the Nixon administration in 1972, called f",
+      "entities_involved": [
+        "Morris",
+        "P2",
+        "Banco Ambrosiano",
+        "Vatican",
+        "Michelli Creamy"
+      ],
+      "line_number": 66,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_128",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "continued to plan a coup that would mark the culmination of the years of lead, the annexation of Sicily from mainland Italy. This plan, initially approved by the Nixon administration in 1972, called f",
+      "entities_involved": [
+        "Morris",
+        "P2",
+        "Banco Ambrosiano",
+        "Vatican",
+        "Michelli Creamy"
+      ],
+      "line_number": 66,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_129",
+      "year": 2003,
+      "month": null,
+      "day": null,
+      "time_description": "2003",
+      "event_description": "continued to plan a coup that would mark the culmination of the years of lead, the annexation of Sicily from mainland Italy. This plan, initially approved by the Nixon administration in 1972, called f",
+      "entities_involved": [
+        "Morris",
+        "P2",
+        "Banco Ambrosiano",
+        "Vatican",
+        "Michelli Creamy"
+      ],
+      "line_number": 66,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_130",
+      "year": 1970,
+      "month": null,
+      "day": null,
+      "time_description": "1970",
+      "event_description": "continued to plan a coup that would mark the culmination of the years of lead, the annexation of Sicily from mainland Italy. This plan, initially approved by the Nixon administration in 1972, called f",
+      "entities_involved": [
+        "Morris",
+        "P2",
+        "Banco Ambrosiano",
+        "Vatican",
+        "Michelli Creamy"
+      ],
+      "line_number": 66,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_131",
+      "year": 1971,
+      "month": null,
+      "day": null,
+      "time_description": "1971",
+      "event_description": "continued to plan a coup that would mark the culmination of the years of lead, the annexation of Sicily from mainland Italy. This plan, initially approved by the Nixon administration in 1972, called f",
+      "entities_involved": [
+        "Morris",
+        "P2",
+        "Banco Ambrosiano",
+        "Vatican",
+        "Michelli Creamy"
+      ],
+      "line_number": 66,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_132",
+      "year": 1962,
+      "month": null,
+      "day": null,
+      "time_description": "1962",
+      "event_description": "continued to plan a coup that would mark the culmination of the years of lead, the annexation of Sicily from mainland Italy. This plan, initially approved by the Nixon administration in 1972, called f",
+      "entities_involved": [
+        "Morris",
+        "P2",
+        "Banco Ambrosiano",
+        "Vatican",
+        "Michelli Creamy"
+      ],
+      "line_number": 66,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_133",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "January 27, 1980",
+      "event_description": "Morgan Handbank and the World Finance Corporation. All three dealt with the CIA, the Vatican, and Mobbus Santo Traficante. The CIA Casino Initially, the funding for the Castle Bank came from the Inter",
+      "entities_involved": [
+        "Prime Minister",
+        "Morris",
+        "Earl Cock",
+        "Leroy Joseph Manor",
+        "Vatican"
+      ],
+      "line_number": 68,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_134",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "1976",
+      "event_description": "Morgan Handbank and the World Finance Corporation. All three dealt with the CIA, the Vatican, and Mobbus Santo Traficante. The CIA Casino Initially, the funding for the Castle Bank came from the Inter",
+      "entities_involved": [
+        "Prime Minister",
+        "Morris",
+        "Earl Cock",
+        "Leroy Joseph Manor",
+        "Vatican"
+      ],
+      "line_number": 68,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_135",
+      "year": 1977,
+      "month": null,
+      "day": null,
+      "time_description": "1977",
+      "event_description": "Morgan Handbank and the World Finance Corporation. All three dealt with the CIA, the Vatican, and Mobbus Santo Traficante. The CIA Casino Initially, the funding for the Castle Bank came from the Inter",
+      "entities_involved": [
+        "Prime Minister",
+        "Morris",
+        "Earl Cock",
+        "Leroy Joseph Manor",
+        "Vatican"
+      ],
+      "line_number": 68,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_136",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "1980",
+      "event_description": "Morgan Handbank and the World Finance Corporation. All three dealt with the CIA, the Vatican, and Mobbus Santo Traficante. The CIA Casino Initially, the funding for the Castle Bank came from the Inter",
+      "entities_involved": [
+        "Prime Minister",
+        "Morris",
+        "Earl Cock",
+        "Leroy Joseph Manor",
+        "Vatican"
+      ],
+      "line_number": 68,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_137",
+      "year": 1977,
+      "month": null,
+      "day": null,
+      "time_description": "1977",
+      "event_description": "Morgan Handbank and the World Finance Corporation. All three dealt with the CIA, the Vatican, and Mobbus Santo Traficante. The CIA Casino Initially, the funding for the Castle Bank came from the Inter",
+      "entities_involved": [
+        "Prime Minister",
+        "Morris",
+        "Earl Cock",
+        "Leroy Joseph Manor",
+        "Vatican"
+      ],
+      "line_number": 68,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_138",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "1980",
+      "event_description": "Morgan Handbank and the World Finance Corporation. All three dealt with the CIA, the Vatican, and Mobbus Santo Traficante. The CIA Casino Initially, the funding for the Castle Bank came from the Inter",
+      "entities_involved": [
+        "Prime Minister",
+        "Morris",
+        "Earl Cock",
+        "Leroy Joseph Manor",
+        "Vatican"
+      ],
+      "line_number": 68,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_139",
+      "year": 1973,
+      "month": null,
+      "day": null,
+      "time_description": "1973",
+      "event_description": "Morgan Handbank and the World Finance Corporation. All three dealt with the CIA, the Vatican, and Mobbus Santo Traficante. The CIA Casino Initially, the funding for the Castle Bank came from the Inter",
+      "entities_involved": [
+        "Prime Minister",
+        "Morris",
+        "Earl Cock",
+        "Leroy Joseph Manor",
+        "Vatican"
+      ],
+      "line_number": 68,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_140",
+      "year": 1975,
+      "month": null,
+      "day": null,
+      "time_description": "1975",
+      "event_description": "Morgan Handbank and the World Finance Corporation. All three dealt with the CIA, the Vatican, and Mobbus Santo Traficante. The CIA Casino Initially, the funding for the Castle Bank came from the Inter",
+      "entities_involved": [
+        "Prime Minister",
+        "Morris",
+        "Earl Cock",
+        "Leroy Joseph Manor",
+        "Vatican"
+      ],
+      "line_number": 68,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_141",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "1976",
+      "event_description": "Morgan Handbank and the World Finance Corporation. All three dealt with the CIA, the Vatican, and Mobbus Santo Traficante. The CIA Casino Initially, the funding for the Castle Bank came from the Inter",
+      "entities_involved": [
+        "Prime Minister",
+        "Morris",
+        "Earl Cock",
+        "Leroy Joseph Manor",
+        "Vatican"
+      ],
+      "line_number": 68,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_142",
+      "year": 1977,
+      "month": null,
+      "day": null,
+      "time_description": "1977",
+      "event_description": "Morgan Handbank and the World Finance Corporation. All three dealt with the CIA, the Vatican, and Mobbus Santo Traficante. The CIA Casino Initially, the funding for the Castle Bank came from the Inter",
+      "entities_involved": [
+        "Prime Minister",
+        "Morris",
+        "Earl Cock",
+        "Leroy Joseph Manor",
+        "Vatican"
+      ],
+      "line_number": 68,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_143",
+      "year": 1975,
+      "month": null,
+      "day": null,
+      "time_description": "April 30, 1975",
+      "event_description": "in Thailand who oversaw the transfer of heroin profits from Indonesia to Shackley's account in Tehran, Iran. Patry Loomis, former CIA advisor to the Provincial Reconnaissance Unit in Vietnam. Robert R",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Pope John Paul II",
+        "CIA",
+        "Pope Paul"
+      ],
+      "line_number": 70,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_144",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "August 26, 1978",
+      "event_description": "in Thailand who oversaw the transfer of heroin profits from Indonesia to Shackley's account in Tehran, Iran. Patry Loomis, former CIA advisor to the Provincial Reconnaissance Unit in Vietnam. Robert R",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Pope John Paul II",
+        "CIA",
+        "Pope Paul"
+      ],
+      "line_number": 70,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_145",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "March 4, 1979",
+      "event_description": "in Thailand who oversaw the transfer of heroin profits from Indonesia to Shackley's account in Tehran, Iran. Patry Loomis, former CIA advisor to the Provincial Reconnaissance Unit in Vietnam. Robert R",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Pope John Paul II",
+        "CIA",
+        "Pope Paul"
+      ],
+      "line_number": 70,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_146",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "August 25, 1978",
+      "event_description": "in Thailand who oversaw the transfer of heroin profits from Indonesia to Shackley's account in Tehran, Iran. Patry Loomis, former CIA advisor to the Provincial Reconnaissance Unit in Vietnam. Robert R",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Pope John Paul II",
+        "CIA",
+        "Pope Paul"
+      ],
+      "line_number": 70,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_147",
+      "year": 1973,
+      "month": null,
+      "day": null,
+      "time_description": "1973",
+      "event_description": "in Thailand who oversaw the transfer of heroin profits from Indonesia to Shackley's account in Tehran, Iran. Patry Loomis, former CIA advisor to the Provincial Reconnaissance Unit in Vietnam. Robert R",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Pope John Paul II",
+        "CIA",
+        "Pope Paul"
+      ],
+      "line_number": 70,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_148",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "1976",
+      "event_description": "in Thailand who oversaw the transfer of heroin profits from Indonesia to Shackley's account in Tehran, Iran. Patry Loomis, former CIA advisor to the Provincial Reconnaissance Unit in Vietnam. Robert R",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Pope John Paul II",
+        "CIA",
+        "Pope Paul"
+      ],
+      "line_number": 70,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_149",
+      "year": 1996,
+      "month": null,
+      "day": null,
+      "time_description": "1996",
+      "event_description": "in Thailand who oversaw the transfer of heroin profits from Indonesia to Shackley's account in Tehran, Iran. Patry Loomis, former CIA advisor to the Provincial Reconnaissance Unit in Vietnam. Robert R",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Pope John Paul II",
+        "CIA",
+        "Pope Paul"
+      ],
+      "line_number": 70,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_150",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "in Thailand who oversaw the transfer of heroin profits from Indonesia to Shackley's account in Tehran, Iran. Patry Loomis, former CIA advisor to the Provincial Reconnaissance Unit in Vietnam. Robert R",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Pope John Paul II",
+        "CIA",
+        "Pope Paul"
+      ],
+      "line_number": 70,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_151",
+      "year": 1975,
+      "month": null,
+      "day": null,
+      "time_description": "1975",
+      "event_description": "in Thailand who oversaw the transfer of heroin profits from Indonesia to Shackley's account in Tehran, Iran. Patry Loomis, former CIA advisor to the Provincial Reconnaissance Unit in Vietnam. Robert R",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Pope John Paul II",
+        "CIA",
+        "Pope Paul"
+      ],
+      "line_number": 70,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_152",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "in Thailand who oversaw the transfer of heroin profits from Indonesia to Shackley's account in Tehran, Iran. Patry Loomis, former CIA advisor to the Provincial Reconnaissance Unit in Vietnam. Robert R",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Pope John Paul II",
+        "CIA",
+        "Pope Paul"
+      ],
+      "line_number": 70,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_153",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "1980",
+      "event_description": "in Thailand who oversaw the transfer of heroin profits from Indonesia to Shackley's account in Tehran, Iran. Patry Loomis, former CIA advisor to the Provincial Reconnaissance Unit in Vietnam. Robert R",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Pope John Paul II",
+        "CIA",
+        "Pope Paul"
+      ],
+      "line_number": 70,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_154",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "in Thailand who oversaw the transfer of heroin profits from Indonesia to Shackley's account in Tehran, Iran. Patry Loomis, former CIA advisor to the Provincial Reconnaissance Unit in Vietnam. Robert R",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Pope John Paul II",
+        "CIA",
+        "Pope Paul"
+      ],
+      "line_number": 70,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_155",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "in Thailand who oversaw the transfer of heroin profits from Indonesia to Shackley's account in Tehran, Iran. Patry Loomis, former CIA advisor to the Provincial Reconnaissance Unit in Vietnam. Robert R",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Pope John Paul II",
+        "CIA",
+        "Pope Paul"
+      ],
+      "line_number": 70,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_156",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "1976",
+      "event_description": "in Thailand who oversaw the transfer of heroin profits from Indonesia to Shackley's account in Tehran, Iran. Patry Loomis, former CIA advisor to the Provincial Reconnaissance Unit in Vietnam. Robert R",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Pope John Paul II",
+        "CIA",
+        "Pope Paul"
+      ],
+      "line_number": 70,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_157",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "in Thailand who oversaw the transfer of heroin profits from Indonesia to Shackley's account in Tehran, Iran. Patry Loomis, former CIA advisor to the Provincial Reconnaissance Unit in Vietnam. Robert R",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Pope John Paul II",
+        "CIA",
+        "Pope Paul"
+      ],
+      "line_number": 70,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_158",
+      "year": 1967,
+      "month": null,
+      "day": null,
+      "time_description": "1967",
+      "event_description": "in Thailand who oversaw the transfer of heroin profits from Indonesia to Shackley's account in Tehran, Iran. Patry Loomis, former CIA advisor to the Provincial Reconnaissance Unit in Vietnam. Robert R",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Pope John Paul II",
+        "CIA",
+        "Pope Paul"
+      ],
+      "line_number": 70,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_159",
+      "year": 1972,
+      "month": null,
+      "day": null,
+      "time_description": "1972",
+      "event_description": "in Thailand who oversaw the transfer of heroin profits from Indonesia to Shackley's account in Tehran, Iran. Patry Loomis, former CIA advisor to the Provincial Reconnaissance Unit in Vietnam. Robert R",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Pope John Paul II",
+        "CIA",
+        "Pope Paul"
+      ],
+      "line_number": 70,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_160",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "in Thailand who oversaw the transfer of heroin profits from Indonesia to Shackley's account in Tehran, Iran. Patry Loomis, former CIA advisor to the Provincial Reconnaissance Unit in Vietnam. Robert R",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Pope John Paul II",
+        "CIA",
+        "Pope Paul"
+      ],
+      "line_number": 70,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_161",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "in Thailand who oversaw the transfer of heroin profits from Indonesia to Shackley's account in Tehran, Iran. Patry Loomis, former CIA advisor to the Provincial Reconnaissance Unit in Vietnam. Robert R",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Pope John Paul II",
+        "CIA",
+        "Pope Paul"
+      ],
+      "line_number": 70,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_162",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "in Thailand who oversaw the transfer of heroin profits from Indonesia to Shackley's account in Tehran, Iran. Patry Loomis, former CIA advisor to the Provincial Reconnaissance Unit in Vietnam. Robert R",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Pope John Paul II",
+        "CIA",
+        "Pope Paul"
+      ],
+      "line_number": 70,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_163",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "in Thailand who oversaw the transfer of heroin profits from Indonesia to Shackley's account in Tehran, Iran. Patry Loomis, former CIA advisor to the Provincial Reconnaissance Unit in Vietnam. Robert R",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Pope John Paul II",
+        "CIA",
+        "Pope Paul"
+      ],
+      "line_number": 70,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_164",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "January 29, 1979",
+      "event_description": "electing Albino Luciano, a strange little fellow as the new pope. The appearance of the smiling new pontiff on the central loggia of St. Peter's Basilica caused noted journalist and Vatican insider Jo",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Lorscheider",
+        "John Crowell",
+        "Marcinkus",
+        "Electric"
+      ],
+      "line_number": 72,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_165",
+      "year": 1971,
+      "month": null,
+      "day": null,
+      "time_description": "1971",
+      "event_description": "electing Albino Luciano, a strange little fellow as the new pope. The appearance of the smiling new pontiff on the central loggia of St. Peter's Basilica caused noted journalist and Vatican insider Jo",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Lorscheider",
+        "John Crowell",
+        "Marcinkus",
+        "Electric"
+      ],
+      "line_number": 72,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_166",
+      "year": 1972,
+      "month": null,
+      "day": null,
+      "time_description": "1972",
+      "event_description": "electing Albino Luciano, a strange little fellow as the new pope. The appearance of the smiling new pontiff on the central loggia of St. Peter's Basilica caused noted journalist and Vatican insider Jo",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Lorscheider",
+        "John Crowell",
+        "Marcinkus",
+        "Electric"
+      ],
+      "line_number": 72,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_167",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "electing Albino Luciano, a strange little fellow as the new pope. The appearance of the smiling new pontiff on the central loggia of St. Peter's Basilica caused noted journalist and Vatican insider Jo",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Lorscheider",
+        "John Crowell",
+        "Marcinkus",
+        "Electric"
+      ],
+      "line_number": 72,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_168",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "electing Albino Luciano, a strange little fellow as the new pope. The appearance of the smiling new pontiff on the central loggia of St. Peter's Basilica caused noted journalist and Vatican insider Jo",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Lorscheider",
+        "John Crowell",
+        "Marcinkus",
+        "Electric"
+      ],
+      "line_number": 72,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_169",
+      "year": 1970,
+      "month": null,
+      "day": null,
+      "time_description": "the 1970s",
+      "event_description": "electing Albino Luciano, a strange little fellow as the new pope. The appearance of the smiling new pontiff on the central loggia of St. Peter's Basilica caused noted journalist and Vatican insider Jo",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Lorscheider",
+        "John Crowell",
+        "Marcinkus",
+        "Electric"
+      ],
+      "line_number": 72,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_170",
+      "year": 1966,
+      "month": null,
+      "day": null,
+      "time_description": "August 6, 1966",
+      "event_description": "when his Orange Renault V stopped for a red light on Via Muratori in Rome. The action accomplished its purpose. The investigation of Calvi and the Vatican officials came to an abrupt halt. Masonic Cab",
+      "entities_involved": [
+        "Casaroli",
+        "Marcinkus",
+        "Renato Buzonetti",
+        "Baggio",
+        "Ugo Poletti"
+      ],
+      "line_number": 74,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_171",
+      "year": 1967,
+      "month": null,
+      "day": null,
+      "time_description": "August 14, 1967",
+      "event_description": "when his Orange Renault V stopped for a red light on Via Muratori in Rome. The action accomplished its purpose. The investigation of Calvi and the Vatican officials came to an abrupt halt. Masonic Cab",
+      "entities_involved": [
+        "Casaroli",
+        "Marcinkus",
+        "Renato Buzonetti",
+        "Baggio",
+        "Ugo Poletti"
+      ],
+      "line_number": 74,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_172",
+      "year": 1966,
+      "month": null,
+      "day": null,
+      "time_description": "1966",
+      "event_description": "when his Orange Renault V stopped for a red light on Via Muratori in Rome. The action accomplished its purpose. The investigation of Calvi and the Vatican officials came to an abrupt halt. Masonic Cab",
+      "entities_involved": [
+        "Casaroli",
+        "Marcinkus",
+        "Renato Buzonetti",
+        "Baggio",
+        "Ugo Poletti"
+      ],
+      "line_number": 74,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_173",
+      "year": 1967,
+      "month": null,
+      "day": null,
+      "time_description": "1967",
+      "event_description": "when his Orange Renault V stopped for a red light on Via Muratori in Rome. The action accomplished its purpose. The investigation of Calvi and the Vatican officials came to an abrupt halt. Masonic Cab",
+      "entities_involved": [
+        "Casaroli",
+        "Marcinkus",
+        "Renato Buzonetti",
+        "Baggio",
+        "Ugo Poletti"
+      ],
+      "line_number": 74,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_174",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "when his Orange Renault V stopped for a red light on Via Muratori in Rome. The action accomplished its purpose. The investigation of Calvi and the Vatican officials came to an abrupt halt. Masonic Cab",
+      "entities_involved": [
+        "Casaroli",
+        "Marcinkus",
+        "Renato Buzonetti",
+        "Baggio",
+        "Ugo Poletti"
+      ],
+      "line_number": 74,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_175",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "September 29, 1978",
+      "event_description": "A Fabricated Story While the Pope's body was being infused with the fluid, Vio instructed McGee to relate to the world a fabricated story about the morning's events. McGee was to say that he, not Sist",
+      "entities_involved": [
+        "Casaroli",
+        "Antonio",
+        "Benelli",
+        "Vatican",
+        "Agostino Casaroli"
+      ],
+      "line_number": 76,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_176",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "October 16, 1978",
+      "event_description": "A Fabricated Story While the Pope's body was being infused with the fluid, Vio instructed McGee to relate to the world a fabricated story about the morning's events. McGee was to say that he, not Sist",
+      "entities_involved": [
+        "Casaroli",
+        "Antonio",
+        "Benelli",
+        "Vatican",
+        "Agostino Casaroli"
+      ],
+      "line_number": 76,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_177",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "A Fabricated Story While the Pope's body was being infused with the fluid, Vio instructed McGee to relate to the world a fabricated story about the morning's events. McGee was to say that he, not Sist",
+      "entities_involved": [
+        "Casaroli",
+        "Antonio",
+        "Benelli",
+        "Vatican",
+        "Agostino Casaroli"
+      ],
+      "line_number": 76,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_178",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "A Fabricated Story While the Pope's body was being infused with the fluid, Vio instructed McGee to relate to the world a fabricated story about the morning's events. McGee was to say that he, not Sist",
+      "entities_involved": [
+        "Casaroli",
+        "Antonio",
+        "Benelli",
+        "Vatican",
+        "Agostino Casaroli"
+      ],
+      "line_number": 76,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_179",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "February 14, 1979",
+      "event_description": "The unknown Wojtyla. Gradually the public came to learn that Wojtyla, as a young man, had sought not to become a priest, but an actor. They further learned that he had worked in a chemical factory und",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Cody",
+        "Vatican",
+        "Marcinkus",
+        "Mujahideen"
+      ],
+      "line_number": 78,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_180",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "December 27, 1979",
+      "event_description": "The unknown Wojtyla. Gradually the public came to learn that Wojtyla, as a young man, had sought not to become a priest, but an actor. They further learned that he had worked in a chemical factory und",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Cody",
+        "Vatican",
+        "Marcinkus",
+        "Mujahideen"
+      ],
+      "line_number": 78,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_181",
+      "year": 1939,
+      "month": null,
+      "day": null,
+      "time_description": "1939",
+      "event_description": "The unknown Wojtyla. Gradually the public came to learn that Wojtyla, as a young man, had sought not to become a priest, but an actor. They further learned that he had worked in a chemical factory und",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Cody",
+        "Vatican",
+        "Marcinkus",
+        "Mujahideen"
+      ],
+      "line_number": 78,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_182",
+      "year": 1944,
+      "month": null,
+      "day": null,
+      "time_description": "1944",
+      "event_description": "The unknown Wojtyla. Gradually the public came to learn that Wojtyla, as a young man, had sought not to become a priest, but an actor. They further learned that he had worked in a chemical factory und",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Cody",
+        "Vatican",
+        "Marcinkus",
+        "Mujahideen"
+      ],
+      "line_number": 78,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_183",
+      "year": 1998,
+      "month": null,
+      "day": null,
+      "time_description": "1998",
+      "event_description": "The unknown Wojtyla. Gradually the public came to learn that Wojtyla, as a young man, had sought not to become a priest, but an actor. They further learned that he had worked in a chemical factory und",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Cody",
+        "Vatican",
+        "Marcinkus",
+        "Mujahideen"
+      ],
+      "line_number": 78,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_184",
+      "year": 1975,
+      "month": null,
+      "day": null,
+      "time_description": "1975",
+      "event_description": "The unknown Wojtyla. Gradually the public came to learn that Wojtyla, as a young man, had sought not to become a priest, but an actor. They further learned that he had worked in a chemical factory und",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Cody",
+        "Vatican",
+        "Marcinkus",
+        "Mujahideen"
+      ],
+      "line_number": 78,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_185",
+      "year": 1972,
+      "month": null,
+      "day": null,
+      "time_description": "1972",
+      "event_description": "The unknown Wojtyla. Gradually the public came to learn that Wojtyla, as a young man, had sought not to become a priest, but an actor. They further learned that he had worked in a chemical factory und",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Cody",
+        "Vatican",
+        "Marcinkus",
+        "Mujahideen"
+      ],
+      "line_number": 78,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_186",
+      "year": 1977,
+      "month": null,
+      "day": null,
+      "time_description": "1977",
+      "event_description": "The unknown Wojtyla. Gradually the public came to learn that Wojtyla, as a young man, had sought not to become a priest, but an actor. They further learned that he had worked in a chemical factory und",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Cody",
+        "Vatican",
+        "Marcinkus",
+        "Mujahideen"
+      ],
+      "line_number": 78,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_187",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "The unknown Wojtyla. Gradually the public came to learn that Wojtyla, as a young man, had sought not to become a priest, but an actor. They further learned that he had worked in a chemical factory und",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Cody",
+        "Vatican",
+        "Marcinkus",
+        "Mujahideen"
+      ],
+      "line_number": 78,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_188",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "The unknown Wojtyla. Gradually the public came to learn that Wojtyla, as a young man, had sought not to become a priest, but an actor. They further learned that he had worked in a chemical factory und",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Cody",
+        "Vatican",
+        "Marcinkus",
+        "Mujahideen"
+      ],
+      "line_number": 78,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_189",
+      "year": 1971,
+      "month": null,
+      "day": null,
+      "time_description": "1971",
+      "event_description": "The unknown Wojtyla. Gradually the public came to learn that Wojtyla, as a young man, had sought not to become a priest, but an actor. They further learned that he had worked in a chemical factory und",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Cody",
+        "Vatican",
+        "Marcinkus",
+        "Mujahideen"
+      ],
+      "line_number": 78,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_190",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "The unknown Wojtyla. Gradually the public came to learn that Wojtyla, as a young man, had sought not to become a priest, but an actor. They further learned that he had worked in a chemical factory und",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Cody",
+        "Vatican",
+        "Marcinkus",
+        "Mujahideen"
+      ],
+      "line_number": 78,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_191",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "The unknown Wojtyla. Gradually the public came to learn that Wojtyla, as a young man, had sought not to become a priest, but an actor. They further learned that he had worked in a chemical factory und",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Cody",
+        "Vatican",
+        "Marcinkus",
+        "Mujahideen"
+      ],
+      "line_number": 78,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_192",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "The unknown Wojtyla. Gradually the public came to learn that Wojtyla, as a young man, had sought not to become a priest, but an actor. They further learned that he had worked in a chemical factory und",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Cody",
+        "Vatican",
+        "Marcinkus",
+        "Mujahideen"
+      ],
+      "line_number": 78,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_193",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "The unknown Wojtyla. Gradually the public came to learn that Wojtyla, as a young man, had sought not to become a priest, but an actor. They further learned that he had worked in a chemical factory und",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Cody",
+        "Vatican",
+        "Marcinkus",
+        "Mujahideen"
+      ],
+      "line_number": 78,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_194",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "The unknown Wojtyla. Gradually the public came to learn that Wojtyla, as a young man, had sought not to become a priest, but an actor. They further learned that he had worked in a chemical factory und",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Cody",
+        "Vatican",
+        "Marcinkus",
+        "Mujahideen"
+      ],
+      "line_number": 78,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_195",
+      "year": 1950,
+      "month": null,
+      "day": null,
+      "time_description": "the 1950s",
+      "event_description": "The unknown Wojtyla. Gradually the public came to learn that Wojtyla, as a young man, had sought not to become a priest, but an actor. They further learned that he had worked in a chemical factory und",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Cody",
+        "Vatican",
+        "Marcinkus",
+        "Mujahideen"
+      ],
+      "line_number": 78,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_196",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "summer of 1979",
+      "event_description": "The unknown Wojtyla. Gradually the public came to learn that Wojtyla, as a young man, had sought not to become a priest, but an actor. They further learned that he had worked in a chemical factory und",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Cody",
+        "Vatican",
+        "Marcinkus",
+        "Mujahideen"
+      ],
+      "line_number": 78,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_197",
+      "year": 1975,
+      "month": null,
+      "day": null,
+      "time_description": "1975",
+      "event_description": "and Baccarat, and served as the frontman for the Contraband Enterprise. By 1975, Telenc was the owner of a fleet of ships registered in Panama and a chain of hotels. The Massachioed and Salon, Hussain",
+      "entities_involved": [
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Grey Wolves",
+        "Antonio"
+      ],
+      "line_number": 82,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_198",
+      "year": 1975,
+      "month": null,
+      "day": null,
+      "time_description": "1975",
+      "event_description": "and Baccarat, and served as the frontman for the Contraband Enterprise. By 1975, Telenc was the owner of a fleet of ships registered in Panama and a chain of hotels. The Massachioed and Salon, Hussain",
+      "entities_involved": [
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Grey Wolves",
+        "Antonio"
+      ],
+      "line_number": 82,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_199",
+      "year": 1977,
+      "month": null,
+      "day": null,
+      "time_description": "1977",
+      "event_description": "and Baccarat, and served as the frontman for the Contraband Enterprise. By 1975, Telenc was the owner of a fleet of ships registered in Panama and a chain of hotels. The Massachioed and Salon, Hussain",
+      "entities_involved": [
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Grey Wolves",
+        "Antonio"
+      ],
+      "line_number": 82,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_200",
+      "year": 1968,
+      "month": null,
+      "day": null,
+      "time_description": "1968",
+      "event_description": "and Baccarat, and served as the frontman for the Contraband Enterprise. By 1975, Telenc was the owner of a fleet of ships registered in Panama and a chain of hotels. The Massachioed and Salon, Hussain",
+      "entities_involved": [
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Grey Wolves",
+        "Antonio"
+      ],
+      "line_number": 82,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_201",
+      "year": 1977,
+      "month": null,
+      "day": null,
+      "time_description": "1977",
+      "event_description": "and Baccarat, and served as the frontman for the Contraband Enterprise. By 1975, Telenc was the owner of a fleet of ships registered in Panama and a chain of hotels. The Massachioed and Salon, Hussain",
+      "entities_involved": [
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Grey Wolves",
+        "Antonio"
+      ],
+      "line_number": 82,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_202",
+      "year": 1983,
+      "month": null,
+      "day": null,
+      "time_description": "1983",
+      "event_description": "and Baccarat, and served as the frontman for the Contraband Enterprise. By 1975, Telenc was the owner of a fleet of ships registered in Panama and a chain of hotels. The Massachioed and Salon, Hussain",
+      "entities_involved": [
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Grey Wolves",
+        "Antonio"
+      ],
+      "line_number": 82,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_203",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "and Baccarat, and served as the frontman for the Contraband Enterprise. By 1975, Telenc was the owner of a fleet of ships registered in Panama and a chain of hotels. The Massachioed and Salon, Hussain",
+      "entities_involved": [
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Grey Wolves",
+        "Antonio"
+      ],
+      "line_number": 82,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_204",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "New Jersey and Pennsylvania. The parlors became the centers of heroin distribution throughout much of the eastern half of the country. The cash from the drug sales, deposited in amounts less than $10,",
+      "entities_involved": [
+        "Roberto Calvi",
+        "FBI",
+        "Banco Ambrosiano",
+        "Mafia",
+        "Vatican"
+      ],
+      "line_number": 84,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_205",
+      "year": 1977,
+      "month": null,
+      "day": null,
+      "time_description": "1977",
+      "event_description": "New Jersey and Pennsylvania. The parlors became the centers of heroin distribution throughout much of the eastern half of the country. The cash from the drug sales, deposited in amounts less than $10,",
+      "entities_involved": [
+        "Roberto Calvi",
+        "FBI",
+        "Banco Ambrosiano",
+        "Mafia",
+        "Vatican"
+      ],
+      "line_number": 84,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_206",
+      "year": 1985,
+      "month": null,
+      "day": null,
+      "time_description": "1985",
+      "event_description": "New Jersey and Pennsylvania. The parlors became the centers of heroin distribution throughout much of the eastern half of the country. The cash from the drug sales, deposited in amounts less than $10,",
+      "entities_involved": [
+        "Roberto Calvi",
+        "FBI",
+        "Banco Ambrosiano",
+        "Mafia",
+        "Vatican"
+      ],
+      "line_number": 84,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_207",
+      "year": 2004,
+      "month": null,
+      "day": null,
+      "time_description": "2004",
+      "event_description": "New Jersey and Pennsylvania. The parlors became the centers of heroin distribution throughout much of the eastern half of the country. The cash from the drug sales, deposited in amounts less than $10,",
+      "entities_involved": [
+        "Roberto Calvi",
+        "FBI",
+        "Banco Ambrosiano",
+        "Mafia",
+        "Vatican"
+      ],
+      "line_number": 84,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_208",
+      "year": 2003,
+      "month": null,
+      "day": null,
+      "time_description": "2003",
+      "event_description": "New Jersey and Pennsylvania. The parlors became the centers of heroin distribution throughout much of the eastern half of the country. The cash from the drug sales, deposited in amounts less than $10,",
+      "entities_involved": [
+        "Roberto Calvi",
+        "FBI",
+        "Banco Ambrosiano",
+        "Mafia",
+        "Vatican"
+      ],
+      "line_number": 84,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_209",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "New Jersey and Pennsylvania. The parlors became the centers of heroin distribution throughout much of the eastern half of the country. The cash from the drug sales, deposited in amounts less than $10,",
+      "entities_involved": [
+        "Roberto Calvi",
+        "FBI",
+        "Banco Ambrosiano",
+        "Mafia",
+        "Vatican"
+      ],
+      "line_number": 84,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_210",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "the 1980s",
+      "event_description": "New Jersey and Pennsylvania. The parlors became the centers of heroin distribution throughout much of the eastern half of the country. The cash from the drug sales, deposited in amounts less than $10,",
+      "entities_involved": [
+        "Roberto Calvi",
+        "FBI",
+        "Banco Ambrosiano",
+        "Mafia",
+        "Vatican"
+      ],
+      "line_number": 84,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_211",
+      "year": 1982,
+      "month": null,
+      "day": null,
+      "time_description": "1982",
+      "event_description": "moral organizations, pious works, and religious bodies set up for charitable aims. Any objection that the directors might have to the strange new offshore companies were offset by the fact that the lo",
+      "entities_involved": [
+        "Prime Minister",
+        "Casaroli",
+        "P2",
+        "Banco Ambrosiano",
+        "Carter"
+      ],
+      "line_number": 86,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_212",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "moral organizations, pious works, and religious bodies set up for charitable aims. Any objection that the directors might have to the strange new offshore companies were offset by the fact that the lo",
+      "entities_involved": [
+        "Prime Minister",
+        "Casaroli",
+        "P2",
+        "Banco Ambrosiano",
+        "Carter"
+      ],
+      "line_number": 86,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_213",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "moral organizations, pious works, and religious bodies set up for charitable aims. Any objection that the directors might have to the strange new offshore companies were offset by the fact that the lo",
+      "entities_involved": [
+        "Prime Minister",
+        "Casaroli",
+        "P2",
+        "Banco Ambrosiano",
+        "Carter"
+      ],
+      "line_number": 86,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_214",
+      "year": 1982,
+      "month": null,
+      "day": null,
+      "time_description": "1982",
+      "event_description": "moral organizations, pious works, and religious bodies set up for charitable aims. Any objection that the directors might have to the strange new offshore companies were offset by the fact that the lo",
+      "entities_involved": [
+        "Prime Minister",
+        "Casaroli",
+        "P2",
+        "Banco Ambrosiano",
+        "Carter"
+      ],
+      "line_number": 86,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_215",
+      "year": 1996,
+      "month": null,
+      "day": null,
+      "time_description": "1996",
+      "event_description": "moral organizations, pious works, and religious bodies set up for charitable aims. Any objection that the directors might have to the strange new offshore companies were offset by the fact that the lo",
+      "entities_involved": [
+        "Prime Minister",
+        "Casaroli",
+        "P2",
+        "Banco Ambrosiano",
+        "Carter"
+      ],
+      "line_number": 86,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_216",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "1976",
+      "event_description": "moral organizations, pious works, and religious bodies set up for charitable aims. Any objection that the directors might have to the strange new offshore companies were offset by the fact that the lo",
+      "entities_involved": [
+        "Prime Minister",
+        "Casaroli",
+        "P2",
+        "Banco Ambrosiano",
+        "Carter"
+      ],
+      "line_number": 86,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_217",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "November 17, 1978",
+      "event_description": "Britain. Reynolds gained access to an incredible array of weapons that he supplied to Stebham, including Cobra helicopters fully loaded with rockets, anti-tank guns, incendiary rockets, and RPG-7 rock",
+      "entities_involved": [
+        "Casaroli",
+        "Banco Ambrosiano",
+        "P2",
+        "Roberto Calvi",
+        "Agostino Casaroli"
+      ],
+      "line_number": 88,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_218",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "January 28, 1981",
+      "event_description": "Britain. Reynolds gained access to an incredible array of weapons that he supplied to Stebham, including Cobra helicopters fully loaded with rockets, anti-tank guns, incendiary rockets, and RPG-7 rock",
+      "entities_involved": [
+        "Casaroli",
+        "Banco Ambrosiano",
+        "P2",
+        "Roberto Calvi",
+        "Agostino Casaroli"
+      ],
+      "line_number": 88,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_219",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "September 28, 1981",
+      "event_description": "Britain. Reynolds gained access to an incredible array of weapons that he supplied to Stebham, including Cobra helicopters fully loaded with rockets, anti-tank guns, incendiary rockets, and RPG-7 rock",
+      "entities_involved": [
+        "Casaroli",
+        "Banco Ambrosiano",
+        "P2",
+        "Roberto Calvi",
+        "Agostino Casaroli"
+      ],
+      "line_number": 88,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_220",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "1980",
+      "event_description": "Britain. Reynolds gained access to an incredible array of weapons that he supplied to Stebham, including Cobra helicopters fully loaded with rockets, anti-tank guns, incendiary rockets, and RPG-7 rock",
+      "entities_involved": [
+        "Casaroli",
+        "Banco Ambrosiano",
+        "P2",
+        "Roberto Calvi",
+        "Agostino Casaroli"
+      ],
+      "line_number": 88,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_221",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "Britain. Reynolds gained access to an incredible array of weapons that he supplied to Stebham, including Cobra helicopters fully loaded with rockets, anti-tank guns, incendiary rockets, and RPG-7 rock",
+      "entities_involved": [
+        "Casaroli",
+        "Banco Ambrosiano",
+        "P2",
+        "Roberto Calvi",
+        "Agostino Casaroli"
+      ],
+      "line_number": 88,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_222",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "Britain. Reynolds gained access to an incredible array of weapons that he supplied to Stebham, including Cobra helicopters fully loaded with rockets, anti-tank guns, incendiary rockets, and RPG-7 rock",
+      "entities_involved": [
+        "Casaroli",
+        "Banco Ambrosiano",
+        "P2",
+        "Roberto Calvi",
+        "Agostino Casaroli"
+      ],
+      "line_number": 88,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_223",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "1980",
+      "event_description": "Britain. Reynolds gained access to an incredible array of weapons that he supplied to Stebham, including Cobra helicopters fully loaded with rockets, anti-tank guns, incendiary rockets, and RPG-7 rock",
+      "entities_involved": [
+        "Casaroli",
+        "Banco Ambrosiano",
+        "P2",
+        "Roberto Calvi",
+        "Agostino Casaroli"
+      ],
+      "line_number": 88,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_224",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "Britain. Reynolds gained access to an incredible array of weapons that he supplied to Stebham, including Cobra helicopters fully loaded with rockets, anti-tank guns, incendiary rockets, and RPG-7 rock",
+      "entities_involved": [
+        "Casaroli",
+        "Banco Ambrosiano",
+        "P2",
+        "Roberto Calvi",
+        "Agostino Casaroli"
+      ],
+      "line_number": 88,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_225",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "1980",
+      "event_description": "Britain. Reynolds gained access to an incredible array of weapons that he supplied to Stebham, including Cobra helicopters fully loaded with rockets, anti-tank guns, incendiary rockets, and RPG-7 rock",
+      "entities_involved": [
+        "Casaroli",
+        "Banco Ambrosiano",
+        "P2",
+        "Roberto Calvi",
+        "Agostino Casaroli"
+      ],
+      "line_number": 88,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_226",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "Britain. Reynolds gained access to an incredible array of weapons that he supplied to Stebham, including Cobra helicopters fully loaded with rockets, anti-tank guns, incendiary rockets, and RPG-7 rock",
+      "entities_involved": [
+        "Casaroli",
+        "Banco Ambrosiano",
+        "P2",
+        "Roberto Calvi",
+        "Agostino Casaroli"
+      ],
+      "line_number": 88,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_227",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "Britain. Reynolds gained access to an incredible array of weapons that he supplied to Stebham, including Cobra helicopters fully loaded with rockets, anti-tank guns, incendiary rockets, and RPG-7 rock",
+      "entities_involved": [
+        "Casaroli",
+        "Banco Ambrosiano",
+        "P2",
+        "Roberto Calvi",
+        "Agostino Casaroli"
+      ],
+      "line_number": 88,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_228",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "Britain. Reynolds gained access to an incredible array of weapons that he supplied to Stebham, including Cobra helicopters fully loaded with rockets, anti-tank guns, incendiary rockets, and RPG-7 rock",
+      "entities_involved": [
+        "Casaroli",
+        "Banco Ambrosiano",
+        "P2",
+        "Roberto Calvi",
+        "Agostino Casaroli"
+      ],
+      "line_number": 88,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_229",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "Britain. Reynolds gained access to an incredible array of weapons that he supplied to Stebham, including Cobra helicopters fully loaded with rockets, anti-tank guns, incendiary rockets, and RPG-7 rock",
+      "entities_involved": [
+        "Casaroli",
+        "Banco Ambrosiano",
+        "P2",
+        "Roberto Calvi",
+        "Agostino Casaroli"
+      ],
+      "line_number": 88,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_230",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "August 9, 1979",
+      "event_description": "were now in place for foreign-holding companies of financial institutions that were not banks. Such companies would only be allowed if their activities could be scrutinized by the Bank of Italy and if",
+      "entities_involved": [
+        "Morris",
+        "P2",
+        "Vatican",
+        "Richard",
+        "Michele Crimi"
+      ],
+      "line_number": 90,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_231",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "were now in place for foreign-holding companies of financial institutions that were not banks. Such companies would only be allowed if their activities could be scrutinized by the Bank of Italy and if",
+      "entities_involved": [
+        "Morris",
+        "P2",
+        "Vatican",
+        "Richard",
+        "Michele Crimi"
+      ],
+      "line_number": 90,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_232",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "were now in place for foreign-holding companies of financial institutions that were not banks. Such companies would only be allowed if their activities could be scrutinized by the Bank of Italy and if",
+      "entities_involved": [
+        "Morris",
+        "P2",
+        "Vatican",
+        "Richard",
+        "Michele Crimi"
+      ],
+      "line_number": 90,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_233",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "February 6, 1980",
+      "event_description": "mistress, Sindona made preparations for his trial, which was set to begin on February 6, 1980, before Judge Thomas Poole Grisa. The judge was very impressed that three holy men from the Vatican, Archb",
+      "entities_involved": [
+        "Giuseppe Caprio",
+        "Casaroli",
+        "P2",
+        "Carter",
+        "Sergio Garry"
+      ],
+      "line_number": 92,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_234",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "February 11, 1980",
+      "event_description": "mistress, Sindona made preparations for his trial, which was set to begin on February 6, 1980, before Judge Thomas Poole Grisa. The judge was very impressed that three holy men from the Vatican, Archb",
+      "entities_involved": [
+        "Giuseppe Caprio",
+        "Casaroli",
+        "P2",
+        "Carter",
+        "Sergio Garry"
+      ],
+      "line_number": 92,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_235",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "March 27, 1980",
+      "event_description": "mistress, Sindona made preparations for his trial, which was set to begin on February 6, 1980, before Judge Thomas Poole Grisa. The judge was very impressed that three holy men from the Vatican, Archb",
+      "entities_involved": [
+        "Giuseppe Caprio",
+        "Casaroli",
+        "P2",
+        "Carter",
+        "Sergio Garry"
+      ],
+      "line_number": 92,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_236",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "May 13, 1980",
+      "event_description": "mistress, Sindona made preparations for his trial, which was set to begin on February 6, 1980, before Judge Thomas Poole Grisa. The judge was very impressed that three holy men from the Vatican, Archb",
+      "entities_involved": [
+        "Giuseppe Caprio",
+        "Casaroli",
+        "P2",
+        "Carter",
+        "Sergio Garry"
+      ],
+      "line_number": 92,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_237",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "March 17, 1981",
+      "event_description": "mistress, Sindona made preparations for his trial, which was set to begin on February 6, 1980, before Judge Thomas Poole Grisa. The judge was very impressed that three holy men from the Vatican, Archb",
+      "entities_involved": [
+        "Giuseppe Caprio",
+        "Casaroli",
+        "P2",
+        "Carter",
+        "Sergio Garry"
+      ],
+      "line_number": 92,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_238",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "1980",
+      "event_description": "mistress, Sindona made preparations for his trial, which was set to begin on February 6, 1980, before Judge Thomas Poole Grisa. The judge was very impressed that three holy men from the Vatican, Archb",
+      "entities_involved": [
+        "Giuseppe Caprio",
+        "Casaroli",
+        "P2",
+        "Carter",
+        "Sergio Garry"
+      ],
+      "line_number": 92,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_239",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "1980",
+      "event_description": "mistress, Sindona made preparations for his trial, which was set to begin on February 6, 1980, before Judge Thomas Poole Grisa. The judge was very impressed that three holy men from the Vatican, Archb",
+      "entities_involved": [
+        "Giuseppe Caprio",
+        "Casaroli",
+        "P2",
+        "Carter",
+        "Sergio Garry"
+      ],
+      "line_number": 92,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_240",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "1980",
+      "event_description": "mistress, Sindona made preparations for his trial, which was set to begin on February 6, 1980, before Judge Thomas Poole Grisa. The judge was very impressed that three holy men from the Vatican, Archb",
+      "entities_involved": [
+        "Giuseppe Caprio",
+        "Casaroli",
+        "P2",
+        "Carter",
+        "Sergio Garry"
+      ],
+      "line_number": 92,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_241",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "1980",
+      "event_description": "mistress, Sindona made preparations for his trial, which was set to begin on February 6, 1980, before Judge Thomas Poole Grisa. The judge was very impressed that three holy men from the Vatican, Archb",
+      "entities_involved": [
+        "Giuseppe Caprio",
+        "Casaroli",
+        "P2",
+        "Carter",
+        "Sergio Garry"
+      ],
+      "line_number": 92,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_242",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "1976",
+      "event_description": "mistress, Sindona made preparations for his trial, which was set to begin on February 6, 1980, before Judge Thomas Poole Grisa. The judge was very impressed that three holy men from the Vatican, Archb",
+      "entities_involved": [
+        "Giuseppe Caprio",
+        "Casaroli",
+        "P2",
+        "Carter",
+        "Sergio Garry"
+      ],
+      "line_number": 92,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_243",
+      "year": 2004,
+      "month": null,
+      "day": null,
+      "time_description": "2004",
+      "event_description": "mistress, Sindona made preparations for his trial, which was set to begin on February 6, 1980, before Judge Thomas Poole Grisa. The judge was very impressed that three holy men from the Vatican, Archb",
+      "entities_involved": [
+        "Giuseppe Caprio",
+        "Casaroli",
+        "P2",
+        "Carter",
+        "Sergio Garry"
+      ],
+      "line_number": 92,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_244",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "mistress, Sindona made preparations for his trial, which was set to begin on February 6, 1980, before Judge Thomas Poole Grisa. The judge was very impressed that three holy men from the Vatican, Archb",
+      "entities_involved": [
+        "Giuseppe Caprio",
+        "Casaroli",
+        "P2",
+        "Carter",
+        "Sergio Garry"
+      ],
+      "line_number": 92,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_245",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "mistress, Sindona made preparations for his trial, which was set to begin on February 6, 1980, before Judge Thomas Poole Grisa. The judge was very impressed that three holy men from the Vatican, Archb",
+      "entities_involved": [
+        "Giuseppe Caprio",
+        "Casaroli",
+        "P2",
+        "Carter",
+        "Sergio Garry"
+      ],
+      "line_number": 92,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_246",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "mistress, Sindona made preparations for his trial, which was set to begin on February 6, 1980, before Judge Thomas Poole Grisa. The judge was very impressed that three holy men from the Vatican, Archb",
+      "entities_involved": [
+        "Giuseppe Caprio",
+        "Casaroli",
+        "P2",
+        "Carter",
+        "Sergio Garry"
+      ],
+      "line_number": 92,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_247",
+      "year": 2002,
+      "month": null,
+      "day": null,
+      "time_description": "2002",
+      "event_description": "mistress, Sindona made preparations for his trial, which was set to begin on February 6, 1980, before Judge Thomas Poole Grisa. The judge was very impressed that three holy men from the Vatican, Archb",
+      "entities_involved": [
+        "Giuseppe Caprio",
+        "Casaroli",
+        "P2",
+        "Carter",
+        "Sergio Garry"
+      ],
+      "line_number": 92,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_248",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "mistress, Sindona made preparations for his trial, which was set to begin on February 6, 1980, before Judge Thomas Poole Grisa. The judge was very impressed that three holy men from the Vatican, Archb",
+      "entities_involved": [
+        "Giuseppe Caprio",
+        "Casaroli",
+        "P2",
+        "Carter",
+        "Sergio Garry"
+      ],
+      "line_number": 92,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_249",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "March 28, 1981",
+      "event_description": "surrounding Gladio were spinning out of control. The raid on Gelli's villa had provided Italian police officials with evidence of the covert operation, including statements of payments, linking P2 to ",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "P2",
+        "SISMI",
+        "Vatican"
+      ],
+      "line_number": 94,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_250",
+      "year": 1947,
+      "month": null,
+      "day": null,
+      "time_description": "1947",
+      "event_description": "surrounding Gladio were spinning out of control. The raid on Gelli's villa had provided Italian police officials with evidence of the covert operation, including statements of payments, linking P2 to ",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "P2",
+        "SISMI",
+        "Vatican"
+      ],
+      "line_number": 94,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_251",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "surrounding Gladio were spinning out of control. The raid on Gelli's villa had provided Italian police officials with evidence of the covert operation, including statements of payments, linking P2 to ",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "P2",
+        "SISMI",
+        "Vatican"
+      ],
+      "line_number": 94,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_252",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "1980",
+      "event_description": "surrounding Gladio were spinning out of control. The raid on Gelli's villa had provided Italian police officials with evidence of the covert operation, including statements of payments, linking P2 to ",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "P2",
+        "SISMI",
+        "Vatican"
+      ],
+      "line_number": 94,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_253",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "surrounding Gladio were spinning out of control. The raid on Gelli's villa had provided Italian police officials with evidence of the covert operation, including statements of payments, linking P2 to ",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "P2",
+        "SISMI",
+        "Vatican"
+      ],
+      "line_number": 94,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_254",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "1980",
+      "event_description": "Days after this decision was made, Valencia told interviewers, the Pope wrote to us and the primate, pleading for reason and reflection. Tomorrow, we may achieve more, but we may not go to the brink. ",
+      "entities_involved": [
+        "Carter",
+        "Kenan Evren",
+        "Supreme Court",
+        "CIA",
+        "Kurdistan Workers"
+      ],
+      "line_number": 96,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_255",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "Days after this decision was made, Valencia told interviewers, the Pope wrote to us and the primate, pleading for reason and reflection. Tomorrow, we may achieve more, but we may not go to the brink. ",
+      "entities_involved": [
+        "Carter",
+        "Kenan Evren",
+        "Supreme Court",
+        "CIA",
+        "Kurdistan Workers"
+      ],
+      "line_number": 96,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_256",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "Days after this decision was made, Valencia told interviewers, the Pope wrote to us and the primate, pleading for reason and reflection. Tomorrow, we may achieve more, but we may not go to the brink. ",
+      "entities_involved": [
+        "Carter",
+        "Kenan Evren",
+        "Supreme Court",
+        "CIA",
+        "Kurdistan Workers"
+      ],
+      "line_number": 96,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_257",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "1980",
+      "event_description": "Days after this decision was made, Valencia told interviewers, the Pope wrote to us and the primate, pleading for reason and reflection. Tomorrow, we may achieve more, but we may not go to the brink. ",
+      "entities_involved": [
+        "Carter",
+        "Kenan Evren",
+        "Supreme Court",
+        "CIA",
+        "Kurdistan Workers"
+      ],
+      "line_number": 96,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_258",
+      "year": 1984,
+      "month": null,
+      "day": null,
+      "time_description": "1984",
+      "event_description": "Days after this decision was made, Valencia told interviewers, the Pope wrote to us and the primate, pleading for reason and reflection. Tomorrow, we may achieve more, but we may not go to the brink. ",
+      "entities_involved": [
+        "Carter",
+        "Kenan Evren",
+        "Supreme Court",
+        "CIA",
+        "Kurdistan Workers"
+      ],
+      "line_number": 96,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_259",
+      "year": 1970,
+      "month": null,
+      "day": null,
+      "time_description": "the 1970s",
+      "event_description": "Days after this decision was made, Valencia told interviewers, the Pope wrote to us and the primate, pleading for reason and reflection. Tomorrow, we may achieve more, but we may not go to the brink. ",
+      "entities_involved": [
+        "Carter",
+        "Kenan Evren",
+        "Supreme Court",
+        "CIA",
+        "Kurdistan Workers"
+      ],
+      "line_number": 96,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_260",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "February 1, 1979",
+      "event_description": "legitimate offspring of US intelligence and the Babas, but would come to direct many of the critical events in Turkey and Central Asia into the twenty-first century. In many ways it represented the cu",
+      "entities_involved": [
+        "P2",
+        "Alan Dulles",
+        "Santo Vito",
+        "Mafia",
+        "Vatican"
+      ],
+      "line_number": 98,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_261",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "September 1, 1976",
+      "event_description": "legitimate offspring of US intelligence and the Babas, but would come to direct many of the critical events in Turkey and Central Asia into the twenty-first century. In many ways it represented the cu",
+      "entities_involved": [
+        "P2",
+        "Alan Dulles",
+        "Santo Vito",
+        "Mafia",
+        "Vatican"
+      ],
+      "line_number": 98,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_262",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "legitimate offspring of US intelligence and the Babas, but would come to direct many of the critical events in Turkey and Central Asia into the twenty-first century. In many ways it represented the cu",
+      "entities_involved": [
+        "P2",
+        "Alan Dulles",
+        "Santo Vito",
+        "Mafia",
+        "Vatican"
+      ],
+      "line_number": 98,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_263",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "legitimate offspring of US intelligence and the Babas, but would come to direct many of the critical events in Turkey and Central Asia into the twenty-first century. In many ways it represented the cu",
+      "entities_involved": [
+        "P2",
+        "Alan Dulles",
+        "Santo Vito",
+        "Mafia",
+        "Vatican"
+      ],
+      "line_number": 98,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_264",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "1980",
+      "event_description": "legitimate offspring of US intelligence and the Babas, but would come to direct many of the critical events in Turkey and Central Asia into the twenty-first century. In many ways it represented the cu",
+      "entities_involved": [
+        "P2",
+        "Alan Dulles",
+        "Santo Vito",
+        "Mafia",
+        "Vatican"
+      ],
+      "line_number": 98,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_265",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "legitimate offspring of US intelligence and the Babas, but would come to direct many of the critical events in Turkey and Central Asia into the twenty-first century. In many ways it represented the cu",
+      "entities_involved": [
+        "P2",
+        "Alan Dulles",
+        "Santo Vito",
+        "Mafia",
+        "Vatican"
+      ],
+      "line_number": 98,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_266",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "legitimate offspring of US intelligence and the Babas, but would come to direct many of the critical events in Turkey and Central Asia into the twenty-first century. In many ways it represented the cu",
+      "entities_involved": [
+        "P2",
+        "Alan Dulles",
+        "Santo Vito",
+        "Mafia",
+        "Vatican"
+      ],
+      "line_number": 98,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_267",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "legitimate offspring of US intelligence and the Babas, but would come to direct many of the critical events in Turkey and Central Asia into the twenty-first century. In many ways it represented the cu",
+      "entities_involved": [
+        "P2",
+        "Alan Dulles",
+        "Santo Vito",
+        "Mafia",
+        "Vatican"
+      ],
+      "line_number": 98,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_268",
+      "year": 1984,
+      "month": null,
+      "day": null,
+      "time_description": "1984",
+      "event_description": "legitimate offspring of US intelligence and the Babas, but would come to direct many of the critical events in Turkey and Central Asia into the twenty-first century. In many ways it represented the cu",
+      "entities_involved": [
+        "P2",
+        "Alan Dulles",
+        "Santo Vito",
+        "Mafia",
+        "Vatican"
+      ],
+      "line_number": 98,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_269",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "1976",
+      "event_description": "legitimate offspring of US intelligence and the Babas, but would come to direct many of the critical events in Turkey and Central Asia into the twenty-first century. In many ways it represented the cu",
+      "entities_involved": [
+        "P2",
+        "Alan Dulles",
+        "Santo Vito",
+        "Mafia",
+        "Vatican"
+      ],
+      "line_number": 98,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_270",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "legitimate offspring of US intelligence and the Babas, but would come to direct many of the critical events in Turkey and Central Asia into the twenty-first century. In many ways it represented the cu",
+      "entities_involved": [
+        "P2",
+        "Alan Dulles",
+        "Santo Vito",
+        "Mafia",
+        "Vatican"
+      ],
+      "line_number": 98,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_271",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "1980",
+      "event_description": "legitimate offspring of US intelligence and the Babas, but would come to direct many of the critical events in Turkey and Central Asia into the twenty-first century. In many ways it represented the cu",
+      "entities_involved": [
+        "P2",
+        "Alan Dulles",
+        "Santo Vito",
+        "Mafia",
+        "Vatican"
+      ],
+      "line_number": 98,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_272",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "1976",
+      "event_description": "legitimate offspring of US intelligence and the Babas, but would come to direct many of the critical events in Turkey and Central Asia into the twenty-first century. In many ways it represented the cu",
+      "entities_involved": [
+        "P2",
+        "Alan Dulles",
+        "Santo Vito",
+        "Mafia",
+        "Vatican"
+      ],
+      "line_number": 98,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_273",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "legitimate offspring of US intelligence and the Babas, but would come to direct many of the critical events in Turkey and Central Asia into the twenty-first century. In many ways it represented the cu",
+      "entities_involved": [
+        "P2",
+        "Alan Dulles",
+        "Santo Vito",
+        "Mafia",
+        "Vatican"
+      ],
+      "line_number": 98,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_50_274",
+      "year": 1970,
+      "month": null,
+      "day": null,
+      "time_description": "the 1970s",
+      "event_description": "legitimate offspring of US intelligence and the Babas, but would come to direct many of the critical events in Turkey and Central Asia into the twenty-first century. In many ways it represented the cu",
+      "entities_involved": [
+        "P2",
+        "Alan Dulles",
+        "Santo Vito",
+        "Mafia",
+        "Vatican"
+      ],
+      "line_number": 98,
+      "confidence": 0.6
+    }
+  ],
+  "timestamp": "2025-09-30T20:11:14.522779"
+}

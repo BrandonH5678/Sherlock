@@ -1,0 +1,139 @@
+```mermaid
+stateDiagram-v2
+    [*] --> draft: Package Created<br/>(Targeting Officer or User)
+
+    draft --> ready: V0 Validation Passes<br/>(Schema Check)
+    draft --> [*]: Package Deleted
+
+    ready --> submitted: Submit to J5A<br/>(sherlock pkg submit)
+    ready --> draft: V0 Validation Fails<br/>(After Edit)
+
+    submitted --> accepted: J5A Accepts Task<br/>(Passes J5A Validation)
+    submitted --> failed: J5A Rejects Task<br/>(Validation Failure)
+
+    accepted --> queued: J5A Queues Task<br/>(Awaiting Resources)
+
+    queued --> running: J5A Starts Execution<br/>(Resources Available)
+    queued --> failed: Task Cancelled<br/>(Resource Conflict)
+
+    running --> completed: J5A Completes<br/>(V1 Validation Passes)
+    running --> failed: Execution Error<br/>(Thermal/Error/Timeout)
+
+    completed --> outputs_ingested: All Outputs Ingested<br/>(Into Evidence DB)
+    completed --> failed: Ingestion Fails<br/>(Missing/Invalid Outputs)
+
+    outputs_ingested --> validated: V2 Validation Passes<br/>(Output Conformance)
+    outputs_ingested --> failed: V2 Validation Fails<br/>(Format/Content Issues)
+
+    validated --> closed: Package Closed<br/>(Target Updated)
+
+    closed --> [*]: Terminal State
+
+    failed --> draft: Replan<br/>(New Version, Permanent Failure)
+    failed --> ready: Resubmit<br/>(Same Package, Transient Failure)
+    failed --> [*]: Manual Intervention Required
+
+    note right of draft
+        Status: draft
+        Validation: None
+        Actions:
+        - Edit package plan
+        - Populate collection URLs
+        - Define expected outputs
+    end note
+
+    note right of ready
+        Status: ready
+        Validation: V0 (Schema)
+        Actions:
+        - Queue for J5A submission
+        - Await submission trigger
+    end note
+
+    note right of submitted
+        Status: submitted
+        Validation: J5A Acceptance
+        Actions:
+        - J5A polls j5a_handoff
+        - J5A validates resources
+    end note
+
+    note right of accepted
+        Status: accepted
+        Validation: None (transitional)
+        Actions:
+        - J5A adds to queue
+    end note
+
+    note right of queued
+        Status: queued
+        Validation: None (waiting)
+        Actions:
+        - Wait for resources
+        - Monitor thermal/memory
+    end note
+
+    note right of running
+        Status: running
+        Validation: V1 (Execution)
+        Actions:
+        - Download media
+        - Run diarization
+        - Generate outputs
+    end note
+
+    note right of completed
+        Status: completed
+        Validation: V1 Passed
+        Actions:
+        - Targeting Officer ingests
+        - Populate output manifest
+    end note
+
+    note right of outputs_ingested
+        Status: outputs_ingested
+        Validation: V2 (Conformance)
+        Actions:
+        - Check all outputs valid
+        - Verify format/content
+    end note
+
+    note right of validated
+        Status: validated
+        Validation: V2 Passed
+        Actions:
+        - Update target status
+        - Generate report
+    end note
+
+    note right of closed
+        Status: closed
+        Validation: Complete
+        Terminal State:
+        - Full audit trail
+        - Target updated
+        - Outputs in evidence DB
+    end note
+
+    note right of failed
+        Status: failed
+        Validation: Root Cause Analysis
+        Actions:
+        - Classify failure type
+        - Transient: Resubmit
+        - Permanent: Replan
+        Retry Limit: 3x
+    end note
+
+    %% State styling
+    classDef activeState fill:#fff9c4,stroke:#f57c00,stroke-width:3px
+    classDef completedState fill:#c8e6c9,stroke:#388e3c,stroke-width:3px
+    classDef failedState fill:#ffcdd2,stroke:#c62828,stroke-width:3px
+    classDef terminalState fill:#e1f5fe,stroke:#0277bd,stroke-width:3px
+
+    class draft,ready,submitted,accepted,queued activeState
+    class running activeState
+    class completed,outputs_ingested,validated completedState
+    class closed terminalState
+    class failed failedState
+```

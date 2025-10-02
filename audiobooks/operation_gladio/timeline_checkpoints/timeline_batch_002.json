@@ -1,0 +1,3946 @@
+{
+  "batch_id": 2,
+  "event_count": 232,
+  "events": [
+    {
+      "event_id": "event_100_0",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "February 3, 1981",
+      "event_description": "Through the SMOM, Maranche became aware of John Paul II's negotiations with the Kremlin and agreed that the Polish upstart had to be removed from the Holy Office. Chackley and Santo Vito Chackley arri",
+      "entities_involved": [
+        "P2",
+        "Banco Ambrosiano",
+        "Grey Wolves",
+        "Reinhard Gehlen",
+        "SISMI"
+      ],
+      "line_number": 100,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_1",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "Through the SMOM, Maranche became aware of John Paul II's negotiations with the Kremlin and agreed that the Polish upstart had to be removed from the Holy Office. Chackley and Santo Vito Chackley arri",
+      "entities_involved": [
+        "P2",
+        "Banco Ambrosiano",
+        "Grey Wolves",
+        "Reinhard Gehlen",
+        "SISMI"
+      ],
+      "line_number": 100,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_2",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "Through the SMOM, Maranche became aware of John Paul II's negotiations with the Kremlin and agreed that the Polish upstart had to be removed from the Holy Office. Chackley and Santo Vito Chackley arri",
+      "entities_involved": [
+        "P2",
+        "Banco Ambrosiano",
+        "Grey Wolves",
+        "Reinhard Gehlen",
+        "SISMI"
+      ],
+      "line_number": 100,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_3",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "Through the SMOM, Maranche became aware of John Paul II's negotiations with the Kremlin and agreed that the Polish upstart had to be removed from the Holy Office. Chackley and Santo Vito Chackley arri",
+      "entities_involved": [
+        "P2",
+        "Banco Ambrosiano",
+        "Grey Wolves",
+        "Reinhard Gehlen",
+        "SISMI"
+      ],
+      "line_number": 100,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_4",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "Through the SMOM, Maranche became aware of John Paul II's negotiations with the Kremlin and agreed that the Polish upstart had to be removed from the Holy Office. Chackley and Santo Vito Chackley arri",
+      "entities_involved": [
+        "P2",
+        "Banco Ambrosiano",
+        "Grey Wolves",
+        "Reinhard Gehlen",
+        "SISMI"
+      ],
+      "line_number": 100,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_5",
+      "year": 1956,
+      "month": null,
+      "day": null,
+      "time_description": "1956",
+      "event_description": "Through the SMOM, Maranche became aware of John Paul II's negotiations with the Kremlin and agreed that the Polish upstart had to be removed from the Holy Office. Chackley and Santo Vito Chackley arri",
+      "entities_involved": [
+        "P2",
+        "Banco Ambrosiano",
+        "Grey Wolves",
+        "Reinhard Gehlen",
+        "SISMI"
+      ],
+      "line_number": 100,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_6",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "Through the SMOM, Maranche became aware of John Paul II's negotiations with the Kremlin and agreed that the Polish upstart had to be removed from the Holy Office. Chackley and Santo Vito Chackley arri",
+      "entities_involved": [
+        "P2",
+        "Banco Ambrosiano",
+        "Grey Wolves",
+        "Reinhard Gehlen",
+        "SISMI"
+      ],
+      "line_number": 100,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_7",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "Through the SMOM, Maranche became aware of John Paul II's negotiations with the Kremlin and agreed that the Polish upstart had to be removed from the Holy Office. Chackley and Santo Vito Chackley arri",
+      "entities_involved": [
+        "P2",
+        "Banco Ambrosiano",
+        "Grey Wolves",
+        "Reinhard Gehlen",
+        "SISMI"
+      ],
+      "line_number": 100,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_8",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "winter of 1981",
+      "event_description": "Through the SMOM, Maranche became aware of John Paul II's negotiations with the Kremlin and agreed that the Polish upstart had to be removed from the Holy Office. Chackley and Santo Vito Chackley arri",
+      "entities_involved": [
+        "P2",
+        "Banco Ambrosiano",
+        "Grey Wolves",
+        "Reinhard Gehlen",
+        "SISMI"
+      ],
+      "line_number": 100,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_9",
+      "year": 1993,
+      "month": null,
+      "day": null,
+      "time_description": "January 24, 1993",
+      "event_description": "of the Sacred Heart in Rome. He had been struck by four bullets. Two remained lodged in his lower intestine. The others had hit his left index finger and his right hand. He slipped in and out of consc",
+      "entities_involved": [
+        "Francesco Crucici",
+        "Grey Wolves",
+        "Santo Vito",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 102,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_10",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "of the Sacred Heart in Rome. He had been struck by four bullets. Two remained lodged in his lower intestine. The others had hit his left index finger and his right hand. He slipped in and out of consc",
+      "entities_involved": [
+        "Francesco Crucici",
+        "Grey Wolves",
+        "Santo Vito",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 102,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_11",
+      "year": 2007,
+      "month": null,
+      "day": null,
+      "time_description": "2007",
+      "event_description": "of the Sacred Heart in Rome. He had been struck by four bullets. Two remained lodged in his lower intestine. The others had hit his left index finger and his right hand. He slipped in and out of consc",
+      "entities_involved": [
+        "Francesco Crucici",
+        "Grey Wolves",
+        "Santo Vito",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 102,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_12",
+      "year": 1982,
+      "month": null,
+      "day": null,
+      "time_description": "1982",
+      "event_description": "of the Sacred Heart in Rome. He had been struck by four bullets. Two remained lodged in his lower intestine. The others had hit his left index finger and his right hand. He slipped in and out of consc",
+      "entities_involved": [
+        "Francesco Crucici",
+        "Grey Wolves",
+        "Santo Vito",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 102,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_13",
+      "year": 1985,
+      "month": null,
+      "day": null,
+      "time_description": "1985",
+      "event_description": "of the Sacred Heart in Rome. He had been struck by four bullets. Two remained lodged in his lower intestine. The others had hit his left index finger and his right hand. He slipped in and out of consc",
+      "entities_involved": [
+        "Francesco Crucici",
+        "Grey Wolves",
+        "Santo Vito",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 102,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_14",
+      "year": 1993,
+      "month": null,
+      "day": null,
+      "time_description": "1993",
+      "event_description": "of the Sacred Heart in Rome. He had been struck by four bullets. Two remained lodged in his lower intestine. The others had hit his left index finger and his right hand. He slipped in and out of consc",
+      "entities_involved": [
+        "Francesco Crucici",
+        "Grey Wolves",
+        "Santo Vito",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 102,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_15",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "fall of 1981",
+      "event_description": "of the Sacred Heart in Rome. He had been struck by four bullets. Two remained lodged in his lower intestine. The others had hit his left index finger and his right hand. He slipped in and out of consc",
+      "entities_involved": [
+        "Francesco Crucici",
+        "Grey Wolves",
+        "Santo Vito",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 102,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_16",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "March 7, 1981",
+      "event_description": "17. A raid and redirection. What we do has nothing to do with preserving a country's integrity. It's just business, and third-world countries see their destiny as defeating borders and expanding. The ",
+      "entities_involved": [
+        "P2",
+        "Santo Vito",
+        "SISMI",
+        "CIA",
+        "Gambino crime family"
+      ],
+      "line_number": 104,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_17",
+      "year": 1982,
+      "month": null,
+      "day": null,
+      "time_description": "November 23, 1982",
+      "event_description": "17. A raid and redirection. What we do has nothing to do with preserving a country's integrity. It's just business, and third-world countries see their destiny as defeating borders and expanding. The ",
+      "entities_involved": [
+        "P2",
+        "Santo Vito",
+        "SISMI",
+        "CIA",
+        "Gambino crime family"
+      ],
+      "line_number": 104,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_18",
+      "year": 1985,
+      "month": null,
+      "day": null,
+      "time_description": "1985",
+      "event_description": "17. A raid and redirection. What we do has nothing to do with preserving a country's integrity. It's just business, and third-world countries see their destiny as defeating borders and expanding. The ",
+      "entities_involved": [
+        "P2",
+        "Santo Vito",
+        "SISMI",
+        "CIA",
+        "Gambino crime family"
+      ],
+      "line_number": 104,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_19",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "17. A raid and redirection. What we do has nothing to do with preserving a country's integrity. It's just business, and third-world countries see their destiny as defeating borders and expanding. The ",
+      "entities_involved": [
+        "P2",
+        "Santo Vito",
+        "SISMI",
+        "CIA",
+        "Gambino crime family"
+      ],
+      "line_number": 104,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_20",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "17. A raid and redirection. What we do has nothing to do with preserving a country's integrity. It's just business, and third-world countries see their destiny as defeating borders and expanding. The ",
+      "entities_involved": [
+        "P2",
+        "Santo Vito",
+        "SISMI",
+        "CIA",
+        "Gambino crime family"
+      ],
+      "line_number": 104,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_21",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "17. A raid and redirection. What we do has nothing to do with preserving a country's integrity. It's just business, and third-world countries see their destiny as defeating borders and expanding. The ",
+      "entities_involved": [
+        "P2",
+        "Santo Vito",
+        "SISMI",
+        "CIA",
+        "Gambino crime family"
+      ],
+      "line_number": 104,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_22",
+      "year": 1982,
+      "month": null,
+      "day": null,
+      "time_description": "1982",
+      "event_description": "17. A raid and redirection. What we do has nothing to do with preserving a country's integrity. It's just business, and third-world countries see their destiny as defeating borders and expanding. The ",
+      "entities_involved": [
+        "P2",
+        "Santo Vito",
+        "SISMI",
+        "CIA",
+        "Gambino crime family"
+      ],
+      "line_number": 104,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_23",
+      "year": 1983,
+      "month": null,
+      "day": null,
+      "time_description": "1983",
+      "event_description": "17. A raid and redirection. What we do has nothing to do with preserving a country's integrity. It's just business, and third-world countries see their destiny as defeating borders and expanding. The ",
+      "entities_involved": [
+        "P2",
+        "Santo Vito",
+        "SISMI",
+        "CIA",
+        "Gambino crime family"
+      ],
+      "line_number": 104,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_24",
+      "year": 1982,
+      "month": null,
+      "day": null,
+      "time_description": "1982",
+      "event_description": "S, signifying a major figure in the arms and drugs network, kept appearing again and again. Years later, the judge finally realized that the reoccurring initials stood for Theodore G. Shackley, the fo",
+      "entities_involved": [
+        "P2",
+        "Roberto Calvi",
+        "Carter",
+        "Banco Ambrosiano",
+        "Santo Vito"
+      ],
+      "line_number": 106,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_25",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "S, signifying a major figure in the arms and drugs network, kept appearing again and again. Years later, the judge finally realized that the reoccurring initials stood for Theodore G. Shackley, the fo",
+      "entities_involved": [
+        "P2",
+        "Roberto Calvi",
+        "Carter",
+        "Banco Ambrosiano",
+        "Santo Vito"
+      ],
+      "line_number": 106,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_26",
+      "year": 1982,
+      "month": null,
+      "day": null,
+      "time_description": "1982",
+      "event_description": "S, signifying a major figure in the arms and drugs network, kept appearing again and again. Years later, the judge finally realized that the reoccurring initials stood for Theodore G. Shackley, the fo",
+      "entities_involved": [
+        "P2",
+        "Roberto Calvi",
+        "Carter",
+        "Banco Ambrosiano",
+        "Santo Vito"
+      ],
+      "line_number": 106,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_27",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "S, signifying a major figure in the arms and drugs network, kept appearing again and again. Years later, the judge finally realized that the reoccurring initials stood for Theodore G. Shackley, the fo",
+      "entities_involved": [
+        "P2",
+        "Roberto Calvi",
+        "Carter",
+        "Banco Ambrosiano",
+        "Santo Vito"
+      ],
+      "line_number": 106,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_28",
+      "year": 1985,
+      "month": null,
+      "day": null,
+      "time_description": "1985",
+      "event_description": "S, signifying a major figure in the arms and drugs network, kept appearing again and again. Years later, the judge finally realized that the reoccurring initials stood for Theodore G. Shackley, the fo",
+      "entities_involved": [
+        "P2",
+        "Roberto Calvi",
+        "Carter",
+        "Banco Ambrosiano",
+        "Santo Vito"
+      ],
+      "line_number": 106,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_29",
+      "year": 1982,
+      "month": null,
+      "day": null,
+      "time_description": "1982",
+      "event_description": "S, signifying a major figure in the arms and drugs network, kept appearing again and again. Years later, the judge finally realized that the reoccurring initials stood for Theodore G. Shackley, the fo",
+      "entities_involved": [
+        "P2",
+        "Roberto Calvi",
+        "Carter",
+        "Banco Ambrosiano",
+        "Santo Vito"
+      ],
+      "line_number": 106,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_30",
+      "year": 1982,
+      "month": null,
+      "day": null,
+      "time_description": "1982",
+      "event_description": "S, signifying a major figure in the arms and drugs network, kept appearing again and again. Years later, the judge finally realized that the reoccurring initials stood for Theodore G. Shackley, the fo",
+      "entities_involved": [
+        "P2",
+        "Roberto Calvi",
+        "Carter",
+        "Banco Ambrosiano",
+        "Santo Vito"
+      ],
+      "line_number": 106,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_31",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "S, signifying a major figure in the arms and drugs network, kept appearing again and again. Years later, the judge finally realized that the reoccurring initials stood for Theodore G. Shackley, the fo",
+      "entities_involved": [
+        "P2",
+        "Roberto Calvi",
+        "Carter",
+        "Banco Ambrosiano",
+        "Santo Vito"
+      ],
+      "line_number": 106,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_32",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "a group that sought the destruction of Israel. President Reagan was duly impressed with Pazienza's talents. In the diplomatic interregnum created by Reagan's removal of Richard Gardner as the U.S. Amb",
+      "entities_involved": [
+        "Banco Ambrosiano",
+        "Vatican",
+        "Marcinkus",
+        "Richard",
+        "CIA"
+      ],
+      "line_number": 108,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_33",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "a group that sought the destruction of Israel. President Reagan was duly impressed with Pazienza's talents. In the diplomatic interregnum created by Reagan's removal of Richard Gardner as the U.S. Amb",
+      "entities_involved": [
+        "Banco Ambrosiano",
+        "Vatican",
+        "Marcinkus",
+        "Richard",
+        "CIA"
+      ],
+      "line_number": 108,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_34",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "a group that sought the destruction of Israel. President Reagan was duly impressed with Pazienza's talents. In the diplomatic interregnum created by Reagan's removal of Richard Gardner as the U.S. Amb",
+      "entities_involved": [
+        "Banco Ambrosiano",
+        "Vatican",
+        "Marcinkus",
+        "Richard",
+        "CIA"
+      ],
+      "line_number": 108,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_35",
+      "year": 1986,
+      "month": null,
+      "day": null,
+      "time_description": "1986",
+      "event_description": "a group that sought the destruction of Israel. President Reagan was duly impressed with Pazienza's talents. In the diplomatic interregnum created by Reagan's removal of Richard Gardner as the U.S. Amb",
+      "entities_involved": [
+        "Banco Ambrosiano",
+        "Vatican",
+        "Marcinkus",
+        "Richard",
+        "CIA"
+      ],
+      "line_number": 108,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_36",
+      "year": 1982,
+      "month": null,
+      "day": null,
+      "time_description": "1982",
+      "event_description": "a group that sought the destruction of Israel. President Reagan was duly impressed with Pazienza's talents. In the diplomatic interregnum created by Reagan's removal of Richard Gardner as the U.S. Amb",
+      "entities_involved": [
+        "Banco Ambrosiano",
+        "Vatican",
+        "Marcinkus",
+        "Richard",
+        "CIA"
+      ],
+      "line_number": 108,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_37",
+      "year": 1982,
+      "month": null,
+      "day": null,
+      "time_description": "1982",
+      "event_description": "a group that sought the destruction of Israel. President Reagan was duly impressed with Pazienza's talents. In the diplomatic interregnum created by Reagan's removal of Richard Gardner as the U.S. Amb",
+      "entities_involved": [
+        "Banco Ambrosiano",
+        "Vatican",
+        "Marcinkus",
+        "Richard",
+        "CIA"
+      ],
+      "line_number": 108,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_38",
+      "year": 1982,
+      "month": null,
+      "day": null,
+      "time_description": "1982",
+      "event_description": "a group that sought the destruction of Israel. President Reagan was duly impressed with Pazienza's talents. In the diplomatic interregnum created by Reagan's removal of Richard Gardner as the U.S. Amb",
+      "entities_involved": [
+        "Banco Ambrosiano",
+        "Vatican",
+        "Marcinkus",
+        "Richard",
+        "CIA"
+      ],
+      "line_number": 108,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_39",
+      "year": 1987,
+      "month": null,
+      "day": null,
+      "time_description": "April 1, 1987",
+      "event_description": "coherence and loyalty. He added, The Vatican has betrayed and abandoned me. After documenting and writing the Holy See's involvement in arming guerrillas, engaging in bloody war and misappropriating f",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "Roberto Calvi",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 110,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_40",
+      "year": 1987,
+      "month": null,
+      "day": null,
+      "time_description": "1987",
+      "event_description": "coherence and loyalty. He added, The Vatican has betrayed and abandoned me. After documenting and writing the Holy See's involvement in arming guerrillas, engaging in bloody war and misappropriating f",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "Roberto Calvi",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 110,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_41",
+      "year": 1987,
+      "month": null,
+      "day": null,
+      "time_description": "1987",
+      "event_description": "coherence and loyalty. He added, The Vatican has betrayed and abandoned me. After documenting and writing the Holy See's involvement in arming guerrillas, engaging in bloody war and misappropriating f",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "Roberto Calvi",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 110,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_42",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "March 17, 1981",
+      "event_description": "symbolism. The sight of Calvi's demise immediately aroused suspicion. Members of various Masonic lodges in Italy wear black robes and address each other as friar. Black Friars, Fratelli Neri, is an It",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "P2",
+        "Antonio",
+        "Michele Sindona"
+      ],
+      "line_number": 112,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_43",
+      "year": 2011,
+      "month": null,
+      "day": null,
+      "time_description": "2011",
+      "event_description": "symbolism. The sight of Calvi's demise immediately aroused suspicion. Members of various Masonic lodges in Italy wear black robes and address each other as friar. Black Friars, Fratelli Neri, is an It",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "P2",
+        "Antonio",
+        "Michele Sindona"
+      ],
+      "line_number": 112,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_44",
+      "year": 1998,
+      "month": null,
+      "day": null,
+      "time_description": "1998",
+      "event_description": "symbolism. The sight of Calvi's demise immediately aroused suspicion. Members of various Masonic lodges in Italy wear black robes and address each other as friar. Black Friars, Fratelli Neri, is an It",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "P2",
+        "Antonio",
+        "Michele Sindona"
+      ],
+      "line_number": 112,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_45",
+      "year": 2012,
+      "month": null,
+      "day": null,
+      "time_description": "2012",
+      "event_description": "symbolism. The sight of Calvi's demise immediately aroused suspicion. Members of various Masonic lodges in Italy wear black robes and address each other as friar. Black Friars, Fratelli Neri, is an It",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "P2",
+        "Antonio",
+        "Michele Sindona"
+      ],
+      "line_number": 112,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_46",
+      "year": 1982,
+      "month": null,
+      "day": null,
+      "time_description": "1982",
+      "event_description": "symbolism. The sight of Calvi's demise immediately aroused suspicion. Members of various Masonic lodges in Italy wear black robes and address each other as friar. Black Friars, Fratelli Neri, is an It",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "P2",
+        "Antonio",
+        "Michele Sindona"
+      ],
+      "line_number": 112,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_47",
+      "year": 1982,
+      "month": null,
+      "day": null,
+      "time_description": "1982",
+      "event_description": "symbolism. The sight of Calvi's demise immediately aroused suspicion. Members of various Masonic lodges in Italy wear black robes and address each other as friar. Black Friars, Fratelli Neri, is an It",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "P2",
+        "Antonio",
+        "Michele Sindona"
+      ],
+      "line_number": 112,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_48",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "symbolism. The sight of Calvi's demise immediately aroused suspicion. Members of various Masonic lodges in Italy wear black robes and address each other as friar. Black Friars, Fratelli Neri, is an It",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "P2",
+        "Antonio",
+        "Michele Sindona"
+      ],
+      "line_number": 112,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_49",
+      "year": 1974,
+      "month": null,
+      "day": null,
+      "time_description": "November 21, 1974",
+      "event_description": "in the exposure of P2, the Radon Stebham, and the collapse of Arnaldo Forlani's Christian Democratic government. This exposure prompted General Alberto Dalla Ciesa of the Carabinieri to come to the re",
+      "entities_involved": [
+        "Prime Minister",
+        "Casaroli",
+        "P2",
+        "Banco Ambrosiano",
+        "Red Brigades"
+      ],
+      "line_number": 114,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_50",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "October 16, 1979",
+      "event_description": "in the exposure of P2, the Radon Stebham, and the collapse of Arnaldo Forlani's Christian Democratic government. This exposure prompted General Alberto Dalla Ciesa of the Carabinieri to come to the re",
+      "entities_involved": [
+        "Prime Minister",
+        "Casaroli",
+        "P2",
+        "Banco Ambrosiano",
+        "Red Brigades"
+      ],
+      "line_number": 114,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_51",
+      "year": 1983,
+      "month": null,
+      "day": null,
+      "time_description": "June 22, 1983",
+      "event_description": "in the exposure of P2, the Radon Stebham, and the collapse of Arnaldo Forlani's Christian Democratic government. This exposure prompted General Alberto Dalla Ciesa of the Carabinieri to come to the re",
+      "entities_involved": [
+        "Prime Minister",
+        "Casaroli",
+        "P2",
+        "Banco Ambrosiano",
+        "Red Brigades"
+      ],
+      "line_number": 114,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_52",
+      "year": 1982,
+      "month": null,
+      "day": null,
+      "time_description": "1982",
+      "event_description": "in the exposure of P2, the Radon Stebham, and the collapse of Arnaldo Forlani's Christian Democratic government. This exposure prompted General Alberto Dalla Ciesa of the Carabinieri to come to the re",
+      "entities_involved": [
+        "Prime Minister",
+        "Casaroli",
+        "P2",
+        "Banco Ambrosiano",
+        "Red Brigades"
+      ],
+      "line_number": 114,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_53",
+      "year": 1982,
+      "month": null,
+      "day": null,
+      "time_description": "1982",
+      "event_description": "in the exposure of P2, the Radon Stebham, and the collapse of Arnaldo Forlani's Christian Democratic government. This exposure prompted General Alberto Dalla Ciesa of the Carabinieri to come to the re",
+      "entities_involved": [
+        "Prime Minister",
+        "Casaroli",
+        "P2",
+        "Banco Ambrosiano",
+        "Red Brigades"
+      ],
+      "line_number": 114,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_54",
+      "year": 1974,
+      "month": null,
+      "day": null,
+      "time_description": "1974",
+      "event_description": "in the exposure of P2, the Radon Stebham, and the collapse of Arnaldo Forlani's Christian Democratic government. This exposure prompted General Alberto Dalla Ciesa of the Carabinieri to come to the re",
+      "entities_involved": [
+        "Prime Minister",
+        "Casaroli",
+        "P2",
+        "Banco Ambrosiano",
+        "Red Brigades"
+      ],
+      "line_number": 114,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_55",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "in the exposure of P2, the Radon Stebham, and the collapse of Arnaldo Forlani's Christian Democratic government. This exposure prompted General Alberto Dalla Ciesa of the Carabinieri to come to the re",
+      "entities_involved": [
+        "Prime Minister",
+        "Casaroli",
+        "P2",
+        "Banco Ambrosiano",
+        "Red Brigades"
+      ],
+      "line_number": 114,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_56",
+      "year": 1982,
+      "month": null,
+      "day": null,
+      "time_description": "1982",
+      "event_description": "in the exposure of P2, the Radon Stebham, and the collapse of Arnaldo Forlani's Christian Democratic government. This exposure prompted General Alberto Dalla Ciesa of the Carabinieri to come to the re",
+      "entities_involved": [
+        "Prime Minister",
+        "Casaroli",
+        "P2",
+        "Banco Ambrosiano",
+        "Red Brigades"
+      ],
+      "line_number": 114,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_57",
+      "year": 1983,
+      "month": null,
+      "day": null,
+      "time_description": "1983",
+      "event_description": "in the exposure of P2, the Radon Stebham, and the collapse of Arnaldo Forlani's Christian Democratic government. This exposure prompted General Alberto Dalla Ciesa of the Carabinieri to come to the re",
+      "entities_involved": [
+        "Prime Minister",
+        "Casaroli",
+        "P2",
+        "Banco Ambrosiano",
+        "Red Brigades"
+      ],
+      "line_number": 114,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_58",
+      "year": 1990,
+      "month": null,
+      "day": null,
+      "time_description": "February 2, 1990",
+      "event_description": "managed to provide this profile because of an intercept that the Italian police had placed on a phone line within the Vatican after the caller demanded access to Secretary of State Casaroli. But Paris",
+      "entities_involved": [
+        "Casaroli",
+        "P2",
+        "Roberto Calvi",
+        "Antonio",
+        "Hugo Polletti"
+      ],
+      "line_number": 116,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_59",
+      "year": 2010,
+      "month": null,
+      "day": null,
+      "time_description": "May 14, 2010",
+      "event_description": "managed to provide this profile because of an intercept that the Italian police had placed on a phone line within the Vatican after the caller demanded access to Secretary of State Casaroli. But Paris",
+      "entities_involved": [
+        "Casaroli",
+        "P2",
+        "Roberto Calvi",
+        "Antonio",
+        "Hugo Polletti"
+      ],
+      "line_number": 116,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_60",
+      "year": 1984,
+      "month": null,
+      "day": null,
+      "time_description": "May 24, 1984",
+      "event_description": "managed to provide this profile because of an intercept that the Italian police had placed on a phone line within the Vatican after the caller demanded access to Secretary of State Casaroli. But Paris",
+      "entities_involved": [
+        "Casaroli",
+        "P2",
+        "Roberto Calvi",
+        "Antonio",
+        "Hugo Polletti"
+      ],
+      "line_number": 116,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_61",
+      "year": 2010,
+      "month": null,
+      "day": null,
+      "time_description": "2010",
+      "event_description": "managed to provide this profile because of an intercept that the Italian police had placed on a phone line within the Vatican after the caller demanded access to Secretary of State Casaroli. But Paris",
+      "entities_involved": [
+        "Casaroli",
+        "P2",
+        "Roberto Calvi",
+        "Antonio",
+        "Hugo Polletti"
+      ],
+      "line_number": 116,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_62",
+      "year": 1983,
+      "month": null,
+      "day": null,
+      "time_description": "1983",
+      "event_description": "managed to provide this profile because of an intercept that the Italian police had placed on a phone line within the Vatican after the caller demanded access to Secretary of State Casaroli. But Paris",
+      "entities_involved": [
+        "Casaroli",
+        "P2",
+        "Roberto Calvi",
+        "Antonio",
+        "Hugo Polletti"
+      ],
+      "line_number": 116,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_63",
+      "year": 1983,
+      "month": null,
+      "day": null,
+      "time_description": "1983",
+      "event_description": "managed to provide this profile because of an intercept that the Italian police had placed on a phone line within the Vatican after the caller demanded access to Secretary of State Casaroli. But Paris",
+      "entities_involved": [
+        "Casaroli",
+        "P2",
+        "Roberto Calvi",
+        "Antonio",
+        "Hugo Polletti"
+      ],
+      "line_number": 116,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_64",
+      "year": 1990,
+      "month": null,
+      "day": null,
+      "time_description": "1990",
+      "event_description": "managed to provide this profile because of an intercept that the Italian police had placed on a phone line within the Vatican after the caller demanded access to Secretary of State Casaroli. But Paris",
+      "entities_involved": [
+        "Casaroli",
+        "P2",
+        "Roberto Calvi",
+        "Antonio",
+        "Hugo Polletti"
+      ],
+      "line_number": 116,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_65",
+      "year": 2006,
+      "month": null,
+      "day": null,
+      "time_description": "2006",
+      "event_description": "managed to provide this profile because of an intercept that the Italian police had placed on a phone line within the Vatican after the caller demanded access to Secretary of State Casaroli. But Paris",
+      "entities_involved": [
+        "Casaroli",
+        "P2",
+        "Roberto Calvi",
+        "Antonio",
+        "Hugo Polletti"
+      ],
+      "line_number": 116,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_66",
+      "year": 2010,
+      "month": null,
+      "day": null,
+      "time_description": "2010",
+      "event_description": "managed to provide this profile because of an intercept that the Italian police had placed on a phone line within the Vatican after the caller demanded access to Secretary of State Casaroli. But Paris",
+      "entities_involved": [
+        "Casaroli",
+        "P2",
+        "Roberto Calvi",
+        "Antonio",
+        "Hugo Polletti"
+      ],
+      "line_number": 116,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_67",
+      "year": 2013,
+      "month": null,
+      "day": null,
+      "time_description": "2013",
+      "event_description": "managed to provide this profile because of an intercept that the Italian police had placed on a phone line within the Vatican after the caller demanded access to Secretary of State Casaroli. But Paris",
+      "entities_involved": [
+        "Casaroli",
+        "P2",
+        "Roberto Calvi",
+        "Antonio",
+        "Hugo Polletti"
+      ],
+      "line_number": 116,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_68",
+      "year": 1984,
+      "month": null,
+      "day": null,
+      "time_description": "1984",
+      "event_description": "managed to provide this profile because of an intercept that the Italian police had placed on a phone line within the Vatican after the caller demanded access to Secretary of State Casaroli. But Paris",
+      "entities_involved": [
+        "Casaroli",
+        "P2",
+        "Roberto Calvi",
+        "Antonio",
+        "Hugo Polletti"
+      ],
+      "line_number": 116,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_69",
+      "year": 1983,
+      "month": null,
+      "day": null,
+      "time_description": "fall of 1983",
+      "event_description": "managed to provide this profile because of an intercept that the Italian police had placed on a phone line within the Vatican after the caller demanded access to Secretary of State Casaroli. But Paris",
+      "entities_involved": [
+        "Casaroli",
+        "P2",
+        "Roberto Calvi",
+        "Antonio",
+        "Hugo Polletti"
+      ],
+      "line_number": 116,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_70",
+      "year": 1928,
+      "month": null,
+      "day": null,
+      "time_description": "1928",
+      "event_description": "The money for the reparation came from a mysterious deposit made in the IOR by Secretary of State Casaroli in the amount of $406 million. The source of the cash was Opus Dei, work of God, a deeply con",
+      "entities_involved": [
+        "Casaroli",
+        "Banco Ambrosiano",
+        "P2",
+        "Vatican",
+        "William"
+      ],
+      "line_number": 118,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_71",
+      "year": 1950,
+      "month": null,
+      "day": null,
+      "time_description": "1950",
+      "event_description": "The money for the reparation came from a mysterious deposit made in the IOR by Secretary of State Casaroli in the amount of $406 million. The source of the cash was Opus Dei, work of God, a deeply con",
+      "entities_involved": [
+        "Casaroli",
+        "Banco Ambrosiano",
+        "P2",
+        "Vatican",
+        "William"
+      ],
+      "line_number": 118,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_72",
+      "year": 1984,
+      "month": null,
+      "day": null,
+      "time_description": "1984",
+      "event_description": "The money for the reparation came from a mysterious deposit made in the IOR by Secretary of State Casaroli in the amount of $406 million. The source of the cash was Opus Dei, work of God, a deeply con",
+      "entities_involved": [
+        "Casaroli",
+        "Banco Ambrosiano",
+        "P2",
+        "Vatican",
+        "William"
+      ],
+      "line_number": 118,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_73",
+      "year": 1971,
+      "month": null,
+      "day": null,
+      "time_description": "1971",
+      "event_description": "The money for the reparation came from a mysterious deposit made in the IOR by Secretary of State Casaroli in the amount of $406 million. The source of the cash was Opus Dei, work of God, a deeply con",
+      "entities_involved": [
+        "Casaroli",
+        "Banco Ambrosiano",
+        "P2",
+        "Vatican",
+        "William"
+      ],
+      "line_number": 118,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_74",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "The money for the reparation came from a mysterious deposit made in the IOR by Secretary of State Casaroli in the amount of $406 million. The source of the cash was Opus Dei, work of God, a deeply con",
+      "entities_involved": [
+        "Casaroli",
+        "Banco Ambrosiano",
+        "P2",
+        "Vatican",
+        "William"
+      ],
+      "line_number": 118,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_75",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "The money for the reparation came from a mysterious deposit made in the IOR by Secretary of State Casaroli in the amount of $406 million. The source of the cash was Opus Dei, work of God, a deeply con",
+      "entities_involved": [
+        "Casaroli",
+        "Banco Ambrosiano",
+        "P2",
+        "Vatican",
+        "William"
+      ],
+      "line_number": 118,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_76",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "the 1980s",
+      "event_description": "The money for the reparation came from a mysterious deposit made in the IOR by Secretary of State Casaroli in the amount of $406 million. The source of the cash was Opus Dei, work of God, a deeply con",
+      "entities_involved": [
+        "Casaroli",
+        "Banco Ambrosiano",
+        "P2",
+        "Vatican",
+        "William"
+      ],
+      "line_number": 118,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_77",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "April 23, 1981",
+      "event_description": "Rosario Spatola's father-in-law in Torreta\u2014not far from Palermo. The Spatolas, the prosecutors came to realize, were one of the four mafia families forming a transatlantic colossus. The Cherry Hill Ga",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "P2",
+        "Antonio",
+        "Vatican"
+      ],
+      "line_number": 120,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_78",
+      "year": 1982,
+      "month": null,
+      "day": null,
+      "time_description": "January 25, 1982",
+      "event_description": "Rosario Spatola's father-in-law in Torreta\u2014not far from Palermo. The Spatolas, the prosecutors came to realize, were one of the four mafia families forming a transatlantic colossus. The Cherry Hill Ga",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "P2",
+        "Antonio",
+        "Vatican"
+      ],
+      "line_number": 120,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_79",
+      "year": 1984,
+      "month": null,
+      "day": null,
+      "time_description": "September 24, 1984",
+      "event_description": "Rosario Spatola's father-in-law in Torreta\u2014not far from Palermo. The Spatolas, the prosecutors came to realize, were one of the four mafia families forming a transatlantic colossus. The Cherry Hill Ga",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "P2",
+        "Antonio",
+        "Vatican"
+      ],
+      "line_number": 120,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_80",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "1980",
+      "event_description": "Rosario Spatola's father-in-law in Torreta\u2014not far from Palermo. The Spatolas, the prosecutors came to realize, were one of the four mafia families forming a transatlantic colossus. The Cherry Hill Ga",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "P2",
+        "Antonio",
+        "Vatican"
+      ],
+      "line_number": 120,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_81",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "Rosario Spatola's father-in-law in Torreta\u2014not far from Palermo. The Spatolas, the prosecutors came to realize, were one of the four mafia families forming a transatlantic colossus. The Cherry Hill Ga",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "P2",
+        "Antonio",
+        "Vatican"
+      ],
+      "line_number": 120,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_82",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "Rosario Spatola's father-in-law in Torreta\u2014not far from Palermo. The Spatolas, the prosecutors came to realize, were one of the four mafia families forming a transatlantic colossus. The Cherry Hill Ga",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "P2",
+        "Antonio",
+        "Vatican"
+      ],
+      "line_number": 120,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_83",
+      "year": 1982,
+      "month": null,
+      "day": null,
+      "time_description": "1982",
+      "event_description": "Rosario Spatola's father-in-law in Torreta\u2014not far from Palermo. The Spatolas, the prosecutors came to realize, were one of the four mafia families forming a transatlantic colossus. The Cherry Hill Ga",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "P2",
+        "Antonio",
+        "Vatican"
+      ],
+      "line_number": 120,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_84",
+      "year": 1982,
+      "month": null,
+      "day": null,
+      "time_description": "1982",
+      "event_description": "Rosario Spatola's father-in-law in Torreta\u2014not far from Palermo. The Spatolas, the prosecutors came to realize, were one of the four mafia families forming a transatlantic colossus. The Cherry Hill Ga",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "P2",
+        "Antonio",
+        "Vatican"
+      ],
+      "line_number": 120,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_85",
+      "year": 1982,
+      "month": null,
+      "day": null,
+      "time_description": "1982",
+      "event_description": "Rosario Spatola's father-in-law in Torreta\u2014not far from Palermo. The Spatolas, the prosecutors came to realize, were one of the four mafia families forming a transatlantic colossus. The Cherry Hill Ga",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "P2",
+        "Antonio",
+        "Vatican"
+      ],
+      "line_number": 120,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_86",
+      "year": 1982,
+      "month": null,
+      "day": null,
+      "time_description": "1982",
+      "event_description": "Rosario Spatola's father-in-law in Torreta\u2014not far from Palermo. The Spatolas, the prosecutors came to realize, were one of the four mafia families forming a transatlantic colossus. The Cherry Hill Ga",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "P2",
+        "Antonio",
+        "Vatican"
+      ],
+      "line_number": 120,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_87",
+      "year": 1984,
+      "month": null,
+      "day": null,
+      "time_description": "1984",
+      "event_description": "Rosario Spatola's father-in-law in Torreta\u2014not far from Palermo. The Spatolas, the prosecutors came to realize, were one of the four mafia families forming a transatlantic colossus. The Cherry Hill Ga",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "P2",
+        "Antonio",
+        "Vatican"
+      ],
+      "line_number": 120,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_88",
+      "year": 1982,
+      "month": null,
+      "day": null,
+      "time_description": "fall of 1982",
+      "event_description": "Rosario Spatola's father-in-law in Torreta\u2014not far from Palermo. The Spatolas, the prosecutors came to realize, were one of the four mafia families forming a transatlantic colossus. The Cherry Hill Ga",
+      "entities_involved": [
+        "Prime Minister",
+        "Banco Ambrosiano",
+        "P2",
+        "Antonio",
+        "Vatican"
+      ],
+      "line_number": 120,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_89",
+      "year": 1984,
+      "month": null,
+      "day": null,
+      "time_description": "December 12, 1984",
+      "event_description": "If you wish, you can go right now to Milan or to Rome with one million dollars, ten million dollars in cash, with me or some other Italian who knows his way around. In a matter of minutes, we would fi",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Santo Vito"
+      ],
+      "line_number": 122,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_90",
+      "year": 1985,
+      "month": null,
+      "day": null,
+      "time_description": "June 4, 1985",
+      "event_description": "If you wish, you can go right now to Milan or to Rome with one million dollars, ten million dollars in cash, with me or some other Italian who knows his way around. In a matter of minutes, we would fi",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Santo Vito"
+      ],
+      "line_number": 122,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_91",
+      "year": 1986,
+      "month": null,
+      "day": null,
+      "time_description": "February 5, 1986",
+      "event_description": "If you wish, you can go right now to Milan or to Rome with one million dollars, ten million dollars in cash, with me or some other Italian who knows his way around. In a matter of minutes, we would fi",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Santo Vito"
+      ],
+      "line_number": 122,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_92",
+      "year": 1986,
+      "month": null,
+      "day": null,
+      "time_description": "March 18, 1986",
+      "event_description": "If you wish, you can go right now to Milan or to Rome with one million dollars, ten million dollars in cash, with me or some other Italian who knows his way around. In a matter of minutes, we would fi",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Santo Vito"
+      ],
+      "line_number": 122,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_93",
+      "year": 1987,
+      "month": null,
+      "day": null,
+      "time_description": "February 26, 1987",
+      "event_description": "If you wish, you can go right now to Milan or to Rome with one million dollars, ten million dollars in cash, with me or some other Italian who knows his way around. In a matter of minutes, we would fi",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Santo Vito"
+      ],
+      "line_number": 122,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_94",
+      "year": 2006,
+      "month": null,
+      "day": null,
+      "time_description": "February 20, 2006",
+      "event_description": "If you wish, you can go right now to Milan or to Rome with one million dollars, ten million dollars in cash, with me or some other Italian who knows his way around. In a matter of minutes, we would fi",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Santo Vito"
+      ],
+      "line_number": 122,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_95",
+      "year": 1984,
+      "month": null,
+      "day": null,
+      "time_description": "1984",
+      "event_description": "If you wish, you can go right now to Milan or to Rome with one million dollars, ten million dollars in cash, with me or some other Italian who knows his way around. In a matter of minutes, we would fi",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Santo Vito"
+      ],
+      "line_number": 122,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_96",
+      "year": 1985,
+      "month": null,
+      "day": null,
+      "time_description": "1985",
+      "event_description": "If you wish, you can go right now to Milan or to Rome with one million dollars, ten million dollars in cash, with me or some other Italian who knows his way around. In a matter of minutes, we would fi",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Santo Vito"
+      ],
+      "line_number": 122,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_97",
+      "year": 1985,
+      "month": null,
+      "day": null,
+      "time_description": "1985",
+      "event_description": "If you wish, you can go right now to Milan or to Rome with one million dollars, ten million dollars in cash, with me or some other Italian who knows his way around. In a matter of minutes, we would fi",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Santo Vito"
+      ],
+      "line_number": 122,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_98",
+      "year": 1986,
+      "month": null,
+      "day": null,
+      "time_description": "1986",
+      "event_description": "If you wish, you can go right now to Milan or to Rome with one million dollars, ten million dollars in cash, with me or some other Italian who knows his way around. In a matter of minutes, we would fi",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Santo Vito"
+      ],
+      "line_number": 122,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_99",
+      "year": 1986,
+      "month": null,
+      "day": null,
+      "time_description": "1986",
+      "event_description": "If you wish, you can go right now to Milan or to Rome with one million dollars, ten million dollars in cash, with me or some other Italian who knows his way around. In a matter of minutes, we would fi",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Santo Vito"
+      ],
+      "line_number": 122,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_100",
+      "year": 1987,
+      "month": null,
+      "day": null,
+      "time_description": "1987",
+      "event_description": "If you wish, you can go right now to Milan or to Rome with one million dollars, ten million dollars in cash, with me or some other Italian who knows his way around. In a matter of minutes, we would fi",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Santo Vito"
+      ],
+      "line_number": 122,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_101",
+      "year": 1929,
+      "month": null,
+      "day": null,
+      "time_description": "1929",
+      "event_description": "If you wish, you can go right now to Milan or to Rome with one million dollars, ten million dollars in cash, with me or some other Italian who knows his way around. In a matter of minutes, we would fi",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Santo Vito"
+      ],
+      "line_number": 122,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_102",
+      "year": 1991,
+      "month": null,
+      "day": null,
+      "time_description": "1991",
+      "event_description": "If you wish, you can go right now to Milan or to Rome with one million dollars, ten million dollars in cash, with me or some other Italian who knows his way around. In a matter of minutes, we would fi",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Santo Vito"
+      ],
+      "line_number": 122,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_103",
+      "year": 2006,
+      "month": null,
+      "day": null,
+      "time_description": "2006",
+      "event_description": "If you wish, you can go right now to Milan or to Rome with one million dollars, ten million dollars in cash, with me or some other Italian who knows his way around. In a matter of minutes, we would fi",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Santo Vito"
+      ],
+      "line_number": 122,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_104",
+      "year": 1987,
+      "month": null,
+      "day": null,
+      "time_description": "1987",
+      "event_description": "If you wish, you can go right now to Milan or to Rome with one million dollars, ten million dollars in cash, with me or some other Italian who knows his way around. In a matter of minutes, we would fi",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Santo Vito"
+      ],
+      "line_number": 122,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_105",
+      "year": 1992,
+      "month": null,
+      "day": null,
+      "time_description": "1992",
+      "event_description": "If you wish, you can go right now to Milan or to Rome with one million dollars, ten million dollars in cash, with me or some other Italian who knows his way around. In a matter of minutes, we would fi",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Roberto Calvi",
+        "Banco Ambrosiano",
+        "Santo Vito"
+      ],
+      "line_number": 122,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_106",
+      "year": 1998,
+      "month": null,
+      "day": null,
+      "time_description": "1998",
+      "event_description": "years upon appeal. For the next six years, Geli remained under house arrest, detentione Domiciliare at his luxurious villa in Tuscany. In 1998, when the police came to transport him to a public facili",
+      "entities_involved": [
+        "Arthur Rouse",
+        "Jose Sanchez Asiain",
+        "Jilani",
+        "Osama bin Laden",
+        "Al-Qaeda"
+      ],
+      "line_number": 124,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_107",
+      "year": 1989,
+      "month": null,
+      "day": null,
+      "time_description": "1989",
+      "event_description": "years upon appeal. For the next six years, Geli remained under house arrest, detentione Domiciliare at his luxurious villa in Tuscany. In 1998, when the police came to transport him to a public facili",
+      "entities_involved": [
+        "Arthur Rouse",
+        "Jose Sanchez Asiain",
+        "Jilani",
+        "Osama bin Laden",
+        "Al-Qaeda"
+      ],
+      "line_number": 124,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_108",
+      "year": 1993,
+      "month": null,
+      "day": null,
+      "time_description": "1993",
+      "event_description": "years upon appeal. For the next six years, Geli remained under house arrest, detentione Domiciliare at his luxurious villa in Tuscany. In 1998, when the police came to transport him to a public facili",
+      "entities_involved": [
+        "Arthur Rouse",
+        "Jose Sanchez Asiain",
+        "Jilani",
+        "Osama bin Laden",
+        "Al-Qaeda"
+      ],
+      "line_number": 124,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_109",
+      "year": 1972,
+      "month": null,
+      "day": null,
+      "time_description": "1972",
+      "event_description": "years upon appeal. For the next six years, Geli remained under house arrest, detentione Domiciliare at his luxurious villa in Tuscany. In 1998, when the police came to transport him to a public facili",
+      "entities_involved": [
+        "Arthur Rouse",
+        "Jose Sanchez Asiain",
+        "Jilani",
+        "Osama bin Laden",
+        "Al-Qaeda"
+      ],
+      "line_number": 124,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_110",
+      "year": 1972,
+      "month": null,
+      "day": null,
+      "time_description": "1972",
+      "event_description": "years upon appeal. For the next six years, Geli remained under house arrest, detentione Domiciliare at his luxurious villa in Tuscany. In 1998, when the police came to transport him to a public facili",
+      "entities_involved": [
+        "Arthur Rouse",
+        "Jose Sanchez Asiain",
+        "Jilani",
+        "Osama bin Laden",
+        "Al-Qaeda"
+      ],
+      "line_number": 124,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_111",
+      "year": 1996,
+      "month": null,
+      "day": null,
+      "time_description": "1996",
+      "event_description": "years upon appeal. For the next six years, Geli remained under house arrest, detentione Domiciliare at his luxurious villa in Tuscany. In 1998, when the police came to transport him to a public facili",
+      "entities_involved": [
+        "Arthur Rouse",
+        "Jose Sanchez Asiain",
+        "Jilani",
+        "Osama bin Laden",
+        "Al-Qaeda"
+      ],
+      "line_number": 124,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_112",
+      "year": 1985,
+      "month": null,
+      "day": null,
+      "time_description": "1985",
+      "event_description": "years upon appeal. For the next six years, Geli remained under house arrest, detentione Domiciliare at his luxurious villa in Tuscany. In 1998, when the police came to transport him to a public facili",
+      "entities_involved": [
+        "Arthur Rouse",
+        "Jose Sanchez Asiain",
+        "Jilani",
+        "Osama bin Laden",
+        "Al-Qaeda"
+      ],
+      "line_number": 124,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_113",
+      "year": 1984,
+      "month": null,
+      "day": null,
+      "time_description": "1984",
+      "event_description": "years upon appeal. For the next six years, Geli remained under house arrest, detentione Domiciliare at his luxurious villa in Tuscany. In 1998, when the police came to transport him to a public facili",
+      "entities_involved": [
+        "Arthur Rouse",
+        "Jose Sanchez Asiain",
+        "Jilani",
+        "Osama bin Laden",
+        "Al-Qaeda"
+      ],
+      "line_number": 124,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_114",
+      "year": 1988,
+      "month": null,
+      "day": null,
+      "time_description": "1988",
+      "event_description": "years upon appeal. For the next six years, Geli remained under house arrest, detentione Domiciliare at his luxurious villa in Tuscany. In 1998, when the police came to transport him to a public facili",
+      "entities_involved": [
+        "Arthur Rouse",
+        "Jose Sanchez Asiain",
+        "Jilani",
+        "Osama bin Laden",
+        "Al-Qaeda"
+      ],
+      "line_number": 124,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_115",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "1980",
+      "event_description": "years upon appeal. For the next six years, Geli remained under house arrest, detentione Domiciliare at his luxurious villa in Tuscany. In 1998, when the police came to transport him to a public facili",
+      "entities_involved": [
+        "Arthur Rouse",
+        "Jose Sanchez Asiain",
+        "Jilani",
+        "Osama bin Laden",
+        "Al-Qaeda"
+      ],
+      "line_number": 124,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_116",
+      "year": 1985,
+      "month": null,
+      "day": null,
+      "time_description": "1985",
+      "event_description": "years upon appeal. For the next six years, Geli remained under house arrest, detentione Domiciliare at his luxurious villa in Tuscany. In 1998, when the police came to transport him to a public facili",
+      "entities_involved": [
+        "Arthur Rouse",
+        "Jose Sanchez Asiain",
+        "Jilani",
+        "Osama bin Laden",
+        "Al-Qaeda"
+      ],
+      "line_number": 124,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_117",
+      "year": 1991,
+      "month": null,
+      "day": null,
+      "time_description": "March 1, 1991",
+      "event_description": "Kifa Refugee Center, acted as a front for the transference of funds, weapons, and recruits to Afghanistan. Throughout the 1980s this militant organization received over two million dollars a year and ",
+      "entities_involved": [
+        "Prime Minister",
+        "SISMI",
+        "Dewey Claridge",
+        "Richard",
+        "Secretary"
+      ],
+      "line_number": 126,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_118",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "January 1, 1969",
+      "event_description": "Kifa Refugee Center, acted as a front for the transference of funds, weapons, and recruits to Afghanistan. Throughout the 1980s this militant organization received over two million dollars a year and ",
+      "entities_involved": [
+        "Prime Minister",
+        "SISMI",
+        "Dewey Claridge",
+        "Richard",
+        "Secretary"
+      ],
+      "line_number": 126,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_119",
+      "year": 1987,
+      "month": null,
+      "day": null,
+      "time_description": "December 31, 1987",
+      "event_description": "Kifa Refugee Center, acted as a front for the transference of funds, weapons, and recruits to Afghanistan. Throughout the 1980s this militant organization received over two million dollars a year and ",
+      "entities_involved": [
+        "Prime Minister",
+        "SISMI",
+        "Dewey Claridge",
+        "Richard",
+        "Secretary"
+      ],
+      "line_number": 126,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_120",
+      "year": 1990,
+      "month": null,
+      "day": null,
+      "time_description": "August 2, 1990",
+      "event_description": "Kifa Refugee Center, acted as a front for the transference of funds, weapons, and recruits to Afghanistan. Throughout the 1980s this militant organization received over two million dollars a year and ",
+      "entities_involved": [
+        "Prime Minister",
+        "SISMI",
+        "Dewey Claridge",
+        "Richard",
+        "Secretary"
+      ],
+      "line_number": 126,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_121",
+      "year": 1990,
+      "month": null,
+      "day": null,
+      "time_description": "October 8, 1990",
+      "event_description": "Kifa Refugee Center, acted as a front for the transference of funds, weapons, and recruits to Afghanistan. Throughout the 1980s this militant organization received over two million dollars a year and ",
+      "entities_involved": [
+        "Prime Minister",
+        "SISMI",
+        "Dewey Claridge",
+        "Richard",
+        "Secretary"
+      ],
+      "line_number": 126,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_122",
+      "year": 1988,
+      "month": null,
+      "day": null,
+      "time_description": "1988",
+      "event_description": "Kifa Refugee Center, acted as a front for the transference of funds, weapons, and recruits to Afghanistan. Throughout the 1980s this militant organization received over two million dollars a year and ",
+      "entities_involved": [
+        "Prime Minister",
+        "SISMI",
+        "Dewey Claridge",
+        "Richard",
+        "Secretary"
+      ],
+      "line_number": 126,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_123",
+      "year": 1992,
+      "month": null,
+      "day": null,
+      "time_description": "1992",
+      "event_description": "Kifa Refugee Center, acted as a front for the transference of funds, weapons, and recruits to Afghanistan. Throughout the 1980s this militant organization received over two million dollars a year and ",
+      "entities_involved": [
+        "Prime Minister",
+        "SISMI",
+        "Dewey Claridge",
+        "Richard",
+        "Secretary"
+      ],
+      "line_number": 126,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_124",
+      "year": 1991,
+      "month": null,
+      "day": null,
+      "time_description": "1991",
+      "event_description": "Kifa Refugee Center, acted as a front for the transference of funds, weapons, and recruits to Afghanistan. Throughout the 1980s this militant organization received over two million dollars a year and ",
+      "entities_involved": [
+        "Prime Minister",
+        "SISMI",
+        "Dewey Claridge",
+        "Richard",
+        "Secretary"
+      ],
+      "line_number": 126,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_125",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "1980",
+      "event_description": "Kifa Refugee Center, acted as a front for the transference of funds, weapons, and recruits to Afghanistan. Throughout the 1980s this militant organization received over two million dollars a year and ",
+      "entities_involved": [
+        "Prime Minister",
+        "SISMI",
+        "Dewey Claridge",
+        "Richard",
+        "Secretary"
+      ],
+      "line_number": 126,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_126",
+      "year": 1990,
+      "month": null,
+      "day": null,
+      "time_description": "1990",
+      "event_description": "Kifa Refugee Center, acted as a front for the transference of funds, weapons, and recruits to Afghanistan. Throughout the 1980s this militant organization received over two million dollars a year and ",
+      "entities_involved": [
+        "Prime Minister",
+        "SISMI",
+        "Dewey Claridge",
+        "Richard",
+        "Secretary"
+      ],
+      "line_number": 126,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_127",
+      "year": 1988,
+      "month": null,
+      "day": null,
+      "time_description": "1988",
+      "event_description": "Kifa Refugee Center, acted as a front for the transference of funds, weapons, and recruits to Afghanistan. Throughout the 1980s this militant organization received over two million dollars a year and ",
+      "entities_involved": [
+        "Prime Minister",
+        "SISMI",
+        "Dewey Claridge",
+        "Richard",
+        "Secretary"
+      ],
+      "line_number": 126,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_128",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "1969",
+      "event_description": "Kifa Refugee Center, acted as a front for the transference of funds, weapons, and recruits to Afghanistan. Throughout the 1980s this militant organization received over two million dollars a year and ",
+      "entities_involved": [
+        "Prime Minister",
+        "SISMI",
+        "Dewey Claridge",
+        "Richard",
+        "Secretary"
+      ],
+      "line_number": 126,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_129",
+      "year": 1987,
+      "month": null,
+      "day": null,
+      "time_description": "1987",
+      "event_description": "Kifa Refugee Center, acted as a front for the transference of funds, weapons, and recruits to Afghanistan. Throughout the 1980s this militant organization received over two million dollars a year and ",
+      "entities_involved": [
+        "Prime Minister",
+        "SISMI",
+        "Dewey Claridge",
+        "Richard",
+        "Secretary"
+      ],
+      "line_number": 126,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_130",
+      "year": 1988,
+      "month": null,
+      "day": null,
+      "time_description": "1988",
+      "event_description": "Kifa Refugee Center, acted as a front for the transference of funds, weapons, and recruits to Afghanistan. Throughout the 1980s this militant organization received over two million dollars a year and ",
+      "entities_involved": [
+        "Prime Minister",
+        "SISMI",
+        "Dewey Claridge",
+        "Richard",
+        "Secretary"
+      ],
+      "line_number": 126,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_131",
+      "year": 1990,
+      "month": null,
+      "day": null,
+      "time_description": "1990",
+      "event_description": "Kifa Refugee Center, acted as a front for the transference of funds, weapons, and recruits to Afghanistan. Throughout the 1980s this militant organization received over two million dollars a year and ",
+      "entities_involved": [
+        "Prime Minister",
+        "SISMI",
+        "Dewey Claridge",
+        "Richard",
+        "Secretary"
+      ],
+      "line_number": 126,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_132",
+      "year": 1990,
+      "month": null,
+      "day": null,
+      "time_description": "1990",
+      "event_description": "Kifa Refugee Center, acted as a front for the transference of funds, weapons, and recruits to Afghanistan. Throughout the 1980s this militant organization received over two million dollars a year and ",
+      "entities_involved": [
+        "Prime Minister",
+        "SISMI",
+        "Dewey Claridge",
+        "Richard",
+        "Secretary"
+      ],
+      "line_number": 126,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_133",
+      "year": 1990,
+      "month": null,
+      "day": null,
+      "time_description": "1990",
+      "event_description": "Kifa Refugee Center, acted as a front for the transference of funds, weapons, and recruits to Afghanistan. Throughout the 1980s this militant organization received over two million dollars a year and ",
+      "entities_involved": [
+        "Prime Minister",
+        "SISMI",
+        "Dewey Claridge",
+        "Richard",
+        "Secretary"
+      ],
+      "line_number": 126,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_134",
+      "year": 1990,
+      "month": null,
+      "day": null,
+      "time_description": "1990",
+      "event_description": "Kifa Refugee Center, acted as a front for the transference of funds, weapons, and recruits to Afghanistan. Throughout the 1980s this militant organization received over two million dollars a year and ",
+      "entities_involved": [
+        "Prime Minister",
+        "SISMI",
+        "Dewey Claridge",
+        "Richard",
+        "Secretary"
+      ],
+      "line_number": 126,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_135",
+      "year": 1977,
+      "month": null,
+      "day": null,
+      "time_description": "1977",
+      "event_description": "Kifa Refugee Center, acted as a front for the transference of funds, weapons, and recruits to Afghanistan. Throughout the 1980s this militant organization received over two million dollars a year and ",
+      "entities_involved": [
+        "Prime Minister",
+        "SISMI",
+        "Dewey Claridge",
+        "Richard",
+        "Secretary"
+      ],
+      "line_number": 126,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_136",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "Kifa Refugee Center, acted as a front for the transference of funds, weapons, and recruits to Afghanistan. Throughout the 1980s this militant organization received over two million dollars a year and ",
+      "entities_involved": [
+        "Prime Minister",
+        "SISMI",
+        "Dewey Claridge",
+        "Richard",
+        "Secretary"
+      ],
+      "line_number": 126,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_137",
+      "year": 1990,
+      "month": null,
+      "day": null,
+      "time_description": "1990",
+      "event_description": "Kifa Refugee Center, acted as a front for the transference of funds, weapons, and recruits to Afghanistan. Throughout the 1980s this militant organization received over two million dollars a year and ",
+      "entities_involved": [
+        "Prime Minister",
+        "SISMI",
+        "Dewey Claridge",
+        "Richard",
+        "Secretary"
+      ],
+      "line_number": 126,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_138",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "the 1980s",
+      "event_description": "Kifa Refugee Center, acted as a front for the transference of funds, weapons, and recruits to Afghanistan. Throughout the 1980s this militant organization received over two million dollars a year and ",
+      "entities_involved": [
+        "Prime Minister",
+        "SISMI",
+        "Dewey Claridge",
+        "Richard",
+        "Secretary"
+      ],
+      "line_number": 126,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_139",
+      "year": 1991,
+      "month": null,
+      "day": null,
+      "time_description": "April 15, 1991",
+      "event_description": "questions about Gladio. He ripped off his microphone and left the set. The interview was over. Official Condemnation On November 22, the European Parliament, the directly elected parliamentary institu",
+      "entities_involved": [
+        "P2",
+        "Red Brigades",
+        "Vatican",
+        "Supreme Court",
+        "Pope John Paul II"
+      ],
+      "line_number": 128,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_140",
+      "year": 1991,
+      "month": null,
+      "day": null,
+      "time_description": "June 18, 1991",
+      "event_description": "questions about Gladio. He ripped off his microphone and left the set. The interview was over. Official Condemnation On November 22, the European Parliament, the directly elected parliamentary institu",
+      "entities_involved": [
+        "P2",
+        "Red Brigades",
+        "Vatican",
+        "Supreme Court",
+        "Pope John Paul II"
+      ],
+      "line_number": 128,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_141",
+      "year": 1991,
+      "month": null,
+      "day": null,
+      "time_description": "1991",
+      "event_description": "questions about Gladio. He ripped off his microphone and left the set. The interview was over. Official Condemnation On November 22, the European Parliament, the directly elected parliamentary institu",
+      "entities_involved": [
+        "P2",
+        "Red Brigades",
+        "Vatican",
+        "Supreme Court",
+        "Pope John Paul II"
+      ],
+      "line_number": 128,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_142",
+      "year": 1951,
+      "month": null,
+      "day": null,
+      "time_description": "1951",
+      "event_description": "questions about Gladio. He ripped off his microphone and left the set. The interview was over. Official Condemnation On November 22, the European Parliament, the directly elected parliamentary institu",
+      "entities_involved": [
+        "P2",
+        "Red Brigades",
+        "Vatican",
+        "Supreme Court",
+        "Pope John Paul II"
+      ],
+      "line_number": 128,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_143",
+      "year": 1991,
+      "month": null,
+      "day": null,
+      "time_description": "1991",
+      "event_description": "questions about Gladio. He ripped off his microphone and left the set. The interview was over. Official Condemnation On November 22, the European Parliament, the directly elected parliamentary institu",
+      "entities_involved": [
+        "P2",
+        "Red Brigades",
+        "Vatican",
+        "Supreme Court",
+        "Pope John Paul II"
+      ],
+      "line_number": 128,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_144",
+      "year": 1995,
+      "month": null,
+      "day": null,
+      "time_description": "1995",
+      "event_description": "questions about Gladio. He ripped off his microphone and left the set. The interview was over. Official Condemnation On November 22, the European Parliament, the directly elected parliamentary institu",
+      "entities_involved": [
+        "P2",
+        "Red Brigades",
+        "Vatican",
+        "Supreme Court",
+        "Pope John Paul II"
+      ],
+      "line_number": 128,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_145",
+      "year": 2002,
+      "month": null,
+      "day": null,
+      "time_description": "2002",
+      "event_description": "questions about Gladio. He ripped off his microphone and left the set. The interview was over. Official Condemnation On November 22, the European Parliament, the directly elected parliamentary institu",
+      "entities_involved": [
+        "P2",
+        "Red Brigades",
+        "Vatican",
+        "Supreme Court",
+        "Pope John Paul II"
+      ],
+      "line_number": 128,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_146",
+      "year": 2013,
+      "month": null,
+      "day": null,
+      "time_description": "May 6, 2013",
+      "event_description": "to Andriotti. The murder verdict was overturned by Italy's Supreme Court in October 2003. Andriotti, who rubbed shoulders with Licio Gelli, Michele Sindonna, Roberto Calvi, and John Paul II, died on M",
+      "entities_involved": [
+        "Prime Minister",
+        "Roberto Calvi",
+        "Grey Wolves",
+        "Kurdistan Workers",
+        "Mujahideen"
+      ],
+      "line_number": 130,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_147",
+      "year": 1996,
+      "month": null,
+      "day": null,
+      "time_description": "November 3, 1996",
+      "event_description": "to Andriotti. The murder verdict was overturned by Italy's Supreme Court in October 2003. Andriotti, who rubbed shoulders with Licio Gelli, Michele Sindonna, Roberto Calvi, and John Paul II, died on M",
+      "entities_involved": [
+        "Prime Minister",
+        "Roberto Calvi",
+        "Grey Wolves",
+        "Kurdistan Workers",
+        "Mujahideen"
+      ],
+      "line_number": 130,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_148",
+      "year": 1997,
+      "month": null,
+      "day": null,
+      "time_description": "December 7, 1997",
+      "event_description": "to Andriotti. The murder verdict was overturned by Italy's Supreme Court in October 2003. Andriotti, who rubbed shoulders with Licio Gelli, Michele Sindonna, Roberto Calvi, and John Paul II, died on M",
+      "entities_involved": [
+        "Prime Minister",
+        "Roberto Calvi",
+        "Grey Wolves",
+        "Kurdistan Workers",
+        "Mujahideen"
+      ],
+      "line_number": 130,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_149",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "September 12, 1980",
+      "event_description": "to Andriotti. The murder verdict was overturned by Italy's Supreme Court in October 2003. Andriotti, who rubbed shoulders with Licio Gelli, Michele Sindonna, Roberto Calvi, and John Paul II, died on M",
+      "entities_involved": [
+        "Prime Minister",
+        "Roberto Calvi",
+        "Grey Wolves",
+        "Kurdistan Workers",
+        "Mujahideen"
+      ],
+      "line_number": 130,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_150",
+      "year": 2004,
+      "month": null,
+      "day": null,
+      "time_description": "September 14, 2004",
+      "event_description": "to Andriotti. The murder verdict was overturned by Italy's Supreme Court in October 2003. Andriotti, who rubbed shoulders with Licio Gelli, Michele Sindonna, Roberto Calvi, and John Paul II, died on M",
+      "entities_involved": [
+        "Prime Minister",
+        "Roberto Calvi",
+        "Grey Wolves",
+        "Kurdistan Workers",
+        "Mujahideen"
+      ],
+      "line_number": 130,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_151",
+      "year": 2003,
+      "month": null,
+      "day": null,
+      "time_description": "2003",
+      "event_description": "to Andriotti. The murder verdict was overturned by Italy's Supreme Court in October 2003. Andriotti, who rubbed shoulders with Licio Gelli, Michele Sindonna, Roberto Calvi, and John Paul II, died on M",
+      "entities_involved": [
+        "Prime Minister",
+        "Roberto Calvi",
+        "Grey Wolves",
+        "Kurdistan Workers",
+        "Mujahideen"
+      ],
+      "line_number": 130,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_152",
+      "year": 2013,
+      "month": null,
+      "day": null,
+      "time_description": "2013",
+      "event_description": "to Andriotti. The murder verdict was overturned by Italy's Supreme Court in October 2003. Andriotti, who rubbed shoulders with Licio Gelli, Michele Sindonna, Roberto Calvi, and John Paul II, died on M",
+      "entities_involved": [
+        "Prime Minister",
+        "Roberto Calvi",
+        "Grey Wolves",
+        "Kurdistan Workers",
+        "Mujahideen"
+      ],
+      "line_number": 130,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_153",
+      "year": 1996,
+      "month": null,
+      "day": null,
+      "time_description": "1996",
+      "event_description": "to Andriotti. The murder verdict was overturned by Italy's Supreme Court in October 2003. Andriotti, who rubbed shoulders with Licio Gelli, Michele Sindonna, Roberto Calvi, and John Paul II, died on M",
+      "entities_involved": [
+        "Prime Minister",
+        "Roberto Calvi",
+        "Grey Wolves",
+        "Kurdistan Workers",
+        "Mujahideen"
+      ],
+      "line_number": 130,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_154",
+      "year": 2002,
+      "month": null,
+      "day": null,
+      "time_description": "2002",
+      "event_description": "to Andriotti. The murder verdict was overturned by Italy's Supreme Court in October 2003. Andriotti, who rubbed shoulders with Licio Gelli, Michele Sindonna, Roberto Calvi, and John Paul II, died on M",
+      "entities_involved": [
+        "Prime Minister",
+        "Roberto Calvi",
+        "Grey Wolves",
+        "Kurdistan Workers",
+        "Mujahideen"
+      ],
+      "line_number": 130,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_155",
+      "year": 1996,
+      "month": null,
+      "day": null,
+      "time_description": "1996",
+      "event_description": "to Andriotti. The murder verdict was overturned by Italy's Supreme Court in October 2003. Andriotti, who rubbed shoulders with Licio Gelli, Michele Sindonna, Roberto Calvi, and John Paul II, died on M",
+      "entities_involved": [
+        "Prime Minister",
+        "Roberto Calvi",
+        "Grey Wolves",
+        "Kurdistan Workers",
+        "Mujahideen"
+      ],
+      "line_number": 130,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_156",
+      "year": 2002,
+      "month": null,
+      "day": null,
+      "time_description": "2002",
+      "event_description": "to Andriotti. The murder verdict was overturned by Italy's Supreme Court in October 2003. Andriotti, who rubbed shoulders with Licio Gelli, Michele Sindonna, Roberto Calvi, and John Paul II, died on M",
+      "entities_involved": [
+        "Prime Minister",
+        "Roberto Calvi",
+        "Grey Wolves",
+        "Kurdistan Workers",
+        "Mujahideen"
+      ],
+      "line_number": 130,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_157",
+      "year": 1996,
+      "month": null,
+      "day": null,
+      "time_description": "1996",
+      "event_description": "to Andriotti. The murder verdict was overturned by Italy's Supreme Court in October 2003. Andriotti, who rubbed shoulders with Licio Gelli, Michele Sindonna, Roberto Calvi, and John Paul II, died on M",
+      "entities_involved": [
+        "Prime Minister",
+        "Roberto Calvi",
+        "Grey Wolves",
+        "Kurdistan Workers",
+        "Mujahideen"
+      ],
+      "line_number": 130,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_158",
+      "year": 2001,
+      "month": null,
+      "day": null,
+      "time_description": "2001",
+      "event_description": "to Andriotti. The murder verdict was overturned by Italy's Supreme Court in October 2003. Andriotti, who rubbed shoulders with Licio Gelli, Michele Sindonna, Roberto Calvi, and John Paul II, died on M",
+      "entities_involved": [
+        "Prime Minister",
+        "Roberto Calvi",
+        "Grey Wolves",
+        "Kurdistan Workers",
+        "Mujahideen"
+      ],
+      "line_number": 130,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_159",
+      "year": 2010,
+      "month": null,
+      "day": null,
+      "time_description": "2010",
+      "event_description": "to Andriotti. The murder verdict was overturned by Italy's Supreme Court in October 2003. Andriotti, who rubbed shoulders with Licio Gelli, Michele Sindonna, Roberto Calvi, and John Paul II, died on M",
+      "entities_involved": [
+        "Prime Minister",
+        "Roberto Calvi",
+        "Grey Wolves",
+        "Kurdistan Workers",
+        "Mujahideen"
+      ],
+      "line_number": 130,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_160",
+      "year": 1996,
+      "month": null,
+      "day": null,
+      "time_description": "1996",
+      "event_description": "to Andriotti. The murder verdict was overturned by Italy's Supreme Court in October 2003. Andriotti, who rubbed shoulders with Licio Gelli, Michele Sindonna, Roberto Calvi, and John Paul II, died on M",
+      "entities_involved": [
+        "Prime Minister",
+        "Roberto Calvi",
+        "Grey Wolves",
+        "Kurdistan Workers",
+        "Mujahideen"
+      ],
+      "line_number": 130,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_161",
+      "year": 1997,
+      "month": null,
+      "day": null,
+      "time_description": "1997",
+      "event_description": "to Andriotti. The murder verdict was overturned by Italy's Supreme Court in October 2003. Andriotti, who rubbed shoulders with Licio Gelli, Michele Sindonna, Roberto Calvi, and John Paul II, died on M",
+      "entities_involved": [
+        "Prime Minister",
+        "Roberto Calvi",
+        "Grey Wolves",
+        "Kurdistan Workers",
+        "Mujahideen"
+      ],
+      "line_number": 130,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_162",
+      "year": 1997,
+      "month": null,
+      "day": null,
+      "time_description": "1997",
+      "event_description": "to Andriotti. The murder verdict was overturned by Italy's Supreme Court in October 2003. Andriotti, who rubbed shoulders with Licio Gelli, Michele Sindonna, Roberto Calvi, and John Paul II, died on M",
+      "entities_involved": [
+        "Prime Minister",
+        "Roberto Calvi",
+        "Grey Wolves",
+        "Kurdistan Workers",
+        "Mujahideen"
+      ],
+      "line_number": 130,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_163",
+      "year": 1987,
+      "month": null,
+      "day": null,
+      "time_description": "1987",
+      "event_description": "to Andriotti. The murder verdict was overturned by Italy's Supreme Court in October 2003. Andriotti, who rubbed shoulders with Licio Gelli, Michele Sindonna, Roberto Calvi, and John Paul II, died on M",
+      "entities_involved": [
+        "Prime Minister",
+        "Roberto Calvi",
+        "Grey Wolves",
+        "Kurdistan Workers",
+        "Mujahideen"
+      ],
+      "line_number": 130,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_164",
+      "year": 1989,
+      "month": null,
+      "day": null,
+      "time_description": "1989",
+      "event_description": "to Andriotti. The murder verdict was overturned by Italy's Supreme Court in October 2003. Andriotti, who rubbed shoulders with Licio Gelli, Michele Sindonna, Roberto Calvi, and John Paul II, died on M",
+      "entities_involved": [
+        "Prime Minister",
+        "Roberto Calvi",
+        "Grey Wolves",
+        "Kurdistan Workers",
+        "Mujahideen"
+      ],
+      "line_number": 130,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_165",
+      "year": 1991,
+      "month": null,
+      "day": null,
+      "time_description": "1991",
+      "event_description": "to Andriotti. The murder verdict was overturned by Italy's Supreme Court in October 2003. Andriotti, who rubbed shoulders with Licio Gelli, Michele Sindonna, Roberto Calvi, and John Paul II, died on M",
+      "entities_involved": [
+        "Prime Minister",
+        "Roberto Calvi",
+        "Grey Wolves",
+        "Kurdistan Workers",
+        "Mujahideen"
+      ],
+      "line_number": 130,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_166",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "1980",
+      "event_description": "to Andriotti. The murder verdict was overturned by Italy's Supreme Court in October 2003. Andriotti, who rubbed shoulders with Licio Gelli, Michele Sindonna, Roberto Calvi, and John Paul II, died on M",
+      "entities_involved": [
+        "Prime Minister",
+        "Roberto Calvi",
+        "Grey Wolves",
+        "Kurdistan Workers",
+        "Mujahideen"
+      ],
+      "line_number": 130,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_167",
+      "year": 2004,
+      "month": null,
+      "day": null,
+      "time_description": "2004",
+      "event_description": "to Andriotti. The murder verdict was overturned by Italy's Supreme Court in October 2003. Andriotti, who rubbed shoulders with Licio Gelli, Michele Sindonna, Roberto Calvi, and John Paul II, died on M",
+      "entities_involved": [
+        "Prime Minister",
+        "Roberto Calvi",
+        "Grey Wolves",
+        "Kurdistan Workers",
+        "Mujahideen"
+      ],
+      "line_number": 130,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_168",
+      "year": 1996,
+      "month": null,
+      "day": null,
+      "time_description": "July 28, 1996",
+      "event_description": "Leaving of American and Uyghur flags, Anwar Yusuf Turani, the Prime Minister, spoke of the new country's need of economic assistance and international recognition. Following the speech, Turani returne",
+      "entities_involved": [
+        "Prime Minister",
+        "Grey Wolves",
+        "Sayedi Kourdi",
+        "Mujahideen",
+        "CIA"
+      ],
+      "line_number": 132,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_169",
+      "year": 1998,
+      "month": null,
+      "day": null,
+      "time_description": "1998",
+      "event_description": "Leaving of American and Uyghur flags, Anwar Yusuf Turani, the Prime Minister, spoke of the new country's need of economic assistance and international recognition. Following the speech, Turani returne",
+      "entities_involved": [
+        "Prime Minister",
+        "Grey Wolves",
+        "Sayedi Kourdi",
+        "Mujahideen",
+        "CIA"
+      ],
+      "line_number": 132,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_170",
+      "year": 1993,
+      "month": null,
+      "day": null,
+      "time_description": "1993",
+      "event_description": "Leaving of American and Uyghur flags, Anwar Yusuf Turani, the Prime Minister, spoke of the new country's need of economic assistance and international recognition. Following the speech, Turani returne",
+      "entities_involved": [
+        "Prime Minister",
+        "Grey Wolves",
+        "Sayedi Kourdi",
+        "Mujahideen",
+        "CIA"
+      ],
+      "line_number": 132,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_171",
+      "year": 2015,
+      "month": null,
+      "day": null,
+      "time_description": "2015",
+      "event_description": "Leaving of American and Uyghur flags, Anwar Yusuf Turani, the Prime Minister, spoke of the new country's need of economic assistance and international recognition. Following the speech, Turani returne",
+      "entities_involved": [
+        "Prime Minister",
+        "Grey Wolves",
+        "Sayedi Kourdi",
+        "Mujahideen",
+        "CIA"
+      ],
+      "line_number": 132,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_172",
+      "year": 1996,
+      "month": null,
+      "day": null,
+      "time_description": "1996",
+      "event_description": "Leaving of American and Uyghur flags, Anwar Yusuf Turani, the Prime Minister, spoke of the new country's need of economic assistance and international recognition. Following the speech, Turani returne",
+      "entities_involved": [
+        "Prime Minister",
+        "Grey Wolves",
+        "Sayedi Kourdi",
+        "Mujahideen",
+        "CIA"
+      ],
+      "line_number": 132,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_173",
+      "year": 1996,
+      "month": null,
+      "day": null,
+      "time_description": "1996",
+      "event_description": "Leaving of American and Uyghur flags, Anwar Yusuf Turani, the Prime Minister, spoke of the new country's need of economic assistance and international recognition. Following the speech, Turani returne",
+      "entities_involved": [
+        "Prime Minister",
+        "Grey Wolves",
+        "Sayedi Kourdi",
+        "Mujahideen",
+        "CIA"
+      ],
+      "line_number": 132,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_174",
+      "year": 1960,
+      "month": null,
+      "day": null,
+      "time_description": "1960",
+      "event_description": "Leaving of American and Uyghur flags, Anwar Yusuf Turani, the Prime Minister, spoke of the new country's need of economic assistance and international recognition. Following the speech, Turani returne",
+      "entities_involved": [
+        "Prime Minister",
+        "Grey Wolves",
+        "Sayedi Kourdi",
+        "Mujahideen",
+        "CIA"
+      ],
+      "line_number": 132,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_175",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "Leaving of American and Uyghur flags, Anwar Yusuf Turani, the Prime Minister, spoke of the new country's need of economic assistance and international recognition. Following the speech, Turani returne",
+      "entities_involved": [
+        "Prime Minister",
+        "Grey Wolves",
+        "Sayedi Kourdi",
+        "Mujahideen",
+        "CIA"
+      ],
+      "line_number": 132,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_176",
+      "year": 1990,
+      "month": null,
+      "day": null,
+      "time_description": "1990",
+      "event_description": "Leaving of American and Uyghur flags, Anwar Yusuf Turani, the Prime Minister, spoke of the new country's need of economic assistance and international recognition. Following the speech, Turani returne",
+      "entities_involved": [
+        "Prime Minister",
+        "Grey Wolves",
+        "Sayedi Kourdi",
+        "Mujahideen",
+        "CIA"
+      ],
+      "line_number": 132,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_177",
+      "year": 1990,
+      "month": null,
+      "day": null,
+      "time_description": "the 1990s",
+      "event_description": "Leaving of American and Uyghur flags, Anwar Yusuf Turani, the Prime Minister, spoke of the new country's need of economic assistance and international recognition. Following the speech, Turani returne",
+      "entities_involved": [
+        "Prime Minister",
+        "Grey Wolves",
+        "Sayedi Kourdi",
+        "Mujahideen",
+        "CIA"
+      ],
+      "line_number": 132,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_178",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "the 1980s",
+      "event_description": "Leaving of American and Uyghur flags, Anwar Yusuf Turani, the Prime Minister, spoke of the new country's need of economic assistance and international recognition. Following the speech, Turani returne",
+      "entities_involved": [
+        "Prime Minister",
+        "Grey Wolves",
+        "Sayedi Kourdi",
+        "Mujahideen",
+        "CIA"
+      ],
+      "line_number": 132,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_179",
+      "year": 1998,
+      "month": null,
+      "day": null,
+      "time_description": "1998",
+      "event_description": "Greece, until Gulen had become one of the most powerful figures in Turkey, an imam with millions of followers and seemingly limitless financial resources. Few figures on the world's stage assumed a mo",
+      "entities_involved": [
+        "Vatican",
+        "CIA",
+        "Pope John Paul II",
+        "FBI"
+      ],
+      "line_number": 134,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_180",
+      "year": 2008,
+      "month": null,
+      "day": null,
+      "time_description": "2008",
+      "event_description": "Greece, until Gulen had become one of the most powerful figures in Turkey, an imam with millions of followers and seemingly limitless financial resources. Few figures on the world's stage assumed a mo",
+      "entities_involved": [
+        "Vatican",
+        "CIA",
+        "Pope John Paul II",
+        "FBI"
+      ],
+      "line_number": 134,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_181",
+      "year": 2008,
+      "month": null,
+      "day": null,
+      "time_description": "2008",
+      "event_description": "Greece, until Gulen had become one of the most powerful figures in Turkey, an imam with millions of followers and seemingly limitless financial resources. Few figures on the world's stage assumed a mo",
+      "entities_involved": [
+        "Vatican",
+        "CIA",
+        "Pope John Paul II",
+        "FBI"
+      ],
+      "line_number": 134,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_182",
+      "year": 1982,
+      "month": null,
+      "day": null,
+      "time_description": "1982",
+      "event_description": "Greece, until Gulen had become one of the most powerful figures in Turkey, an imam with millions of followers and seemingly limitless financial resources. Few figures on the world's stage assumed a mo",
+      "entities_involved": [
+        "Vatican",
+        "CIA",
+        "Pope John Paul II",
+        "FBI"
+      ],
+      "line_number": 134,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_183",
+      "year": 1990,
+      "month": null,
+      "day": null,
+      "time_description": "the 1990s",
+      "event_description": "Greece, until Gulen had become one of the most powerful figures in Turkey, an imam with millions of followers and seemingly limitless financial resources. Few figures on the world's stage assumed a mo",
+      "entities_involved": [
+        "Vatican",
+        "CIA",
+        "Pope John Paul II",
+        "FBI"
+      ],
+      "line_number": 134,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_184",
+      "year": 2000,
+      "month": null,
+      "day": null,
+      "time_description": "January 27, 2000",
+      "event_description": "Democratic Party, Adalet ve Kalkinma AKP, which now controls the Turkish government. Abdullah Ghul, Turkey's first Islamist president, was a Ghulun disciple, along with former Prime Minister Recep Tay",
+      "entities_involved": [
+        "Prime Minister",
+        "Sicilian Mafia",
+        "Mafia",
+        "CIA",
+        "FBI"
+      ],
+      "line_number": 136,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_185",
+      "year": 2014,
+      "month": null,
+      "day": null,
+      "time_description": "2014",
+      "event_description": "Democratic Party, Adalet ve Kalkinma AKP, which now controls the Turkish government. Abdullah Ghul, Turkey's first Islamist president, was a Ghulun disciple, along with former Prime Minister Recep Tay",
+      "entities_involved": [
+        "Prime Minister",
+        "Sicilian Mafia",
+        "Mafia",
+        "CIA",
+        "FBI"
+      ],
+      "line_number": 136,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_186",
+      "year": 1997,
+      "month": null,
+      "day": null,
+      "time_description": "1997",
+      "event_description": "Democratic Party, Adalet ve Kalkinma AKP, which now controls the Turkish government. Abdullah Ghul, Turkey's first Islamist president, was a Ghulun disciple, along with former Prime Minister Recep Tay",
+      "entities_involved": [
+        "Prime Minister",
+        "Sicilian Mafia",
+        "Mafia",
+        "CIA",
+        "FBI"
+      ],
+      "line_number": 136,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_187",
+      "year": 2000,
+      "month": null,
+      "day": null,
+      "time_description": "2000",
+      "event_description": "Democratic Party, Adalet ve Kalkinma AKP, which now controls the Turkish government. Abdullah Ghul, Turkey's first Islamist president, was a Ghulun disciple, along with former Prime Minister Recep Tay",
+      "entities_involved": [
+        "Prime Minister",
+        "Sicilian Mafia",
+        "Mafia",
+        "CIA",
+        "FBI"
+      ],
+      "line_number": 136,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_188",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "1976",
+      "event_description": "Democratic Party, Adalet ve Kalkinma AKP, which now controls the Turkish government. Abdullah Ghul, Turkey's first Islamist president, was a Ghulun disciple, along with former Prime Minister Recep Tay",
+      "entities_involved": [
+        "Prime Minister",
+        "Sicilian Mafia",
+        "Mafia",
+        "CIA",
+        "FBI"
+      ],
+      "line_number": 136,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_189",
+      "year": 2000,
+      "month": null,
+      "day": null,
+      "time_description": "2000",
+      "event_description": "Democratic Party, Adalet ve Kalkinma AKP, which now controls the Turkish government. Abdullah Ghul, Turkey's first Islamist president, was a Ghulun disciple, along with former Prime Minister Recep Tay",
+      "entities_involved": [
+        "Prime Minister",
+        "Sicilian Mafia",
+        "Mafia",
+        "CIA",
+        "FBI"
+      ],
+      "line_number": 136,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_190",
+      "year": 2000,
+      "month": null,
+      "day": null,
+      "time_description": "2000",
+      "event_description": "Democratic Party, Adalet ve Kalkinma AKP, which now controls the Turkish government. Abdullah Ghul, Turkey's first Islamist president, was a Ghulun disciple, along with former Prime Minister Recep Tay",
+      "entities_involved": [
+        "Prime Minister",
+        "Sicilian Mafia",
+        "Mafia",
+        "CIA",
+        "FBI"
+      ],
+      "line_number": 136,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_191",
+      "year": 1999,
+      "month": null,
+      "day": null,
+      "time_description": "1999",
+      "event_description": "Democratic Party, Adalet ve Kalkinma AKP, which now controls the Turkish government. Abdullah Ghul, Turkey's first Islamist president, was a Ghulun disciple, along with former Prime Minister Recep Tay",
+      "entities_involved": [
+        "Prime Minister",
+        "Sicilian Mafia",
+        "Mafia",
+        "CIA",
+        "FBI"
+      ],
+      "line_number": 136,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_192",
+      "year": 2001,
+      "month": null,
+      "day": null,
+      "time_description": "2001",
+      "event_description": "Democratic Party, Adalet ve Kalkinma AKP, which now controls the Turkish government. Abdullah Ghul, Turkey's first Islamist president, was a Ghulun disciple, along with former Prime Minister Recep Tay",
+      "entities_involved": [
+        "Prime Minister",
+        "Sicilian Mafia",
+        "Mafia",
+        "CIA",
+        "FBI"
+      ],
+      "line_number": 136,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_193",
+      "year": 2001,
+      "month": null,
+      "day": null,
+      "time_description": "2001",
+      "event_description": "Democratic Party, Adalet ve Kalkinma AKP, which now controls the Turkish government. Abdullah Ghul, Turkey's first Islamist president, was a Ghulun disciple, along with former Prime Minister Recep Tay",
+      "entities_involved": [
+        "Prime Minister",
+        "Sicilian Mafia",
+        "Mafia",
+        "CIA",
+        "FBI"
+      ],
+      "line_number": 136,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_194",
+      "year": 2013,
+      "month": null,
+      "day": null,
+      "time_description": "2013",
+      "event_description": "Democratic Party, Adalet ve Kalkinma AKP, which now controls the Turkish government. Abdullah Ghul, Turkey's first Islamist president, was a Ghulun disciple, along with former Prime Minister Recep Tay",
+      "entities_involved": [
+        "Prime Minister",
+        "Sicilian Mafia",
+        "Mafia",
+        "CIA",
+        "FBI"
+      ],
+      "line_number": 136,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_195",
+      "year": 2014,
+      "month": null,
+      "day": null,
+      "time_description": "2014",
+      "event_description": "Democratic Party, Adalet ve Kalkinma AKP, which now controls the Turkish government. Abdullah Ghul, Turkey's first Islamist president, was a Ghulun disciple, along with former Prime Minister Recep Tay",
+      "entities_involved": [
+        "Prime Minister",
+        "Sicilian Mafia",
+        "Mafia",
+        "CIA",
+        "FBI"
+      ],
+      "line_number": 136,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_196",
+      "year": 1970,
+      "month": null,
+      "day": null,
+      "time_description": "1970",
+      "event_description": "Democratic Party, Adalet ve Kalkinma AKP, which now controls the Turkish government. Abdullah Ghul, Turkey's first Islamist president, was a Ghulun disciple, along with former Prime Minister Recep Tay",
+      "entities_involved": [
+        "Prime Minister",
+        "Sicilian Mafia",
+        "Mafia",
+        "CIA",
+        "FBI"
+      ],
+      "line_number": 136,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_197",
+      "year": 1986,
+      "month": null,
+      "day": null,
+      "time_description": "1986",
+      "event_description": "Democratic Party, Adalet ve Kalkinma AKP, which now controls the Turkish government. Abdullah Ghul, Turkey's first Islamist president, was a Ghulun disciple, along with former Prime Minister Recep Tay",
+      "entities_involved": [
+        "Prime Minister",
+        "Sicilian Mafia",
+        "Mafia",
+        "CIA",
+        "FBI"
+      ],
+      "line_number": 136,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_198",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "the 1980s",
+      "event_description": "Democratic Party, Adalet ve Kalkinma AKP, which now controls the Turkish government. Abdullah Ghul, Turkey's first Islamist president, was a Ghulun disciple, along with former Prime Minister Recep Tay",
+      "entities_involved": [
+        "Prime Minister",
+        "Sicilian Mafia",
+        "Mafia",
+        "CIA",
+        "FBI"
+      ],
+      "line_number": 136,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_199",
+      "year": 1990,
+      "month": null,
+      "day": null,
+      "time_description": "the 1990s",
+      "event_description": "Democratic Party, Adalet ve Kalkinma AKP, which now controls the Turkish government. Abdullah Ghul, Turkey's first Islamist president, was a Ghulun disciple, along with former Prime Minister Recep Tay",
+      "entities_involved": [
+        "Prime Minister",
+        "Sicilian Mafia",
+        "Mafia",
+        "CIA",
+        "FBI"
+      ],
+      "line_number": 136,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_200",
+      "year": 1994,
+      "month": null,
+      "day": null,
+      "time_description": "November 6, 1994",
+      "event_description": "to no avail. The banks continued their laundering and the sum of dirty money circulated throughout the country grew exponentially. No decisive action by government officials was ever adopted since the",
+      "entities_involved": [
+        "Casaroli",
+        "Giuseppe Ferrioli",
+        "Baggio",
+        "Leo Swaynans",
+        "Sebastiano Baggio"
+      ],
+      "line_number": 138,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_201",
+      "year": 1999,
+      "month": null,
+      "day": null,
+      "time_description": "October 3, 1999",
+      "event_description": "to no avail. The banks continued their laundering and the sum of dirty money circulated throughout the country grew exponentially. No decisive action by government officials was ever adopted since the",
+      "entities_involved": [
+        "Casaroli",
+        "Giuseppe Ferrioli",
+        "Baggio",
+        "Leo Swaynans",
+        "Sebastiano Baggio"
+      ],
+      "line_number": 138,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_202",
+      "year": 2001,
+      "month": null,
+      "day": null,
+      "time_description": "November 19, 2001",
+      "event_description": "to no avail. The banks continued their laundering and the sum of dirty money circulated throughout the country grew exponentially. No decisive action by government officials was ever adopted since the",
+      "entities_involved": [
+        "Casaroli",
+        "Giuseppe Ferrioli",
+        "Baggio",
+        "Leo Swaynans",
+        "Sebastiano Baggio"
+      ],
+      "line_number": 138,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_203",
+      "year": 2008,
+      "month": null,
+      "day": null,
+      "time_description": "2008",
+      "event_description": "to no avail. The banks continued their laundering and the sum of dirty money circulated throughout the country grew exponentially. No decisive action by government officials was ever adopted since the",
+      "entities_involved": [
+        "Casaroli",
+        "Giuseppe Ferrioli",
+        "Baggio",
+        "Leo Swaynans",
+        "Sebastiano Baggio"
+      ],
+      "line_number": 138,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_204",
+      "year": 2002,
+      "month": null,
+      "day": null,
+      "time_description": "2002",
+      "event_description": "to no avail. The banks continued their laundering and the sum of dirty money circulated throughout the country grew exponentially. No decisive action by government officials was ever adopted since the",
+      "entities_involved": [
+        "Casaroli",
+        "Giuseppe Ferrioli",
+        "Baggio",
+        "Leo Swaynans",
+        "Sebastiano Baggio"
+      ],
+      "line_number": 138,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_205",
+      "year": 1989,
+      "month": null,
+      "day": null,
+      "time_description": "1989",
+      "event_description": "to no avail. The banks continued their laundering and the sum of dirty money circulated throughout the country grew exponentially. No decisive action by government officials was ever adopted since the",
+      "entities_involved": [
+        "Casaroli",
+        "Giuseppe Ferrioli",
+        "Baggio",
+        "Leo Swaynans",
+        "Sebastiano Baggio"
+      ],
+      "line_number": 138,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_206",
+      "year": 1994,
+      "month": null,
+      "day": null,
+      "time_description": "1994",
+      "event_description": "to no avail. The banks continued their laundering and the sum of dirty money circulated throughout the country grew exponentially. No decisive action by government officials was ever adopted since the",
+      "entities_involved": [
+        "Casaroli",
+        "Giuseppe Ferrioli",
+        "Baggio",
+        "Leo Swaynans",
+        "Sebastiano Baggio"
+      ],
+      "line_number": 138,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_207",
+      "year": 1999,
+      "month": null,
+      "day": null,
+      "time_description": "1999",
+      "event_description": "to no avail. The banks continued their laundering and the sum of dirty money circulated throughout the country grew exponentially. No decisive action by government officials was ever adopted since the",
+      "entities_involved": [
+        "Casaroli",
+        "Giuseppe Ferrioli",
+        "Baggio",
+        "Leo Swaynans",
+        "Sebastiano Baggio"
+      ],
+      "line_number": 138,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_208",
+      "year": 2001,
+      "month": null,
+      "day": null,
+      "time_description": "2001",
+      "event_description": "to no avail. The banks continued their laundering and the sum of dirty money circulated throughout the country grew exponentially. No decisive action by government officials was ever adopted since the",
+      "entities_involved": [
+        "Casaroli",
+        "Giuseppe Ferrioli",
+        "Baggio",
+        "Leo Swaynans",
+        "Sebastiano Baggio"
+      ],
+      "line_number": 138,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_209",
+      "year": 2005,
+      "month": null,
+      "day": null,
+      "time_description": "April 2, 2005",
+      "event_description": "tax that killed thousands, strings of gangland slayings, and the financial destitution of thousands of families. And it was a course that also led to moral and spiritual bankruptcy. RELIGIOUS RUINS By",
+      "entities_involved": [
+        "Cormac Murphy",
+        "Vatican",
+        "Marcinkus",
+        "Keith",
+        "Paul Marcinkus"
+      ],
+      "line_number": 140,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_210",
+      "year": 2012,
+      "month": null,
+      "day": null,
+      "time_description": "May 24, 2012",
+      "event_description": "tax that killed thousands, strings of gangland slayings, and the financial destitution of thousands of families. And it was a course that also led to moral and spiritual bankruptcy. RELIGIOUS RUINS By",
+      "entities_involved": [
+        "Cormac Murphy",
+        "Vatican",
+        "Marcinkus",
+        "Keith",
+        "Paul Marcinkus"
+      ],
+      "line_number": 140,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_211",
+      "year": 2005,
+      "month": null,
+      "day": null,
+      "time_description": "2005",
+      "event_description": "tax that killed thousands, strings of gangland slayings, and the financial destitution of thousands of families. And it was a course that also led to moral and spiritual bankruptcy. RELIGIOUS RUINS By",
+      "entities_involved": [
+        "Cormac Murphy",
+        "Vatican",
+        "Marcinkus",
+        "Keith",
+        "Paul Marcinkus"
+      ],
+      "line_number": 140,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_212",
+      "year": 1996,
+      "month": null,
+      "day": null,
+      "time_description": "1996",
+      "event_description": "tax that killed thousands, strings of gangland slayings, and the financial destitution of thousands of families. And it was a course that also led to moral and spiritual bankruptcy. RELIGIOUS RUINS By",
+      "entities_involved": [
+        "Cormac Murphy",
+        "Vatican",
+        "Marcinkus",
+        "Keith",
+        "Paul Marcinkus"
+      ],
+      "line_number": 140,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_213",
+      "year": 2000,
+      "month": null,
+      "day": null,
+      "time_description": "2000",
+      "event_description": "tax that killed thousands, strings of gangland slayings, and the financial destitution of thousands of families. And it was a course that also led to moral and spiritual bankruptcy. RELIGIOUS RUINS By",
+      "entities_involved": [
+        "Cormac Murphy",
+        "Vatican",
+        "Marcinkus",
+        "Keith",
+        "Paul Marcinkus"
+      ],
+      "line_number": 140,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_214",
+      "year": 1963,
+      "month": null,
+      "day": null,
+      "time_description": "1963",
+      "event_description": "tax that killed thousands, strings of gangland slayings, and the financial destitution of thousands of families. And it was a course that also led to moral and spiritual bankruptcy. RELIGIOUS RUINS By",
+      "entities_involved": [
+        "Cormac Murphy",
+        "Vatican",
+        "Marcinkus",
+        "Keith",
+        "Paul Marcinkus"
+      ],
+      "line_number": 140,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_215",
+      "year": 2000,
+      "month": null,
+      "day": null,
+      "time_description": "2000",
+      "event_description": "tax that killed thousands, strings of gangland slayings, and the financial destitution of thousands of families. And it was a course that also led to moral and spiritual bankruptcy. RELIGIOUS RUINS By",
+      "entities_involved": [
+        "Cormac Murphy",
+        "Vatican",
+        "Marcinkus",
+        "Keith",
+        "Paul Marcinkus"
+      ],
+      "line_number": 140,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_216",
+      "year": 2002,
+      "month": null,
+      "day": null,
+      "time_description": "2002",
+      "event_description": "tax that killed thousands, strings of gangland slayings, and the financial destitution of thousands of families. And it was a course that also led to moral and spiritual bankruptcy. RELIGIOUS RUINS By",
+      "entities_involved": [
+        "Cormac Murphy",
+        "Vatican",
+        "Marcinkus",
+        "Keith",
+        "Paul Marcinkus"
+      ],
+      "line_number": 140,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_217",
+      "year": 2005,
+      "month": null,
+      "day": null,
+      "time_description": "2005",
+      "event_description": "tax that killed thousands, strings of gangland slayings, and the financial destitution of thousands of families. And it was a course that also led to moral and spiritual bankruptcy. RELIGIOUS RUINS By",
+      "entities_involved": [
+        "Cormac Murphy",
+        "Vatican",
+        "Marcinkus",
+        "Keith",
+        "Paul Marcinkus"
+      ],
+      "line_number": 140,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_218",
+      "year": 2006,
+      "month": null,
+      "day": null,
+      "time_description": "2006",
+      "event_description": "tax that killed thousands, strings of gangland slayings, and the financial destitution of thousands of families. And it was a course that also led to moral and spiritual bankruptcy. RELIGIOUS RUINS By",
+      "entities_involved": [
+        "Cormac Murphy",
+        "Vatican",
+        "Marcinkus",
+        "Keith",
+        "Paul Marcinkus"
+      ],
+      "line_number": 140,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_219",
+      "year": 2012,
+      "month": null,
+      "day": null,
+      "time_description": "2012",
+      "event_description": "tax that killed thousands, strings of gangland slayings, and the financial destitution of thousands of families. And it was a course that also led to moral and spiritual bankruptcy. RELIGIOUS RUINS By",
+      "entities_involved": [
+        "Cormac Murphy",
+        "Vatican",
+        "Marcinkus",
+        "Keith",
+        "Paul Marcinkus"
+      ],
+      "line_number": 140,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_220",
+      "year": 2013,
+      "month": null,
+      "day": null,
+      "time_description": "February 28, 2013",
+      "event_description": "organized crime, nor his involvement in bank fraud, but rather his release of papal documents, all highly damaging to Ratzinger, to the Italian press. The firing did not go as planned. Following his d",
+      "entities_involved": [
+        "Mafia",
+        "Vatican",
+        "William",
+        "Jorge Mario Bergoglio",
+        "CIA"
+      ],
+      "line_number": 142,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_221",
+      "year": 2013,
+      "month": null,
+      "day": null,
+      "time_description": "March 13, 2013",
+      "event_description": "organized crime, nor his involvement in bank fraud, but rather his release of papal documents, all highly damaging to Ratzinger, to the Italian press. The firing did not go as planned. Following his d",
+      "entities_involved": [
+        "Mafia",
+        "Vatican",
+        "William",
+        "Jorge Mario Bergoglio",
+        "CIA"
+      ],
+      "line_number": 142,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_222",
+      "year": 2014,
+      "month": null,
+      "day": null,
+      "time_description": "April 7, 2014",
+      "event_description": "organized crime, nor his involvement in bank fraud, but rather his release of papal documents, all highly damaging to Ratzinger, to the Italian press. The firing did not go as planned. Following his d",
+      "entities_involved": [
+        "Mafia",
+        "Vatican",
+        "William",
+        "Jorge Mario Bergoglio",
+        "CIA"
+      ],
+      "line_number": 142,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_223",
+      "year": 2012,
+      "month": null,
+      "day": null,
+      "time_description": "2012",
+      "event_description": "organized crime, nor his involvement in bank fraud, but rather his release of papal documents, all highly damaging to Ratzinger, to the Italian press. The firing did not go as planned. Following his d",
+      "entities_involved": [
+        "Mafia",
+        "Vatican",
+        "William",
+        "Jorge Mario Bergoglio",
+        "CIA"
+      ],
+      "line_number": 142,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_224",
+      "year": 2013,
+      "month": null,
+      "day": null,
+      "time_description": "2013",
+      "event_description": "organized crime, nor his involvement in bank fraud, but rather his release of papal documents, all highly damaging to Ratzinger, to the Italian press. The firing did not go as planned. Following his d",
+      "entities_involved": [
+        "Mafia",
+        "Vatican",
+        "William",
+        "Jorge Mario Bergoglio",
+        "CIA"
+      ],
+      "line_number": 142,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_225",
+      "year": 2013,
+      "month": null,
+      "day": null,
+      "time_description": "2013",
+      "event_description": "organized crime, nor his involvement in bank fraud, but rather his release of papal documents, all highly damaging to Ratzinger, to the Italian press. The firing did not go as planned. Following his d",
+      "entities_involved": [
+        "Mafia",
+        "Vatican",
+        "William",
+        "Jorge Mario Bergoglio",
+        "CIA"
+      ],
+      "line_number": 142,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_226",
+      "year": 1974,
+      "month": null,
+      "day": null,
+      "time_description": "1974",
+      "event_description": "organized crime, nor his involvement in bank fraud, but rather his release of papal documents, all highly damaging to Ratzinger, to the Italian press. The firing did not go as planned. Following his d",
+      "entities_involved": [
+        "Mafia",
+        "Vatican",
+        "William",
+        "Jorge Mario Bergoglio",
+        "CIA"
+      ],
+      "line_number": 142,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_227",
+      "year": 2014,
+      "month": null,
+      "day": null,
+      "time_description": "2014",
+      "event_description": "organized crime, nor his involvement in bank fraud, but rather his release of papal documents, all highly damaging to Ratzinger, to the Italian press. The firing did not go as planned. Following his d",
+      "entities_involved": [
+        "Mafia",
+        "Vatican",
+        "William",
+        "Jorge Mario Bergoglio",
+        "CIA"
+      ],
+      "line_number": 142,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_228",
+      "year": 2013,
+      "month": null,
+      "day": null,
+      "time_description": "2013",
+      "event_description": "organized crime, nor his involvement in bank fraud, but rather his release of papal documents, all highly damaging to Ratzinger, to the Italian press. The firing did not go as planned. Following his d",
+      "entities_involved": [
+        "Mafia",
+        "Vatican",
+        "William",
+        "Jorge Mario Bergoglio",
+        "CIA"
+      ],
+      "line_number": 142,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_229",
+      "year": 2012,
+      "month": null,
+      "day": null,
+      "time_description": "2012",
+      "event_description": "organized crime, nor his involvement in bank fraud, but rather his release of papal documents, all highly damaging to Ratzinger, to the Italian press. The firing did not go as planned. Following his d",
+      "entities_involved": [
+        "Mafia",
+        "Vatican",
+        "William",
+        "Jorge Mario Bergoglio",
+        "CIA"
+      ],
+      "line_number": 142,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_230",
+      "year": 2015,
+      "month": null,
+      "day": null,
+      "time_description": "2015",
+      "event_description": "organized crime, nor his involvement in bank fraud, but rather his release of papal documents, all highly damaging to Ratzinger, to the Italian press. The firing did not go as planned. Following his d",
+      "entities_involved": [
+        "Mafia",
+        "Vatican",
+        "William",
+        "Jorge Mario Bergoglio",
+        "CIA"
+      ],
+      "line_number": 142,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_100_231",
+      "year": 2015,
+      "month": null,
+      "day": null,
+      "time_description": "2015",
+      "event_description": "organized crime, nor his involvement in bank fraud, but rather his release of papal documents, all highly damaging to Ratzinger, to the Italian press. The firing did not go as planned. Following his d",
+      "entities_involved": [
+        "Mafia",
+        "Vatican",
+        "William",
+        "Jorge Mario Bergoglio",
+        "CIA"
+      ],
+      "line_number": 142,
+      "confidence": 0.6
+    }
+  ],
+  "timestamp": "2025-09-30T20:11:14.632273"
+}

@@ -1,0 +1,57 @@
+{
+  "network_size": {
+    "total_nodes": 14,
+    "total_edges": 11,
+    "nodes_by_type": {
+      "person": 3,
+      "organization": 9,
+      "location": 1,
+      "program": 1
+    }
+  },
+  "centrality": {
+    "top_10_nodes": [
+      [
+        "USSR",
+        7
+      ],
+      [
+        "cia",
+        7
+      ],
+      [
+        "Russia",
+        6
+      ],
+      [
+        "Ministry of Defense",
+        2
+      ],
+      [
+        "Moscow",
+        2
+      ],
+      [
+        "MOD",
+        2
+      ],
+      [
+        "dia",
+        2
+      ],
+      [
+        "Harry Reid",
+        1
+      ],
+      [
+        "Kona Blue",
+        1
+      ],
+      [
+        "James Lacatski",
+        1
+      ]
+    ]
+  },
+  "generated": "build_thread3_network.py"
+}

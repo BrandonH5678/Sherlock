@@ -1,0 +1,140 @@
+```mermaid
+flowchart TD
+    Start([User]) --> CLI[CLI Interface<br/>typer]
+
+    CLI --> Ingest{Ingest Type?}
+
+    Ingest -->|YouTube| YT[yt-dlp<br/>Download Video/Audio]
+    Ingest -->|Local Media| Media[ffmpeg<br/>Process Audio/Video]
+    Ingest -->|Document| Doc[PDFMiner/OCR<br/>Extract Text]
+    Ingest -->|Image| Img[pillow<br/>Process Image]
+    Ingest -->|Sensor| Sensor[Custom Parser<br/>Process Data]
+
+    YT --> MediaDB[(media table)]
+    Media --> MediaDB
+    Doc --> MediaDB
+    Img --> MediaDB
+    Sensor --> MediaDB
+
+    MediaDB --> DiaCh{Diarization<br/>Required?}
+
+    DiaCh -->|Yes - Audio/Video| Diarize[Diarization Pipeline]
+    DiaCh -->|No| Normalize
+
+    Diarize --> Transcribe[faster-whisper<br/>Transcription<br/>tiny/base INT8]
+    Transcribe --> VAD[WebRTC VAD<br/>Voice Activity<br/>30ms frames]
+    VAD --> Embed[Resemblyzer<br/>Speaker Embeddings<br/>0.9s window]
+    Embed --> Cluster{Diarization<br/>Mode?}
+
+    Cluster -->|Unsupervised| HDBSCAN[HDBSCAN<br/>Density Clustering]
+    Cluster -->|Supervised| Anchor[Anchor Matching<br/>Known Speakers]
+
+    HDBSCAN --> DiaDB[(diarization_run<br/>speaker_local<br/>speaker_turn)]
+    Anchor --> DiaDB
+
+    DiaDB --> SpeakerMap[Speaker Mapping<br/>local → global]
+    SpeakerMap --> SpeakerDB[(speaker_alias<br/>speaker_mapping)]
+
+    SpeakerDB --> Normalize[Normalize to<br/>Unified Schema]
+
+    Normalize --> Extract[Extract Claims<br/>from Content]
+    Extract --> ApplyConf[Apply Confidence<br/>Weighting Rubric]
+    ApplyConf --> EvidDB[(evidence_card<br/>claim<br/>speaker_alias)]
+
+    EvidDB --> Index[Indexing]
+
+    Index --> FTS[FTS5<br/>Full-Text Search]
+    Index --> VectorOpt{Vector Search<br/>Enabled?}
+    VectorOpt -->|Yes| Vector[pgvector<br/>Semantic Search]
+    VectorOpt -->|No| Temporal
+    Vector --> Temporal[Temporal Index<br/>Timestamps]
+    FTS --> Temporal
+    Temporal --> Entity[Entity Index<br/>Extraction]
+
+    Entity --> Retrieve[Retrieval Layer]
+
+    Retrieve --> QueryType{Query Type?}
+
+    QueryType -->|Full-Text| SearchFTS[FTS5 Search]
+    QueryType -->|Speaker| SearchSpeaker[Speaker Query]
+    QueryType -->|Source| SearchSource[Source Query]
+    QueryType -->|Entity| SearchEntity[Entity Query]
+    QueryType -->|Operation/Tag| SearchOp[Operation Query]
+    QueryType -->|Timeline| SearchTime[Timeline Query]
+    QueryType -->|Semantic| SearchVector[Vector Similarity]
+
+    SearchFTS --> Analyze[Analysis Layer]
+    SearchSpeaker --> Analyze
+    SearchSource --> Analyze
+    SearchEntity --> Analyze
+    SearchOp --> Analyze
+    SearchTime --> Analyze
+    SearchVector --> Analyze
+
+    Analyze --> AnalysisType{Analysis Type?}
+
+    AnalysisType -->|Pattern Detection| Pattern[Pattern Analysis<br/>Cross-Operation]
+    AnalysisType -->|Network| Network[Speaker Network<br/>Graph Analysis]
+    AnalysisType -->|Timeline| Timeline[Timeline<br/>Reconstruction]
+    AnalysisType -->|Confidence| ConfAgg[Confidence<br/>Aggregation]
+
+    Pattern --> Synthesize[Synthesis Layer]
+    Network --> Synthesize
+    Timeline --> Synthesize
+    ConfAgg --> Synthesize
+
+    Synthesize --> SynthType{Output Type?}
+
+    SynthType -->|Intelligence Report| Report[Generate Report<br/>Markdown]
+    SynthType -->|Cross-Reference| CrossRef[Cross-Reference<br/>Analysis]
+    SynthType -->|Export| Export[Export Data<br/>JSON/CSV]
+
+    Report --> Audit[Audit Trail]
+    CrossRef --> Audit
+    Export --> Audit
+
+    Audit --> AuditCheck{Audit Type?}
+
+    AuditCheck -->|Provenance| Provenance[Full Provenance<br/>Media → Claims]
+    AuditCheck -->|Quality| Quality[Diarization<br/>Quality Metrics]
+    AuditCheck -->|Confidence| ConfExplain[Confidence Score<br/>Explanation]
+    AuditCheck -->|Reliability| Reliability[Source Reliability<br/>Tracking]
+
+    Provenance --> Output([User Output])
+    Quality --> Output
+    ConfExplain --> Output
+    Reliability --> Output
+
+    %% Targeting Workflow (separate branch)
+    CLI --> Targeting{Targeting<br/>Workflow?}
+    Targeting -->|Yes| TargetMgmt[Target Management]
+    Targeting -->|No| Ingest
+
+    TargetMgmt --> TargetDB[(targets<br/>targeting_package)]
+    TargetDB --> Officer[Targeting Officer<br/>Automation]
+    Officer --> PkgGen[Package Generation<br/>Collection Plan]
+    PkgGen --> Validate[Validation<br/>V0/V1/V2]
+    Validate --> J5AHandoff[J5A Handoff<br/>Overnight Queue]
+    J5AHandoff --> J5ADB[(j5a_handoff<br/>package_status)]
+    J5ADB --> J5AExec[J5A Execution<br/>Collection Commands]
+    J5AExec --> Receipt[Receipt &<br/>Output Ingestion]
+    Receipt --> Ingest
+
+    style Start fill:#e1f5fe
+    style Output fill:#e1f5fe
+    style CLI fill:#fff3e0
+    style MediaDB fill:#f3e5f5
+    style DiaDB fill:#f3e5f5
+    style SpeakerDB fill:#f3e5f5
+    style EvidDB fill:#f3e5f5
+    style TargetDB fill:#f3e5f5
+    style J5ADB fill:#f3e5f5
+    style Diarize fill:#fff9c4
+    style Normalize fill:#fff9c4
+    style Index fill:#fff9c4
+    style Retrieve fill:#c8e6c9
+    style Analyze fill:#c8e6c9
+    style Synthesize fill:#c8e6c9
+    style Audit fill:#ffccbc
+    style Officer fill:#e1bee7
+```

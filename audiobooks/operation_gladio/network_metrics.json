@@ -1,0 +1,62 @@
+{
+  "network_size": {
+    "total_nodes": 212,
+    "total_edges": 3387,
+    "people": 187,
+    "organizations": 25
+  },
+  "centrality": {
+    "average_degree": 53.56603773584906,
+    "max_degree": 713,
+    "top_10_nodes": [
+      [
+        "CIA",
+        713
+      ],
+      [
+        "Vatican",
+        668
+      ],
+      [
+        "P2",
+        488
+      ],
+      [
+        "Secretary",
+        344
+      ],
+      [
+        "William",
+        301
+      ],
+      [
+        "Banco Ambrosiano",
+        252
+      ],
+      [
+        "Prime Minister",
+        224
+      ],
+      [
+        "Marcinkus",
+        217
+      ],
+      [
+        "Pope Paul",
+        217
+      ],
+      [
+        "Roberto Calvi",
+        211
+      ]
+    ]
+  },
+  "relationship_types": {
+    "leadership": 2964,
+    "funding": 188,
+    "membership": 186,
+    "operational": 25,
+    "associated": 24
+  },
+  "generated": "2025-09-30T20:11:51.620829"
+}

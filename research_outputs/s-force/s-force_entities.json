@@ -1,0 +1,9 @@
+{
+  "entities": [
+    {
+      "name": "S-Force",
+      "type": "person",
+      "confidence": 0.8
+    }
+  ]
+}

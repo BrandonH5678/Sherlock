@@ -1,0 +1,34 @@
+graph Thread3Network {
+  layout=fdp;
+  overlap=false;
+  splines=true;
+  node [style=filled, fontname="Arial"];
+  edge [color="#88888844"];
+
+  "USSR" [fillcolor="#4ECDC4", label="USSR", width=0.37, height=0.37];
+  "cia" [fillcolor="#4ECDC4", label="cia", width=0.37, height=0.37];
+  "Russia" [fillcolor="#4ECDC4", label="Russia", width=0.36, height=0.36];
+  "Ministry of Defense" [fillcolor="#4ECDC4", label="Ministry of Defense", width=0.32, height=0.32];
+  "Moscow" [fillcolor="#FFE66D", label="Moscow", width=0.32, height=0.32];
+  "MOD" [fillcolor="#4ECDC4", label="MOD", width=0.32, height=0.32];
+  "dia" [fillcolor="#4ECDC4", label="dia", width=0.32, height=0.32];
+  "Harry Reid" [fillcolor="#95E1D3", label="Harry Reid", width=0.31, height=0.31];
+  "Kona Blue" [fillcolor="#95E1D3", label="Kona Blue", width=0.31, height=0.31];
+  "James Lacatski" [fillcolor="#95E1D3", label="James Lacatski", width=0.31, height=0.31];
+  "mod" [fillcolor="#4ECDC4", label="mod", width=0.31, height=0.31];
+  "AAWSAP" [fillcolor="#FF6B6B", label="AAWSAP", width=0.30, height=0.30];
+  "ussR" [fillcolor="#4ECDC4", label="ussR", width=0.30, height=0.30];
+  "ussr" [fillcolor="#4ECDC4", label="ussr", width=0.30, height=0.30];
+
+  "Harry Reid" -- "Russia" [penwidth=1.2];
+  "James Lacatski" -- "Kona Blue" [penwidth=1.2];
+  "Ministry of Defense" -- "Russia" [penwidth=1.4];
+  "Moscow" -- "USSR" [penwidth=1.4];
+  "MOD" -- "Russia" [penwidth=1.2];
+  "USSR" -- "mod" [penwidth=1.2];
+  "cia" -- "dia" [penwidth=1.4];
+  "Russia" -- "USSR" [penwidth=1.2];
+  "Russia" -- "cia" [penwidth=1.2];
+  "USSR" -- "cia" [penwidth=1.6];
+  "MOD" -- "cia" [penwidth=1.2];
+}

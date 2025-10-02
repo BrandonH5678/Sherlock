@@ -1,94 +1,354 @@
+# Sherlock: Local-First Deep Research System - Makefile
+# Build automation for ingest, diarization, targets, packages, and analysis
+
 SHELL := /bin/bash
 PYTHON := python3
-VENV := .venv
-ACT := source $(VENV)/bin/activate
-BUILD := build
-BENCH := bench
-RES := $(BENCH)/results.tsv
-AUDIO := $(BUILD)/sample60s.wav
-THREADS ?= 1
+VENV := venv
+ACTIVATE := source $(VENV)/bin/activate
+DB := evidence.db
 
-# --------- Setup ----------
-setup:
-	@echo "[*] Installing system dependencies and Python packages…"
-	@sudo apt-get update -y && sudo apt-get install -y jq bc curl
-	@echo "[*] Installing Python packages (system-wide with override)…"
-	@pip3 install --break-system-packages --upgrade pip --quiet
-	@pip3 install --break-system-packages --quiet faster-whisper onnxruntime webrtcvad pydub typer rich orjson
-	@mkdir -p $(BUILD) $(BENCH)
-	@[ -f $(RES) ] || echo -e "ts\ttool\tmodel\tfile_sec\twall_sec\trtf\tnotes" > $(RES)
-	@echo "[*] Setup complete - ready for speech recognition benchmarking."
+.PHONY: help
+help:
+	@echo "Sherlock Build Targets"
+	@echo "======================"
+	@echo ""
+	@echo "Setup:"
+	@echo "  make setup          - Create venv and install dependencies"
+	@echo "  make install        - Install dependencies only"
+	@echo "  make clean          - Remove venv and cached files"
+	@echo ""
+	@echo "Database:"
+	@echo "  make db-init        - Initialize database schema"
+	@echo "  make db-migrate     - Run database migrations"
+	@echo "  make db-reset       - Reset database (DANGER: deletes all data)"
+	@echo "  make db-stats       - Show database statistics"
+	@echo ""
+	@echo "Ingest:"
+	@echo "  make yt URL=<url>   - Ingest YouTube video"
+	@echo "  make yt-auto URL=<url> - Ingest YouTube with auto-diarization"
+	@echo "  make media FILE=<path> - Ingest local media file"
+	@echo "  make doc FILE=<path>   - Ingest PDF document"
+	@echo ""
+	@echo "Diarization:"
+	@echo "  make diarize MEDIA=<media_id> - Run unsupervised diarization"
+	@echo "  make diarize-supervised MEDIA=<media_id> ANCHORS=<anchors> - Run supervised diarization"
+	@echo ""
+	@echo "Targets & Packages:"
+	@echo "  make target-add NAME=<name> TYPE=<type> PRIORITY=<1-5> - Add target"
+	@echo "  make target-list    - List all targets"
+	@echo "  make pkg-create TARGET=<target_id> - Create targeting package"
+	@echo "  make pkg-validate PKG=<pkg_id> LEVEL=<0|1|2> - Validate package"
+	@echo "  make pkg-submit PKG=<pkg_id> - Submit package to J5A"
+	@echo "  make pkg-status PKG=<pkg_id> - Check package status"
+	@echo "  make pkg-list       - List all packages"
+	@echo ""
+	@echo "Targeting Officer:"
+	@echo "  make officer-run    - Run Targeting Officer once"
+	@echo "  make officer-daemon - Run Targeting Officer daemon"
+	@echo "  make officer-report - Generate daily report"
+	@echo ""
+	@echo "Query & Analysis:"
+	@echo "  make search QUERY=<query> - Full-text search"
+	@echo "  make query-speaker SPEAKER=<speaker_id> - Query by speaker"
+	@echo "  make report OP=<operation> - Generate intelligence report"
+	@echo "  make cross-ref OP1=<op1> OP2=<op2> - Cross-reference analysis"
+	@echo ""
+	@echo "Testing & Lint:"
+	@echo "  make test           - Run all tests"
+	@echo "  make lint           - Run ruff linter"
+	@echo "  make format         - Format code with ruff"
 
-# --------- Sample audio ----------
-sample60: $(AUDIO)
+# ============================================================================
+# Setup
+# ============================================================================
 
-$(AUDIO):
-	@mkdir -p $(BUILD)
-	@if ! command -v espeak-ng >/dev/null 2>&1; then \
-	   echo "[*] Installing espeak-ng (text-to-speech)…"; \
-	   sudo apt-get update -y && sudo apt-get install -y espeak-ng >/dev/null; \
-	 fi
-	@echo "[*] Generating 60s speech via espeak-ng…"
-	@espeak-ng -w $(BUILD)/sample_orig.wav \
-	  "This is a synthetic speech sample generated for benchmarking automatic speech recognition and diarization performance on a low memory Linux system. The quick brown fox jumps over the lazy dog. Numbers like one, two, three, four, five. Punctuation, pauses, and varying cadence help exercise the model. This text will repeat until the minute is filled."
-	@ffmpeg -y -hide_banner -loglevel error -stream_loop -1 -t 60 \
-	  -i $(BUILD)/sample_orig.wav -ac 1 -ar 16000 $(AUDIO)
-	@echo "[*] Sample ready: $(AUDIO)"
+.PHONY: setup
+setup: venv install db-init
+	@echo "✅ Sherlock setup complete"
 
-# --------- YouTube audio helper ----------
-# Usage: make yt AUDIO_URL="https://www.youtube.com/watch?v=XXXX"
+$(VENV)/bin/activate:
+	$(PYTHON) -m venv $(VENV)
+
+venv: $(VENV)/bin/activate
+
+.PHONY: install
+install: venv
+	$(ACTIVATE) && pip install --upgrade pip
+	$(ACTIVATE) && pip install -r requirements.txt
+
+.PHONY: clean
+clean:
+	rm -rf $(VENV)
+	find . -type d -name "__pycache__" -exec rm -rf {} +
+	find . -type f -name "*.pyc" -delete
+
+# ============================================================================
+# Database
+# ============================================================================
+
+.PHONY: db-init
+db-init:
+	$(ACTIVATE) && sherlock db init
+
+.PHONY: db-migrate
+db-migrate:
+	$(ACTIVATE) && sherlock db migrate
+
+.PHONY: db-reset
+db-reset:
+	@echo "⚠️  WARNING: This will delete all data in $(DB)"
+	@read -p "Are you sure? [y/N] " -n 1 -r; \
+	echo; \
+	if [[ $$REPLY =~ ^[Yy]$$ ]]; then \
+		$(ACTIVATE) && sherlock db reset --confirm; \
+	fi
+
+.PHONY: db-stats
+db-stats:
+	$(ACTIVATE) && sherlock db stats
+
+# ============================================================================
+# Ingest
+# ============================================================================
+
+.PHONY: yt
 yt:
-	@test -n "$(AUDIO_URL)" || (echo "Set AUDIO_URL=…"; exit 1)
-	@echo "[*] Fetching audio from $(AUDIO_URL) for Sherlock analysis…"
-	@yt-dlp -f 'bestaudio[ext=m4a]/bestaudio/best' -o '$(BUILD)/yt.%(id)s.m4a' "$(AUDIO_URL)"
-	@f=$$(ls -1 $(BUILD)/yt.*.m4a | head -n1); \
-	echo "[*] Converting to 16kHz mono wav…"; \
-	ffmpeg -y -hide_banner -loglevel error -i $$f -ac 1 -ar 16000 $(BUILD)/yt.wav; \
-	echo "[*] Cutting first 60 seconds to $(AUDIO)"; \
-	ffmpeg -y -hide_banner -loglevel error -i $(BUILD)/yt.wav -t 60 $(AUDIO)
-	@echo "[*] Real interview audio ready for Sherlock testing: $(AUDIO)"
+	@if [ -z "$(URL)" ]; then \
+		echo "❌ Error: URL required. Usage: make yt URL=https://youtube.com/watch?v=..."; \
+		exit 1; \
+	fi
+	$(ACTIVATE) && sherlock ingest youtube "$(URL)"
 
-# --------- faster-whisper benchmark ----------
-bench-ff: $(AUDIO) bench_faster_whisper.py
-	@echo "[*] Benchmark: faster-whisper tiny (CPU int8) for mosaic analysis transcription…"
-	@export OMP_NUM_THREADS=$(THREADS) MKL_NUM_THREADS=$(THREADS); \
-	python3 bench_faster_whisper.py --audio $(AUDIO) \
-		--model tiny --compute int8 --beam 1 --lang en --vad \
-		| tee $(BENCH)/ff_last.json
-	@ts=$$(date -Is); \
-	audio_sec=$$(python3 -c "import wave; w=wave.open('$(AUDIO)'); print(int(w.getnframes()/w.getframerate()))"); \
-	wall=$$(jq -r '.wall_sec' $(BENCH)/ff_last.json); \
-	rtf=$$(jq -r '.rtf' $(BENCH)/ff_last.json); \
-	echo -e "$$ts\tfaster-whisper\ttiny\t$$audio_sec\t$$wall\t$$rtf\tcpu-int8,threads=$(THREADS)" >> $(RES); \
-	echo "[*] Appended to $(RES) - RTF: $$rtf (lower is better for real-time)"
+.PHONY: yt-auto
+yt-auto:
+	@if [ -z "$(URL)" ]; then \
+		echo "❌ Error: URL required. Usage: make yt-auto URL=https://youtube.com/watch?v=..."; \
+		exit 1; \
+	fi
+	$(ACTIVATE) && sherlock ingest youtube "$(URL)" --auto-diarize
 
-# --------- Light diarization (VAD + turn split) ----------
-bench-vad: $(AUDIO) diarize_light.py
-	@echo "[*] Light diarization (webrtcvad) for interview speaker separation…"
-	@python3 diarize_light.py --audio $(AUDIO) --out $(BENCH)/turns.json --agg_gap 30
-	@ts=$$(date -Is); \
-	wall=$$(jq -r '.wall_sec' $(BENCH)/turns.json); \
-	rtf=$$(echo "$$wall/60" | bc -l); \
-	turns=$$(jq -r '.turns | length' $(BENCH)/turns.json); \
-	echo -e "$$ts\tdiarize_light\t-\t60\t$$wall\t$$rtf\tvad,turns=$$turns" >> $(RES); \
-	echo "[*] Appended to $(RES) - Detected $$turns speaker turns"
+.PHONY: media
+media:
+	@if [ -z "$(FILE)" ]; then \
+		echo "❌ Error: FILE required. Usage: make media FILE=/path/to/file.mp4"; \
+		exit 1; \
+	fi
+	$(ACTIVATE) && sherlock ingest media "$(FILE)"
 
-# --------- Enhanced stereo speaker separation ----------
-bench-stereo: build/yt2_stereo.wav stereo_diarize.py
-	@echo "[*] Enhanced stereo speaker separation for mosaic analysis…"
-	@python3 stereo_diarize.py > bench/stereo_last.json
-	@ts=$$(date -Is); \
-	wall=$$(jq -r '.wall_sec' bench/stereo_last.json); \
-	turns=$$(jq -r '.n_turns' bench/stereo_last.json); \
-	left_turns=$$(jq -r '.left_turns' bench/stereo_last.json); \
-	right_turns=$$(jq -r '.right_turns' bench/stereo_last.json); \
-	echo -e "$$ts\tstereo_separation\t-\t60\t$$wall\t$$(echo "$$wall/60" | bc -l)\tL=$$left_turns,R=$$right_turns,total=$$turns" >> $(RES); \
-	echo "[*] Stereo separation complete - $$turns speakers detected (L:$$left_turns R:$$right_turns)"
+.PHONY: doc
+doc:
+	@if [ -z "$(FILE)" ]; then \
+		echo "❌ Error: FILE required. Usage: make doc FILE=/path/to/file.pdf"; \
+		exit 1; \
+	fi
+	$(ACTIVATE) && sherlock ingest document "$(FILE)"
 
-build/yt2_stereo.wav:
-	@echo "[*] Preparing stereo audio for enhanced speaker separation…"
-	@ffmpeg -y -hide_banner -loglevel error -i build/yt2.SZBI85yvV5A.m4a -ar 16000 -t 60 build/yt2_stereo.wav
-	@ffmpeg -y -hide_banner -loglevel error -i build/yt2_stereo.wav -map_channel 0.0.0 build/yt2_L.wav -map_channel 0.0.1 build/yt2_R.wav
+# ============================================================================
+# Diarization
+# ============================================================================
 
-bench-all: bench-ff bench-vad bench-stereo
-	@echo "[*] Done. See $(RES)"
+.PHONY: diarize
+diarize:
+	@if [ -z "$(MEDIA)" ]; then \
+		echo "❌ Error: MEDIA required. Usage: make diarize MEDIA=media_001"; \
+		exit 1; \
+	fi
+	$(ACTIVATE) && sherlock diarize "$(MEDIA)"
+
+.PHONY: diarize-supervised
+diarize-supervised:
+	@if [ -z "$(MEDIA)" ] || [ -z "$(ANCHORS)" ]; then \
+		echo "❌ Error: MEDIA and ANCHORS required. Usage: make diarize-supervised MEDIA=media_001 ANCHORS=speaker1.json,speaker2.json"; \
+		exit 1; \
+	fi
+	$(ACTIVATE) && sherlock diarize "$(MEDIA)" --anchors "$(ANCHORS)"
+
+# ============================================================================
+# Targets & Packages
+# ============================================================================
+
+.PHONY: target-add
+target-add:
+	@if [ -z "$(NAME)" ] || [ -z "$(TYPE)" ] || [ -z "$(PRIORITY)" ]; then \
+		echo "❌ Error: NAME, TYPE, PRIORITY required. Usage: make target-add NAME=AARO TYPE=org PRIORITY=1"; \
+		exit 1; \
+	fi
+	$(ACTIVATE) && sherlock targets add "$(NAME)" --type "$(TYPE)" --priority "$(PRIORITY)"
+
+.PHONY: target-list
+target-list:
+	$(ACTIVATE) && sherlock targets list
+
+.PHONY: pkg-create
+pkg-create:
+	@if [ -z "$(TARGET)" ]; then \
+		echo "❌ Error: TARGET required. Usage: make pkg-create TARGET=aaro"; \
+		exit 1; \
+	fi
+	$(ACTIVATE) && sherlock pkg create --target "$(TARGET)" --version 1
+
+.PHONY: pkg-validate
+pkg-validate:
+	@if [ -z "$(PKG)" ] || [ -z "$(LEVEL)" ]; then \
+		echo "❌ Error: PKG and LEVEL required. Usage: make pkg-validate PKG=pkg_aaro_v1 LEVEL=0"; \
+		exit 1; \
+	fi
+	$(ACTIVATE) && sherlock pkg validate --package "$(PKG)" --level "$(LEVEL)"
+
+.PHONY: pkg-submit
+pkg-submit:
+	@if [ -z "$(PKG)" ]; then \
+		echo "❌ Error: PKG required. Usage: make pkg-submit PKG=pkg_aaro_v1"; \
+		exit 1; \
+	fi
+	$(ACTIVATE) && sherlock pkg submit --package "$(PKG)"
+
+.PHONY: pkg-status
+pkg-status:
+	@if [ -z "$(PKG)" ]; then \
+		echo "❌ Error: PKG required. Usage: make pkg-status PKG=pkg_aaro_v1"; \
+		exit 1; \
+	fi
+	$(ACTIVATE) && sherlock pkg status "$(PKG)"
+
+.PHONY: pkg-list
+pkg-list:
+	$(ACTIVATE) && sherlock pkg list
+
+# ============================================================================
+# Targeting Officer
+# ============================================================================
+
+.PHONY: officer-run
+officer-run:
+	$(ACTIVATE) && sherlock officer run --once
+
+.PHONY: officer-daemon
+officer-daemon:
+	$(ACTIVATE) && sherlock officer run --daemon --interval 3600
+
+.PHONY: officer-report
+officer-report:
+	$(ACTIVATE) && sherlock officer report --daily --output "targeting_report_$$(date +%Y-%m-%d).md"
+
+# ============================================================================
+# Query & Analysis
+# ============================================================================
+
+.PHONY: search
+search:
+	@if [ -z "$(QUERY)" ]; then \
+		echo "❌ Error: QUERY required. Usage: make search QUERY='operation mockingbird'"; \
+		exit 1; \
+	fi
+	$(ACTIVATE) && sherlock search "$(QUERY)"
+
+.PHONY: query-speaker
+query-speaker:
+	@if [ -z "$(SPEAKER)" ]; then \
+		echo "❌ Error: SPEAKER required. Usage: make query-speaker SPEAKER=frank_wisner"; \
+		exit 1; \
+	fi
+	$(ACTIVATE) && sherlock query speaker "$(SPEAKER)"
+
+.PHONY: report
+report:
+	@if [ -z "$(OP)" ]; then \
+		echo "❌ Error: OP required. Usage: make report OP=mockingbird"; \
+		exit 1; \
+	fi
+	$(ACTIVATE) && sherlock analyze report "$(OP)" --output "$(OP)_report.md"
+
+.PHONY: cross-ref
+cross-ref:
+	@if [ -z "$(OP1)" ] || [ -z "$(OP2)" ]; then \
+		echo "❌ Error: OP1 and OP2 required. Usage: make cross-ref OP1=mockingbird OP2=mkultra"; \
+		exit 1; \
+	fi
+	$(ACTIVATE) && sherlock analyze cross-ref "$(OP1)" "$(OP2)" --output "$(OP1)_$(OP2)_cross_ref.md"
+
+# ============================================================================
+# Testing & Lint
+# ============================================================================
+
+.PHONY: test
+test:
+	$(ACTIVATE) && pytest tests/ -v
+
+.PHONY: lint
+lint:
+	$(ACTIVATE) && ruff check src/
+
+.PHONY: format
+format:
+	$(ACTIVATE) && ruff format src/
+
+# ============================================================================
+# Integration Workflows
+# ============================================================================
+
+.PHONY: integrate-operation
+integrate-operation:
+	@if [ -z "$(SCRIPT)" ]; then \
+		echo "❌ Error: SCRIPT required. Usage: make integrate-operation SCRIPT=integrate_mockingbird_evidence.py"; \
+		exit 1; \
+	fi
+	$(ACTIVATE) && $(PYTHON) "$(SCRIPT)"
+
+# Example: Complete workflow for new target
+.PHONY: workflow-target
+workflow-target:
+	@echo "📋 Example: Complete targeting workflow"
+	@echo "1. Add target: make target-add NAME=AARO TYPE=org PRIORITY=1"
+	@echo "2. Create package: make pkg-create TARGET=aaro"
+	@echo "3. Edit package: sherlock pkg edit pkg_aaro_v1"
+	@echo "4. Validate: make pkg-validate PKG=pkg_aaro_v1 LEVEL=0"
+	@echo "5. Submit: make pkg-submit PKG=pkg_aaro_v1"
+	@echo "6. Monitor: make officer-run"
+	@echo "7. Check status: make pkg-status PKG=pkg_aaro_v1"
+
+# ============================================================================
+# Development Shortcuts
+# ============================================================================
+
+.PHONY: dev-setup
+dev-setup: setup
+	@echo "🔧 Installing development dependencies..."
+	$(ACTIVATE) && pip install pytest ruff ipython
+
+.PHONY: shell
+shell:
+	$(ACTIVATE) && ipython
+
+.PHONY: dev-reset
+dev-reset: db-reset
+	@echo "🔧 Resetting development environment..."
+	rm -rf media/ diarization/ checkpoints/
+	@echo "✅ Development environment reset complete"
+
+# ============================================================================
+# CI/CD (Future)
+# ============================================================================
+
+.PHONY: ci
+ci: lint test
+	@echo "✅ CI checks passed"
+
+# ============================================================================
+# Maintenance
+# ============================================================================
+
+.PHONY: backup
+backup:
+	@mkdir -p backups
+	@cp $(DB) "backups/$(DB)_$$(date +%Y%m%d_%H%M%S).backup"
+	@echo "✅ Database backed up to backups/"
+
+.PHONY: restore
+restore:
+	@if [ -z "$(BACKUP)" ]; then \
+		echo "❌ Error: BACKUP required. Usage: make restore BACKUP=backups/evidence.db_20251001_120000.backup"; \
+		exit 1; \
+	fi
+	@cp "$(BACKUP)" $(DB)
+	@echo "✅ Database restored from $(BACKUP)"

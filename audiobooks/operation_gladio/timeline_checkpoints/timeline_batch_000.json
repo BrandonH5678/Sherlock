@@ -1,0 +1,4651 @@
+{
+  "batch_id": 0,
+  "event_count": 275,
+  "events": [
+    {
+      "event_id": "event_0_0",
+      "year": 1990,
+      "month": null,
+      "day": null,
+      "time_description": "1990",
+      "event_description": "This is Audible. Tantor Audio Presents Operation Gladio The Unholy Alliance Between the Vatican, the CIA, and the Mafia by Paul L. Williams, Ph.D. Narrated by Michael Pritchard. Watch out for false pr",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "P2",
+        "Mafia",
+        "Walter Schellenberg"
+      ],
+      "line_number": 0,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_1",
+      "year": 2001,
+      "month": null,
+      "day": null,
+      "time_description": "2001",
+      "event_description": "This is Audible. Tantor Audio Presents Operation Gladio The Unholy Alliance Between the Vatican, the CIA, and the Mafia by Paul L. Williams, Ph.D. Narrated by Michael Pritchard. Watch out for false pr",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "P2",
+        "Mafia",
+        "Walter Schellenberg"
+      ],
+      "line_number": 0,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_2",
+      "year": 1987,
+      "month": null,
+      "day": null,
+      "time_description": "1987",
+      "event_description": "This is Audible. Tantor Audio Presents Operation Gladio The Unholy Alliance Between the Vatican, the CIA, and the Mafia by Paul L. Williams, Ph.D. Narrated by Michael Pritchard. Watch out for false pr",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "P2",
+        "Mafia",
+        "Walter Schellenberg"
+      ],
+      "line_number": 0,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_3",
+      "year": 1994,
+      "month": null,
+      "day": null,
+      "time_description": "1994",
+      "event_description": "This is Audible. Tantor Audio Presents Operation Gladio The Unholy Alliance Between the Vatican, the CIA, and the Mafia by Paul L. Williams, Ph.D. Narrated by Michael Pritchard. Watch out for false pr",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "P2",
+        "Mafia",
+        "Walter Schellenberg"
+      ],
+      "line_number": 0,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_4",
+      "year": 1942,
+      "month": null,
+      "day": null,
+      "time_description": "1942",
+      "event_description": "This is Audible. Tantor Audio Presents Operation Gladio The Unholy Alliance Between the Vatican, the CIA, and the Mafia by Paul L. Williams, Ph.D. Narrated by Michael Pritchard. Watch out for false pr",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "P2",
+        "Mafia",
+        "Walter Schellenberg"
+      ],
+      "line_number": 0,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_5",
+      "year": 1917,
+      "month": null,
+      "day": null,
+      "time_description": "1917",
+      "event_description": "This is Audible. Tantor Audio Presents Operation Gladio The Unholy Alliance Between the Vatican, the CIA, and the Mafia by Paul L. Williams, Ph.D. Narrated by Michael Pritchard. Watch out for false pr",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Alan Dulles",
+        "P2",
+        "Mafia",
+        "Walter Schellenberg"
+      ],
+      "line_number": 0,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_6",
+      "year": 1916,
+      "month": null,
+      "day": null,
+      "time_description": "1916",
+      "event_description": "Dulles had problems with the Nazis. Their goal of a thousand-year Reich and their division of mankind into Ubermenschen and Untermenschen. But the Nazis were Christians. They retained a Hegelian sense",
+      "entities_involved": [
+        "Wolf",
+        "Alan Dulles",
+        "OSS",
+        "Carl Wolf",
+        "Operation Gladio"
+      ],
+      "line_number": 2,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_7",
+      "year": 1922,
+      "month": null,
+      "day": null,
+      "time_description": "1922",
+      "event_description": "Dulles had problems with the Nazis. Their goal of a thousand-year Reich and their division of mankind into Ubermenschen and Untermenschen. But the Nazis were Christians. They retained a Hegelian sense",
+      "entities_involved": [
+        "Wolf",
+        "Alan Dulles",
+        "OSS",
+        "Carl Wolf",
+        "Operation Gladio"
+      ],
+      "line_number": 2,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_8",
+      "year": 1926,
+      "month": null,
+      "day": null,
+      "time_description": "1926",
+      "event_description": "Dulles had problems with the Nazis. Their goal of a thousand-year Reich and their division of mankind into Ubermenschen and Untermenschen. But the Nazis were Christians. They retained a Hegelian sense",
+      "entities_involved": [
+        "Wolf",
+        "Alan Dulles",
+        "OSS",
+        "Carl Wolf",
+        "Operation Gladio"
+      ],
+      "line_number": 2,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_9",
+      "year": 1927,
+      "month": null,
+      "day": null,
+      "time_description": "1927",
+      "event_description": "Dulles had problems with the Nazis. Their goal of a thousand-year Reich and their division of mankind into Ubermenschen and Untermenschen. But the Nazis were Christians. They retained a Hegelian sense",
+      "entities_involved": [
+        "Wolf",
+        "Alan Dulles",
+        "OSS",
+        "Carl Wolf",
+        "Operation Gladio"
+      ],
+      "line_number": 2,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_10",
+      "year": 1932,
+      "month": null,
+      "day": null,
+      "time_description": "1932",
+      "event_description": "Dulles had problems with the Nazis. Their goal of a thousand-year Reich and their division of mankind into Ubermenschen and Untermenschen. But the Nazis were Christians. They retained a Hegelian sense",
+      "entities_involved": [
+        "Wolf",
+        "Alan Dulles",
+        "OSS",
+        "Carl Wolf",
+        "Operation Gladio"
+      ],
+      "line_number": 2,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_11",
+      "year": 1942,
+      "month": null,
+      "day": null,
+      "time_description": "1942",
+      "event_description": "Dulles had problems with the Nazis. Their goal of a thousand-year Reich and their division of mankind into Ubermenschen and Untermenschen. But the Nazis were Christians. They retained a Hegelian sense",
+      "entities_involved": [
+        "Wolf",
+        "Alan Dulles",
+        "OSS",
+        "Carl Wolf",
+        "Operation Gladio"
+      ],
+      "line_number": 2,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_12",
+      "year": 1945,
+      "month": null,
+      "day": null,
+      "time_description": "1945",
+      "event_description": "Dulles had problems with the Nazis. Their goal of a thousand-year Reich and their division of mankind into Ubermenschen and Untermenschen. But the Nazis were Christians. They retained a Hegelian sense",
+      "entities_involved": [
+        "Wolf",
+        "Alan Dulles",
+        "OSS",
+        "Carl Wolf",
+        "Operation Gladio"
+      ],
+      "line_number": 2,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_13",
+      "year": 1943,
+      "month": null,
+      "day": null,
+      "time_description": "September 8, 1943",
+      "event_description": "as outspokenly Pro-Hitler and Pro-Muscellini, had developed extensive contacts throughout Italy that were of great use to his son. One such contact was Prince Funio Valerio Borghese, a member of the C",
+      "entities_involved": [
+        "William Wild Bill Donovan",
+        "Wolf",
+        "Alan Dulles",
+        "Chiang Kai",
+        "OSS"
+      ],
+      "line_number": 4,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_14",
+      "year": 1945,
+      "month": null,
+      "day": null,
+      "time_description": "April 13, 1945",
+      "event_description": "as outspokenly Pro-Hitler and Pro-Muscellini, had developed extensive contacts throughout Italy that were of great use to his son. One such contact was Prince Funio Valerio Borghese, a member of the C",
+      "entities_involved": [
+        "William Wild Bill Donovan",
+        "Wolf",
+        "Alan Dulles",
+        "Chiang Kai",
+        "OSS"
+      ],
+      "line_number": 4,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_15",
+      "year": 1945,
+      "month": null,
+      "day": null,
+      "time_description": "May 15, 1945",
+      "event_description": "as outspokenly Pro-Hitler and Pro-Muscellini, had developed extensive contacts throughout Italy that were of great use to his son. One such contact was Prince Funio Valerio Borghese, a member of the C",
+      "entities_involved": [
+        "William Wild Bill Donovan",
+        "Wolf",
+        "Alan Dulles",
+        "Chiang Kai",
+        "OSS"
+      ],
+      "line_number": 4,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_16",
+      "year": 1943,
+      "month": null,
+      "day": null,
+      "time_description": "1943",
+      "event_description": "as outspokenly Pro-Hitler and Pro-Muscellini, had developed extensive contacts throughout Italy that were of great use to his son. One such contact was Prince Funio Valerio Borghese, a member of the C",
+      "entities_involved": [
+        "William Wild Bill Donovan",
+        "Wolf",
+        "Alan Dulles",
+        "Chiang Kai",
+        "OSS"
+      ],
+      "line_number": 4,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_17",
+      "year": 1945,
+      "month": null,
+      "day": null,
+      "time_description": "1945",
+      "event_description": "as outspokenly Pro-Hitler and Pro-Muscellini, had developed extensive contacts throughout Italy that were of great use to his son. One such contact was Prince Funio Valerio Borghese, a member of the C",
+      "entities_involved": [
+        "William Wild Bill Donovan",
+        "Wolf",
+        "Alan Dulles",
+        "Chiang Kai",
+        "OSS"
+      ],
+      "line_number": 4,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_18",
+      "year": 1945,
+      "month": null,
+      "day": null,
+      "time_description": "1945",
+      "event_description": "as outspokenly Pro-Hitler and Pro-Muscellini, had developed extensive contacts throughout Italy that were of great use to his son. One such contact was Prince Funio Valerio Borghese, a member of the C",
+      "entities_involved": [
+        "William Wild Bill Donovan",
+        "Wolf",
+        "Alan Dulles",
+        "Chiang Kai",
+        "OSS"
+      ],
+      "line_number": 4,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_19",
+      "year": 1946,
+      "month": null,
+      "day": null,
+      "time_description": "1946",
+      "event_description": "as outspokenly Pro-Hitler and Pro-Muscellini, had developed extensive contacts throughout Italy that were of great use to his son. One such contact was Prince Funio Valerio Borghese, a member of the C",
+      "entities_involved": [
+        "William Wild Bill Donovan",
+        "Wolf",
+        "Alan Dulles",
+        "Chiang Kai",
+        "OSS"
+      ],
+      "line_number": 4,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_20",
+      "year": 1992,
+      "month": null,
+      "day": null,
+      "time_description": "1992",
+      "event_description": "as outspokenly Pro-Hitler and Pro-Muscellini, had developed extensive contacts throughout Italy that were of great use to his son. One such contact was Prince Funio Valerio Borghese, a member of the C",
+      "entities_involved": [
+        "William Wild Bill Donovan",
+        "Wolf",
+        "Alan Dulles",
+        "Chiang Kai",
+        "OSS"
+      ],
+      "line_number": 4,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_21",
+      "year": 1974,
+      "month": null,
+      "day": null,
+      "time_description": "1974",
+      "event_description": "as outspokenly Pro-Hitler and Pro-Muscellini, had developed extensive contacts throughout Italy that were of great use to his son. One such contact was Prince Funio Valerio Borghese, a member of the C",
+      "entities_involved": [
+        "William Wild Bill Donovan",
+        "Wolf",
+        "Alan Dulles",
+        "Chiang Kai",
+        "OSS"
+      ],
+      "line_number": 4,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_22",
+      "year": 1931,
+      "month": null,
+      "day": null,
+      "time_description": "1931",
+      "event_description": "Wild Bill had drafted plans to create a post-war Central Intelligence Agency, and, knowing this, Hellowell came up with another brainstorm, a surefire means of gaining covert funding for Gladio and ot",
+      "entities_involved": [
+        "Chang",
+        "OSS"
+      ],
+      "line_number": 6,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_23",
+      "year": 1927,
+      "month": null,
+      "day": null,
+      "time_description": "1927",
+      "event_description": "Wild Bill had drafted plans to create a post-war Central Intelligence Agency, and, knowing this, Hellowell came up with another brainstorm, a surefire means of gaining covert funding for Gladio and ot",
+      "entities_involved": [
+        "Chang",
+        "OSS"
+      ],
+      "line_number": 6,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_24",
+      "year": 1929,
+      "month": null,
+      "day": null,
+      "time_description": "1929",
+      "event_description": "Wild Bill had drafted plans to create a post-war Central Intelligence Agency, and, knowing this, Hellowell came up with another brainstorm, a surefire means of gaining covert funding for Gladio and ot",
+      "entities_involved": [
+        "Chang",
+        "OSS"
+      ],
+      "line_number": 6,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_25",
+      "year": 1936,
+      "month": null,
+      "day": null,
+      "time_description": "1936",
+      "event_description": "Wild Bill had drafted plans to create a post-war Central Intelligence Agency, and, knowing this, Hellowell came up with another brainstorm, a surefire means of gaining covert funding for Gladio and ot",
+      "entities_involved": [
+        "Chang",
+        "OSS"
+      ],
+      "line_number": 6,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_26",
+      "year": 1936,
+      "month": null,
+      "day": null,
+      "time_description": "1936",
+      "event_description": "Wild Bill had drafted plans to create a post-war Central Intelligence Agency, and, knowing this, Hellowell came up with another brainstorm, a surefire means of gaining covert funding for Gladio and ot",
+      "entities_involved": [
+        "Chang",
+        "OSS"
+      ],
+      "line_number": 6,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_27",
+      "year": 1943,
+      "month": null,
+      "day": null,
+      "time_description": "April 15, 1943",
+      "event_description": "Lucky managed to bribe prison officials with enough cash to gain not only a private cell on the best block, but also a personal valet to press his dress-slacks and silk shirts, and an experienced chef",
+      "entities_involved": [
+        "Patton",
+        "Alan Dulles",
+        "Montini",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 8,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_28",
+      "year": 1942,
+      "month": null,
+      "day": null,
+      "time_description": "1942",
+      "event_description": "Lucky managed to bribe prison officials with enough cash to gain not only a private cell on the best block, but also a personal valet to press his dress-slacks and silk shirts, and an experienced chef",
+      "entities_involved": [
+        "Patton",
+        "Alan Dulles",
+        "Montini",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 8,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_29",
+      "year": 1943,
+      "month": null,
+      "day": null,
+      "time_description": "1943",
+      "event_description": "Lucky managed to bribe prison officials with enough cash to gain not only a private cell on the best block, but also a personal valet to press his dress-slacks and silk shirts, and an experienced chef",
+      "entities_involved": [
+        "Patton",
+        "Alan Dulles",
+        "Montini",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 8,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_30",
+      "year": 1944,
+      "month": null,
+      "day": null,
+      "time_description": "1944",
+      "event_description": "Lucky managed to bribe prison officials with enough cash to gain not only a private cell on the best block, but also a personal valet to press his dress-slacks and silk shirts, and an experienced chef",
+      "entities_involved": [
+        "Patton",
+        "Alan Dulles",
+        "Montini",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 8,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_31",
+      "year": 1960,
+      "month": null,
+      "day": null,
+      "time_description": "1960",
+      "event_description": "Lucky managed to bribe prison officials with enough cash to gain not only a private cell on the best block, but also a personal valet to press his dress-slacks and silk shirts, and an experienced chef",
+      "entities_involved": [
+        "Patton",
+        "Alan Dulles",
+        "Montini",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 8,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_32",
+      "year": 1945,
+      "month": null,
+      "day": null,
+      "time_description": "June 2, 1945",
+      "event_description": "where he had been a patient. The Hellowell Plan also required Vito Genevies' return to the United States for the creation of a system of heroin distribution to the nightclubs of Harlem. This posed a p",
+      "entities_involved": [
+        "Alan Dulles",
+        "Roscoe",
+        "Carter",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 10,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_33",
+      "year": 1945,
+      "month": null,
+      "day": null,
+      "time_description": "June 30, 1945",
+      "event_description": "where he had been a patient. The Hellowell Plan also required Vito Genevies' return to the United States for the creation of a system of heroin distribution to the nightclubs of Harlem. This posed a p",
+      "entities_involved": [
+        "Alan Dulles",
+        "Roscoe",
+        "Carter",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 10,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_34",
+      "year": 1945,
+      "month": null,
+      "day": null,
+      "time_description": "September 20, 1945",
+      "event_description": "where he had been a patient. The Hellowell Plan also required Vito Genevies' return to the United States for the creation of a system of heroin distribution to the nightclubs of Harlem. This posed a p",
+      "entities_involved": [
+        "Alan Dulles",
+        "Roscoe",
+        "Carter",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 10,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_35",
+      "year": 1945,
+      "month": null,
+      "day": null,
+      "time_description": "1945",
+      "event_description": "where he had been a patient. The Hellowell Plan also required Vito Genevies' return to the United States for the creation of a system of heroin distribution to the nightclubs of Harlem. This posed a p",
+      "entities_involved": [
+        "Alan Dulles",
+        "Roscoe",
+        "Carter",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 10,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_36",
+      "year": 1945,
+      "month": null,
+      "day": null,
+      "time_description": "1945",
+      "event_description": "where he had been a patient. The Hellowell Plan also required Vito Genevies' return to the United States for the creation of a system of heroin distribution to the nightclubs of Harlem. This posed a p",
+      "entities_involved": [
+        "Alan Dulles",
+        "Roscoe",
+        "Carter",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 10,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_37",
+      "year": 1946,
+      "month": null,
+      "day": null,
+      "time_description": "1946",
+      "event_description": "where he had been a patient. The Hellowell Plan also required Vito Genevies' return to the United States for the creation of a system of heroin distribution to the nightclubs of Harlem. This posed a p",
+      "entities_involved": [
+        "Alan Dulles",
+        "Roscoe",
+        "Carter",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 10,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_38",
+      "year": 1945,
+      "month": null,
+      "day": null,
+      "time_description": "1945",
+      "event_description": "where he had been a patient. The Hellowell Plan also required Vito Genevies' return to the United States for the creation of a system of heroin distribution to the nightclubs of Harlem. This posed a p",
+      "entities_involved": [
+        "Alan Dulles",
+        "Roscoe",
+        "Carter",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 10,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_39",
+      "year": 1947,
+      "month": null,
+      "day": null,
+      "time_description": "1947",
+      "event_description": "where he had been a patient. The Hellowell Plan also required Vito Genevies' return to the United States for the creation of a system of heroin distribution to the nightclubs of Harlem. This posed a p",
+      "entities_involved": [
+        "Alan Dulles",
+        "Roscoe",
+        "Carter",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 10,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_40",
+      "year": 1947,
+      "month": null,
+      "day": null,
+      "time_description": "1947",
+      "event_description": "where he had been a patient. The Hellowell Plan also required Vito Genevies' return to the United States for the creation of a system of heroin distribution to the nightclubs of Harlem. This posed a p",
+      "entities_involved": [
+        "Alan Dulles",
+        "Roscoe",
+        "Carter",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 10,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_41",
+      "year": 1950,
+      "month": null,
+      "day": null,
+      "time_description": "early 1950s",
+      "event_description": "where he had been a patient. The Hellowell Plan also required Vito Genevies' return to the United States for the creation of a system of heroin distribution to the nightclubs of Harlem. This posed a p",
+      "entities_involved": [
+        "Alan Dulles",
+        "Roscoe",
+        "Carter",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 10,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_42",
+      "year": 1946,
+      "month": null,
+      "day": null,
+      "time_description": "summer of 1946",
+      "event_description": "where he had been a patient. The Hellowell Plan also required Vito Genevies' return to the United States for the creation of a system of heroin distribution to the nightclubs of Harlem. This posed a p",
+      "entities_involved": [
+        "Alan Dulles",
+        "Roscoe",
+        "Carter",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 10,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_43",
+      "year": 1947,
+      "month": null,
+      "day": null,
+      "time_description": "summer of 1947",
+      "event_description": "where he had been a patient. The Hellowell Plan also required Vito Genevies' return to the United States for the creation of a system of heroin distribution to the nightclubs of Harlem. This posed a p",
+      "entities_involved": [
+        "Alan Dulles",
+        "Roscoe",
+        "Carter",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 10,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_44",
+      "year": 1947,
+      "month": null,
+      "day": null,
+      "time_description": "November 14, 1947",
+      "event_description": "officials from 1947 to 1967, despite the rise in heroin addicts from 20,000 to 150,000. The success of the drug venture heightened the CIA's concern with secrecy surrounding its ties to organized crim",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Secretary",
+        "CIA",
+        "Hillen Ketter"
+      ],
+      "line_number": 12,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_45",
+      "year": 2012,
+      "month": null,
+      "day": null,
+      "time_description": "June 26, 2012",
+      "event_description": "officials from 1947 to 1967, despite the rise in heroin addicts from 20,000 to 150,000. The success of the drug venture heightened the CIA's concern with secrecy surrounding its ties to organized crim",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Secretary",
+        "CIA",
+        "Hillen Ketter"
+      ],
+      "line_number": 12,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_46",
+      "year": 1942,
+      "month": null,
+      "day": null,
+      "time_description": "June 27, 1942",
+      "event_description": "officials from 1947 to 1967, despite the rise in heroin addicts from 20,000 to 150,000. The success of the drug venture heightened the CIA's concern with secrecy surrounding its ties to organized crim",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Secretary",
+        "CIA",
+        "Hillen Ketter"
+      ],
+      "line_number": 12,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_47",
+      "year": 1947,
+      "month": null,
+      "day": null,
+      "time_description": "1947",
+      "event_description": "officials from 1947 to 1967, despite the rise in heroin addicts from 20,000 to 150,000. The success of the drug venture heightened the CIA's concern with secrecy surrounding its ties to organized crim",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Secretary",
+        "CIA",
+        "Hillen Ketter"
+      ],
+      "line_number": 12,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_48",
+      "year": 1967,
+      "month": null,
+      "day": null,
+      "time_description": "1967",
+      "event_description": "officials from 1947 to 1967, despite the rise in heroin addicts from 20,000 to 150,000. The success of the drug venture heightened the CIA's concern with secrecy surrounding its ties to organized crim",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Secretary",
+        "CIA",
+        "Hillen Ketter"
+      ],
+      "line_number": 12,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_49",
+      "year": 1954,
+      "month": null,
+      "day": null,
+      "time_description": "1954",
+      "event_description": "officials from 1947 to 1967, despite the rise in heroin addicts from 20,000 to 150,000. The success of the drug venture heightened the CIA's concern with secrecy surrounding its ties to organized crim",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Secretary",
+        "CIA",
+        "Hillen Ketter"
+      ],
+      "line_number": 12,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_50",
+      "year": 1943,
+      "month": null,
+      "day": null,
+      "time_description": "1943",
+      "event_description": "officials from 1947 to 1967, despite the rise in heroin addicts from 20,000 to 150,000. The success of the drug venture heightened the CIA's concern with secrecy surrounding its ties to organized crim",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Secretary",
+        "CIA",
+        "Hillen Ketter"
+      ],
+      "line_number": 12,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_51",
+      "year": 1944,
+      "month": null,
+      "day": null,
+      "time_description": "1944",
+      "event_description": "officials from 1947 to 1967, despite the rise in heroin addicts from 20,000 to 150,000. The success of the drug venture heightened the CIA's concern with secrecy surrounding its ties to organized crim",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Secretary",
+        "CIA",
+        "Hillen Ketter"
+      ],
+      "line_number": 12,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_52",
+      "year": 1944,
+      "month": null,
+      "day": null,
+      "time_description": "1944",
+      "event_description": "officials from 1947 to 1967, despite the rise in heroin addicts from 20,000 to 150,000. The success of the drug venture heightened the CIA's concern with secrecy surrounding its ties to organized crim",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Secretary",
+        "CIA",
+        "Hillen Ketter"
+      ],
+      "line_number": 12,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_53",
+      "year": 1946,
+      "month": null,
+      "day": null,
+      "time_description": "1946",
+      "event_description": "officials from 1947 to 1967, despite the rise in heroin addicts from 20,000 to 150,000. The success of the drug venture heightened the CIA's concern with secrecy surrounding its ties to organized crim",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Secretary",
+        "CIA",
+        "Hillen Ketter"
+      ],
+      "line_number": 12,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_54",
+      "year": 1947,
+      "month": null,
+      "day": null,
+      "time_description": "1947",
+      "event_description": "officials from 1947 to 1967, despite the rise in heroin addicts from 20,000 to 150,000. The success of the drug venture heightened the CIA's concern with secrecy surrounding its ties to organized crim",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Secretary",
+        "CIA",
+        "Hillen Ketter"
+      ],
+      "line_number": 12,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_55",
+      "year": 1948,
+      "month": null,
+      "day": null,
+      "time_description": "1948",
+      "event_description": "officials from 1947 to 1967, despite the rise in heroin addicts from 20,000 to 150,000. The success of the drug venture heightened the CIA's concern with secrecy surrounding its ties to organized crim",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Secretary",
+        "CIA",
+        "Hillen Ketter"
+      ],
+      "line_number": 12,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_56",
+      "year": 1947,
+      "month": null,
+      "day": null,
+      "time_description": "1947",
+      "event_description": "officials from 1947 to 1967, despite the rise in heroin addicts from 20,000 to 150,000. The success of the drug venture heightened the CIA's concern with secrecy surrounding its ties to organized crim",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Secretary",
+        "CIA",
+        "Hillen Ketter"
+      ],
+      "line_number": 12,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_57",
+      "year": 1947,
+      "month": null,
+      "day": null,
+      "time_description": "1947",
+      "event_description": "officials from 1947 to 1967, despite the rise in heroin addicts from 20,000 to 150,000. The success of the drug venture heightened the CIA's concern with secrecy surrounding its ties to organized crim",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Secretary",
+        "CIA",
+        "Hillen Ketter"
+      ],
+      "line_number": 12,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_58",
+      "year": 1947,
+      "month": null,
+      "day": null,
+      "time_description": "1947",
+      "event_description": "officials from 1947 to 1967, despite the rise in heroin addicts from 20,000 to 150,000. The success of the drug venture heightened the CIA's concern with secrecy surrounding its ties to organized crim",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Secretary",
+        "CIA",
+        "Hillen Ketter"
+      ],
+      "line_number": 12,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_59",
+      "year": 1942,
+      "month": null,
+      "day": null,
+      "time_description": "1942",
+      "event_description": "officials from 1947 to 1967, despite the rise in heroin addicts from 20,000 to 150,000. The success of the drug venture heightened the CIA's concern with secrecy surrounding its ties to organized crim",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Secretary",
+        "CIA",
+        "Hillen Ketter"
+      ],
+      "line_number": 12,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_60",
+      "year": 2012,
+      "month": null,
+      "day": null,
+      "time_description": "2012",
+      "event_description": "officials from 1947 to 1967, despite the rise in heroin addicts from 20,000 to 150,000. The success of the drug venture heightened the CIA's concern with secrecy surrounding its ties to organized crim",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Secretary",
+        "CIA",
+        "Hillen Ketter"
+      ],
+      "line_number": 12,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_61",
+      "year": 1942,
+      "month": null,
+      "day": null,
+      "time_description": "1942",
+      "event_description": "officials from 1947 to 1967, despite the rise in heroin addicts from 20,000 to 150,000. The success of the drug venture heightened the CIA's concern with secrecy surrounding its ties to organized crim",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Secretary",
+        "CIA",
+        "Hillen Ketter"
+      ],
+      "line_number": 12,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_62",
+      "year": 1944,
+      "month": null,
+      "day": null,
+      "time_description": "winter of 1944",
+      "event_description": "officials from 1947 to 1967, despite the rise in heroin addicts from 20,000 to 150,000. The success of the drug venture heightened the CIA's concern with secrecy surrounding its ties to organized crim",
+      "entities_involved": [
+        "Vatican",
+        "William",
+        "Secretary",
+        "CIA",
+        "Hillen Ketter"
+      ],
+      "line_number": 12,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_63",
+      "year": 1947,
+      "month": null,
+      "day": null,
+      "time_description": "1947",
+      "event_description": "IOR, or with full respect for the juridical status of the IOR. Because of its clandestine workings, millions can be deposited into the IOR on a continuous basis and channeled into numbered Swiss bank ",
+      "entities_involved": [
+        "Francis Spellman",
+        "Montini",
+        "Spellman",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 14,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_64",
+      "year": 1945,
+      "month": null,
+      "day": null,
+      "time_description": "1945",
+      "event_description": "IOR, or with full respect for the juridical status of the IOR. Because of its clandestine workings, millions can be deposited into the IOR on a continuous basis and channeled into numbered Swiss bank ",
+      "entities_involved": [
+        "Francis Spellman",
+        "Montini",
+        "Spellman",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 14,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_65",
+      "year": 1948,
+      "month": null,
+      "day": null,
+      "time_description": "1948",
+      "event_description": "IOR, or with full respect for the juridical status of the IOR. Because of its clandestine workings, millions can be deposited into the IOR on a continuous basis and channeled into numbered Swiss bank ",
+      "entities_involved": [
+        "Francis Spellman",
+        "Montini",
+        "Spellman",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 14,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_66",
+      "year": 1947,
+      "month": null,
+      "day": null,
+      "time_description": "1947",
+      "event_description": "IOR, or with full respect for the juridical status of the IOR. Because of its clandestine workings, millions can be deposited into the IOR on a continuous basis and channeled into numbered Swiss bank ",
+      "entities_involved": [
+        "Francis Spellman",
+        "Montini",
+        "Spellman",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 14,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_67",
+      "year": 1948,
+      "month": null,
+      "day": null,
+      "time_description": "1948",
+      "event_description": "IOR, or with full respect for the juridical status of the IOR. Because of its clandestine workings, millions can be deposited into the IOR on a continuous basis and channeled into numbered Swiss bank ",
+      "entities_involved": [
+        "Francis Spellman",
+        "Montini",
+        "Spellman",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 14,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_68",
+      "year": 1949,
+      "month": null,
+      "day": null,
+      "time_description": "1949",
+      "event_description": "The CIA funds were deposited by members of Don Calo's crime family in Catholic banks throughout Italy, including Banco Ambrosiano. These banks, thanks to the Lateran Treaty, which established Vatican ",
+      "entities_involved": [
+        "Francis Spellman",
+        "Banco Ambrosiano",
+        "Reinhard Gehlen",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 16,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_69",
+      "year": 1945,
+      "month": null,
+      "day": null,
+      "time_description": "1945",
+      "event_description": "The CIA funds were deposited by members of Don Calo's crime family in Catholic banks throughout Italy, including Banco Ambrosiano. These banks, thanks to the Lateran Treaty, which established Vatican ",
+      "entities_involved": [
+        "Francis Spellman",
+        "Banco Ambrosiano",
+        "Reinhard Gehlen",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 16,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_70",
+      "year": 1956,
+      "month": null,
+      "day": null,
+      "time_description": "1956",
+      "event_description": "The CIA funds were deposited by members of Don Calo's crime family in Catholic banks throughout Italy, including Banco Ambrosiano. These banks, thanks to the Lateran Treaty, which established Vatican ",
+      "entities_involved": [
+        "Francis Spellman",
+        "Banco Ambrosiano",
+        "Reinhard Gehlen",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 16,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_71",
+      "year": 1984,
+      "month": null,
+      "day": null,
+      "time_description": "1984",
+      "event_description": "The CIA funds were deposited by members of Don Calo's crime family in Catholic banks throughout Italy, including Banco Ambrosiano. These banks, thanks to the Lateran Treaty, which established Vatican ",
+      "entities_involved": [
+        "Francis Spellman",
+        "Banco Ambrosiano",
+        "Reinhard Gehlen",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 16,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_72",
+      "year": 2006,
+      "month": null,
+      "day": null,
+      "time_description": "2006",
+      "event_description": "The CIA funds were deposited by members of Don Calo's crime family in Catholic banks throughout Italy, including Banco Ambrosiano. These banks, thanks to the Lateran Treaty, which established Vatican ",
+      "entities_involved": [
+        "Francis Spellman",
+        "Banco Ambrosiano",
+        "Reinhard Gehlen",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 16,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_73",
+      "year": 1949,
+      "month": null,
+      "day": null,
+      "time_description": "1949",
+      "event_description": "The CIA funds were deposited by members of Don Calo's crime family in Catholic banks throughout Italy, including Banco Ambrosiano. These banks, thanks to the Lateran Treaty, which established Vatican ",
+      "entities_involved": [
+        "Francis Spellman",
+        "Banco Ambrosiano",
+        "Reinhard Gehlen",
+        "Vatican",
+        "OSS"
+      ],
+      "line_number": 16,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_74",
+      "year": 1947,
+      "month": null,
+      "day": null,
+      "time_description": "February 3, 1947",
+      "event_description": "and Marseille, where the heroin laboratories were located, remained controlled by communists, who refused to load and unload ships coming from French Indochina, where the rebel army of the Democratic ",
+      "entities_involved": [
+        "Pao Srinanda",
+        "Chang",
+        "CIA",
+        "Pao",
+        "Chang Kaishik"
+      ],
+      "line_number": 18,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_75",
+      "year": 1947,
+      "month": null,
+      "day": null,
+      "time_description": "1947",
+      "event_description": "and Marseille, where the heroin laboratories were located, remained controlled by communists, who refused to load and unload ships coming from French Indochina, where the rebel army of the Democratic ",
+      "entities_involved": [
+        "Pao Srinanda",
+        "Chang",
+        "CIA",
+        "Pao",
+        "Chang Kaishik"
+      ],
+      "line_number": 18,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_76",
+      "year": 1950,
+      "month": null,
+      "day": null,
+      "time_description": "1950",
+      "event_description": "and Marseille, where the heroin laboratories were located, remained controlled by communists, who refused to load and unload ships coming from French Indochina, where the rebel army of the Democratic ",
+      "entities_involved": [
+        "Pao Srinanda",
+        "Chang",
+        "CIA",
+        "Pao",
+        "Chang Kaishik"
+      ],
+      "line_number": 18,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_77",
+      "year": 1951,
+      "month": null,
+      "day": null,
+      "time_description": "1951",
+      "event_description": "and Marseille, where the heroin laboratories were located, remained controlled by communists, who refused to load and unload ships coming from French Indochina, where the rebel army of the Democratic ",
+      "entities_involved": [
+        "Pao Srinanda",
+        "Chang",
+        "CIA",
+        "Pao",
+        "Chang Kaishik"
+      ],
+      "line_number": 18,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_78",
+      "year": 1998,
+      "month": null,
+      "day": null,
+      "time_description": "1998",
+      "event_description": "and Marseille, where the heroin laboratories were located, remained controlled by communists, who refused to load and unload ships coming from French Indochina, where the rebel army of the Democratic ",
+      "entities_involved": [
+        "Pao Srinanda",
+        "Chang",
+        "CIA",
+        "Pao",
+        "Chang Kaishik"
+      ],
+      "line_number": 18,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_79",
+      "year": 1950,
+      "month": null,
+      "day": null,
+      "time_description": "1950",
+      "event_description": "and Marseille, where the heroin laboratories were located, remained controlled by communists, who refused to load and unload ships coming from French Indochina, where the rebel army of the Democratic ",
+      "entities_involved": [
+        "Pao Srinanda",
+        "Chang",
+        "CIA",
+        "Pao",
+        "Chang Kaishik"
+      ],
+      "line_number": 18,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_80",
+      "year": 1951,
+      "month": null,
+      "day": null,
+      "time_description": "1951",
+      "event_description": "and Marseille, where the heroin laboratories were located, remained controlled by communists, who refused to load and unload ships coming from French Indochina, where the rebel army of the Democratic ",
+      "entities_involved": [
+        "Pao Srinanda",
+        "Chang",
+        "CIA",
+        "Pao",
+        "Chang Kaishik"
+      ],
+      "line_number": 18,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_81",
+      "year": 1954,
+      "month": null,
+      "day": null,
+      "time_description": "1954",
+      "event_description": "and Marseille, where the heroin laboratories were located, remained controlled by communists, who refused to load and unload ships coming from French Indochina, where the rebel army of the Democratic ",
+      "entities_involved": [
+        "Pao Srinanda",
+        "Chang",
+        "CIA",
+        "Pao",
+        "Chang Kaishik"
+      ],
+      "line_number": 18,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_82",
+      "year": 1948,
+      "month": null,
+      "day": null,
+      "time_description": "1948",
+      "event_description": "and Marseille, where the heroin laboratories were located, remained controlled by communists, who refused to load and unload ships coming from French Indochina, where the rebel army of the Democratic ",
+      "entities_involved": [
+        "Pao Srinanda",
+        "Chang",
+        "CIA",
+        "Pao",
+        "Chang Kaishik"
+      ],
+      "line_number": 18,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_83",
+      "year": 1953,
+      "month": null,
+      "day": null,
+      "time_description": "1953",
+      "event_description": "and Marseille, where the heroin laboratories were located, remained controlled by communists, who refused to load and unload ships coming from French Indochina, where the rebel army of the Democratic ",
+      "entities_involved": [
+        "Pao Srinanda",
+        "Chang",
+        "CIA",
+        "Pao",
+        "Chang Kaishik"
+      ],
+      "line_number": 18,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_84",
+      "year": 1958,
+      "month": null,
+      "day": null,
+      "time_description": "1958",
+      "event_description": "C, emerged from a subculture within the intelligence community of extremely wealthy and well-connected lawyers and businessmen, who at the time were not part of any official government agency. This su",
+      "entities_involved": [
+        "Francis Spellman",
+        "Alan Dulles",
+        "Montini",
+        "Powell",
+        "Vatican"
+      ],
+      "line_number": 20,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_85",
+      "year": 1963,
+      "month": null,
+      "day": null,
+      "time_description": "1963",
+      "event_description": "C, emerged from a subculture within the intelligence community of extremely wealthy and well-connected lawyers and businessmen, who at the time were not part of any official government agency. This su",
+      "entities_involved": [
+        "Francis Spellman",
+        "Alan Dulles",
+        "Montini",
+        "Powell",
+        "Vatican"
+      ],
+      "line_number": 20,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_86",
+      "year": 1953,
+      "month": null,
+      "day": null,
+      "time_description": "1953",
+      "event_description": "C, emerged from a subculture within the intelligence community of extremely wealthy and well-connected lawyers and businessmen, who at the time were not part of any official government agency. This su",
+      "entities_involved": [
+        "Francis Spellman",
+        "Alan Dulles",
+        "Montini",
+        "Powell",
+        "Vatican"
+      ],
+      "line_number": 20,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_87",
+      "year": 1951,
+      "month": null,
+      "day": null,
+      "time_description": "1951",
+      "event_description": "C, emerged from a subculture within the intelligence community of extremely wealthy and well-connected lawyers and businessmen, who at the time were not part of any official government agency. This su",
+      "entities_involved": [
+        "Francis Spellman",
+        "Alan Dulles",
+        "Montini",
+        "Powell",
+        "Vatican"
+      ],
+      "line_number": 20,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_88",
+      "year": 1942,
+      "month": null,
+      "day": null,
+      "time_description": "1942",
+      "event_description": "C, emerged from a subculture within the intelligence community of extremely wealthy and well-connected lawyers and businessmen, who at the time were not part of any official government agency. This su",
+      "entities_involved": [
+        "Francis Spellman",
+        "Alan Dulles",
+        "Montini",
+        "Powell",
+        "Vatican"
+      ],
+      "line_number": 20,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_89",
+      "year": 1952,
+      "month": null,
+      "day": null,
+      "time_description": "1952",
+      "event_description": "C, emerged from a subculture within the intelligence community of extremely wealthy and well-connected lawyers and businessmen, who at the time were not part of any official government agency. This su",
+      "entities_involved": [
+        "Francis Spellman",
+        "Alan Dulles",
+        "Montini",
+        "Powell",
+        "Vatican"
+      ],
+      "line_number": 20,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_90",
+      "year": 1955,
+      "month": null,
+      "day": null,
+      "time_description": "1955",
+      "event_description": "C, emerged from a subculture within the intelligence community of extremely wealthy and well-connected lawyers and businessmen, who at the time were not part of any official government agency. This su",
+      "entities_involved": [
+        "Francis Spellman",
+        "Alan Dulles",
+        "Montini",
+        "Powell",
+        "Vatican"
+      ],
+      "line_number": 20,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_91",
+      "year": 1955,
+      "month": null,
+      "day": null,
+      "time_description": "1955",
+      "event_description": "C, emerged from a subculture within the intelligence community of extremely wealthy and well-connected lawyers and businessmen, who at the time were not part of any official government agency. This su",
+      "entities_involved": [
+        "Francis Spellman",
+        "Alan Dulles",
+        "Montini",
+        "Powell",
+        "Vatican"
+      ],
+      "line_number": 20,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_92",
+      "year": 1983,
+      "month": null,
+      "day": null,
+      "time_description": "November 26, 1983",
+      "event_description": "in and may not receive Holy Communion. Declaration on Masonic Associations, the Sacred Congregation of the Faith, November 26, 1983. Throughout the 1950s, hundreds of Italian clerics and members of th",
+      "entities_involved": [
+        "Leonardo Messino",
+        "Casaroli",
+        "P2",
+        "Alan Dulles",
+        "Montini"
+      ],
+      "line_number": 22,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_93",
+      "year": 1959,
+      "month": null,
+      "day": null,
+      "time_description": "July 25, 1959",
+      "event_description": "in and may not receive Holy Communion. Declaration on Masonic Associations, the Sacred Congregation of the Faith, November 26, 1983. Throughout the 1950s, hundreds of Italian clerics and members of th",
+      "entities_involved": [
+        "Leonardo Messino",
+        "Casaroli",
+        "P2",
+        "Alan Dulles",
+        "Montini"
+      ],
+      "line_number": 22,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_94",
+      "year": 1983,
+      "month": null,
+      "day": null,
+      "time_description": "1983",
+      "event_description": "in and may not receive Holy Communion. Declaration on Masonic Associations, the Sacred Congregation of the Faith, November 26, 1983. Throughout the 1950s, hundreds of Italian clerics and members of th",
+      "entities_involved": [
+        "Leonardo Messino",
+        "Casaroli",
+        "P2",
+        "Alan Dulles",
+        "Montini"
+      ],
+      "line_number": 22,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_95",
+      "year": 1955,
+      "month": null,
+      "day": null,
+      "time_description": "1955",
+      "event_description": "in and may not receive Holy Communion. Declaration on Masonic Associations, the Sacred Congregation of the Faith, November 26, 1983. Throughout the 1950s, hundreds of Italian clerics and members of th",
+      "entities_involved": [
+        "Leonardo Messino",
+        "Casaroli",
+        "P2",
+        "Alan Dulles",
+        "Montini"
+      ],
+      "line_number": 22,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_96",
+      "year": 1924,
+      "month": null,
+      "day": null,
+      "time_description": "1924",
+      "event_description": "in and may not receive Holy Communion. Declaration on Masonic Associations, the Sacred Congregation of the Faith, November 26, 1983. Throughout the 1950s, hundreds of Italian clerics and members of th",
+      "entities_involved": [
+        "Leonardo Messino",
+        "Casaroli",
+        "P2",
+        "Alan Dulles",
+        "Montini"
+      ],
+      "line_number": 22,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_97",
+      "year": 1959,
+      "month": null,
+      "day": null,
+      "time_description": "1959",
+      "event_description": "in and may not receive Holy Communion. Declaration on Masonic Associations, the Sacred Congregation of the Faith, November 26, 1983. Throughout the 1950s, hundreds of Italian clerics and members of th",
+      "entities_involved": [
+        "Leonardo Messino",
+        "Casaroli",
+        "P2",
+        "Alan Dulles",
+        "Montini"
+      ],
+      "line_number": 22,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_98",
+      "year": 1955,
+      "month": null,
+      "day": null,
+      "time_description": "1955",
+      "event_description": "in and may not receive Holy Communion. Declaration on Masonic Associations, the Sacred Congregation of the Faith, November 26, 1983. Throughout the 1950s, hundreds of Italian clerics and members of th",
+      "entities_involved": [
+        "Leonardo Messino",
+        "Casaroli",
+        "P2",
+        "Alan Dulles",
+        "Montini"
+      ],
+      "line_number": 22,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_99",
+      "year": 1950,
+      "month": null,
+      "day": null,
+      "time_description": "the 1950s",
+      "event_description": "in and may not receive Holy Communion. Declaration on Masonic Associations, the Sacred Congregation of the Faith, November 26, 1983. Throughout the 1950s, hundreds of Italian clerics and members of th",
+      "entities_involved": [
+        "Leonardo Messino",
+        "Casaroli",
+        "P2",
+        "Alan Dulles",
+        "Montini"
+      ],
+      "line_number": 22,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_100",
+      "year": 1950,
+      "month": null,
+      "day": null,
+      "time_description": "the 1950s",
+      "event_description": "in and may not receive Holy Communion. Declaration on Masonic Associations, the Sacred Congregation of the Faith, November 26, 1983. Throughout the 1950s, hundreds of Italian clerics and members of th",
+      "entities_involved": [
+        "Leonardo Messino",
+        "Casaroli",
+        "P2",
+        "Alan Dulles",
+        "Montini"
+      ],
+      "line_number": 22,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_101",
+      "year": 1950,
+      "month": null,
+      "day": null,
+      "time_description": "the 1950s",
+      "event_description": "in and may not receive Holy Communion. Declaration on Masonic Associations, the Sacred Congregation of the Faith, November 26, 1983. Throughout the 1950s, hundreds of Italian clerics and members of th",
+      "entities_involved": [
+        "Leonardo Messino",
+        "Casaroli",
+        "P2",
+        "Alan Dulles",
+        "Montini"
+      ],
+      "line_number": 22,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_102",
+      "year": 1960,
+      "month": null,
+      "day": null,
+      "time_description": "the 1960s",
+      "event_description": "in and may not receive Holy Communion. Declaration on Masonic Associations, the Sacred Congregation of the Faith, November 26, 1983. Throughout the 1950s, hundreds of Italian clerics and members of th",
+      "entities_involved": [
+        "Leonardo Messino",
+        "Casaroli",
+        "P2",
+        "Alan Dulles",
+        "Montini"
+      ],
+      "line_number": 22,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_103",
+      "year": 1950,
+      "month": null,
+      "day": null,
+      "time_description": "the 1950s",
+      "event_description": "in and may not receive Holy Communion. Declaration on Masonic Associations, the Sacred Congregation of the Faith, November 26, 1983. Throughout the 1950s, hundreds of Italian clerics and members of th",
+      "entities_involved": [
+        "Leonardo Messino",
+        "Casaroli",
+        "P2",
+        "Alan Dulles",
+        "Montini"
+      ],
+      "line_number": 22,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_104",
+      "year": 1947,
+      "month": null,
+      "day": null,
+      "time_description": "August 6, 1947",
+      "event_description": "Many Donore, men of honor, in particular, those who succeed in becoming mafia bosses, belong to the Freemasonry because it is in the Freemasonry that they can have total relationships with the entrepr",
+      "entities_involved": [
+        "Prime Minister",
+        "Parliament",
+        "John Marie Vio",
+        "Vio",
+        "Pope Paul"
+      ],
+      "line_number": 24,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_105",
+      "year": 1960,
+      "month": null,
+      "day": null,
+      "time_description": "1960",
+      "event_description": "Many Donore, men of honor, in particular, those who succeed in becoming mafia bosses, belong to the Freemasonry because it is in the Freemasonry that they can have total relationships with the entrepr",
+      "entities_involved": [
+        "Prime Minister",
+        "Parliament",
+        "John Marie Vio",
+        "Vio",
+        "Pope Paul"
+      ],
+      "line_number": 24,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_106",
+      "year": 1965,
+      "month": null,
+      "day": null,
+      "time_description": "1965",
+      "event_description": "Many Donore, men of honor, in particular, those who succeed in becoming mafia bosses, belong to the Freemasonry because it is in the Freemasonry that they can have total relationships with the entrepr",
+      "entities_involved": [
+        "Prime Minister",
+        "Parliament",
+        "John Marie Vio",
+        "Vio",
+        "Pope Paul"
+      ],
+      "line_number": 24,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_107",
+      "year": 1963,
+      "month": null,
+      "day": null,
+      "time_description": "1963",
+      "event_description": "Many Donore, men of honor, in particular, those who succeed in becoming mafia bosses, belong to the Freemasonry because it is in the Freemasonry that they can have total relationships with the entrepr",
+      "entities_involved": [
+        "Prime Minister",
+        "Parliament",
+        "John Marie Vio",
+        "Vio",
+        "Pope Paul"
+      ],
+      "line_number": 24,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_108",
+      "year": 1947,
+      "month": null,
+      "day": null,
+      "time_description": "1947",
+      "event_description": "Many Donore, men of honor, in particular, those who succeed in becoming mafia bosses, belong to the Freemasonry because it is in the Freemasonry that they can have total relationships with the entrepr",
+      "entities_involved": [
+        "Prime Minister",
+        "Parliament",
+        "John Marie Vio",
+        "Vio",
+        "Pope Paul"
+      ],
+      "line_number": 24,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_109",
+      "year": 1947,
+      "month": null,
+      "day": null,
+      "time_description": "1947",
+      "event_description": "Many Donore, men of honor, in particular, those who succeed in becoming mafia bosses, belong to the Freemasonry because it is in the Freemasonry that they can have total relationships with the entrepr",
+      "entities_involved": [
+        "Prime Minister",
+        "Parliament",
+        "John Marie Vio",
+        "Vio",
+        "Pope Paul"
+      ],
+      "line_number": 24,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_110",
+      "year": 1947,
+      "month": null,
+      "day": null,
+      "time_description": "1947",
+      "event_description": "Many Donore, men of honor, in particular, those who succeed in becoming mafia bosses, belong to the Freemasonry because it is in the Freemasonry that they can have total relationships with the entrepr",
+      "entities_involved": [
+        "Prime Minister",
+        "Parliament",
+        "John Marie Vio",
+        "Vio",
+        "Pope Paul"
+      ],
+      "line_number": 24,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_111",
+      "year": 1949,
+      "month": null,
+      "day": null,
+      "time_description": "1949",
+      "event_description": "Many Donore, men of honor, in particular, those who succeed in becoming mafia bosses, belong to the Freemasonry because it is in the Freemasonry that they can have total relationships with the entrepr",
+      "entities_involved": [
+        "Prime Minister",
+        "Parliament",
+        "John Marie Vio",
+        "Vio",
+        "Pope Paul"
+      ],
+      "line_number": 24,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_112",
+      "year": 1950,
+      "month": null,
+      "day": null,
+      "time_description": "1950",
+      "event_description": "Many Donore, men of honor, in particular, those who succeed in becoming mafia bosses, belong to the Freemasonry because it is in the Freemasonry that they can have total relationships with the entrepr",
+      "entities_involved": [
+        "Prime Minister",
+        "Parliament",
+        "John Marie Vio",
+        "Vio",
+        "Pope Paul"
+      ],
+      "line_number": 24,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_113",
+      "year": 1952,
+      "month": null,
+      "day": null,
+      "time_description": "1952",
+      "event_description": "Many Donore, men of honor, in particular, those who succeed in becoming mafia bosses, belong to the Freemasonry because it is in the Freemasonry that they can have total relationships with the entrepr",
+      "entities_involved": [
+        "Prime Minister",
+        "Parliament",
+        "John Marie Vio",
+        "Vio",
+        "Pope Paul"
+      ],
+      "line_number": 24,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_114",
+      "year": 1953,
+      "month": null,
+      "day": null,
+      "time_description": "1953",
+      "event_description": "The only legal explanation for these releases can be that the people of Karlsruhe declared they acted upon American direction\u2014Sweden's secret army. In 1953 additional information about Gladio surfaced",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Alan Dulles",
+        "Grey Wolves",
+        "Montini"
+      ],
+      "line_number": 26,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_115",
+      "year": 1960,
+      "month": null,
+      "day": null,
+      "time_description": "1960",
+      "event_description": "The only legal explanation for these releases can be that the people of Karlsruhe declared they acted upon American direction\u2014Sweden's secret army. In 1953 additional information about Gladio surfaced",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Alan Dulles",
+        "Grey Wolves",
+        "Montini"
+      ],
+      "line_number": 26,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_116",
+      "year": 1963,
+      "month": null,
+      "day": null,
+      "time_description": "1963",
+      "event_description": "The only legal explanation for these releases can be that the people of Karlsruhe declared they acted upon American direction\u2014Sweden's secret army. In 1953 additional information about Gladio surfaced",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Alan Dulles",
+        "Grey Wolves",
+        "Montini"
+      ],
+      "line_number": 26,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_117",
+      "year": 1963,
+      "month": null,
+      "day": null,
+      "time_description": "1963",
+      "event_description": "The only legal explanation for these releases can be that the people of Karlsruhe declared they acted upon American direction\u2014Sweden's secret army. In 1953 additional information about Gladio surfaced",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Alan Dulles",
+        "Grey Wolves",
+        "Montini"
+      ],
+      "line_number": 26,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_118",
+      "year": 1963,
+      "month": null,
+      "day": null,
+      "time_description": "1963",
+      "event_description": "The only legal explanation for these releases can be that the people of Karlsruhe declared they acted upon American direction\u2014Sweden's secret army. In 1953 additional information about Gladio surfaced",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Alan Dulles",
+        "Grey Wolves",
+        "Montini"
+      ],
+      "line_number": 26,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_119",
+      "year": 1919,
+      "month": null,
+      "day": null,
+      "time_description": "1919",
+      "event_description": "The only legal explanation for these releases can be that the people of Karlsruhe declared they acted upon American direction\u2014Sweden's secret army. In 1953 additional information about Gladio surfaced",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Alan Dulles",
+        "Grey Wolves",
+        "Montini"
+      ],
+      "line_number": 26,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_120",
+      "year": 1938,
+      "month": null,
+      "day": null,
+      "time_description": "1938",
+      "event_description": "The only legal explanation for these releases can be that the people of Karlsruhe declared they acted upon American direction\u2014Sweden's secret army. In 1953 additional information about Gladio surfaced",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Alan Dulles",
+        "Grey Wolves",
+        "Montini"
+      ],
+      "line_number": 26,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_121",
+      "year": 1943,
+      "month": null,
+      "day": null,
+      "time_description": "1943",
+      "event_description": "The only legal explanation for these releases can be that the people of Karlsruhe declared they acted upon American direction\u2014Sweden's secret army. In 1953 additional information about Gladio surfaced",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Alan Dulles",
+        "Grey Wolves",
+        "Montini"
+      ],
+      "line_number": 26,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_122",
+      "year": 1947,
+      "month": null,
+      "day": null,
+      "time_description": "1947",
+      "event_description": "The only legal explanation for these releases can be that the people of Karlsruhe declared they acted upon American direction\u2014Sweden's secret army. In 1953 additional information about Gladio surfaced",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Alan Dulles",
+        "Grey Wolves",
+        "Montini"
+      ],
+      "line_number": 26,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_123",
+      "year": 1960,
+      "month": null,
+      "day": null,
+      "time_description": "early 1960s",
+      "event_description": "The only legal explanation for these releases can be that the people of Karlsruhe declared they acted upon American direction\u2014Sweden's secret army. In 1953 additional information about Gladio surfaced",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Alan Dulles",
+        "Grey Wolves",
+        "Montini"
+      ],
+      "line_number": 26,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_124",
+      "year": 1947,
+      "month": null,
+      "day": null,
+      "time_description": "1947",
+      "event_description": "anti-communists and pro-Catholic Church. New Nazi Havens. The management of the rat line required jelly to make frequent visits to Argentina. The favored country of Nazi fugitives, where he became a c",
+      "entities_involved": [
+        "Prime Minister",
+        "Montini",
+        "Mafia",
+        "Vatican",
+        "Giovanni De Lorenzo"
+      ],
+      "line_number": 28,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_125",
+      "year": 1983,
+      "month": null,
+      "day": null,
+      "time_description": "1983",
+      "event_description": "anti-communists and pro-Catholic Church. New Nazi Havens. The management of the rat line required jelly to make frequent visits to Argentina. The favored country of Nazi fugitives, where he became a c",
+      "entities_involved": [
+        "Prime Minister",
+        "Montini",
+        "Mafia",
+        "Vatican",
+        "Giovanni De Lorenzo"
+      ],
+      "line_number": 28,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_126",
+      "year": 1956,
+      "month": null,
+      "day": null,
+      "time_description": "1956",
+      "event_description": "anti-communists and pro-Catholic Church. New Nazi Havens. The management of the rat line required jelly to make frequent visits to Argentina. The favored country of Nazi fugitives, where he became a c",
+      "entities_involved": [
+        "Prime Minister",
+        "Montini",
+        "Mafia",
+        "Vatican",
+        "Giovanni De Lorenzo"
+      ],
+      "line_number": 28,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_127",
+      "year": 1962,
+      "month": null,
+      "day": null,
+      "time_description": "1962",
+      "event_description": "anti-communists and pro-Catholic Church. New Nazi Havens. The management of the rat line required jelly to make frequent visits to Argentina. The favored country of Nazi fugitives, where he became a c",
+      "entities_involved": [
+        "Prime Minister",
+        "Montini",
+        "Mafia",
+        "Vatican",
+        "Giovanni De Lorenzo"
+      ],
+      "line_number": 28,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_128",
+      "year": 1963,
+      "month": null,
+      "day": null,
+      "time_description": "1963",
+      "event_description": "anti-communists and pro-Catholic Church. New Nazi Havens. The management of the rat line required jelly to make frequent visits to Argentina. The favored country of Nazi fugitives, where he became a c",
+      "entities_involved": [
+        "Prime Minister",
+        "Montini",
+        "Mafia",
+        "Vatican",
+        "Giovanni De Lorenzo"
+      ],
+      "line_number": 28,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_129",
+      "year": 1963,
+      "month": null,
+      "day": null,
+      "time_description": "1963",
+      "event_description": "anti-communists and pro-Catholic Church. New Nazi Havens. The management of the rat line required jelly to make frequent visits to Argentina. The favored country of Nazi fugitives, where he became a c",
+      "entities_involved": [
+        "Prime Minister",
+        "Montini",
+        "Mafia",
+        "Vatican",
+        "Giovanni De Lorenzo"
+      ],
+      "line_number": 28,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_130",
+      "year": 1950,
+      "month": null,
+      "day": null,
+      "time_description": "early 1950s",
+      "event_description": "anti-communists and pro-Catholic Church. New Nazi Havens. The management of the rat line required jelly to make frequent visits to Argentina. The favored country of Nazi fugitives, where he became a c",
+      "entities_involved": [
+        "Prime Minister",
+        "Montini",
+        "Mafia",
+        "Vatican",
+        "Giovanni De Lorenzo"
+      ],
+      "line_number": 28,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_131",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "April 27, 1969",
+      "event_description": "Rocca and his Gladio army. The recruits came to include members of the Mafia, Italian street gangs, and neo-fascist organizations such as Movimento Sociale Italiano MSI, Italian Social Movement, Orgin",
+      "entities_involved": [
+        "Prime Minister",
+        "Carlo Celieri",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Supreme Court"
+      ],
+      "line_number": 30,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_132",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "June 25, 1969",
+      "event_description": "Rocca and his Gladio army. The recruits came to include members of the Mafia, Italian street gangs, and neo-fascist organizations such as Movimento Sociale Italiano MSI, Italian Social Movement, Orgin",
+      "entities_involved": [
+        "Prime Minister",
+        "Carlo Celieri",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Supreme Court"
+      ],
+      "line_number": 30,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_133",
+      "year": 1968,
+      "month": null,
+      "day": null,
+      "time_description": "1968",
+      "event_description": "Rocca and his Gladio army. The recruits came to include members of the Mafia, Italian street gangs, and neo-fascist organizations such as Movimento Sociale Italiano MSI, Italian Social Movement, Orgin",
+      "entities_involved": [
+        "Prime Minister",
+        "Carlo Celieri",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Supreme Court"
+      ],
+      "line_number": 30,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_134",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "1969",
+      "event_description": "Rocca and his Gladio army. The recruits came to include members of the Mafia, Italian street gangs, and neo-fascist organizations such as Movimento Sociale Italiano MSI, Italian Social Movement, Orgin",
+      "entities_involved": [
+        "Prime Minister",
+        "Carlo Celieri",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Supreme Court"
+      ],
+      "line_number": 30,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_135",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "1969",
+      "event_description": "Rocca and his Gladio army. The recruits came to include members of the Mafia, Italian street gangs, and neo-fascist organizations such as Movimento Sociale Italiano MSI, Italian Social Movement, Orgin",
+      "entities_involved": [
+        "Prime Minister",
+        "Carlo Celieri",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Supreme Court"
+      ],
+      "line_number": 30,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_136",
+      "year": 1963,
+      "month": null,
+      "day": null,
+      "time_description": "1963",
+      "event_description": "Rocca and his Gladio army. The recruits came to include members of the Mafia, Italian street gangs, and neo-fascist organizations such as Movimento Sociale Italiano MSI, Italian Social Movement, Orgin",
+      "entities_involved": [
+        "Prime Minister",
+        "Carlo Celieri",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Supreme Court"
+      ],
+      "line_number": 30,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_137",
+      "year": 1964,
+      "month": null,
+      "day": null,
+      "time_description": "1964",
+      "event_description": "Rocca and his Gladio army. The recruits came to include members of the Mafia, Italian street gangs, and neo-fascist organizations such as Movimento Sociale Italiano MSI, Italian Social Movement, Orgin",
+      "entities_involved": [
+        "Prime Minister",
+        "Carlo Celieri",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Supreme Court"
+      ],
+      "line_number": 30,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_138",
+      "year": 1970,
+      "month": null,
+      "day": null,
+      "time_description": "1970",
+      "event_description": "Rocca and his Gladio army. The recruits came to include members of the Mafia, Italian street gangs, and neo-fascist organizations such as Movimento Sociale Italiano MSI, Italian Social Movement, Orgin",
+      "entities_involved": [
+        "Prime Minister",
+        "Carlo Celieri",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Supreme Court"
+      ],
+      "line_number": 30,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_139",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "1969",
+      "event_description": "Rocca and his Gladio army. The recruits came to include members of the Mafia, Italian street gangs, and neo-fascist organizations such as Movimento Sociale Italiano MSI, Italian Social Movement, Orgin",
+      "entities_involved": [
+        "Prime Minister",
+        "Carlo Celieri",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Supreme Court"
+      ],
+      "line_number": 30,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_140",
+      "year": 1984,
+      "month": null,
+      "day": null,
+      "time_description": "1984",
+      "event_description": "Rocca and his Gladio army. The recruits came to include members of the Mafia, Italian street gangs, and neo-fascist organizations such as Movimento Sociale Italiano MSI, Italian Social Movement, Orgin",
+      "entities_involved": [
+        "Prime Minister",
+        "Carlo Celieri",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Supreme Court"
+      ],
+      "line_number": 30,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_141",
+      "year": 1957,
+      "month": null,
+      "day": null,
+      "time_description": "1957",
+      "event_description": "Rocca and his Gladio army. The recruits came to include members of the Mafia, Italian street gangs, and neo-fascist organizations such as Movimento Sociale Italiano MSI, Italian Social Movement, Orgin",
+      "entities_involved": [
+        "Prime Minister",
+        "Carlo Celieri",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Supreme Court"
+      ],
+      "line_number": 30,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_142",
+      "year": 1931,
+      "month": null,
+      "day": null,
+      "time_description": "1931",
+      "event_description": "attended a mob gathering at the Grand Hotel de Palme in Palermo, with such criminal luminaries as Lucky Luciano, Joseph Jobanana's Bonanno, Carmine Galante, Frank Costello, Don Giuseppe Gianco Russo, ",
+      "entities_involved": [
+        "Vatican",
+        "Gambino crime family",
+        "William",
+        "CIA",
+        "Opus Dei"
+      ],
+      "line_number": 32,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_143",
+      "year": 1957,
+      "month": null,
+      "day": null,
+      "time_description": "1957",
+      "event_description": "attended a mob gathering at the Grand Hotel de Palme in Palermo, with such criminal luminaries as Lucky Luciano, Joseph Jobanana's Bonanno, Carmine Galante, Frank Costello, Don Giuseppe Gianco Russo, ",
+      "entities_involved": [
+        "Vatican",
+        "Gambino crime family",
+        "William",
+        "CIA",
+        "Opus Dei"
+      ],
+      "line_number": 32,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_144",
+      "year": 1958,
+      "month": null,
+      "day": null,
+      "time_description": "1958",
+      "event_description": "attended a mob gathering at the Grand Hotel de Palme in Palermo, with such criminal luminaries as Lucky Luciano, Joseph Jobanana's Bonanno, Carmine Galante, Frank Costello, Don Giuseppe Gianco Russo, ",
+      "entities_involved": [
+        "Vatican",
+        "Gambino crime family",
+        "William",
+        "CIA",
+        "Opus Dei"
+      ],
+      "line_number": 32,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_145",
+      "year": 1962,
+      "month": null,
+      "day": null,
+      "time_description": "1962",
+      "event_description": "attended a mob gathering at the Grand Hotel de Palme in Palermo, with such criminal luminaries as Lucky Luciano, Joseph Jobanana's Bonanno, Carmine Galante, Frank Costello, Don Giuseppe Gianco Russo, ",
+      "entities_involved": [
+        "Vatican",
+        "Gambino crime family",
+        "William",
+        "CIA",
+        "Opus Dei"
+      ],
+      "line_number": 32,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_146",
+      "year": 1930,
+      "month": null,
+      "day": null,
+      "time_description": "1930",
+      "event_description": "attended a mob gathering at the Grand Hotel de Palme in Palermo, with such criminal luminaries as Lucky Luciano, Joseph Jobanana's Bonanno, Carmine Galante, Frank Costello, Don Giuseppe Gianco Russo, ",
+      "entities_involved": [
+        "Vatican",
+        "Gambino crime family",
+        "William",
+        "CIA",
+        "Opus Dei"
+      ],
+      "line_number": 32,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_147",
+      "year": 1951,
+      "month": null,
+      "day": null,
+      "time_description": "1951",
+      "event_description": "attended a mob gathering at the Grand Hotel de Palme in Palermo, with such criminal luminaries as Lucky Luciano, Joseph Jobanana's Bonanno, Carmine Galante, Frank Costello, Don Giuseppe Gianco Russo, ",
+      "entities_involved": [
+        "Vatican",
+        "Gambino crime family",
+        "William",
+        "CIA",
+        "Opus Dei"
+      ],
+      "line_number": 32,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_148",
+      "year": 1955,
+      "month": null,
+      "day": null,
+      "time_description": "1955",
+      "event_description": "attended a mob gathering at the Grand Hotel de Palme in Palermo, with such criminal luminaries as Lucky Luciano, Joseph Jobanana's Bonanno, Carmine Galante, Frank Costello, Don Giuseppe Gianco Russo, ",
+      "entities_involved": [
+        "Vatican",
+        "Gambino crime family",
+        "William",
+        "CIA",
+        "Opus Dei"
+      ],
+      "line_number": 32,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_149",
+      "year": 1963,
+      "month": null,
+      "day": null,
+      "time_description": "July 2, 1963",
+      "event_description": "spotters, due to full assistance. Through this connection, Kennedy emerged as one of Gladio's key agents, and Continental Illinois came to serve as a major conduit for the flow of covert CIA funds int",
+      "entities_involved": [
+        "Sindona Bank",
+        "Alberto",
+        "Mafia",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 34,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_150",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "July 14, 1969",
+      "event_description": "spotters, due to full assistance. Through this connection, Kennedy emerged as one of Gladio's key agents, and Continental Illinois came to serve as a major conduit for the flow of covert CIA funds int",
+      "entities_involved": [
+        "Sindona Bank",
+        "Alberto",
+        "Mafia",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 34,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_151",
+      "year": 1967,
+      "month": null,
+      "day": null,
+      "time_description": "1967",
+      "event_description": "spotters, due to full assistance. Through this connection, Kennedy emerged as one of Gladio's key agents, and Continental Illinois came to serve as a major conduit for the flow of covert CIA funds int",
+      "entities_involved": [
+        "Sindona Bank",
+        "Alberto",
+        "Mafia",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 34,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_152",
+      "year": 1963,
+      "month": null,
+      "day": null,
+      "time_description": "1963",
+      "event_description": "spotters, due to full assistance. Through this connection, Kennedy emerged as one of Gladio's key agents, and Continental Illinois came to serve as a major conduit for the flow of covert CIA funds int",
+      "entities_involved": [
+        "Sindona Bank",
+        "Alberto",
+        "Mafia",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 34,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_153",
+      "year": 1967,
+      "month": null,
+      "day": null,
+      "time_description": "1967",
+      "event_description": "spotters, due to full assistance. Through this connection, Kennedy emerged as one of Gladio's key agents, and Continental Illinois came to serve as a major conduit for the flow of covert CIA funds int",
+      "entities_involved": [
+        "Sindona Bank",
+        "Alberto",
+        "Mafia",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 34,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_154",
+      "year": 1964,
+      "month": null,
+      "day": null,
+      "time_description": "1964",
+      "event_description": "spotters, due to full assistance. Through this connection, Kennedy emerged as one of Gladio's key agents, and Continental Illinois came to serve as a major conduit for the flow of covert CIA funds int",
+      "entities_involved": [
+        "Sindona Bank",
+        "Alberto",
+        "Mafia",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 34,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_155",
+      "year": 1967,
+      "month": null,
+      "day": null,
+      "time_description": "1967",
+      "event_description": "spotters, due to full assistance. Through this connection, Kennedy emerged as one of Gladio's key agents, and Continental Illinois came to serve as a major conduit for the flow of covert CIA funds int",
+      "entities_involved": [
+        "Sindona Bank",
+        "Alberto",
+        "Mafia",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 34,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_156",
+      "year": 1967,
+      "month": null,
+      "day": null,
+      "time_description": "1967",
+      "event_description": "spotters, due to full assistance. Through this connection, Kennedy emerged as one of Gladio's key agents, and Continental Illinois came to serve as a major conduit for the flow of covert CIA funds int",
+      "entities_involved": [
+        "Sindona Bank",
+        "Alberto",
+        "Mafia",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 34,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_157",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "1969",
+      "event_description": "spotters, due to full assistance. Through this connection, Kennedy emerged as one of Gladio's key agents, and Continental Illinois came to serve as a major conduit for the flow of covert CIA funds int",
+      "entities_involved": [
+        "Sindona Bank",
+        "Alberto",
+        "Mafia",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 34,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_158",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "1969",
+      "event_description": "spotters, due to full assistance. Through this connection, Kennedy emerged as one of Gladio's key agents, and Continental Illinois came to serve as a major conduit for the flow of covert CIA funds int",
+      "entities_involved": [
+        "Sindona Bank",
+        "Alberto",
+        "Mafia",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 34,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_159",
+      "year": 1966,
+      "month": null,
+      "day": null,
+      "time_description": "1966",
+      "event_description": "spotters, due to full assistance. Through this connection, Kennedy emerged as one of Gladio's key agents, and Continental Illinois came to serve as a major conduit for the flow of covert CIA funds int",
+      "entities_involved": [
+        "Sindona Bank",
+        "Alberto",
+        "Mafia",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 34,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_160",
+      "year": 1966,
+      "month": null,
+      "day": null,
+      "time_description": "1966",
+      "event_description": "spotters, due to full assistance. Through this connection, Kennedy emerged as one of Gladio's key agents, and Continental Illinois came to serve as a major conduit for the flow of covert CIA funds int",
+      "entities_involved": [
+        "Sindona Bank",
+        "Alberto",
+        "Mafia",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 34,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_161",
+      "year": 1960,
+      "month": null,
+      "day": null,
+      "time_description": "the 1960s",
+      "event_description": "spotters, due to full assistance. Through this connection, Kennedy emerged as one of Gladio's key agents, and Continental Illinois came to serve as a major conduit for the flow of covert CIA funds int",
+      "entities_involved": [
+        "Sindona Bank",
+        "Alberto",
+        "Mafia",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 34,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_162",
+      "year": 1966,
+      "month": null,
+      "day": null,
+      "time_description": "summer of 1966",
+      "event_description": "spotters, due to full assistance. Through this connection, Kennedy emerged as one of Gladio's key agents, and Continental Illinois came to serve as a major conduit for the flow of covert CIA funds int",
+      "entities_involved": [
+        "Sindona Bank",
+        "Alberto",
+        "Mafia",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 34,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_163",
+      "year": 1966,
+      "month": null,
+      "day": null,
+      "time_description": "1966",
+      "event_description": "operations, a vast illegal export of capital, took place daily, and large figures were involved. The technique was really the most coarse and criminal which can be imagined. Bordoni found a vast numbe",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Chiang Kai",
+        "Vatican",
+        "Giulio Andreotti"
+      ],
+      "line_number": 36,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_164",
+      "year": 1973,
+      "month": null,
+      "day": null,
+      "time_description": "1973",
+      "event_description": "operations, a vast illegal export of capital, took place daily, and large figures were involved. The technique was really the most coarse and criminal which can be imagined. Bordoni found a vast numbe",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Chiang Kai",
+        "Vatican",
+        "Giulio Andreotti"
+      ],
+      "line_number": 36,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_165",
+      "year": 1964,
+      "month": null,
+      "day": null,
+      "time_description": "1964",
+      "event_description": "operations, a vast illegal export of capital, took place daily, and large figures were involved. The technique was really the most coarse and criminal which can be imagined. Bordoni found a vast numbe",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Chiang Kai",
+        "Vatican",
+        "Giulio Andreotti"
+      ],
+      "line_number": 36,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_166",
+      "year": 1967,
+      "month": null,
+      "day": null,
+      "time_description": "1967",
+      "event_description": "operations, a vast illegal export of capital, took place daily, and large figures were involved. The technique was really the most coarse and criminal which can be imagined. Bordoni found a vast numbe",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Chiang Kai",
+        "Vatican",
+        "Giulio Andreotti"
+      ],
+      "line_number": 36,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_167",
+      "year": 1967,
+      "month": null,
+      "day": null,
+      "time_description": "1967",
+      "event_description": "operations, a vast illegal export of capital, took place daily, and large figures were involved. The technique was really the most coarse and criminal which can be imagined. Bordoni found a vast numbe",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Chiang Kai",
+        "Vatican",
+        "Giulio Andreotti"
+      ],
+      "line_number": 36,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_168",
+      "year": 1968,
+      "month": null,
+      "day": null,
+      "time_description": "1968",
+      "event_description": "operations, a vast illegal export of capital, took place daily, and large figures were involved. The technique was really the most coarse and criminal which can be imagined. Bordoni found a vast numbe",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Chiang Kai",
+        "Vatican",
+        "Giulio Andreotti"
+      ],
+      "line_number": 36,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_169",
+      "year": 1968,
+      "month": null,
+      "day": null,
+      "time_description": "1968",
+      "event_description": "operations, a vast illegal export of capital, took place daily, and large figures were involved. The technique was really the most coarse and criminal which can be imagined. Bordoni found a vast numbe",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Chiang Kai",
+        "Vatican",
+        "Giulio Andreotti"
+      ],
+      "line_number": 36,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_170",
+      "year": 1971,
+      "month": null,
+      "day": null,
+      "time_description": "1971",
+      "event_description": "operations, a vast illegal export of capital, took place daily, and large figures were involved. The technique was really the most coarse and criminal which can be imagined. Bordoni found a vast numbe",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Chiang Kai",
+        "Vatican",
+        "Giulio Andreotti"
+      ],
+      "line_number": 36,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_171",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "1969",
+      "event_description": "operations, a vast illegal export of capital, took place daily, and large figures were involved. The technique was really the most coarse and criminal which can be imagined. Bordoni found a vast numbe",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Chiang Kai",
+        "Vatican",
+        "Giulio Andreotti"
+      ],
+      "line_number": 36,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_172",
+      "year": 1929,
+      "month": null,
+      "day": null,
+      "time_description": "1929",
+      "event_description": "operations, a vast illegal export of capital, took place daily, and large figures were involved. The technique was really the most coarse and criminal which can be imagined. Bordoni found a vast numbe",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Chiang Kai",
+        "Vatican",
+        "Giulio Andreotti"
+      ],
+      "line_number": 36,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_173",
+      "year": 1934,
+      "month": null,
+      "day": null,
+      "time_description": "1934",
+      "event_description": "could produce dire consequences for national economies. The papal commission. Upon hearing the proposal, Pope Paul handed Sindona an agreement he already had prepared. The agreement was even more than",
+      "entities_involved": [
+        "Banco Ambrosiano",
+        "P2",
+        "Roberto Calvi",
+        "Sergio Gheri",
+        "Vatican"
+      ],
+      "line_number": 38,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_174",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "1969",
+      "event_description": "could produce dire consequences for national economies. The papal commission. Upon hearing the proposal, Pope Paul handed Sindona an agreement he already had prepared. The agreement was even more than",
+      "entities_involved": [
+        "Banco Ambrosiano",
+        "P2",
+        "Roberto Calvi",
+        "Sergio Gheri",
+        "Vatican"
+      ],
+      "line_number": 38,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_175",
+      "year": 1972,
+      "month": null,
+      "day": null,
+      "time_description": "1972",
+      "event_description": "could produce dire consequences for national economies. The papal commission. Upon hearing the proposal, Pope Paul handed Sindona an agreement he already had prepared. The agreement was even more than",
+      "entities_involved": [
+        "Banco Ambrosiano",
+        "P2",
+        "Roberto Calvi",
+        "Sergio Gheri",
+        "Vatican"
+      ],
+      "line_number": 38,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_176",
+      "year": 1983,
+      "month": null,
+      "day": null,
+      "time_description": "1983",
+      "event_description": "could produce dire consequences for national economies. The papal commission. Upon hearing the proposal, Pope Paul handed Sindona an agreement he already had prepared. The agreement was even more than",
+      "entities_involved": [
+        "Banco Ambrosiano",
+        "P2",
+        "Roberto Calvi",
+        "Sergio Gheri",
+        "Vatican"
+      ],
+      "line_number": 38,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_177",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "1969",
+      "event_description": "could produce dire consequences for national economies. The papal commission. Upon hearing the proposal, Pope Paul handed Sindona an agreement he already had prepared. The agreement was even more than",
+      "entities_involved": [
+        "Banco Ambrosiano",
+        "P2",
+        "Roberto Calvi",
+        "Sergio Gheri",
+        "Vatican"
+      ],
+      "line_number": 38,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_178",
+      "year": 1987,
+      "month": null,
+      "day": null,
+      "time_description": "December 31, 1987",
+      "event_description": "Ambrosiano for resources or its standing in Milan. Best of all, it had no dominant shareholder, so that those who ran it had an unfettered hand. Sendona and his new friend quickly came up with a plan ",
+      "entities_involved": [
+        "Giandaleo Maletti",
+        "P2",
+        "Alexander Hague",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 40,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_179",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "December 12, 1969",
+      "event_description": "Ambrosiano for resources or its standing in Milan. Best of all, it had no dominant shareholder, so that those who ran it had an unfettered hand. Sendona and his new friend quickly came up with a plan ",
+      "entities_involved": [
+        "Giandaleo Maletti",
+        "P2",
+        "Alexander Hague",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 40,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_180",
+      "year": 1972,
+      "month": null,
+      "day": null,
+      "time_description": "March 3, 1972",
+      "event_description": "Ambrosiano for resources or its standing in Milan. Best of all, it had no dominant shareholder, so that those who ran it had an unfettered hand. Sendona and his new friend quickly came up with a plan ",
+      "entities_involved": [
+        "Giandaleo Maletti",
+        "P2",
+        "Alexander Hague",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 40,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_181",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "May 4, 1969",
+      "event_description": "Ambrosiano for resources or its standing in Milan. Best of all, it had no dominant shareholder, so that those who ran it had an unfettered hand. Sendona and his new friend quickly came up with a plan ",
+      "entities_involved": [
+        "Giandaleo Maletti",
+        "P2",
+        "Alexander Hague",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 40,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_182",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "1969",
+      "event_description": "Ambrosiano for resources or its standing in Milan. Best of all, it had no dominant shareholder, so that those who ran it had an unfettered hand. Sendona and his new friend quickly came up with a plan ",
+      "entities_involved": [
+        "Giandaleo Maletti",
+        "P2",
+        "Alexander Hague",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 40,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_183",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "1969",
+      "event_description": "Ambrosiano for resources or its standing in Milan. Best of all, it had no dominant shareholder, so that those who ran it had an unfettered hand. Sendona and his new friend quickly came up with a plan ",
+      "entities_involved": [
+        "Giandaleo Maletti",
+        "P2",
+        "Alexander Hague",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 40,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_184",
+      "year": 1987,
+      "month": null,
+      "day": null,
+      "time_description": "1987",
+      "event_description": "Ambrosiano for resources or its standing in Milan. Best of all, it had no dominant shareholder, so that those who ran it had an unfettered hand. Sendona and his new friend quickly came up with a plan ",
+      "entities_involved": [
+        "Giandaleo Maletti",
+        "P2",
+        "Alexander Hague",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 40,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_185",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "1969",
+      "event_description": "Ambrosiano for resources or its standing in Milan. Best of all, it had no dominant shareholder, so that those who ran it had an unfettered hand. Sendona and his new friend quickly came up with a plan ",
+      "entities_involved": [
+        "Giandaleo Maletti",
+        "P2",
+        "Alexander Hague",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 40,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_186",
+      "year": 1970,
+      "month": null,
+      "day": null,
+      "time_description": "1970",
+      "event_description": "Ambrosiano for resources or its standing in Milan. Best of all, it had no dominant shareholder, so that those who ran it had an unfettered hand. Sendona and his new friend quickly came up with a plan ",
+      "entities_involved": [
+        "Giandaleo Maletti",
+        "P2",
+        "Alexander Hague",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 40,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_187",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "1969",
+      "event_description": "Ambrosiano for resources or its standing in Milan. Best of all, it had no dominant shareholder, so that those who ran it had an unfettered hand. Sendona and his new friend quickly came up with a plan ",
+      "entities_involved": [
+        "Giandaleo Maletti",
+        "P2",
+        "Alexander Hague",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 40,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_188",
+      "year": 1972,
+      "month": null,
+      "day": null,
+      "time_description": "1972",
+      "event_description": "Ambrosiano for resources or its standing in Milan. Best of all, it had no dominant shareholder, so that those who ran it had an unfettered hand. Sendona and his new friend quickly came up with a plan ",
+      "entities_involved": [
+        "Giandaleo Maletti",
+        "P2",
+        "Alexander Hague",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 40,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_189",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "1969",
+      "event_description": "Ambrosiano for resources or its standing in Milan. Best of all, it had no dominant shareholder, so that those who ran it had an unfettered hand. Sendona and his new friend quickly came up with a plan ",
+      "entities_involved": [
+        "Giandaleo Maletti",
+        "P2",
+        "Alexander Hague",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 40,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_190",
+      "year": 2000,
+      "month": null,
+      "day": null,
+      "time_description": "2000",
+      "event_description": "Ambrosiano for resources or its standing in Milan. Best of all, it had no dominant shareholder, so that those who ran it had an unfettered hand. Sendona and his new friend quickly came up with a plan ",
+      "entities_involved": [
+        "Giandaleo Maletti",
+        "P2",
+        "Alexander Hague",
+        "Vatican",
+        "Marcinkus"
+      ],
+      "line_number": 40,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_191",
+      "year": 1970,
+      "month": null,
+      "day": null,
+      "time_description": "December 7, 1970",
+      "event_description": "of execution to the ON and other neo-fascist groups in service to the agency. The bombing was allegedly commandeered by Navy Captain David Carrot, a CIA operative attached to the NATO command in Veron",
+      "entities_involved": [
+        "CIA",
+        "NATO",
+        "Red Brigades",
+        "Gerardo Cervale"
+      ],
+      "line_number": 42,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_192",
+      "year": 1971,
+      "month": null,
+      "day": null,
+      "time_description": "May 31, 1971",
+      "event_description": "of execution to the ON and other neo-fascist groups in service to the agency. The bombing was allegedly commandeered by Navy Captain David Carrot, a CIA operative attached to the NATO command in Veron",
+      "entities_involved": [
+        "CIA",
+        "NATO",
+        "Red Brigades",
+        "Gerardo Cervale"
+      ],
+      "line_number": 42,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_193",
+      "year": 1972,
+      "month": null,
+      "day": null,
+      "time_description": "February 24, 1972",
+      "event_description": "of execution to the ON and other neo-fascist groups in service to the agency. The bombing was allegedly commandeered by Navy Captain David Carrot, a CIA operative attached to the NATO command in Veron",
+      "entities_involved": [
+        "CIA",
+        "NATO",
+        "Red Brigades",
+        "Gerardo Cervale"
+      ],
+      "line_number": 42,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_194",
+      "year": 1973,
+      "month": null,
+      "day": null,
+      "time_description": "November 23, 1973",
+      "event_description": "of execution to the ON and other neo-fascist groups in service to the agency. The bombing was allegedly commandeered by Navy Captain David Carrot, a CIA operative attached to the NATO command in Veron",
+      "entities_involved": [
+        "CIA",
+        "NATO",
+        "Red Brigades",
+        "Gerardo Cervale"
+      ],
+      "line_number": 42,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_195",
+      "year": 1974,
+      "month": null,
+      "day": null,
+      "time_description": "May 28, 1974",
+      "event_description": "of execution to the ON and other neo-fascist groups in service to the agency. The bombing was allegedly commandeered by Navy Captain David Carrot, a CIA operative attached to the NATO command in Veron",
+      "entities_involved": [
+        "CIA",
+        "NATO",
+        "Red Brigades",
+        "Gerardo Cervale"
+      ],
+      "line_number": 42,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_196",
+      "year": 1970,
+      "month": null,
+      "day": null,
+      "time_description": "1970",
+      "event_description": "of execution to the ON and other neo-fascist groups in service to the agency. The bombing was allegedly commandeered by Navy Captain David Carrot, a CIA operative attached to the NATO command in Veron",
+      "entities_involved": [
+        "CIA",
+        "NATO",
+        "Red Brigades",
+        "Gerardo Cervale"
+      ],
+      "line_number": 42,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_197",
+      "year": 1974,
+      "month": null,
+      "day": null,
+      "time_description": "1974",
+      "event_description": "of execution to the ON and other neo-fascist groups in service to the agency. The bombing was allegedly commandeered by Navy Captain David Carrot, a CIA operative attached to the NATO command in Veron",
+      "entities_involved": [
+        "CIA",
+        "NATO",
+        "Red Brigades",
+        "Gerardo Cervale"
+      ],
+      "line_number": 42,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_198",
+      "year": 1970,
+      "month": null,
+      "day": null,
+      "time_description": "1970",
+      "event_description": "of execution to the ON and other neo-fascist groups in service to the agency. The bombing was allegedly commandeered by Navy Captain David Carrot, a CIA operative attached to the NATO command in Veron",
+      "entities_involved": [
+        "CIA",
+        "NATO",
+        "Red Brigades",
+        "Gerardo Cervale"
+      ],
+      "line_number": 42,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_199",
+      "year": 2004,
+      "month": null,
+      "day": null,
+      "time_description": "2004",
+      "event_description": "of execution to the ON and other neo-fascist groups in service to the agency. The bombing was allegedly commandeered by Navy Captain David Carrot, a CIA operative attached to the NATO command in Veron",
+      "entities_involved": [
+        "CIA",
+        "NATO",
+        "Red Brigades",
+        "Gerardo Cervale"
+      ],
+      "line_number": 42,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_200",
+      "year": 1971,
+      "month": null,
+      "day": null,
+      "time_description": "1971",
+      "event_description": "of execution to the ON and other neo-fascist groups in service to the agency. The bombing was allegedly commandeered by Navy Captain David Carrot, a CIA operative attached to the NATO command in Veron",
+      "entities_involved": [
+        "CIA",
+        "NATO",
+        "Red Brigades",
+        "Gerardo Cervale"
+      ],
+      "line_number": 42,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_201",
+      "year": 1972,
+      "month": null,
+      "day": null,
+      "time_description": "1972",
+      "event_description": "of execution to the ON and other neo-fascist groups in service to the agency. The bombing was allegedly commandeered by Navy Captain David Carrot, a CIA operative attached to the NATO command in Veron",
+      "entities_involved": [
+        "CIA",
+        "NATO",
+        "Red Brigades",
+        "Gerardo Cervale"
+      ],
+      "line_number": 42,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_202",
+      "year": 1973,
+      "month": null,
+      "day": null,
+      "time_description": "1973",
+      "event_description": "of execution to the ON and other neo-fascist groups in service to the agency. The bombing was allegedly commandeered by Navy Captain David Carrot, a CIA operative attached to the NATO command in Veron",
+      "entities_involved": [
+        "CIA",
+        "NATO",
+        "Red Brigades",
+        "Gerardo Cervale"
+      ],
+      "line_number": 42,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_203",
+      "year": 1990,
+      "month": null,
+      "day": null,
+      "time_description": "1990",
+      "event_description": "of execution to the ON and other neo-fascist groups in service to the agency. The bombing was allegedly commandeered by Navy Captain David Carrot, a CIA operative attached to the NATO command in Veron",
+      "entities_involved": [
+        "CIA",
+        "NATO",
+        "Red Brigades",
+        "Gerardo Cervale"
+      ],
+      "line_number": 42,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_204",
+      "year": 1984,
+      "month": null,
+      "day": null,
+      "time_description": "1984",
+      "event_description": "of execution to the ON and other neo-fascist groups in service to the agency. The bombing was allegedly commandeered by Navy Captain David Carrot, a CIA operative attached to the NATO command in Veron",
+      "entities_involved": [
+        "CIA",
+        "NATO",
+        "Red Brigades",
+        "Gerardo Cervale"
+      ],
+      "line_number": 42,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_205",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "1969",
+      "event_description": "of execution to the ON and other neo-fascist groups in service to the agency. The bombing was allegedly commandeered by Navy Captain David Carrot, a CIA operative attached to the NATO command in Veron",
+      "entities_involved": [
+        "CIA",
+        "NATO",
+        "Red Brigades",
+        "Gerardo Cervale"
+      ],
+      "line_number": 42,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_206",
+      "year": 1974,
+      "month": null,
+      "day": null,
+      "time_description": "1974",
+      "event_description": "of execution to the ON and other neo-fascist groups in service to the agency. The bombing was allegedly commandeered by Navy Captain David Carrot, a CIA operative attached to the NATO command in Veron",
+      "entities_involved": [
+        "CIA",
+        "NATO",
+        "Red Brigades",
+        "Gerardo Cervale"
+      ],
+      "line_number": 42,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_207",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "March 16, 1978",
+      "event_description": "a militant communist organization in the incident. Members of the group were rounded up and placed in custody only to be acquitted due to lack of evidence. Terror on a train On August 4th, 1974, anoth",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Carter",
+        "Red Brigades",
+        "Giovanni Torizzi"
+      ],
+      "line_number": 44,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_208",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "May 9, 1978",
+      "event_description": "a militant communist organization in the incident. Members of the group were rounded up and placed in custody only to be acquitted due to lack of evidence. Terror on a train On August 4th, 1974, anoth",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Carter",
+        "Red Brigades",
+        "Giovanni Torizzi"
+      ],
+      "line_number": 44,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_209",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "January 16, 1979",
+      "event_description": "a militant communist organization in the incident. Members of the group were rounded up and placed in custody only to be acquitted due to lack of evidence. Terror on a train On August 4th, 1974, anoth",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Carter",
+        "Red Brigades",
+        "Giovanni Torizzi"
+      ],
+      "line_number": 44,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_210",
+      "year": 1974,
+      "month": null,
+      "day": null,
+      "time_description": "1974",
+      "event_description": "a militant communist organization in the incident. Members of the group were rounded up and placed in custody only to be acquitted due to lack of evidence. Terror on a train On August 4th, 1974, anoth",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Carter",
+        "Red Brigades",
+        "Giovanni Torizzi"
+      ],
+      "line_number": 44,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_211",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "1976",
+      "event_description": "a militant communist organization in the incident. Members of the group were rounded up and placed in custody only to be acquitted due to lack of evidence. Terror on a train On August 4th, 1974, anoth",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Carter",
+        "Red Brigades",
+        "Giovanni Torizzi"
+      ],
+      "line_number": 44,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_212",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "a militant communist organization in the incident. Members of the group were rounded up and placed in custody only to be acquitted due to lack of evidence. Terror on a train On August 4th, 1974, anoth",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Carter",
+        "Red Brigades",
+        "Giovanni Torizzi"
+      ],
+      "line_number": 44,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_213",
+      "year": 1974,
+      "month": null,
+      "day": null,
+      "time_description": "1974",
+      "event_description": "a militant communist organization in the incident. Members of the group were rounded up and placed in custody only to be acquitted due to lack of evidence. Terror on a train On August 4th, 1974, anoth",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Carter",
+        "Red Brigades",
+        "Giovanni Torizzi"
+      ],
+      "line_number": 44,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_214",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "a militant communist organization in the incident. Members of the group were rounded up and placed in custody only to be acquitted due to lack of evidence. Terror on a train On August 4th, 1974, anoth",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Carter",
+        "Red Brigades",
+        "Giovanni Torizzi"
+      ],
+      "line_number": 44,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_215",
+      "year": 1985,
+      "month": null,
+      "day": null,
+      "time_description": "1985",
+      "event_description": "a militant communist organization in the incident. Members of the group were rounded up and placed in custody only to be acquitted due to lack of evidence. Terror on a train On August 4th, 1974, anoth",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Carter",
+        "Red Brigades",
+        "Giovanni Torizzi"
+      ],
+      "line_number": 44,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_216",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "a militant communist organization in the incident. Members of the group were rounded up and placed in custody only to be acquitted due to lack of evidence. Terror on a train On August 4th, 1974, anoth",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Carter",
+        "Red Brigades",
+        "Giovanni Torizzi"
+      ],
+      "line_number": 44,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_217",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "a militant communist organization in the incident. Members of the group were rounded up and placed in custody only to be acquitted due to lack of evidence. Terror on a train On August 4th, 1974, anoth",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Carter",
+        "Red Brigades",
+        "Giovanni Torizzi"
+      ],
+      "line_number": 44,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_218",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "a militant communist organization in the incident. Members of the group were rounded up and placed in custody only to be acquitted due to lack of evidence. Terror on a train On August 4th, 1974, anoth",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Carter",
+        "Red Brigades",
+        "Giovanni Torizzi"
+      ],
+      "line_number": 44,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_219",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "August 2, 1980",
+      "event_description": "never again would divulge a secret. The Hyperion Language School. The fact that the red brigades had been infiltrated by the CIA and the Italian secret services remains no longer contested. The purpos",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Carter",
+        "Red Brigades",
+        "Antonio"
+      ],
+      "line_number": 46,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_220",
+      "year": 1973,
+      "month": null,
+      "day": null,
+      "time_description": "1973",
+      "event_description": "never again would divulge a secret. The Hyperion Language School. The fact that the red brigades had been infiltrated by the CIA and the Italian secret services remains no longer contested. The purpos",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Carter",
+        "Red Brigades",
+        "Antonio"
+      ],
+      "line_number": 46,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_221",
+      "year": 1974,
+      "month": null,
+      "day": null,
+      "time_description": "1974",
+      "event_description": "never again would divulge a secret. The Hyperion Language School. The fact that the red brigades had been infiltrated by the CIA and the Italian secret services remains no longer contested. The purpos",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Carter",
+        "Red Brigades",
+        "Antonio"
+      ],
+      "line_number": 46,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_222",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "never again would divulge a secret. The Hyperion Language School. The fact that the red brigades had been infiltrated by the CIA and the Italian secret services remains no longer contested. The purpos",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Carter",
+        "Red Brigades",
+        "Antonio"
+      ],
+      "line_number": 46,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_223",
+      "year": 1985,
+      "month": null,
+      "day": null,
+      "time_description": "1985",
+      "event_description": "never again would divulge a secret. The Hyperion Language School. The fact that the red brigades had been infiltrated by the CIA and the Italian secret services remains no longer contested. The purpos",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Carter",
+        "Red Brigades",
+        "Antonio"
+      ],
+      "line_number": 46,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_224",
+      "year": 1945,
+      "month": null,
+      "day": null,
+      "time_description": "1945",
+      "event_description": "never again would divulge a secret. The Hyperion Language School. The fact that the red brigades had been infiltrated by the CIA and the Italian secret services remains no longer contested. The purpos",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Carter",
+        "Red Brigades",
+        "Antonio"
+      ],
+      "line_number": 46,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_225",
+      "year": 1966,
+      "month": null,
+      "day": null,
+      "time_description": "1966",
+      "event_description": "never again would divulge a secret. The Hyperion Language School. The fact that the red brigades had been infiltrated by the CIA and the Italian secret services remains no longer contested. The purpos",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Carter",
+        "Red Brigades",
+        "Antonio"
+      ],
+      "line_number": 46,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_226",
+      "year": 1982,
+      "month": null,
+      "day": null,
+      "time_description": "1982",
+      "event_description": "never again would divulge a secret. The Hyperion Language School. The fact that the red brigades had been infiltrated by the CIA and the Italian secret services remains no longer contested. The purpos",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Carter",
+        "Red Brigades",
+        "Antonio"
+      ],
+      "line_number": 46,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_227",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "1980",
+      "event_description": "never again would divulge a secret. The Hyperion Language School. The fact that the red brigades had been infiltrated by the CIA and the Italian secret services remains no longer contested. The purpos",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Carter",
+        "Red Brigades",
+        "Antonio"
+      ],
+      "line_number": 46,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_228",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "never again would divulge a secret. The Hyperion Language School. The fact that the red brigades had been infiltrated by the CIA and the Italian secret services remains no longer contested. The purpos",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Carter",
+        "Red Brigades",
+        "Antonio"
+      ],
+      "line_number": 46,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_229",
+      "year": 1977,
+      "month": null,
+      "day": null,
+      "time_description": "1977",
+      "event_description": "never again would divulge a secret. The Hyperion Language School. The fact that the red brigades had been infiltrated by the CIA and the Italian secret services remains no longer contested. The purpos",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Carter",
+        "Red Brigades",
+        "Antonio"
+      ],
+      "line_number": 46,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_230",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "never again would divulge a secret. The Hyperion Language School. The fact that the red brigades had been infiltrated by the CIA and the Italian secret services remains no longer contested. The purpos",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Carter",
+        "Red Brigades",
+        "Antonio"
+      ],
+      "line_number": 46,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_231",
+      "year": 1960,
+      "month": null,
+      "day": null,
+      "time_description": "the 1960s",
+      "event_description": "never again would divulge a secret. The Hyperion Language School. The fact that the red brigades had been infiltrated by the CIA and the Italian secret services remains no longer contested. The purpos",
+      "entities_involved": [
+        "Prime Minister",
+        "P2",
+        "Carter",
+        "Red Brigades",
+        "Antonio"
+      ],
+      "line_number": 46,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_232",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "March 20, 1979",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_233",
+      "year": 1973,
+      "month": null,
+      "day": null,
+      "time_description": "July 13, 1973",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_234",
+      "year": 1973,
+      "month": null,
+      "day": null,
+      "time_description": "October 12, 1973",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_235",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "October 1, 1976",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_236",
+      "year": 1965,
+      "month": null,
+      "day": null,
+      "time_description": "February 13, 1965",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_237",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "February 3, 1969",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_238",
+      "year": 1973,
+      "month": null,
+      "day": null,
+      "time_description": "January 20, 1973",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_239",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "1969",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_240",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "1980",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_241",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_242",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "1969",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_243",
+      "year": 1974,
+      "month": null,
+      "day": null,
+      "time_description": "1974",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_244",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_245",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_246",
+      "year": 1977,
+      "month": null,
+      "day": null,
+      "time_description": "1977",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_247",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_248",
+      "year": 1974,
+      "month": null,
+      "day": null,
+      "time_description": "1974",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_249",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_250",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "1980",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_251",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_252",
+      "year": 1979,
+      "month": null,
+      "day": null,
+      "time_description": "1979",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_253",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "1976",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_254",
+      "year": 1978,
+      "month": null,
+      "day": null,
+      "time_description": "1978",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_255",
+      "year": 1973,
+      "month": null,
+      "day": null,
+      "time_description": "1973",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_256",
+      "year": 1973,
+      "month": null,
+      "day": null,
+      "time_description": "1973",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_257",
+      "year": 1973,
+      "month": null,
+      "day": null,
+      "time_description": "1973",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_258",
+      "year": 1975,
+      "month": null,
+      "day": null,
+      "time_description": "1975",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_259",
+      "year": 1976,
+      "month": null,
+      "day": null,
+      "time_description": "1976",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_260",
+      "year": 1965,
+      "month": null,
+      "day": null,
+      "time_description": "1965",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_261",
+      "year": 1981,
+      "month": null,
+      "day": null,
+      "time_description": "1981",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_262",
+      "year": 1965,
+      "month": null,
+      "day": null,
+      "time_description": "1965",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_263",
+      "year": 1965,
+      "month": null,
+      "day": null,
+      "time_description": "1965",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_264",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "1969",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_265",
+      "year": 1973,
+      "month": null,
+      "day": null,
+      "time_description": "1973",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_266",
+      "year": 1967,
+      "month": null,
+      "day": null,
+      "time_description": "1967",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_267",
+      "year": 1969,
+      "month": null,
+      "day": null,
+      "time_description": "1969",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_268",
+      "year": 1966,
+      "month": null,
+      "day": null,
+      "time_description": "1966",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_269",
+      "year": 1967,
+      "month": null,
+      "day": null,
+      "time_description": "1967",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_270",
+      "year": 1974,
+      "month": null,
+      "day": null,
+      "time_description": "1974",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_271",
+      "year": 1970,
+      "month": null,
+      "day": null,
+      "time_description": "1970",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_272",
+      "year": 1975,
+      "month": null,
+      "day": null,
+      "time_description": "1975",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_273",
+      "year": 1977,
+      "month": null,
+      "day": null,
+      "time_description": "1977",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    },
+    {
+      "event_id": "event_0_274",
+      "year": 1980,
+      "month": null,
+      "day": null,
+      "time_description": "1980",
+      "event_description": "Eight weeks after the Bologna bombing on September 26th, a member of Hoffman's group had blown himself up at Oktoberfest in Munich, killing 12 others and wounding 215. A week later in Paris, a bomb pl",
+      "entities_involved": [
+        "Roberto Calvi",
+        "Giovanni Torizzi",
+        "Orazio Giannini",
+        "Vito Michele",
+        "Augusto Pinochet"
+      ],
+      "line_number": 48,
+      "confidence": 0.6
+    }
+  ],
+  "timestamp": "2025-09-30T20:11:14.382194"
+}

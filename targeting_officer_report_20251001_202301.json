@@ -1,0 +1,300 @@
+{
+  "sweep_time": "2025-10-01T20:23:01.660990",
+  "targets_scanned": 39,
+  "targets_needing_packages": 36,
+  "packages_created": 36,
+  "packages_validated": 35,
+  "packages_submitted_to_j5a": 35,
+  "packages_failed_validation": 1,
+  "errors": [],
+  "created_packages": [
+    {
+      "package_id": 1,
+      "target_name": "A People's History of the United States \u2014 Howard Zinn",
+      "package_type": "document",
+      "status": "ready",
+      "urls_count": 1,
+      "outputs_count": 3
+    },
+    {
+      "package_id": 2,
+      "target_name": "American Alchemy Interviews with Danny Sheehan",
+      "package_type": "youtube",
+      "status": "ready",
+      "urls_count": 1,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 3,
+      "target_name": "American Alchemy with Harald Malmgren",
+      "package_type": "youtube",
+      "status": "ready",
+      "urls_count": 1,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 4,
+      "target_name": "Danny Sheehan Bibliography",
+      "package_type": "document",
+      "status": "ready",
+      "urls_count": 1,
+      "outputs_count": 3
+    },
+    {
+      "package_id": 5,
+      "target_name": "Imminent \u2014 Luis Elizondo",
+      "package_type": "document",
+      "status": "ready",
+      "urls_count": 1,
+      "outputs_count": 3
+    },
+    {
+      "package_id": 6,
+      "target_name": "Weaponized Podcast",
+      "package_type": "youtube",
+      "status": "ready",
+      "urls_count": 2,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 7,
+      "target_name": "The Day After Roswell \u2014 Colonel Philip J. Corso",
+      "package_type": "document",
+      "status": "ready",
+      "urls_count": 1,
+      "outputs_count": 3
+    },
+    {
+      "package_id": 8,
+      "target_name": "US Army INSCOM",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 1,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 9,
+      "target_name": "US Naval Intelligence",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 1,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 10,
+      "target_name": "Soviet Psychic Program",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 1,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 11,
+      "target_name": "US Radar Lab (Naval Intelligence, 1930s)",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 1,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 12,
+      "target_name": "S-Force",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 1,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 13,
+      "target_name": "Brown Brothers Harriman",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 1,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 14,
+      "target_name": "Allen Dulles",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 2,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 15,
+      "target_name": "Thomas Townsend Brown",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 2,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 16,
+      "target_name": "John Trump",
+      "package_type": "document",
+      "status": "draft",
+      "urls_count": 0,
+      "outputs_count": 3
+    },
+    {
+      "package_id": 17,
+      "target_name": "James Jesus Angleton",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 2,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 18,
+      "target_name": "Curtis LeMay",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 2,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 19,
+      "target_name": "Harald Malmgren",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 2,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 20,
+      "target_name": "Luis Elizondo",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 2,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 21,
+      "target_name": "Dr. James Lacatski",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 2,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 22,
+      "target_name": "Bigelow Aerospace",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 1,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 23,
+      "target_name": "Joseph McMoneagle",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 2,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 24,
+      "target_name": "Ingo Swann",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 2,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 25,
+      "target_name": "Pat Price",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 2,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 26,
+      "target_name": "Agnew Bahnson",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 2,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 27,
+      "target_name": "Wernher von Braun",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 2,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 28,
+      "target_name": "George H. W. Bush",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 2,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 29,
+      "target_name": "Henry Kissinger",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 2,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 30,
+      "target_name": "George Joannides",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 2,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 31,
+      "target_name": "George Tenet",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 2,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 32,
+      "target_name": "Osama bin Laden",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 2,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 33,
+      "target_name": "Hal Puthoff",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 2,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 34,
+      "target_name": "Richard Bissell",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 2,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 35,
+      "target_name": "Vladimir Lenin",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 2,
+      "outputs_count": 4
+    },
+    {
+      "package_id": 36,
+      "target_name": "Albert Stubblebine",
+      "package_type": "composite",
+      "status": "ready",
+      "urls_count": 2,
+      "outputs_count": 4
+    }
+  ]
+}

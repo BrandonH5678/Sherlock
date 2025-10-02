@@ -1,0 +1,13 @@
+{
+  "chunk_id": 1,
+  "lines_processed": 500,
+  "sections_found": 1,
+  "claims_extracted": 0,
+  "entities_found": {
+    "programs": 0,
+    "organizations": 0,
+    "people": 0,
+    "locations": 0
+  },
+  "timestamp": "2025-09-30T21:15:40.010506"
+}

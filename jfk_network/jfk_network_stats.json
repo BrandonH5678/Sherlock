@@ -1,0 +1,56 @@
+{
+  "network_size": {
+    "total_nodes": 21,
+    "total_edges": 53,
+    "nodes_by_type": {
+      "organization": 9,
+      "person": 8,
+      "location": 4
+    }
+  },
+  "centrality": {
+    "top_10_nodes": [
+      [
+        "CIA",
+        29
+      ],
+      [
+        "George Joannides",
+        23
+      ],
+      [
+        "DRE",
+        20
+      ],
+      [
+        "HSCA",
+        13
+      ],
+      [
+        "Oswald",
+        11
+      ],
+      [
+        "Warren Commission",
+        7
+      ],
+      [
+        "David Atlee Phillips",
+        6
+      ],
+      [
+        "JMWAVE",
+        6
+      ],
+      [
+        "Church Committee",
+        4
+      ],
+      [
+        "Mexico City",
+        3
+      ]
+    ]
+  },
+  "generated": "2025-10-01T00:45:17.333917"
+}
