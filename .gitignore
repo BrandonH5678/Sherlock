@@ -106,9 +106,6 @@ api_keys.txt
 !test_gladio.db
 !test_gladio_api.db
 !gladio_sample.db
-# Large evidence documents
-evidence/*.pdf
 
-# Large generated files
+# Large generated visualization (regenerable from data)
 audiobooks/operation_gladio/gladio_network.png
-audiobooks/operation_gladio/resource_flows.json
