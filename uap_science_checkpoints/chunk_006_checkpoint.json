@@ -1,0 +1,43 @@
+{
+  "chunk_info": {
+    "chunk_num": 6,
+    "chunk_path": "/home/johnny5/Downloads/new science of UAP_chunks/new science of UAP_chunk_006_pages_101-120.pdf",
+    "text_file": "uap_science_checkpoints/chunk_006_text.txt",
+    "text_length": 47673,
+    "status": "extracted",
+    "preview": " --- Page 1 --- trophysical phenomena can cause the nine transients, and no instrumental effect was identified as the root cause. The team wondered whether plate contamination (plate defects) could be"
+  },
+  "findings": [
+    {
+      "category": "craft",
+      "mention_count": 22,
+      "chunk_num": 6
+    },
+    {
+      "category": "phenomena",
+      "mention_count": 40,
+      "chunk_num": 6
+    },
+    {
+      "category": "technology",
+      "mention_count": 15,
+      "chunk_num": 6
+    },
+    {
+      "category": "witness",
+      "mention_count": 11,
+      "chunk_num": 6
+    },
+    {
+      "category": "government",
+      "mention_count": 23,
+      "chunk_num": 6
+    },
+    {
+      "category": "science",
+      "mention_count": 49,
+      "chunk_num": 6
+    }
+  ],
+  "timestamp": "2025-10-03T16:32:25.467992"
+}

@@ -1,0 +1,43 @@
+{
+  "chunk_info": {
+    "chunk_num": 10,
+    "chunk_path": "/home/johnny5/Downloads/new science of UAP_chunks/new science of UAP_chunk_010_pages_181-195.pdf",
+    "text_file": "uap_science_checkpoints/chunk_010_text.txt",
+    "text_length": 27116,
+    "status": "extracted",
+    "preview": " --- Page 1 --- object localization, Journal of Astronomical Instrumentation 12 (1) (2023) 2340002. [332] E. Keto, W. A. Watters, Detection of moving objects in Earth Observa- tion Satellite images, J"
+  },
+  "findings": [
+    {
+      "category": "craft",
+      "mention_count": 14,
+      "chunk_num": 10
+    },
+    {
+      "category": "phenomena",
+      "mention_count": 12,
+      "chunk_num": 10
+    },
+    {
+      "category": "technology",
+      "mention_count": 5,
+      "chunk_num": 10
+    },
+    {
+      "category": "witness",
+      "mention_count": 6,
+      "chunk_num": 10
+    },
+    {
+      "category": "government",
+      "mention_count": 5,
+      "chunk_num": 10
+    },
+    {
+      "category": "science",
+      "mention_count": 37,
+      "chunk_num": 10
+    }
+  ],
+  "timestamp": "2025-10-03T16:32:25.614408"
+}

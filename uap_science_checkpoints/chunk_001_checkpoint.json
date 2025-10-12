@@ -1,0 +1,43 @@
+{
+  "chunk_info": {
+    "chunk_num": 1,
+    "chunk_path": "/home/johnny5/Downloads/new science of UAP_chunks/new science of UAP_chunk_001_pages_1-20.pdf",
+    "text_file": "uap_science_checkpoints/chunk_001_text.txt",
+    "text_length": 41674,
+    "status": "extracted",
+    "preview": " --- Page 1 --- Highlights The New Science of Unidentified Aerospace-Undersea Phenomena (UAP) Kevin H. Knuth, Philippe Ailleris, Hussein Ali Agrama, Eamonn Ansbro, Phyllis A. Budinger, Tejin Cai, Thib"
+  },
+  "findings": [
+    {
+      "category": "craft",
+      "mention_count": 46,
+      "chunk_num": 1
+    },
+    {
+      "category": "phenomena",
+      "mention_count": 59,
+      "chunk_num": 1
+    },
+    {
+      "category": "technology",
+      "mention_count": 8,
+      "chunk_num": 1
+    },
+    {
+      "category": "witness",
+      "mention_count": 20,
+      "chunk_num": 1
+    },
+    {
+      "category": "government",
+      "mention_count": 37,
+      "chunk_num": 1
+    },
+    {
+      "category": "science",
+      "mention_count": 19,
+      "chunk_num": 1
+    }
+  ],
+  "timestamp": "2025-10-03T16:32:25.188225"
+}

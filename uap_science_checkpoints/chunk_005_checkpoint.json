@@ -1,0 +1,43 @@
+{
+  "chunk_info": {
+    "chunk_num": 5,
+    "chunk_path": "/home/johnny5/Downloads/new science of UAP_chunks/new science of UAP_chunk_005_pages_81-100.pdf",
+    "text_file": "uap_science_checkpoints/chunk_005_text.txt",
+    "text_length": 46777,
+    "status": "extracted",
+    "preview": " --- Page 1 --- or created by the UAP [279, p. 170][280][123, p. 89][281, 282]. This substance is generally called angel hair, or siliceous cotton. Angel hair resembles the gossamer threads used by sp"
+  },
+  "findings": [
+    {
+      "category": "craft",
+      "mention_count": 65,
+      "chunk_num": 5
+    },
+    {
+      "category": "phenomena",
+      "mention_count": 53,
+      "chunk_num": 5
+    },
+    {
+      "category": "technology",
+      "mention_count": 16,
+      "chunk_num": 5
+    },
+    {
+      "category": "witness",
+      "mention_count": 23,
+      "chunk_num": 5
+    },
+    {
+      "category": "government",
+      "mention_count": 12,
+      "chunk_num": 5
+    },
+    {
+      "category": "science",
+      "mention_count": 32,
+      "chunk_num": 5
+    }
+  ],
+  "timestamp": "2025-10-03T16:32:25.420836"
+}

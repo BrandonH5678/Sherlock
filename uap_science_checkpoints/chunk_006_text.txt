@@ -1,0 +1,779 @@
+
+--- Page 1 ---
+trophysical phenomena can cause the nine transients, and no instrumental
+effect was identified as the root cause. The team wondered whether plate
+contamination (plate defects) could be responsible, but found no support for
+the explanation as the transients have star-like brightness profiles.
+Furthermore, the team proposed that solar reflections from artificial ob-
+jects could produce subsecond transients. The team followed up with a pre-
+diction paper in Acta Astronautica [336] on how to identify potential non-
+human artifacts more clearly in geosynchronous orbits around the Earth by
+searching for several transients aligned in a row. Aligned transients help to
+secure the separation between potential plate defects and nonhuman arti-
+facts, and, indeed, two such statistically significant examples were identified
+[337]. More recently, the team identified a bright triple transient that also ap-
+pears and vanishes in 50 minutes, also without explanation [338]. Ironically,
+the triple transient and the most improbable candidate alignment occurred
+on 19 July 1952 and 27 July, respectively [339], two dates associated with
+the Washington UFO flyovers when multiple UFOs were observed by highly
+credible witnesses, both visually and over multiple airport radars.
+In order to verify the existence of the multiple transient phenomenon, the
+VASCO scientists have now started the new ExoProbe project [340], where
+the goal is to search for multiple transients and signatures of extraterrestrial
+probes with the help of multiple wide-field telescopes equipped with fast
+cameras, aiming to detect, validate, characterize the spectrum and localize
+any eventual probe.
+7.2. Private and Citizen Science Research Efforts
+7.2.1. The Hudson Valley - Pine Bush Studies. 1980—2003
+Hynek et al. [341] provided detailed accounts and witness descriptions
+for more than 62 individual sightings and some group sightings, selected
+from more than 7,000 reports from six Hudson valley counties. The wave of
+Hudson valley sightings was also described in [342] and [343].
+UFO researcher Ellen Crystall conducted an extensive ten-year study of
+UAP phenomena in the vicinity of Pine Bush, NY, starting in 1980 [344].
+Whereas the Hudson Valley sightings tapered off in 1986 after spreading
+north to Kingston, New York, and south to southern Long Island, New York
+(see Sec. 7.2.2), and northern New Jersey, Crystall along with other witnesses
+continued to observe anomalous objects near Pine Bush into late June 1988.
+The observed objects were described as triangular, rectangular, boomerang
+100
+
+--- Page 2 ---
+and dome-shaped, as well as orb-like light phenomena. Geologist Bruce Cor-
+net joined the research effort in the early 1990s. Cornet hypothesized that
+UAP activity in the area was related to the regional geology. This led him to
+perform a five-year, ground-based, geological study in the Wallkill River Val-
+ley, which runs through the Pine Bush region, with a focus on the mapping
+and monitoring of magnetic anomalies.
+UAP activity in and around Pine Bush rapidly dropped off in 1997, and
+moved elsewhere, reappearing and surging in Suffolk County (eastern Long
+Island) and Northern New Jersey around 2012, but never completely disap-
+pearing from Pine Bush and east of the Hudson Valley [345].
+7.2.2. Eye on the Sky
+The Eye on the Sky platform is a fully instrumented mobile sensor de-
+veloped by John and Gerald Tedesco, enabling the observation, detection,
+tracking, data collection, and identification of unidentified objects in our
+skies and along our coastline.
+This state-of-the-art experimental expedi-
+tionary vehicle, a fully instrumented high-tech mobile surveillance system,
+offered a centralized location and system integration for environmental sur-
+veys and safety assurance. As engineers in this study, the Tedescos deployed
+two iterations of a cutting-edge proto-type mobile laboratory-observatory ve-
+hicle. Nightcrawler-1, a robust ‘bottom-up construction design, was used for
+the first three months of the study. Nightcrawler-2, an RV with a robust ’top-
+down’ modification design and a retrofitted instrument payload, was used for
+the subsequent seven months of scientific field study due to its superior speed
+and mobility. It remains the current mobile system and is in continuous field
+use.
+John Tedesco, Gerald Tedesco, and Donna Nardo conducted a year-long
+investigation field research study at Robert Moses State Park (RMSP), which
+is located on a barrier island (Fire Island National Seashore) off the south
+shore of Long Island, NY [346, 347]. The location is known for its unique
+environmental conditions and potential for UAP. The research involved ten
+months of data collection and analysis at the field site, with 12 hour overnight
+observation shifts, including two months of research team meetings for careful
+review, analysis, and collation of the data. The objective was to determine
+whether aerial phenomena of an unknown nature exist in a coastal loca-
+tion and to characterize their properties and behaviors. In this data-centric
+study, a combination of primary (qualitative) and secondary (quantitative)
+field observation methods was utilized. The principles and methodologies
+101
+
+--- Page 3 ---
+of forensic engineering guided the study. The challenges set forward were
+object detection, observation typology, and characterization, where cutting-
+edge multispectral electro-optical devices and radar were employed due to
+limited visual acuity and intermittent presentation of the phenomena. The
+primary means of detection used a 3 cm X-band radar operating in two
+scan geometries, the x- and y-axis. Multispectral and hyperspectral electro-
+optical devices were used as a secondary detection and identification method.
+In addition, emphasis was placed on the use of high-frequency (HF) and low-
+frequency (LF) detectors and spectrum analyzers that incorporate electro-
+magnetic (EM) field transducers (ultrasonic, magnetic, and RF) to record
+spectral data in these domains. Data collection concentrated on recording
+a wide or broad bandwidth of the electromagnetic spectrum, including vis-
+ible, near-infrared (NIR), short-wave infrared (SWIR), long-wave infrared
+(LWIR), ultraviolet (UVA, UVB, and UVC), and the higher-energy spec-
+tral range of ionizing radiation (alpha, beta, gamma, and X-ray) recorded
+by Geiger–M¨uller counters as well as special-purpose semiconductor diode
+sensors.
+A complete telemetry monitoring system, with meteorological, atmo-
+spheric, and environmental displays, is inside the Nightcrawler. What makes
+this system unique is the use of detection systems such as active radar and
+hyperspectral optical systems. Active radar required the team to obtain an
+experimental license from the FCC to deploy this technology on a land-based
+mobile vehicle for UAP research. Furthermore, the radar system is innova-
+tive and proprietary. By using two Radome antennas scanning a target in
+two geometries, horizontal and vertical, an object size defined by its physical
+cross-sectional profile produces much more detail scanned in this way. This
+helps in better understanding the target’s distance, speed, and size.
+7.2.3. The UAP Tracker Project
+The UAP Tracker Project [348] was founded in and has been operational
+since October 2021 [349]. It is a citizen science project designed to monitor
+the skies for possible UAP events. The project uses five cameras, one with a
+fisheye lens and four directional cameras, a HIKVISION DS-2TD2637T-15/P
+therma/optical camera, as well as a passive forward scatter radar system
+[350], a MADAR-III-B electromagnetic sensor, and a Automatic Dependent
+Surveillance–Broadcast (ADS-B) tracking system to identify known aircraft.
+The project relies on off-the-shelf commercial grade equipment whose data
+output is processed by software, the majority of which is free and open source.
+102
+
+--- Page 4 ---
+The data and video are live streamed over YouTube.
+(https://www.youtube.com/channel/UCKO4qkQJvaGqsWLtqllbqxA),
+7.2.4. UFO Data Acquisition Project (UFODAP)
+The UFO Data Acquisition Project (UFODAP) system was developed
+as a collaboration between Ron Olch [351] and the previous UFO Camera
+Project team: Wayne Hollenbeck and Christopher O’Brien, to develop a low-
+cost optical tracking system for UAP studies. The purpose of UFODAP is to
+provide low-cost technology to recognize, track and record anomalous objects
+while simultaneously collecting data from multiple sensors. The UFODAP
+system is focused on visible / near-IR imagery as it performs moving target
+detection and tracking using a Pan-Tilt-Zoom (PTZ) camera and the Op-
+tical Tracking Data Acquisition Unit (OTDAU) software, which utilizes a
+commercial machine vision algorithm to identify moving targets and track
+them by rotation of the PTZ camera as needed. The UFODAP system was
+used by the UAlbany-UAPx Collaboration in their 2021 study of the Catalina
+Channel in southern California, published in this issue [61].
+7.2.5. Sky360
+Sky360 is an open source international sky observation project. Their ob-
+servation stations consist of an AllSkyCam with a wide angle fish-eye lens and
+a Pan-Tilt-Zoom (PTZ) camera, for which the wide-angle camera registers all
+movement and enables the PTZ camera for tracking. Their software, which
+is based on a computer vision “background subtraction” algorithm that mon-
+itors differences in successive video frames to detect any motion, performs
+a rough analysis of events in real time and decides whether to activate and
+deploy other sensors, such as the PTZ camera. In addition to providing ob-
+servation stations, Sky360 envisions facilitating “a citizen science project to
+observe the skies and all their phenomena around the globe, 24/7 and pro-
+vide harmonized high-quality results and analysis — available to everybody”
+[352].
+8. Organizations
+8.1. American Institute of Aeronautics and Astronautics (AIAA)
+The American Institute of Aeronautics and Astronautics (AIAA) estab-
+lished the Unidentified Anomalous Phenomena Integration and Outreach
+Committee (UAPIOC) in 2021 to advance the scientific understanding of
+103
+
+--- Page 5 ---
+Unidentified Anomalous Phenomena (UAP) and improve aerospace safety.
+Serving as a neutral, scientifically focused group, the UAPIOC brings to-
+gether aerospace professionals, academics, industry experts, and policymak-
+ers to collaboratively address the challenges associated with UAP research
+and integration into aerospace systems.
+The UAPIOC is dedicated to mitigating barriers to the scientific investi-
+gation of UAP and fostering an environment conducive to open, data-driven
+inquiry. The committee’s efforts are organized around two primary subcom-
+mittees:
+Hardware Factors Subcommittee
+The Hardware Factors Subcommittee focuses on the detection, charac-
+terization, and evaluation of UAP using advanced sensor systems. This
+group works to build an understanding of which multi-modal sensor
+packages best enable a deeper insight into UAP phenomena. Key activ-
+ities include:
+Sensor Evaluation and Selection:
+Evaluation of a variety of sensor systems, including radar, optical,
+infrared, and acoustic sensors, to determine the most effective com-
+binations for UAP detection and characterization.
+Collaborative Research:
+Partnering with private research groups on sensor selection, place-
+ment, and performance evaluation. These collaborations improve
+the quality and scope of the collected data.
+Technology Integration:
+Develop methodologies for integrating sensor data into comprehen-
+sive analytical frameworks to improve the detection and analysis of
+UAP.
+Human Factors Subcommittee
+The Human Factors Subcommittee addresses the human element in UAP
+incidents. Comprising of human factors engineers, cognitive scientists,
+and aviation safety experts, this group focuses on:
+Pilot Engagement and Interviews:
+Conduct direct and structured interviews with pilots who have en-
+countered UAP, using a two-phase approach to gather detailed ex-
+periential data.
+104
+
+--- Page 6 ---
+Collaboration with Americans for Safe Aerospace:
+Working closely with Americans for Safe Aerospace (ASA), a non-
+profit organization that receives UAP reports from commercial and
+US veteran aviators.
+With pilots’ permission, the subcommittee
+assesses incident cases for analysis.
+Safety Risk Evaluation:
+Assessing aviation safety risks associated with UAP based on col-
+lected data and pilot testimonies.
+Recommendations for Reporting Mechanisms:
+Formulating recommendations to enhance existing reporting sys-
+tems for aviators, aiming to improve data collection and safety pro-
+tocols.
+Scientific Contributions and Outreach
+The UAPIOC is involved in both advancing and promoting the scientific
+study of UAP through the following activities:
+Annual UAP-Focused Paper Sessions:
+The UAPIOC holds yearly paper sessions at the AIAA Aviation and
+ASCEND conferences. Throughout the year, the committee solicits
+papers from academia and industry that align with the missions of
+the Hardware Factors and Human Factors Subcommittees. These
+sessions aim to expand the understanding of UAP through rigorous
+scientific inquiry. Since its inception, the UAPIOC has facilitated
+the introduction of 15 UAP-related papers.
+Panel Discussions and Community Engagement:
+The committee organizes panel sessions at conferences to engage
+with the broader scientific and engineering community within AIAA.
+These panels provide platforms for experts to discuss current chal-
+lenges, share insights, and foster collaborative solutions related to
+UAP research.
+Collaborations with Academic Institutions:
+By partnering with leading universities and research organizations,
+the UAPIOC promotes interdisciplinary research efforts that ad-
+dress both technological and human aspects of UAP incidents.
+Impact and Future Directions
+The efforts of the UAPIOC have significantly advanced the scientific
+105
+
+--- Page 7 ---
+study of UAP and contributed to improving aerospace safety. By focus-
+ing on both technological advancements and human factors, the commit-
+tee addresses the multifaceted nature of UAP incidents. Looking ahead,
+the UAPIOC plans to:
+Expand Collaborative Research Initiatives:
+Continue partnerships with private research groups and academic
+institutions to advance sensor technologies, data analysis methods,
+and understanding of UAP phenomena.
+Enhance Pilot Reporting Mechanisms:
+Utilize findings from the Human Factors Subcommittee to advocate
+for improvements in US and international reporting systems, mak-
+ing it easier for aviators to report UAP encounters without fear of
+reprisal.
+Increase Educational Outreach:
+Develop training materials and workshops to educate pilots and
+aviation professionals about UAP detection, reporting procedures,
+and safety protocols related to UAP.
+Influence Policy and Standards Development:
+Work with government agencies and international organizations to
+influence policy changes and establish global standards for UAP
+reporting and investigation.
+Through its dedicated subcommittees and collaborative efforts, the AIAA
+UAPIOC plays a pivotal role in the new science of monitoring UAP. By inte-
+grating technological advances with human factors research, the committee
+improves the collective understanding of UAP and contributes to the safety
+and integrity of aerospace operations. The UAPIOC remains committed to
+fostering an open and scientific approach to UAP investigation, promoting
+transparency, and facilitating the advancement of aerospace knowledge.
+8.2. National Aviation Reporting Center on Anomalous Phenomena (NAR-
+CAP)
+The National Aviation Reporting Center on Anomalous Phenomena (NAR-
+CAP) was established late in 1999 by Richard F. Haines (Chief Scientist),
+(see Appendix A.5) and Ted Roe (Executive Director) to deal with the fact
+that commercial pilots were not reporting the aerial phenomena they had
+106
+
+--- Page 8 ---
+seen, of highly unusual and unexplainable characteristics, to their manage-
+ment. At the time, it was likely that military pilots were doing much the
+same.
+The aim was to offer a website (https://www.narcap.org/) on which
+all American pilots could submit the details of their encounters no matter
+how strange and unbelievable they were without discrimination or ridicule.
+NARCAP presented a safe place for them while evaluating their reports to:
+1. see if they might contain valuable scientific and/or engineering data
+that could be relevant to UAP 6 studies that might improve our under-
+standing.
+2. publish any findings on the NARCAP website for the benefit of any
+and all interested parties.
+3. help motivate other pilots to report their sightings as well.
+All pilot and air traffic controller names were kept confidential to protect
+them from unwarranted and often biased recrimination. It was decided to
+confine the studies only to US pilots and, if there was any possibility that the
+sighting might contain restricted data, NARCAP would not get involved.
+In order to help NARCAP gain and maintain an image of objectivity and
+neutrality in this controversial area of study, one that had long-collected a
+distorted image smeared by skeptics for decades, and be accepted by aviation
+authorities (FAA, commercial airlines, government agencies and its many de-
+partments, and others) NARCAP deliberately avoided all contact with UFO
+groups. NARCAP operated under the premise that if the work of private
+UAP organizations was ever going to be accepted by the government and the
+aviation community, they would have to prove themselves by providing some
+kind(s) of useful, practical data of value.
+The “useful product” generated by NARCAP was safety as related to avi-
+ation. Today, there are 715 licensed commercial airlines in the world. Of
+these, US airlines carried 853 million passengers in 2022 and 980 million the
+following year. Worldwide, airlines carried 342 billion passengers in 2022 and
+468 billion in 2023. This represents a very large number of potential eye wit-
+nesses of UAP not even counting the flight crews. Unfortunately, eyewitness
+reports from airplane passengers provide very little reliable information on
+6Richard Haines (NARCAP) first used the UAP acronym.
+107
+
+--- Page 9 ---
+UAP. However, in 2022, a total of 366 UAP aviation reports were received
+by US government officials and about 171 of them were evaluated as un-
+explained. In 2023 there were 270 reports reported to the Department of
+Defense with a few from commercial pilots. In fact, most of them came from
+military pilots. During NARCAP’s twenty-four years of operation, NARCAP
+received many valuable reports from private pilots as well.
+Why are pilot and related aircrew reports valuable?
+1. Pilots are highly trained, educated, and experienced witnesses. They
+have seen a wide variety of weather and related visual phenomena in
+their careers and so, may not be so easily fooled to misinterpret some-
+thing. This is not to say they can’t be fooled by some highly unusual
+opto-visual atmospheric effects as skeptics often suggest.
+2. If pilots do make a report they usually do so only after eliminating a
+long list of “more acceptable” explanations and are finally left with an
+unknown—a UAP. When they do report, they often end up facing the
+negative scrutiny of their employers. This is why NARCAP guarantees
+their anonymity.
+3. They are flying airplanes carrying a greal deal of sensitive instrumen-
+tation that might sense, and even record, electro-magnetic radiation
+related to the UAP, local air temperature and/or pressure changes,
+and more.
+4. They are in radio contact with ground support personnel such as radar
+operators who can check if there may be some other sufficiently reflect-
+ing and/or emitting object(s) nearby or even scramble other airplanes
+to assist.
+5. They can maneuver to avoid a collision or achieve a different perspective
+on the UAP, for example, to get above it with the Earth as background
+and thereby establish its maximum visual slant range.
+Pilots make good witnesses.
+NARCAP called together an advisory group made up of two notable
+physicists, several engineers and pilots, a meteorologist, an air traffic con-
+troller, a human factors specialist, and several others. They provided invalu-
+able advice on technical and policy issues. See Section Appendix A.17 in this
+report regarding Jacques Vall´ee who also served on their Advisory Board.
+108
+
+--- Page 10 ---
+How could UAP flying near an airplane possibly be dangerous? First, if
+the UAP came close enough, the pilot might make a rapid avoidance ma-
+neuver (in addition to its various consequences to passengers and subsequent
+responses by air traffic controllers on the ground). The flight crews could
+then become so fascinated by their presence that they interfere with their
+continuous monitoring of their flight instruments.
+Disturbances of various cockpit instruments by electro-magnetic energy
+(seemingly) emanating from the UAP could impact flight safety [353]. This
+has also definitely happened. Having reliable E-M data may contribute to a
+fuller understanding of the physics related to UAP.
+The NARCAP model has helped to foster similar organizations in other
+nations. Since aviation safety is so important to so many people, it is not
+surprising that NARCAP’s mission-objectives and reporting procedures have
+led others in Chile and Germany to form their own national organizations.
+There may well be others as well. NARCAP has been in communication with
+pilots and officials in many other nations.
+NARCAP has produced reports, which have been subdivided into the
+following categories (all are available at https://www.narcap.org/): Tech-
+nical Reports: (In-depth reports of specific cases); Topical Reviews: (topical
+subjects possibly related to operations and existence of UAP); Investigator
+Support Papers: (a variety of useful information for interested researchers
+prepared by American and foreign authors); International Air Safety Reports:
+(Reports of foreign UAP encounters and related phenomena of interest to US
+investigators); and International Technical Specialist Reports: (collection of
+broad statistics and topics of general interest).
+8.3. The Scientific Coalition for UAP Studies (SCU)
+The Scientific Coalition for UAP Studies (SCU), a nonprofit organization
+dedicated to the scientific study of the phenomena, was organized in 2017 and
+incorporated as a 501(c)(3) non-profit in 2018. The organization is managed
+by a Board of Directors and eight Board Advisors that meet monthly.
+The SCU mission is the scientific exploration of unidentified aerospace
+phenomena, and it achieves its mission with the following goals and objec-
+tives:
+• to establish a foundation and resource for credible, objective, scientific
+peer reviewed content on the subject of UAP;
+109
+
+--- Page 11 ---
+• to create partnerships in scientific and technological endeavors to ex-
+plore UAP with other scientific organizations, universities, and govern-
+ments bodies to help improve the data collection, data dissemination
+and research of the UAP subject;
+• and to sponsor public and networking environments and events to aug-
+ment communication within the serious research community.
+The organization is international in scope and is currently composed of
+over 350 members from a wide diversity of scientific disciplines and the ma-
+jority with advanced degrees. SCU is highly regarded for its transparency
+and credibility. In addition to numerous published scientific studies [354, 300,
+134, 259, 355, 356, 236, 243, 357, 244], it holds annual conferences, publishes
+a quarterly newsletter, supports UAP project teams, hosts a podcast, and
+provides periodic press releases.
+8.4. The Sentinel Center
+The Sentinel Center [358] is an association created in 2024 to promote
+scientific research and archiving of documentation concerning maritime, land,
+air and space surveillance.
+The Sentinel Library [359] facilitates access to documents through its
+Internet portal, allowing the referencing of texts, analyses, and references
+listed in chronological order to facilitate the work of scientists. The Library
+also has its own physical library, hosted in France, which can be consulted by
+a residency in the Champagne region, alongside archives that are held under
+its care.
+The Sentinel Lab [209] designs and tests surveillance platforms aiming
+to record fast moving targets that would otherwise evade astronomical in-
+struments. It consists of a mobile observatory able to be deployed during
+high-intensity events and a fixed observatory located in a low light pollution
+environment, hosted at the same site as the Library. Finally, Sentinel News
+[360] acts as an information platform covering scientific and military news
+related to UAP in English, French, Spanish, and Italian.
+8.5. 3AF-SIGMA2
+SIGMA2 is a Technical Commission of 3AF (Association A´eronautique et
+Astronautique de France) comprised of 25 experts in aeronautics and astro-
+nautics on physical observables, as well as the effects of unknown aerospace
+110
+
+--- Page 12 ---
+phenomena. 3AF (http://www.3af.fr) is a technical society registered un-
+der the French legislation (France, Loi 1901, non-profit organization), which
+gathers about 1500 individual members as well as aerospace industrial, aca-
+demic and institutional partners including CNES (French Space National
+Agency), DGAC (French Civil Aviation Directorate), DGA (French MoD
+Directorate for armament programs and exports), ISAE (French aerospace
+school of engineers), Airbus, Dassault Aviation, MBDA, SAFRAN, THALES
+and many other groups.
+The 3AF UAP technical commission was created in 2008 bringing to-
+gether aeronautics experts. It was renamed SIGMA, then SIGMA2 in 2013.
+SIGMA2 was tasked with a new and specific mandate. Its mission is not
+to conduct investigations in the field on UAP cases (GEIPAN mission for
+cases in France), but to study unexplained UAP cases (foreign or D type
+in GEIPAN typology, which amount to unexplained cases based on reliable
+testimony) using a scientific methodology. SIGMA2 consists of 25 high-level
+experts from the civil or military domains (research or industry laboratories).
+They are skilled in aeronautics and space, air, space and missile defense, elec-
+tromagnetic radiation physics and weapons, high-energy plasma, medicine,
+biology, missile propulsion, radar, IR, acoustical detection. They are mainly
+engineers, Ph.D.s., astronauts, fighter and civil pilots, air traffic controllers,
+and some experts in political science, psychologists, and physics. Their ob-
+jective is to conduct analysis on the UAP cases based on physical observables,
+on physical or psychological effects, which can involve multiple domains from
+medicine to electronics warfare and directed energy weapons.
+As a result, SIGMA2 studies of UAP cases are conducted scientifically
+by relying on physical data like radar, IR/electro-optical or electromagnetic
+observables, with the goal of understanding the physics related to the UAP
+observables, including the effects induced on human beings. For this rea-
+son, the efforts of SIGMA2 are interdisciplinary in nature, simultaneously
+involving physicists employing optical, infrared, and electromagnetic sensors
+to study the observables of UAP, but also involving psychologists studying
+the effects induced on humans, including the psychological effects of UAP on
+people.
+Many reports and documents are published in the 3AF-SIGMA2 media
+repository [361] among them the 3AF-SIGMA2 Progress Report 2021, which
+includes a list of cases analysis and a tour of the physical features of UAP
+[149]. 3AF-SIGMA2 also organizes webinars on physical observables of UAP
+[362].
+111
+
+--- Page 13 ---
+8.6. The Society for UAP Studies (SUAPS)
+The Society for UAP Studies (https://www.societyforuapstudies.o
+rg/) is a 501(c)(3) nonprofit organization, which was organized in September
+2022 to play a vital role in creating the necessary academic foundations for a
+stable and sustainable transgenerational scholarly field focused on the many
+aspects of UAP. The Society takes as its primary mission to promote and
+actively aid in the development of UAP studies as a proper area of scholarly
+research.
+As a professional scholarly association, the Society for UAP Studies ex-
+ists both for the kind of professional development expected of such an or-
+ganization, such as organizing conferences and colloquia; conducting public
+roundtable discussions on key issues; developing academic curricula and ped-
+agogy in the field, among many other activities and functions, and for broader
+community outreach. With its outreach, the Society aims not only to raise
+awareness about the subject, but — and most importantly — to help educate
+the general public on how it is that scholars approach their subject, even one
+as complex and challenging as UAP.
+SUAPS manages and publishes the only English-language, peer-reviewed
+scholarly journal devoted entirely to UAP Studies: Limina - The Journal of
+UAP Studies. It is hosted by Scholastica at: https://limina.scholasticahq.com/.
+The Society plays a vital role in demonstrating to other academics that
+not only does UAP Studies have as valid a place within mainstream academia
+as any other established field (even though it is still a young, developing area
+of study), it also plays a vital role in demonstrating that the empirical study
+of UAP (i.e. as an object of investigation for the natural sciences) can be done
+by using the accepted methods and practices of the sciences not to dismiss the
+subject (or explain it away), but rather to sincerely pursue UAP as a genuine
+problem in the physical sciences — one that potentially requires explanatory
+options outside of what is accepted as conventional. Mainstream scholars are
+right to worry about stepping outside of conventional explanations when it
+comes to UAP; but equally, scholars and scientists should be able to (and
+indeed should be expected to) engage in the more challenging meta-theoretical
+and philosophical considerations that must be tackled when attempting to
+challenge or exit altogether conventional thinking - whether for UAP or for
+any other object of careful study.
+This, finally, is also what the Society
+exists for: organized, systematic inquiry at the meta-theoretic and more
+philosophical levels, as an aid to navigating the terrain of unconventional -
+or what we might call “liminal” — epistemologies.
+112
+
+--- Page 14 ---
+8.7. The Sol Foundation
+The Sol Foundation addresses the complex political, scientific, and so-
+cial challenges raised by UAP by combining an academic research institute
+and a policy think tank into one organization. This allows the foundation
+to provide policymakers with scientific insights into the puzzling data they
+face while guiding academics to listen to the US government as it releases
+UAP information. Sol’s approach has led to requests for advice from several
+national governments, including the US Senate and House, the Parliament of
+Canada, the EU Parliament and Commission, and the Parliament of Japan.
+The institute’s non-applied research focuses on three problems: the prove-
+nance of potential UAP materials, human narratives and experiences about
+so-called non-human intelligence, and how multi-agent AI can be used to
+reduce UAP misinformation.
+8.8. UAP Check
+An international network called UAP Check was launched from Europe
+in 2023 [363]. Among its goals are to:
+1. Survey ongoing research activities about UAP worldwide, update a list
+of who is doing what, and connect those who are working on similar
+projects.
+2. Build a vetted bibliography on the UAP topic. The first two parts of
+the bibliography were published in 2024:
+• The first part consists of a collection of 460 university theses and
+dissertations on UFO / UAP, which is now available as both a
+catalog [364] and a search tool [365].
+• The second part is a selection of 690 articles published on the
+specific topic in peer-reviewed scientific journals [366].
+These efforts aim to improve outreach efforts, reduce stigma, and provide
+reliable information about UAP.
+9. Social Sciences
+Although this paper has focused mainly on the physical sciences, it is
+important to recognize that UAP have also been the subject of considerable
+113
+
+--- Page 15 ---
+research within the social sciences. While a thorough analysis of UAP re-
+search in this field would require an exploration as detailed as the current one
+on the physical sciences — a task beyond the scope of this paper — we can
+nonetheless identify key limitations that the social sciences have encountered
+and suggest alternative directions they might pursue if these limitations were
+overcome.
+The central methodological approach in social science studies of UAP
+has been the suspension of judgment regarding their existence. This princi-
+ple allows researchers to evaluate controversial claims more objectively and
+shields them from the stigma that still often surrounds the topic of UAP. By
+avoiding a stance on the actual existence of UAP, social scientists focus on
+people’s beliefs and perceptions. They explore how these beliefs should be
+best understood—as myths [367, 368, 369] religious phenomena [370, 371],
+forms of rationality [371] or irrationality [370], or alternative lay sociological
+constructs [372]—–and analyze the social consequences that arise, such as the
+development of new religious movements [373], forms of social estrangement
+[374] or shifts in political orientations [375].
+This approach means that social scientists primarily focus on the individ-
+uals who claim that UAP are real, rather than investigating anything about
+UAP themselves. By suspending judgment or presuming nonexistence, these
+studies tend to offer purely sociological or psychological explanations for why
+certain individuals or communities hold beliefs considered fringe. Although
+the assumption that one can analyze a phenomenon socially without con-
+sidering its actual existence has been a powerful methodological tool, it also
+risks a form of social reductionism: treating UAP solely as social constructs
+without acknowledging any independent social consequences their existence
+might entail.
+An analogy with climate change helps to clarify this point. Beliefs about
+climate change have significant social (and existential) consequences that
+merit study, but climate change itself has tangible societal effects that ex-
+tend beyond individual or collective beliefs. If researchers indefinitely sus-
+pend their judgment on the reality of climate change, they miss the opportu-
+nity to study its direct impact on social structures and practices. Similarly,
+by suspending judgment on the existence of UAP, social scientists limit the
+range of questions they can ask witnesses and may overlook the potential
+significance of patterns in testimonies. For example, when witnesses across
+decades and regions report objects that show intelligent control, incredible
+speeds, non-aerodynamic shapes and maneuvers, and near-complete silence,
+114
+
+--- Page 16 ---
+a social theorist might focus on how these accounts spread as sociocultural
+memes and express long-standing cultural anxieties [376]. This focus risks
+ignoring what these reports might reveal about the underlying phenomenol-
+ogy of whatever is controlling the UAP. As a result, this approach can distort
+our understanding of witness testimonies by reducing them solely to historical
+and sociocultural phenomena.
+Despite various studies on UAP within the social sciences, researchers
+have seldom taken the possibility of their actual existence seriously enough
+to challenge the foundational assumptions of their disciplines. They have
+not explored how their methodologies and theories would need to evolve if it
+were the case that a higher non-human intelligence has been interacting with
+humans over time. Critical questions remain unaddressed: How might such
+interactions have shaped societal structures? How can we accurately discern
+and characterize their social influences? How would this shift our interpreta-
+tions of witness testimonies? What recurring patterns should we prioritize in
+reports and what significance should be attributed to them? These questions
+have largely been neglected because the social sciences have not seriously
+considered the prospect of technologically advanced non-human intelligences
+interacting with humanity.
+The tendency to suspend judgment—a stance
+that has been understandable given the stigma around UAP studies—has led
+to reductionist explanations that risk overlooking critical dimensions of the
+phenomenon. However, researchers risk professional censure if they deviate
+from this norm.
+There have been notable exceptions to this general trend. A prominent
+example is the argument of Alexander Wendt and Raymond Duvall [377] that
+if UAP were real, governments would be compelled to deny their existence.
+They contend that acknowledging UAP would threaten the anthropocentric
+foundations of state sovereignty and, by extension, sovereignty itself. Official
+recognition of UAP would imply a lack of control over national security, thus
+undermining the legitimacy of the government. Their argument provides a
+compelling theoretical framework for understanding why governments might
+resist disclosing information about UAP. However, this line of thought has
+not been further developed or explored by other social scientists, leaving
+critical questions unaddressed.
+For example, governments are complex entities composed of intercon-
+nected and overlapping bureaucracies that rarely operate in perfect unison.
+This complexity suggests that gaps within these structures could be ex-
+ploited, potentially leading to some level of official recognition of UAP. Wendt
+115
+
+--- Page 17 ---
+and Duvall’s argument also opens the possibility of exploring how internal
+factions within governments—some pushing for greater disclosure, others for
+secrecy—could create public confusion about the existence of UAP. This dy-
+namic, evident today in the conflicting statements from various government
+sources, may also help explain the social and political confusion surrounding
+UAP in recent years [378][379]. These aspects of Wendt and Duvall’s work
+highlight promising avenues of inquiry that could shed light on what we are
+seeing today, yet have largely been left unexplored by the broader field.
+Another potential extension of Wendt and Duvall’s argument could ex-
+plore the idea that if UAP are indeed advanced nonhuman intelligences,
+governments might actively suppress related scientific research to maintain
+national security, a fundamental aspect of state sovereignty. This suppression
+could include efforts to reverse engineer nonhuman technology, with nations
+competing against each other to gain technological advantages —- a claim
+that some highly placed government officials have recently made [380]. The
+impact of such secrecy on the development of a legitimate academic science
+of UAP remains largely unexamined, as are the broader implications for in-
+ternational relations.
+These unexplored areas highlight the limitations of
+suspending judgment on the existence of UAP and challenge the notion that
+the social consequences of UAP can be fully understood without confronting
+the reality of the phenomenon itself.
+Moving beyond these questions of governmental dynamics, scholars like
+Diana Pasulka [381, 382] and Jeffrey Kripal [383, 384] have offered fresh
+perspectives on the UAP phenomenon by examining its intersections with
+religious and mystical experiences. They argue that UAP encounters bear
+remarkable resemblances to experiences recounted in religious and mystical
+texts, blurring the lines between the sacred and the secular, the technological
+and the spiritual. Without claiming that historical religious encounters were
+actually UAP sightings or that modern UAP encounters are simply contem-
+porary religious or mystical experiences, Pasulka and Kripal highlight how
+these similarities challenge fundamental categories. Their work suggests that
+a purely physical scientific approach may be insufficient to fully comprehend
+UAP. By emphasizing these phenomenological parallels, they call attention
+to the need for new concepts, categories, and methodologies that transcend
+traditional disciplinary boundaries, enabling a more nuanced apprehension
+of UAP.
+This has significant implications not only for religious studies but for the
+social sciences and the scientific community as a whole. By exploring these
+116
+
+--- Page 18 ---
+dimensions, researchers could begin to address critical questions previously
+neglected, such as how UAP might interact with human consciousness or
+influence cultural narratives. Incorporating such perspectives encourages a
+more comprehensive understanding of UAP phenomena, moving beyond re-
+ductionist explanations and acknowledging that existing scientific paradigms
+may not fully capture their complexity. This approach underscores the neces-
+sity of interdisciplinary collaboration and innovative methodological frame-
+works to advance our understanding of both human experiences and the
+nature of UAP themselves.
+In summary, the social sciences have typically approached the UAP topic
+by suspending belief in their existence and treating believers as subjects of
+a peculiar social phenomenon. This analytical stance separates the study of
+social impacts from the question of the actual existence of UAP, assuming
+that the social analysis would remain the same regardless. This approach
+contrasts sharply with how social scientists engage with more conventional,
+legitimate fields of science and technology. In those areas, researchers explore
+how scientific communities establish evidentiary standards [385], develop rea-
+soning frameworks [386], and form epistemic objects [387, 388] — all while
+acknowledging the existence of the phenomena they study.
+For example,
+social scientists examining virology would never question the existence of
+viruses, as doing so would fundamentally change the interpretation of scien-
+tific practices and findings.
+However, in the case of UAP, the focus tends to remain on why people
+hold these beliefs, without seriously considering that such beliefs might be
+rooted in actual events. This oversight often leads to the dismissal of soci-
+ological evidence that might point toward the existence of UAP. To deepen
+our understanding, social scientists may need to move beyond the safe har-
+bor of suspended judgment and consider more openly the potential existence
+of UAP and the profound implications this could have on society, research
+methodologies, and the foundational assumptions of their disciplines.
+10. The Scientific Methodology and Best Practices for Collecting
+UAP Data
+In this section we summarize the scientific methodology that has been
+found to be useful, as well as best practices, to detect, monitor and study
+UAP. Several papers have been published that present useful summaries.
+Most notable are the papers by Ailleris [63, 64], the Galileo Project [329, 332,
+117
+
+--- Page 19 ---
+327, 331, 62], the Hessdalen Project [316, 313, 389, 314, 315], the UAlbany-
+UAPx Collaboration in this volume [61], the UAP Tracker Project [349,
+348], the Tedescos’ Eye On The Sky Project [347, 346], and the numerous
+IFEX projects, such as SKY-CAM, SONATE-2, KI-SENS, and VaMEx3-
+MarsSymphony, which are summarized in Sec. 7.1.3.
+It is generally agreed that the optimal methodology to study UAP relies
+on many different types of instruments, spatially separated, to dramatically
+reduce the possibility of error. This is the only way in which the scientific
+community will recognize truly anomalous data.
+The modern equivalent
+is that of multi-messenger astronomy, which uses instruments of multiple
+modalities [62, 61]. The UAlbany-UAPx Collaboration makes the following
+recommendation, “We recommend at least two of each type of sensor and
+2+ distinct sensor types.”, along with a statistical procedure to define terms,
+such as coincidence, ambiguity and anomaly: [61]
+We suggest (scientific) UAP researchers adopt the following con-
+ventions: An ambiguity requiring further study is a coincidence
+between two or more detectors or data sets at the level of 3σ
+or more, with a declaration of genuine anomaly requiring (the
+HEP-inspired) 5σ... Coincidence here is defined as “simultaneity”
+within the temporal resolution, and spatial when germane. This
+way, one rigorously quantifies the meaning of extraordinary evi-
+dence, in the same way it has been done historically by particle
+physicists, who have established a very high bar to clear. The sta-
+tistical significance must be defined relative to a null hypothesis,
+in our case accidental coincidence, combined with causally-linked
+hypotheses, like cosmic rays striking camera pixels.
+Additional discussion of these concepts and the criteria for recognizing out-
+liers, anomalies, and novel classes in the formal analysis of multimodal in-
+strument data can be found in [62, 330].
+To achieve useful results, precision is required. The experimenter must
+know both the position and pose (orientation) of the instrumentation and
+acquire data with precise timing.
+10.1. Time Synchronization
+Time synchronization of the equipment is important so that recorded
+events can be precisely correlated. The precision required should be a func-
+tion of the rate at which the data is collected, which is typically different for
+118
+
+--- Page 20 ---
+different instruments. For example, typical video frame rates are on the or-
+der of 24 fps (frames per second), which corresponds to a characteristic time
+of 41.6 ms. Since some video cameras can handle frame rates of 300 fps, this
+would suggest that better time synchronization than 3 ms would be desirable.
+10.2. Instrument Positioning
+One way to control the positioning of the instrumentation is to mount
+the equipment on a rack so that they have known relative positions. The
+positions and orientations of multiple racks would then have to be measured,
+most likely with precisions appropriate to the sizes of the specific pieces of
+equipment, which will be of the order 1 −10 cm. The positions of multiple
+pieces of instrumentation can be more easily measured and monitored using
+a Local Positioning System (LPS) [390, 391, 392, 393].
+10.3. Diverse Types of Instrumentation
+It is desirable to have many different types of instrumentation to measure
+different aspects of the phenomenon. The papers published by the different
+currently operating groups, mentioned above at the beginning of this section,
+provide a great deal of information on the methodologies, measurements, and
+instrumentation employed.
+10.3.1. Light-Based Imagery
+In this section, we discuss UAP imagery based on light acquisition. This
+includes optical imagery ranging from infrared (IR) through visual (VIS)
+to ultraviolet (UV) imagery. Given both the large number of UAP images
+recorded using visible-light cameras, as well as the US Navy and Homeland
+Security imagery recorded in the near-infrared range using Forward Look-
+ing InfraRed (FLIR) Cameras, imagery in these modalities is already rather
+familiar.
+Acquiring imagery in the near- and far-infrared is important, as in addi-
+tion to imagery at wavelengths inaccessible to the human eye, IR imagery
+has the capability to provide information that enables one to estimate the
+temperatures of the object. This is especially important with UAP, as it
+has been observed that many UAP are extremely cold (sometimes at tem-
+peratures down to -50 C or −60◦F). Such imagery can provide important
+information about the lift and propulsion mechanisms employed by the UAP.
+In addition, obtaining ultraviolet (UV) imagery extends the imaging window
+119

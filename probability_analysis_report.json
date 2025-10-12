@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-10-03T16:59:15.693441",
+  "database_stats": {
+    "sources": 35,
+    "claims": 420,
+    "speakers": 56
+  },
+  "probabilities": {
+    "nhi_reality": {
+      "probability": 0.7336174746936601,
+      "confidence_interval": [
+        0.5836174746936601,
+        0.8836174746936601
+      ],
+      "reasoning": "Strong physical, witness, and sensor evidence from credible sources across decades and countries. Government acknowledgment of unexplained phenomena. Countered by official denials and lack of unambiguous public proof."
+    },
+    "pre_wwii_research_lying": {
+      "probability": 0.95,
+      "confidence_interval": [
+        0.7999999999999999,
+        1
+      ],
+      "reasoning": "Strong historical documentation of government programs from 1933+. PROVEN track record of government lying about classified programs (Mockingbird, MK-Ultra, JFK obstruction). Compartmentalization structure enables decades of secrecy. Countered mainly by official denials which lack credibility given established deception patterns."
+    },
+    "criminal_conspiracy": {
+      "probability": 0.95,
+      "confidence_interval": [
+        0.7999999999999999,
+        1
+      ],
+      "reasoning": "Multiple credible whistleblowers testifying under oath to illegal activity. PROVEN historical pattern: Iran-Contra, MK-Ultra, JFK obstruction show government WILL engage in criminal conspiracies, lie to Congress, and obstruct for decades. Pentagon financial opacity enables misappropriation. Structural capability (compartmentalized SAPs) exists. Countered mainly by official denials which historically precede eventual exposure."
+    }
+  }
+}

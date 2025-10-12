@@ -1,0 +1,43 @@
+{
+  "chunk_info": {
+    "chunk_num": 4,
+    "chunk_path": "/home/johnny5/Downloads/new science of UAP_chunks/new science of UAP_chunk_004_pages_61-80.pdf",
+    "text_file": "uap_science_checkpoints/chunk_004_text.txt",
+    "text_length": 38815,
+    "status": "extracted",
+    "preview": " --- Page 1 --- A B C D B Reactor Construction  Begins Aug 1943 B Reactor Completed Sept 1944 Plutonium Produced Dec 1944 X-10 Plant Uranium to Los Alamos Construction Begins for Plutonium Site Y-12 P"
+  },
+  "findings": [
+    {
+      "category": "craft",
+      "mention_count": 38,
+      "chunk_num": 4
+    },
+    {
+      "category": "phenomena",
+      "mention_count": 28,
+      "chunk_num": 4
+    },
+    {
+      "category": "technology",
+      "mention_count": 8,
+      "chunk_num": 4
+    },
+    {
+      "category": "witness",
+      "mention_count": 25,
+      "chunk_num": 4
+    },
+    {
+      "category": "government",
+      "mention_count": 7,
+      "chunk_num": 4
+    },
+    {
+      "category": "science",
+      "mention_count": 21,
+      "chunk_num": 4
+    }
+  ],
+  "timestamp": "2025-10-03T16:32:25.371890"
+}

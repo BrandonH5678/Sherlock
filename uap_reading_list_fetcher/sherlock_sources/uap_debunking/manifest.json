@@ -1,0 +1,122 @@
+[
+  {
+    "title": "FY2024 Consolidated Annual Report on UAP (Unclassified)",
+    "source_url": "https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024",
+    "local_path": "sherlock_sources/uap_debunking/4020-uap-2024.html",
+    "status": "OK",
+    "type": "html",
+    "tags": [
+      "UAP",
+      "debunk",
+      "constraints"
+    ]
+  },
+  {
+    "title": "AARO Historical Record Report, Volume I (Mar 8, 2024)",
+    "source_url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+    "local_path": "sherlock_sources/uap_debunking/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+    "status": "OK",
+    "type": "pdf",
+    "tags": [
+      "UAP",
+      "debunk",
+      "constraints"
+    ]
+  },
+  {
+    "title": "NASA UAP Independent Study Team \u2013 Final Report (2023)",
+    "source_url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf",
+    "local_path": "sherlock_sources/uap_debunking/uap-independent-study-team-final-report.pdf",
+    "status": "OK",
+    "type": "pdf",
+    "tags": [
+      "UAP",
+      "debunk",
+      "constraints"
+    ]
+  },
+  {
+    "title": "Starlink Misidentification Case Study (Buettner et al., 2024, PDF)",
+    "source_url": "https://arxiv.org/pdf/2403.08155",
+    "local_path": "sherlock_sources/uap_debunking/2403.08155.pdf",
+    "status": "OK",
+    "type": "pdf",
+    "tags": [
+      "UAP",
+      "debunk",
+      "constraints"
+    ]
+  },
+  {
+    "title": "ODNI Preliminary Assessment of UAP (2021)",
+    "source_url": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+    "local_path": "sherlock_sources/uap_debunking/Prelimary-Assessment-UAP-20210625.pdf",
+    "status": "OK",
+    "type": "pdf",
+    "tags": [
+      "UAP",
+      "debunk",
+      "constraints"
+    ]
+  },
+  {
+    "title": "2022 Annual Report on UAP (ODNI)",
+    "source_url": "https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf",
+    "local_path": "sherlock_sources/uap_debunking/Unclassified-2022-Annual-Report-UAP.pdf",
+    "status": "OK",
+    "type": "pdf",
+    "tags": [
+      "UAP",
+      "debunk",
+      "constraints"
+    ]
+  },
+  {
+    "title": "Project Condign \u2013 UAP in the UK Air Defence Region (Volumes 1\u20133) (archive.org index)",
+    "source_url": "https://archive.org/details/condign-vol-2-1-258",
+    "local_path": "sherlock_sources/uap_debunking/condign-vol-2-1-258.html",
+    "status": "OK",
+    "type": "html",
+    "tags": [
+      "UAP",
+      "debunk",
+      "constraints"
+    ]
+  },
+  {
+    "title": "Knuth et al. The New Science of UAP (arXiv record)",
+    "source_url": "https://arxiv.org/abs/2502.06794",
+    "local_path": "sherlock_sources/uap_debunking/2502.06794.html",
+    "status": "OK",
+    "type": "html",
+    "tags": [
+      "UAP",
+      "debunk",
+      "constraints"
+    ]
+  },
+  {
+    "title": "Schulze-Makuch & Reichhardt (2025) Reliability Scale for UAP (MDPI)",
+    "source_url": "https://www.mdpi.com/2218-1997/11/10/326",
+    "local_path": "sherlock_sources/uap_debunking/326.html",
+    "status": "OK",
+    "type": "html",
+    "tags": [
+      "UAP",
+      "debunk",
+      "constraints"
+    ]
+  },
+  {
+    "title": "Daghbouche (2025) Computational Complexity of UAP Reverse Engineering (arXiv PDF)",
+    "source_url": "https://arxiv.org/pdf/2505.00051",
+    "local_path": "sherlock_sources/uap_debunking/2505.00051.pdf",
+    "status": "OK",
+    "type": "pdf",
+    "tags": [
+      "UAP",
+      "debunk",
+      "constraints"
+    ]
+  }
+]

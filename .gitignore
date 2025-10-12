@@ -109,3 +109,15 @@ api_keys.txt
 
 # Large generated visualization (regenerable from data)
 audiobooks/operation_gladio/gladio_network.png
+
+#==============================================================================
+# LARGE PDF DOCUMENTS (>10MB - NOT FOR GITHUB)
+# Source documents too large for Git, users should obtain separately
+#==============================================================================
+
+# Ancient texts research documents
+ancient_texts/book_of_enoch.pdf
+ancient_texts/sign_and_seal.pdf
+
+# Large evidence documents
+evidence/thread3_documents.pdf

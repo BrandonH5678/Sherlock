@@ -1,0 +1,392 @@
+{
+  "processing_date": "2025-10-03T16:32:25.614713",
+  "source_id": "uap_science_doc_2024",
+  "total_chunks": 10,
+  "successful_chunks": 10,
+  "total_characters": 418462,
+  "chunk_results": [
+    {
+      "chunk_num": 1,
+      "chunk_path": "/home/johnny5/Downloads/new science of UAP_chunks/new science of UAP_chunk_001_pages_1-20.pdf",
+      "text_file": "uap_science_checkpoints/chunk_001_text.txt",
+      "text_length": 41674,
+      "status": "extracted",
+      "preview": " --- Page 1 --- Highlights The New Science of Unidentified Aerospace-Undersea Phenomena (UAP) Kevin H. Knuth, Philippe Ailleris, Hussein Ali Agrama, Eamonn Ansbro, Phyllis A. Budinger, Tejin Cai, Thib"
+    },
+    {
+      "chunk_num": 2,
+      "chunk_path": "/home/johnny5/Downloads/new science of UAP_chunks/new science of UAP_chunk_002_pages_21-40.pdf",
+      "text_file": "uap_science_checkpoints/chunk_002_text.txt",
+      "text_length": 44169,
+      "status": "extracted",
+      "preview": " --- Page 1 --- an incoming object shaped like an airplane fuselage with no wings or tail [93, 67]. They estimated the object to be about 100 feet in length with a barrel diameter about three times as"
+    },
+    {
+      "chunk_num": 3,
+      "chunk_path": "/home/johnny5/Downloads/new science of UAP_chunks/new science of UAP_chunk_003_pages_41-60.pdf",
+      "text_file": "uap_science_checkpoints/chunk_003_text.txt",
+      "text_length": 48913,
+      "status": "extracted",
+      "preview": " --- Page 1 --- with an array of scientific instruments: a gravimeter to measure the Earth\u2019s gravity, a magnetometer to detect magnetic field variations, and even an ionospheric reactor to study atmos"
+    },
+    {
+      "chunk_num": 4,
+      "chunk_path": "/home/johnny5/Downloads/new science of UAP_chunks/new science of UAP_chunk_004_pages_61-80.pdf",
+      "text_file": "uap_science_checkpoints/chunk_004_text.txt",
+      "text_length": 38815,
+      "status": "extracted",
+      "preview": " --- Page 1 --- A B C D B Reactor Construction  Begins Aug 1943 B Reactor Completed Sept 1944 Plutonium Produced Dec 1944 X-10 Plant Uranium to Los Alamos Construction Begins for Plutonium Site Y-12 P"
+    },
+    {
+      "chunk_num": 5,
+      "chunk_path": "/home/johnny5/Downloads/new science of UAP_chunks/new science of UAP_chunk_005_pages_81-100.pdf",
+      "text_file": "uap_science_checkpoints/chunk_005_text.txt",
+      "text_length": 46777,
+      "status": "extracted",
+      "preview": " --- Page 1 --- or created by the UAP [279, p. 170][280][123, p. 89][281, 282]. This substance is generally called angel hair, or siliceous cotton. Angel hair resembles the gossamer threads used by sp"
+    },
+    {
+      "chunk_num": 6,
+      "chunk_path": "/home/johnny5/Downloads/new science of UAP_chunks/new science of UAP_chunk_006_pages_101-120.pdf",
+      "text_file": "uap_science_checkpoints/chunk_006_text.txt",
+      "text_length": 47673,
+      "status": "extracted",
+      "preview": " --- Page 1 --- trophysical phenomena can cause the nine transients, and no instrumental effect was identified as the root cause. The team wondered whether plate contamination (plate defects) could be"
+    },
+    {
+      "chunk_num": 7,
+      "chunk_path": "/home/johnny5/Downloads/new science of UAP_chunks/new science of UAP_chunk_007_pages_121-140.pdf",
+      "text_file": "uap_science_checkpoints/chunk_007_text.txt",
+      "text_length": 48784,
+      "status": "extracted",
+      "preview": " --- Page 1 --- in the other direction of the spectrum, which can provide additional impor- tant information. It is extremely important to obtain information about the light beyond the images. Spectra"
+    },
+    {
+      "chunk_num": 8,
+      "chunk_path": "/home/johnny5/Downloads/new science of UAP_chunks/new science of UAP_chunk_008_pages_141-160.pdf",
+      "text_file": "uap_science_checkpoints/chunk_008_text.txt",
+      "text_length": 37819,
+      "status": "extracted",
+      "preview": " --- Page 1 --- McDonald gave a lecture on \u201cThe Problem of UFOs\u201d to the American Meteorological Society in Washington, D.C. in October 1966. McDonald estimated that only about 1% of UFOs were unknowns"
+    },
+    {
+      "chunk_num": 9,
+      "chunk_path": "/home/johnny5/Downloads/new science of UAP_chunks/new science of UAP_chunk_009_pages_161-180.pdf",
+      "text_file": "uap_science_checkpoints/chunk_009_text.txt",
+      "text_length": 36722,
+      "status": "extracted",
+      "preview": " --- Page 1 --- [133] H. Cooper, R. Blumenthal, L. Kean, \u2018Wow, what is that?\u2019 Navy pilots report unexplained flying objects, The New York Times, 26 May 2019, Accessed: 11 Oct 2024 (2019). [134] R. Pow"
+    },
+    {
+      "chunk_num": 10,
+      "chunk_path": "/home/johnny5/Downloads/new science of UAP_chunks/new science of UAP_chunk_010_pages_181-195.pdf",
+      "text_file": "uap_science_checkpoints/chunk_010_text.txt",
+      "text_length": 27116,
+      "status": "extracted",
+      "preview": " --- Page 1 --- object localization, Journal of Astronomical Instrumentation 12 (1) (2023) 2340002. [332] E. Keto, W. A. Watters, Detection of moving objects in Earth Observa- tion Satellite images, J"
+    }
+  ],
+  "findings_summary": [
+    {
+      "category": "craft",
+      "mention_count": 46,
+      "chunk_num": 1
+    },
+    {
+      "category": "phenomena",
+      "mention_count": 59,
+      "chunk_num": 1
+    },
+    {
+      "category": "technology",
+      "mention_count": 8,
+      "chunk_num": 1
+    },
+    {
+      "category": "witness",
+      "mention_count": 20,
+      "chunk_num": 1
+    },
+    {
+      "category": "government",
+      "mention_count": 37,
+      "chunk_num": 1
+    },
+    {
+      "category": "science",
+      "mention_count": 19,
+      "chunk_num": 1
+    },
+    {
+      "category": "craft",
+      "mention_count": 40,
+      "chunk_num": 2
+    },
+    {
+      "category": "phenomena",
+      "mention_count": 45,
+      "chunk_num": 2
+    },
+    {
+      "category": "technology",
+      "mention_count": 10,
+      "chunk_num": 2
+    },
+    {
+      "category": "witness",
+      "mention_count": 22,
+      "chunk_num": 2
+    },
+    {
+      "category": "government",
+      "mention_count": 24,
+      "chunk_num": 2
+    },
+    {
+      "category": "science",
+      "mention_count": 36,
+      "chunk_num": 2
+    },
+    {
+      "category": "craft",
+      "mention_count": 30,
+      "chunk_num": 3
+    },
+    {
+      "category": "phenomena",
+      "mention_count": 43,
+      "chunk_num": 3
+    },
+    {
+      "category": "technology",
+      "mention_count": 9,
+      "chunk_num": 3
+    },
+    {
+      "category": "witness",
+      "mention_count": 23,
+      "chunk_num": 3
+    },
+    {
+      "category": "government",
+      "mention_count": 40,
+      "chunk_num": 3
+    },
+    {
+      "category": "science",
+      "mention_count": 40,
+      "chunk_num": 3
+    },
+    {
+      "category": "craft",
+      "mention_count": 38,
+      "chunk_num": 4
+    },
+    {
+      "category": "phenomena",
+      "mention_count": 28,
+      "chunk_num": 4
+    },
+    {
+      "category": "technology",
+      "mention_count": 8,
+      "chunk_num": 4
+    },
+    {
+      "category": "witness",
+      "mention_count": 25,
+      "chunk_num": 4
+    },
+    {
+      "category": "government",
+      "mention_count": 7,
+      "chunk_num": 4
+    },
+    {
+      "category": "science",
+      "mention_count": 21,
+      "chunk_num": 4
+    },
+    {
+      "category": "craft",
+      "mention_count": 65,
+      "chunk_num": 5
+    },
+    {
+      "category": "phenomena",
+      "mention_count": 53,
+      "chunk_num": 5
+    },
+    {
+      "category": "technology",
+      "mention_count": 16,
+      "chunk_num": 5
+    },
+    {
+      "category": "witness",
+      "mention_count": 23,
+      "chunk_num": 5
+    },
+    {
+      "category": "government",
+      "mention_count": 12,
+      "chunk_num": 5
+    },
+    {
+      "category": "science",
+      "mention_count": 32,
+      "chunk_num": 5
+    },
+    {
+      "category": "craft",
+      "mention_count": 22,
+      "chunk_num": 6
+    },
+    {
+      "category": "phenomena",
+      "mention_count": 40,
+      "chunk_num": 6
+    },
+    {
+      "category": "technology",
+      "mention_count": 15,
+      "chunk_num": 6
+    },
+    {
+      "category": "witness",
+      "mention_count": 11,
+      "chunk_num": 6
+    },
+    {
+      "category": "government",
+      "mention_count": 23,
+      "chunk_num": 6
+    },
+    {
+      "category": "science",
+      "mention_count": 49,
+      "chunk_num": 6
+    },
+    {
+      "category": "craft",
+      "mention_count": 33,
+      "chunk_num": 7
+    },
+    {
+      "category": "phenomena",
+      "mention_count": 31,
+      "chunk_num": 7
+    },
+    {
+      "category": "technology",
+      "mention_count": 27,
+      "chunk_num": 7
+    },
+    {
+      "category": "witness",
+      "mention_count": 14,
+      "chunk_num": 7
+    },
+    {
+      "category": "government",
+      "mention_count": 16,
+      "chunk_num": 7
+    },
+    {
+      "category": "science",
+      "mention_count": 66,
+      "chunk_num": 7
+    },
+    {
+      "category": "craft",
+      "mention_count": 29,
+      "chunk_num": 8
+    },
+    {
+      "category": "phenomena",
+      "mention_count": 26,
+      "chunk_num": 8
+    },
+    {
+      "category": "technology",
+      "mention_count": 23,
+      "chunk_num": 8
+    },
+    {
+      "category": "witness",
+      "mention_count": 11,
+      "chunk_num": 8
+    },
+    {
+      "category": "government",
+      "mention_count": 24,
+      "chunk_num": 8
+    },
+    {
+      "category": "science",
+      "mention_count": 38,
+      "chunk_num": 8
+    },
+    {
+      "category": "craft",
+      "mention_count": 14,
+      "chunk_num": 9
+    },
+    {
+      "category": "phenomena",
+      "mention_count": 16,
+      "chunk_num": 9
+    },
+    {
+      "category": "technology",
+      "mention_count": 12,
+      "chunk_num": 9
+    },
+    {
+      "category": "witness",
+      "mention_count": 1,
+      "chunk_num": 9
+    },
+    {
+      "category": "government",
+      "mention_count": 15,
+      "chunk_num": 9
+    },
+    {
+      "category": "science",
+      "mention_count": 61,
+      "chunk_num": 9
+    },
+    {
+      "category": "craft",
+      "mention_count": 14,
+      "chunk_num": 10
+    },
+    {
+      "category": "phenomena",
+      "mention_count": 12,
+      "chunk_num": 10
+    },
+    {
+      "category": "technology",
+      "mention_count": 5,
+      "chunk_num": 10
+    },
+    {
+      "category": "witness",
+      "mention_count": 6,
+      "chunk_num": 10
+    },
+    {
+      "category": "government",
+      "mention_count": 5,
+      "chunk_num": 10
+    },
+    {
+      "category": "science",
+      "mention_count": 37,
+      "chunk_num": 10
+    }
+  ],
+  "checkpoint_directory": "uap_science_checkpoints"
+}

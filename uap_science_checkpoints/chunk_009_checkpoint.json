@@ -1,0 +1,43 @@
+{
+  "chunk_info": {
+    "chunk_num": 9,
+    "chunk_path": "/home/johnny5/Downloads/new science of UAP_chunks/new science of UAP_chunk_009_pages_161-180.pdf",
+    "text_file": "uap_science_checkpoints/chunk_009_text.txt",
+    "text_length": 36722,
+    "status": "extracted",
+    "preview": " --- Page 1 --- [133] H. Cooper, R. Blumenthal, L. Kean, \u2018Wow, what is that?\u2019 Navy pilots report unexplained flying objects, The New York Times, 26 May 2019, Accessed: 11 Oct 2024 (2019). [134] R. Pow"
+  },
+  "findings": [
+    {
+      "category": "craft",
+      "mention_count": 14,
+      "chunk_num": 9
+    },
+    {
+      "category": "phenomena",
+      "mention_count": 16,
+      "chunk_num": 9
+    },
+    {
+      "category": "technology",
+      "mention_count": 12,
+      "chunk_num": 9
+    },
+    {
+      "category": "witness",
+      "mention_count": 1,
+      "chunk_num": 9
+    },
+    {
+      "category": "government",
+      "mention_count": 15,
+      "chunk_num": 9
+    },
+    {
+      "category": "science",
+      "mention_count": 61,
+      "chunk_num": 9
+    }
+  ],
+  "timestamp": "2025-10-03T16:32:25.587687"
+}

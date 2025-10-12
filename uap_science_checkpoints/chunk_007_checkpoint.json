@@ -1,0 +1,43 @@
+{
+  "chunk_info": {
+    "chunk_num": 7,
+    "chunk_path": "/home/johnny5/Downloads/new science of UAP_chunks/new science of UAP_chunk_007_pages_121-140.pdf",
+    "text_file": "uap_science_checkpoints/chunk_007_text.txt",
+    "text_length": 48784,
+    "status": "extracted",
+    "preview": " --- Page 1 --- in the other direction of the spectrum, which can provide additional impor- tant information. It is extremely important to obtain information about the light beyond the images. Spectra"
+  },
+  "findings": [
+    {
+      "category": "craft",
+      "mention_count": 33,
+      "chunk_num": 7
+    },
+    {
+      "category": "phenomena",
+      "mention_count": 31,
+      "chunk_num": 7
+    },
+    {
+      "category": "technology",
+      "mention_count": 27,
+      "chunk_num": 7
+    },
+    {
+      "category": "witness",
+      "mention_count": 14,
+      "chunk_num": 7
+    },
+    {
+      "category": "government",
+      "mention_count": 16,
+      "chunk_num": 7
+    },
+    {
+      "category": "science",
+      "mention_count": 66,
+      "chunk_num": 7
+    }
+  ],
+  "timestamp": "2025-10-03T16:32:25.512809"
+}

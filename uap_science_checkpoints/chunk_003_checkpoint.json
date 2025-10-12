@@ -1,0 +1,43 @@
+{
+  "chunk_info": {
+    "chunk_num": 3,
+    "chunk_path": "/home/johnny5/Downloads/new science of UAP_chunks/new science of UAP_chunk_003_pages_41-60.pdf",
+    "text_file": "uap_science_checkpoints/chunk_003_text.txt",
+    "text_length": 48913,
+    "status": "extracted",
+    "preview": " --- Page 1 --- with an array of scientific instruments: a gravimeter to measure the Earth\u2019s gravity, a magnetometer to detect magnetic field variations, and even an ionospheric reactor to study atmos"
+  },
+  "findings": [
+    {
+      "category": "craft",
+      "mention_count": 30,
+      "chunk_num": 3
+    },
+    {
+      "category": "phenomena",
+      "mention_count": 43,
+      "chunk_num": 3
+    },
+    {
+      "category": "technology",
+      "mention_count": 9,
+      "chunk_num": 3
+    },
+    {
+      "category": "witness",
+      "mention_count": 23,
+      "chunk_num": 3
+    },
+    {
+      "category": "government",
+      "mention_count": 40,
+      "chunk_num": 3
+    },
+    {
+      "category": "science",
+      "mention_count": 40,
+      "chunk_num": 3
+    }
+  ],
+  "timestamp": "2025-10-03T16:32:25.280528"
+}

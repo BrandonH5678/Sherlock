@@ -1,0 +1,779 @@
+
+--- Page 1 ---
+Highlights
+The New Science of
+Unidentified Aerospace-Undersea Phenomena (UAP)
+Kevin H. Knuth, Philippe Ailleris, Hussein Ali Agrama, Eamonn Ansbro,
+Phyllis A. Budinger, Tejin Cai, Thibaut Canuti, Michael C. Cifone, Walter
+Bruce Cornet, Jr., Fr´ed´eric Courtade, Richard Dolan, Laura Domine, Luc
+Dini, Baptiste Friscourt, Ryan Graves, Richard F. Haines, Richard Hoff-
+man, Hakan Kayal, Sarah Little, Garry P. Nolan, Robert Powell, Mark
+Rodeghier, Edoardo Russo, Peter Skafish, Erling Strand, Michael Swords,
+Matthew Szydagis, Gerald T. Tedesco, John J. Tedesco, Massimo Teodorani,
+Jacques Vall´ee, Micha¨el Vaillant, Beatriz Villarroel, Wesley A. Watters
+• UAP, formerly known as UFOs, are a long-standing global phenomenon,
+which have not only been observed by professional engineers, scientists,
+and astronomers, but have also been studied by them.
+• There exist today a number of serious academic and private efforts
+to scientifically study UAP using the equivalent of multi-messenger
+astronomy, which involves a diverse array of scientific instrumentation.
+arXiv:2502.06794v2  [astro-ph.IM]  30 Mar 2025
+
+--- Page 2 ---
+The New Science of
+Unidentified Aerospace-Undersea Phenomena (UAP)
+Kevin H. Knutha,af,ad,ab,aa,y, Philippe Aillerisq, Hussein Ali Agramac,
+Eamonn Ansbroac, Phyllis A. Budingerv,aa,ah,ai, Tejin Caiaa, Thibaut
+Canutit, Michael C. Cifoneh,ad, Walter Bruce Cornet, Jr., Fr´ed´eric
+Courtadef,d, Richard Dolan, Laura Domineg,aa, Luc Dinis, Baptiste
+Friscourtb, Ryan Gravesp,r, Richard F. Haines, Richard Hoffmanaa, Hakan
+Kayali,y, Sarah Littleo,aa, Garry P. Nolanm,ab, Robert Powellaa, Mark
+Rodeghierag,ad, Edoardo Russoae, Peter Skafishab, Erling Strandx, Michael
+Swordsj, Matthew Szydagisa,af,ad,aa,y, Gerald T. Tedescow, John J. Tedescow,
+Massimo Teodoraniad, Jacques Vall´eeu,ab, Micha¨el Vaillantz,ae, Beatriz
+Villarroell,k,n, Wesley A. Watterso
+aDept. of Physics, Univ. at Albany (SUNY), Albany, NY USA
+bUniversit´e de Bourgogne, Dijon, France
+cDept. of Anthropolgy, Univ. of Chicago, Chicago, IL USA
+dCNES (Centre National D’´etudes Spatiales), Toulouse, France
+eCity University of New York, New York, NY USA
+fGEIPAN (Groupe D’´Etudes et d’Informations sur les Ph´enom`enes A´erospatiaux
+Non-identifi´es)
+gHarvard-Smithsonian Center for Astrophysics, Cambridge, MA USA
+hSt. John’s University, Queens, NY USA
+iJulius-Maximilians Universit¨at W¨urzburg, W¨urzburg, Germany
+jWestern Michigan University, Kalamazoo, MI USA, Professor Emeritus
+kKTH Royal Institute of Technology, Stockholm, Sweden
+lNordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden
+mDept. of Pathology, Stanford University, Stanford CA USA
+nStockholm University, Stockholm, Sweden
+oDept. of Physics and Astronomy, Wellesley College, Wellesley, MA USA
+pAIAA UAP Integration & Outreach Committee
+qAIAA UAP Community Of Interest Steering Group
+rExecutive Director, Americans for Safe Aerospace (ASA)
+s3AF-SIGMA2, Association A´eronautique et Astronautique de France, Paris, France
+tConservateur en Chef des Biblioth`eques, France
+uDocumatica Research, LLC, San Francisco, CA USA
+vFrontier Analysis, Ltd. (Founder)
+wEye On The Sky Project, Long Island, NY USA
+∗Corresponding author. E-mail address:
+kknuth@albany.edu (Kevin H. Knuth).
+Preprint submitted to Progress in Aerospace Sciences
+April 1, 2025
+
+--- Page 3 ---
+xProject Hessdalen, Hessdalen, Norway ht tp s: // ww w. he ss da le n. or g/
+yInterdisciplinary Research Center for Extraterrestrial Studies (IFEX),
+Julius-Maximilians Universit¨at W¨urzburg,
+ht tp s: // ww w. un i-w ue rz bu rg .d e/ en /i fe x/
+zMeta-Connexions, Toulouse, Occitanie, France
+aaScientific Coalition for UAP Studies (SCU), ht tp s: // ww w. ex pl or es cu .o rg /
+abThe SOL Foundation, ht tp s: // th es ol fo un da ti on .o rg /
+acSpace Exploration, Ltd., Boyle, County Roscommon, Ireland,
+ht tp s: // sp ac ee xp lo ra ti on lt d. co m/
+adSociety for UAP Studies (SUAPS),
+ht tp s: // ww w. so ci et yf or ua ps tu di es .o rg /
+aeUAP Check Board Member, ht tp s: // ww w. ua pc he ck .c om /
+afUAPx, (ht tp s: // ww w. ua pe xp ed it io n. or g/ ))
+agCenter for UFO Studies (CUFOS), ht tp s: // cu fo s. or g/
+ahMutual UFO Network (MUFON), ht tp s: // mu fo n. co m/
+aiOhio MUFON (Newsletter Editor)
+Abstract
+After decades of dismissal and secrecy, it has become clear that a significant
+number of the world’s governments take Unidentified Aerospace-Undersea
+Phenomena (UAP), formerly known as Unidentified Flying Objects (UFOs),
+seriously–—yet still seem to know little about them. As a result, these phe-
+nomena are increasingly attracting the attention of scientists around the
+world, some of whom have recently formed research efforts to monitor and
+scientifically study UAP. In this paper, we review and summarize approxi-
+mately 20 historical government studies dating from 1933 to the present (in
+Scandinavia, WWII, US, Canada, France, Russia, China), several historical
+private research studies (France, UK, US), and both recent and current sci-
+entific research efforts (Ireland, Germany, Norway, Sweden, US). In doing so,
+our objective is to clarify the existing global and historical scientific narrative
+around UAP. Studies range from field station development and deployment
+to the collection and analysis of witness reports from around the world. We
+dispel the common misconception that UAPs are an American phenomenon
+and show that UAP can be, and have been, scientifically investigated. Our
+aim here is to enable future studies to draw on the great depth of prior
+documented experience.
+Keywords:
+UAP, UFO, Unidentified Aerospace-Undersea Phenomena,
+2
+
+--- Page 4 ---
+Unidentified Anomalous Phenomena, Unidentified Flying Objects
+Contents
+1 Introduction
+7
+2 What are UAP?
+10
+3 Government Efforts to Study UAP
+12
+3.1 Scandinavia . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+13
+3.2 World War II . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+14
+3.3 United States . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+14
+3.3.1 UFOs and US Weather Bureau Station . . . . . . . . . .
+14
+3.3.2 The Wave of 1947
+. . . . . . . . . . . . . . . . . . . . .
+15
+3.3.3 The US Government’s Response . . . . . . . . . . . . . .
+18
+3.3.4 Project SIGN . . . . . . . . . . . . . . . . . . . . . . . .
+19
+3.3.5 Green Fireballs and Project Twinkle . . . . . . . . . . .
+20
+3.3.6 Project Grudge . . . . . . . . . . . . . . . . . . . . . . .
+25
+3.3.7 Project Blue Book . . . . . . . . . . . . . . . . . . . . .
+27
+The Robertson Panel
+. . . . . . . . . . . . . . . . . . . . .
+27
+The Colorado Project and the Condon Report
+. . . . . . .
+29
+3.3.8 American Association for the Advancement of Science
+Conference . . . . . . . . . . . . . . . . . . . . . . . . .
+32
+3.3.9 The Pocantico Meeting . . . . . . . . . . . . . . . . . . .
+32
+3.3.10 United States: The AATIP Program
+. . . . . . . . . .
+37
+3.4 Canada . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+39
+3.4.1 Project Magnet . . . . . . . . . . . . . . . . . . . . . . .
+39
+3.4.2 Sky Canada Project
+. . . . . . . . . . . . . . . . . . . .
+40
+3.5 France . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+41
+3.5.1 1940-1968: Airspace Vulnerability and Scientific Interest
+41
+3.5.2 1968-1977: Creation of a Public Structure and Private
+Organizations . . . . . . . . . . . . . . . . . . . . . . .
+44
+3.5.3 1977-2024: Evolution of the study of UAP . . . . . . . .
+46
+3.6 Russia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+52
+3.7 China . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+55
+3.8 Governmental Studies Summary
+. . . . . . . . . . . . . . . . .
+57
+4 UAP and Nuclear Weapons
+58
+3
+
+--- Page 5 ---
+5 Physical Evidence
+65
+5.1 UFO Crashes . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+65
+5.1.1 The Ubatuba Incident, 1957, Ubatuba Brazil
+. . . . . .
+65
+5.2 Collisions with UAP . . . . . . . . . . . . . . . . . . . . . . . .
+67
+5.2.1 Deputy Val Johnson UFO collision, 1979, Minnesota, USA 68
+5.2.2 Mt. Clemens UFO collision, 1998, Michigan, USA . . . .
+69
+5.3 UAP Deposits
+. . . . . . . . . . . . . . . . . . . . . . . . . . .
+70
+5.3.1 Delphos, Kansas USA UFO Landing, 1971 . . . . . . . .
+70
+5.3.2 Council Bluffs, Iowa USA
+. . . . . . . . . . . . . . . . .
+74
+5.3.3 Red Orb Drops Flaming Material, 2014, Claymont, Delaware,
+USA . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+76
+5.3.4 UFO Hole Drilling, 2003, Dabrowka, Poland . . . . . . .
+79
+5.3.5 Angel Hair
+. . . . . . . . . . . . . . . . . . . . . . . . .
+79
+Angel Hair Cases Not Related to UAP . . . . . . . . . . . .
+80
+Angel Hair Cases Related to UAP . . . . . . . . . . . . . .
+81
+UFOs Interrupt a Soccer Match in Florence Italy . . . . . .
+84
+6 Transmedium Travel and Water
+87
+6.1 Historical Significance of USO (Unidentified Submerged Ob-
+ject) Encounters . . . . . . . . . . . . . . . . . . . . . . . . . .
+87
+6.2 USOs: Unidentified Submerged Objects
+. . . . . . . . . . . . .
+90
+7 Scientific Field Studies
+91
+7.1 Academic/University Programs . . . . . . . . . . . . . . . . . .
+92
+7.1.1 Project Hessdalen, Hessdalen Norway. 1984 – Present . .
+92
+7.1.2 UAlbany-UAPx Collaboration . . . . . . . . . . . . . . .
+94
+7.1.3 IFEX
+. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+95
+7.1.4 SETI Kingsland
+Lough Key, County Roscommon, Ireland. 2000 - Present 96
+7.1.5 The Galileo Project
+. . . . . . . . . . . . . . . . . . . .
+97
+7.1.6 VASCO . . . . . . . . . . . . . . . . . . . . . . . . . . .
+99
+7.2 Private and Citizen Science Research Efforts . . . . . . . . . . . 100
+7.2.1 The Hudson Valley - Pine Bush Studies. 1980—2003
+. . 100
+7.2.2 Eye on the Sky . . . . . . . . . . . . . . . . . . . . . . . 101
+7.2.3 The UAP Tracker Project . . . . . . . . . . . . . . . . . 102
+7.2.4 UFO Data Acquisition Project (UFODAP) . . . . . . . . 103
+7.2.5 Sky360
+. . . . . . . . . . . . . . . . . . . . . . . . . . . 103
+4
+
+--- Page 6 ---
+8 Organizations
+103
+8.1 American Institute of Aeronautics and Astronautics (AIAA) . . 103
+8.2 National Aviation Reporting Center on Anomalous Phenomena
+(NARCAP) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 106
+8.3 The Scientific Coalition for UAP Studies (SCU) . . . . . . . . . 109
+8.4 The Sentinel Center . . . . . . . . . . . . . . . . . . . . . . . . 110
+8.5 3AF-SIGMA2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110
+8.6 The Society for UAP Studies (SUAPS) . . . . . . . . . . . . . . 112
+8.7 The Sol Foundation
+. . . . . . . . . . . . . . . . . . . . . . . . 113
+8.8 UAP Check . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 113
+9 Social Sciences
+113
+10 The Scientific Methodology and Best Practices for Collect-
+ing UAP Data
+117
+10.1 Time Synchronization . . . . . . . . . . . . . . . . . . . . . . . 118
+10.2 Instrument Positioning . . . . . . . . . . . . . . . . . . . . . . 119
+10.3 Diverse Types of Instrumentation . . . . . . . . . . . . . . . . 119
+10.3.1 Light-Based Imagery . . . . . . . . . . . . . . . . . . . 119
+10.4 Remote Sensing Satellites for Scientific UAP Research . . . . . 120
+11 Conclusion
+126
+Appendix A Prominent Past Efforts and Individuals
+129
+Appendix A.1 David Akers, Yakima Valley, Washington USA
+. . . 130
+Appendix A.2 Phyllis A. Budinger, Frontier Analysis, Ltd. . . . . . 131
+Appendix A.3 Dr. Erol A. Faruk . . . . . . . . . . . . . . . . . . . 131
+Appendix A.4 Dr. Pierre Gu´erin, Institut d’Astrophysique . . . . . 132
+Appendix A.5 Dr. Richard F. Haines, NASA-Ames Research Center133
+Appendix A.6 Paul R. Hill, NASA Langley Research Center . . . . 133
+Appendix A.7 Richard Lee Hoffman
+. . . . . . . . . . . . . . . . . 134
+Appendix A.8 Dr. J. Allen Hynek, Northwestern University . . . . 136
+Appendix A.9 Dr.
+Bruce Maccabee, US Naval Surface Warfare
+Center . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 139
+Appendix A.10 Dr. James McDonald, University of Arizona . . . . 139
+Appendix A.11 Dr. Donald Menzel, Harvard College Observatory . 141
+Appendix A.12 Dr. Richard Niemtzow, Brooks Air Force Base . . . 142
+Appendix A.13 Dr. Claude Poher, CNES
+. . . . . . . . . . . . . . 143
+5
+
+--- Page 7 ---
+Appendix A.14 Dr. Harley Rutledge, Southeast Missouri State Univ.143
+Appendix A.15 Dr. Peter Sturrock, Stanford University
+. . . . . . 144
+Appendix A.16 Dr. Michael Swords, Western Michigan University . 145
+Appendix A.17 Dr. Jacques F. Vall´ee, Documatica Research . . . . 145
+6
+
+--- Page 8 ---
+1. Introduction
+Unidentified Aerial Phenomena (UAP), which have been referred to as
+Unidentified Aerospace-Undersea Phenomena by the United States Congress
+to emphasize their multi-media characteristics, are currently more simply
+referred to as Unidentified Anomalous Phenomena. While it is not widely
+appreciated that UAP have been observed and reported for centuries [1, 2,
+3, 4, 5, 6], investigation into reports of unusual objects and light phenomena
+in the sky has resulted in the identification, characterization, and scientific
+understanding of a great number of aerial and astronomical phenomena, such
+as planets, comets, asteroids and meteors, auroras, lenticular clouds, parhelia
+(sundogs) and halo phenomena [7, 8, 9], and even St. Elmo’s fire [10], ball
+lightning [11, 12], elves and sprites [13, 14, 15], as well as earthquake lights
+[16, 17, 18]. Several of the latter examples have been recently considered
+pseudoscientific [19], but are now recognized by the scientific community as
+real phenomena worthy of study. To this day, there remains a residuum of
+phenomena that continue to defy explanation.
+The study of UAP suffers from two main difficulties.
+First, the phe-
+nomena are neither repeatable nor controllable. This makes scientific data
+collection extremely difficult, since one must be resigned to setting up ob-
+serving stations and waiting for events. In some ways this makes collect-
+ing data on UAPs similar to collecting data on earthquakes, gravitational
+waves, dark matter, or rare astronomical events, such as supernovae, ex-
+cept that the observation of particular UAP of interest is potentially more
+rare. The second difficulty is that it has often been asserted that witness
+reports are not of anomalous phenomena and can be readily explained in
+terms of well-understood natural phenomena, misidentifications, exaggera-
+tions, and/or hoaxes; and therefore they are not worthy of serious scientific
+study. This latter assertion has been widely held and promoted by the au-
+thorities and the scientific community for over 70 years, thus preventing
+study, discovery, and understanding; consequently, leaving us in a rather
+disconcerting state of ignorance.
+The problem and opportunity that we face today is that the situation has
+changed dramatically. In December 2017, the New York Times (NYT) pub-
+lished an article [20], which revealed that the US Defense Intelligence Agency
+(DIA) had conducted a six-year covert program, the Advanced Aerospace
+Threat Identification Program (AATIP), to study UAP. AATIP, which was
+led by Luis Elizondo [21], focused on military-only encounters and existed
+7
+
+--- Page 9 ---
+by operating under the more extensive Advanced Aerospace Weapon System
+Application Program (AAWSAP), which was funded by $22 million secured
+by Senators Reid, Inouye, and Stevens. The objective of AAWSAP was to
+study the many aspects of UAP, which included the psychic and paranormal
+correlates to UAP interactions [22, 23, 24, 25], while identifying “potential
+breakthrough technology applications employed in future aerospace weapon
+systems.”[26, 25] AAWSAP was managed by veteran intelligence analyst and
+rocket expert James Lacatski [27, 24, 26, 25, 21]. At its peak, the effort em-
+ployed 50 full-time investigators (far more than any other program), which
+compiled the largest UFO data warehouse covering more than 200,000 cases.
+George Knapp, in his statement to Congress [26], notes that the AAWSAP
+Program produced more than 100 research papers on UAP, some of them
+more than 100 pages long. He also notes that the first case investigated by
+AAWSAP was the 2004 Nimitz TicTac event and that the report on the Tic-
+Tac and its capabilities, written by the AAWSAP scientists and engineers,
+was more than 140 pages long. None of these papers or reports have ever
+been seen by Congress or the public [26].
+In conjunction with the NYT article, Luis Elizondo worked to have several
+infrared videos of UAP taken by the US Navy publicly released [28]. Later,
+it was revealed that the US Navy has had ongoing [29], and at times daily
+[30], encounters with UAP operating with impunity in restricted airspaces
+and harassing naval pilots during military exercises and wartime operations
+[31, 32, 33, 30].
+In response, the United States Navy has changed its procedures for report-
+ing such encounters [34], and enlisted Congress to take action [35, 36, 37, 38].
+The Pentagon officially released three UAP videos in April 2020, confirming
+that UAPs regularly operate in restricted airspace [39, 40, 41]. In June 2020,
+the Senate Intelligence Committee voted to require the US Department of De-
+fense and the US Intelligence Community to detect, track, compile, catalog,
+and analyze information on UAPs through a program called the Unidentified
+Aerial Phenomena Task Force (UAPTF) [40].
+In June 2021, the UAPTF presented its preliminary report to Congress,
+reconfirming that these UAP are not of American origin and are unlikely
+to come from any other country. The possibility was left open that they
+are craft of potentially non-human origin. In response, US Senator Kirsten
+Gillibrand (D-NY) introduced the UAP amendment into the FY22 National
+Defense Authorization Act (NDAA 2022) to establish a formal office to report
+and respond to UAPs and provide the scientific capabilities needed to track
+8
+
+--- Page 10 ---
+and share data, investigate sightings, and develop a response to this growing
+security threat. This led to the legislation 50 U.S.C. §3373 (NDAA 2022
+and NDAA 2023), which authorized the establishment of the All-Domain
+Anomaly Resolution Office (AARO), which is directed to continue the duties
+of the UAPTF. This includes “developing procedures to synchronize and stan-
+dardize the collection, reporting, and analysis of incidents, including adverse
+physiological effects, regarding unidentified anomalous phenomena across the
+Department of Defense and the intelligence community”, “developing the pro-
+cesses and procedures to ensure that such incidents from each component of
+the Department and each element of the intelligence community are reported
+and stored in an appropriate manner that allows for the integration of anal-
+ysis of such information”, “evaluating links between unidentified anomalous
+phenomena and adversarial foreign governments, other foreign governments,
+or nonstate actors”, assessing possible threats, coordinating with other fed-
+eral departments and agencies, “consulting with allies and partners of the
+United States to better assess the nature and extent of unidentified anoma-
+lous phenomena”, and “preparing reports for Congress, in both classified and
+unclassified form” [42].
+Although people are generally aware that there have been several pro-
+grams run by the US government to study UFOs (Unidentified Flying Ob-
+jects) and UAP, it is not generally known precisely what was done and, more
+importantly, precisely how little was done. Moreover, it is generally believed
+that serious scientists, academics, and especially astronomers do not believe
+in the reality of UFOs, have not seen them, and certainly do not study them.
+By going into some detail on efforts to study UAP in the late 1940s and
+early 1950s, we learn that some prominent and serious scientists have been
+involved, that they have witnessed UFOs of many types, and that they took
+the matter quite seriously. Such details add context Sturrock’s (Sec. Ap-
+pendix A.15) 1977 survey of members of the American Astronomical Society
+[43] in which he found that out of the 1356 respondents, 23% stated that
+UFOs should certainly be studied and 30% said that UFOs should proba-
+bly be studied as opposed to 17% saying that UFOs should probably not be
+studied and 3% that said that UFOs should certainly not be studied. More-
+over, Sturrock found that 62 of the respondents had witnessed or obtained
+an instrumental record of something that they could not explain, and that
+of the respondent witnesses, 63% of them were night-sky observers.
+This paper provides some background on UAP, followed by a detailed
+exposition of previous and concurrent efforts to scientifically study UAP in
+9
+
+--- Page 11 ---
+the expectation that a careful examination of these efforts will provide a
+great deal of information relevant to current and future efforts. By focusing
+on what scientific studies of UFOs have taken place, future studies can draw
+on their experience, which includes both their successes and failures, and
+can better equip themselves to select the best instruments, design the best
+observation strategies, and identify the most promising locations to study.
+Since many countries, research groups, and individuals have participated
+in the scientific study of UAP for almost a century, there are several ways
+in which the information in this article could be presented. Unfortunately,
+there is no single presentation style that appears to be optimal. In some
+situations, the chronology of events and efforts is central, suggesting that
+a presentation based on chronology is obligatory. However, at other times,
+once efforts became more focused, it appears to be best to separate out
+efforts based on the nations, research groups, or the individuals involved.
+As a result, the presentation in this paper is mixed to a great degree. At
+some times, especially early on and during wartime, the interactions among
+different nations dominated the efforts to understand these phenomena. For
+this reason, the paper begins with a chronological, or historical, treatment
+which, as efforts shift to become more isolated, gives way to a presentation
+based on the nations, groups, or individuals involved. An appreciation of
+both of these differing perspectives is necessary to understand the importance
+and impact of efforts to study UAP in the past century.
+2. What are UAP?
+The acronym UAP can stand for Unidentified Anomalous Phenomenon
+or Phenomena, although the A can also stand for Aerial or Aerospace. The
+US Congress recently redefined the acronym UAP as the more descriptive
+Unidentified Aerospace-Undersea Phenomena [44, p.12], but this has since
+migrated back to the Unidentified Anomalous Phenomena. The term aerospace
+broadens the study of UAP to include the Earth’s atmosphere and outer
+space; whereas the term undersea extends it to underwater and oceanic do-
+mains. The importance of the multi-medium nature of UAPs is perhaps best
+illustrated by the fact the successor to the UAP Task Force is the Pentagon’s
+All-domain Anomaly Resolution Office (AARO) [45], which was established
+by the US Defense secretary to provide ongoing reports to Congress [46].
+The term UAP refers to an object / phenomenon that cannot be imme-
+diately recognized as prosaic, e.g. for aerial phenomena: human-made craft,
+10
+
+--- Page 12 ---
+flying animals, or other well-known natural phenomena. “Unidentified” only
+means that one does not know what something is—at least initially—until
+additional analysis is possible. Since this is essentially a study of unknowns,
+it could be more helpful to define a UAP in terms of the relevant characteris-
+tics identified by the Pentagon’s AATIP Program. These characteristics are
+known as The Five Observables: [27, 21]
+1. Positive Lift without Flight Surfaces
+2. Sudden/Instantaneous Acceleration
+3. Hypersonic Velocity Without Signatures
+4. Trans-Medium Travel
+5. Low Observability or Cloaking.
+In some close encounter scenarios, a sixth, albeit more disturbing, observable
+is sometimes noted: [27, 21]
+6. Biological Effects on Humans and Animals
+While many UAP are ultimately identifiable and of mundane origin, some
+remain unidentified. It is only this unidentified residuum that is of interest.
+The degree of identification depends on the amount of detail that can be
+provided by the various sensing methods used as well as the investigative
+and scientific resources brought in.
+There is little doubt that the majority of UAP are misidentifications, but
+anywhere between 4-40% remain unidentified after careful investigations [47,
+48, 49, 50], depending upon the sources and quality of the reports. Despite
+this, there exist hard data that demonstrate unreasonably high speeds (above
+Mach 40-60) and accelerations (hundreds to thousands of times g) [51, 52,
+53, 54, 55, 56], without the corresponding sonic booms or fireballs; as well as
+the emission of luminous power sometimes exceeding 100 MW (MegaWatts)
+[57, 58]. Such observations represent cases of interest as they may require
+more exotic explanations, such as hypotheses involving novel physics or at
+least new engineering. However, more data are needed to characterize these
+anomalous objects and definitively rule out observational errors [59, 60].
+Many different phenomena are likely being included under the UAP um-
+brella. While making an exhaustive list isn’t feasible, the possible prosaic
+explanations of UAP include, but are not limited to:
+11
+
+--- Page 13 ---
+1. human-made crafts, such as airplanes, helicopters, drones, balloons,
+satellites including space stations, like the International Space Station
+(ISS), para-gliders / para-sailors, and marine vessels,
+2. Fauna, such as birds, bats, and insects,
+3. clouds (especially lenticular clouds), atmospheric optical effects, such
+as sun dogs, solar / lunar halos, Fata Morgana optical illusions and
+other types of mirages,
+4. celestial bodies, like the Moon, Venus or other planets, meteors, and
+comets,
+5. Heretofore non-discovered or sparsely-studied atmospheric phenomena
+may be involved e.g. ball lightning [11, 12] or earthquake lights [17,
+18, 16]. In the recent past, both have been considered illusory and the
+subject of “pseudoscience”, despite well-documented observations to the
+contrary [19].
+A similar list of prosaic phenomena can be found in the UAlbany-UAPx
+paper by Szydagis et al. in this issue [61], and a detailed table of categorized
+phenomena can be found in the Galileo Project paper by Watters et al. [62,
+Table 1].
+3. Government Efforts to Study UAP
+This paper focuses on the historical efforts to scientifically study UAP.
+Recent articles by Ailleris [63, 64], Stahlman [65], Villaroel & Krisciunas
+[66], and Watters et al. [62] provide excellent summaries of such efforts. For
+those interested in the history of the role of government in this rich and
+involved topic, we recommend the detailed text by Swords et al. [67], as
+the governmental aspects of our exposition are guided by their work. As
+much of the relevant information exists in the gray (non-academic, non-peer-
+reviewed) literature, it is important to summarize relevant details, if even to
+dispel some of the common misconceptions about UAP.
+Our exposition begins with its focus on chronology, as the early efforts
+were international in scope. UAP studies have a rich history dating back to
+antiquity [2, 4, 5, 1, 6], and include the airship wave of the late 1800s and
+early 1900s [68, 69, 70].
+12
+
+--- Page 14 ---
+We begin our chronological exposition with the so-called “ghost flyers”
+sighted over Scandinavia in the 1930s. The reason for this is to emphasize
+several points: that UAP are not a singular phenomenon, but are instead a
+class of phenomena; that these phenomena did not all begin in 1947; and that
+they are not a uniquely American phenomenon. For an historical overview,
+see Eghigian [71].
+3.1. Scandinavia
+One of the earliest governmental efforts to study UAP began in late 1933
+with a number of sightings of unknown aircraft in the skies above northern
+Sweden, Norway, and Finland [67]. These were thought to be airplanes in-
+volved in smuggling and, as such, had attracted the attention of Swedish
+customs and the Swedish Air Force, which conducted surveillance. Together,
+the unknown aircraft earned the monikers of “the Ghost Flyer”, “the Ghost
+Machine”, and “The Flying X”. This activity peaked during the winter of
+1933–1934, and by March 1934, 96 reports had been filed with the Swedish
+military, 157 reports had been filed with the Finnish military, and 234 re-
+ports had been filed with the Norwegian military; amounting to a total of
+487 official reports [67].
+The investigation concluded with the statement that “There have never
+been any Ghost Flyers.” However, General Pontus Reutersw¨ard published
+his own statement that “It could not be denied that a violation of our nation’s
+air space has been going on” [72], for which he was heavily criticized. The
+Swedish military later issued a final report in July 1935 concluding that 42
+of the 487 reports were of actual aircraft violating the countries’ borders. As
+a final assessment, it should be noted that very few of the sightings were
+similar to modern UFO sightings [67].
+Reports of unidentified aircraft over Scandinavia returned in the winter
+of 1936–1937, prompting General Reutersw"ard to write to the Minister of
+Defense. However, Social Democrat MP Elof Lindberg insisted that civil
+experts should investigate the intrusions, rather than the military, which
+was suspected of embellishing the reports for more resources [73]. However,
+Lindberg’s demand for a commission was rejected by the Minister of Defence
+as there had been few new facts and observations [67].
+Scandanavian observations of unidentified aircraft, referred to as “ghost
+rockets”, resumed in the late-1940s.
+As a result, they had an impact on
+American UFO investigations at that time [74].
+13
+
+--- Page 15 ---
+3.2. World War II
+Beginning in 1940, pilots from the British Royal Air Force (RAF) began
+reporting observations of unidentified objects in darkness, as well as unknown
+aircraft that would follow bombers without attacking them [75]. Intelligence
+personnel initially believed that stress caused pilots to imagine these objects.
+However, by 1942, there had been a sufficient number of reports that there
+was some concern that these objects could be experimental devices being
+tested by the Germans. There were several incidents in which RAF aircraft
+opened fire on these unidentified objects with no effect [75].
+During the last years of World War II, Allied pilots, in both the European
+and Pacific theaters, began reporting unidentified aerial phenomena that in
+daylight appeared to be small metallic, sometimes translucent, spheres; and
+at night appeared to be spherical lights ranging from red to yellow in color
+[76]. These objects, which earned the nickname “foo fighters”, would often
+pace the airplanes, sometimes flying right off their wingtips. Reports were
+made by pilots from the RAF, the Polish Division attached to the RAF [75],
+the Royal Australian Air Force (RAAF), the South African Air Force (SAAF)
+[77], and the United States Army Air Force (USAAF) [77, 75, 67, 78]. Again,
+these were thought to be new Axis weapons [76].
+Three prominent scientists were enlisted to look into the foo fighter re-
+ports: H.P. Robertson (Caltech), Luis Alvarez (UC Berkeley), and David
+Griggs (UCLA) [67]. Griggs was tasked by General Arnold with investigating
+particular encounters. By the end of World War II, Griggs had determined
+that there was something real to the observations in Europe and in the Pa-
+cific and that they were not related to Japanese technology. In addition,
+he learned that there were cases of aircraft electrical and engine interference
+associated with foo fighters [67]. Although foo fighter sightings and encoun-
+ters were reported to military units and were investigated by these three
+scientists, it does not appear that the phenomenon was ever systematically
+studied [79].
+3.3. United States
+3.3.1. UFOs and US Weather Bureau Station
+In early 1947, there were a number of sightings made by US Weather
+Bureau Station observers in Richmond, Virginia, that were of concern to
+intelligence officials [67]. There were three occasions when after scientists
+had launched a weather balloon and had begun to track and perform pibal
+14
+
+--- Page 16 ---
+(pilot balloon) observations using theodolites (spotting telescopes) that they
+observed metallic disc-shaped objects approaching the balloons.
+On one
+occasion, the balloon was at an altitude of 15000 feet, and the disc, elliptical
+in shape with a flat bottom and a domed top, which appeared to be larger
+than the balloon, approached the balloon and followed it for about 15 seconds
+before speeding away. Another occurrence involved a balloon, at an altitude
+of 27000 feet, that was similarly approached and followed by a metallic disc.
+In all of these occasions, visibility was good. This series of events affected
+Air Force officials, who were forced to acknowledge that the observations of
+these discs were made by the best trained observers to distinguish objects in
+the sky, using high-quality observation equipment in ideal conditions [67].
+3.3.2. The Wave of 1947
+UFOs entered the social consciousness of Americans during the summer
+of 1947 when, during the period of a little more than a week in late June
+and early July, there were a large number of prominent encounters with
+UFOs in the United States (Fig. 1). The 1947 Wave has been summarized
+in several texts [80][81], and has been the subject of Jan Aldrich’s Project
+1947 [82]. In addition, the NICAP (National Investigations Committee on
+Aerial Phenomena) Site, coordinated by Francis Ridge, has a comprehensive
+chronological summary of the 1947 Wave [83].
+The first prominent encounter was Pilot Kenneth Arnold’s sighting of a
+long string of nine “circular type” objects near Mount Rainier in Washington
+on June 24, 1947 [84] (Figure 2A), which was independently corroborated by
+several other witnesses [81]. This event brought the term “flying saucer” into
+our lexicon [85]. Arnold estimated the size of the objects to be about 100
+feet in diameter, and he used the big sweep 24-hour clock on his instrument
+panel to time their 1 minute 42 second passage from Mount Rainier to Mount
+Adams, a distance of about 50 miles. Based on this, he estimated a speed of
+about 1,760 miles an hour with an uncertainty of a couple hundred miles an
+hour. This is significant because this estimated speed is almost three times
+the world airspeed record of 623.62 mph at the time [86, p. 274].
+Data compiled from newspaper articles by Ted Bloecher [80] reveal that
+the last week in June and the first week in July 1947 saw an increase in the
+daily average number of sightings from about 7.20 ± 6.86 (consistent with
+a Poisson distribution) to a nearly Gaussian peak of 155 sightings on July
+5th and 162 sightings on July 6th, which represents a significant and rapid
+increase in the number of daily sightings of about 22 standard deviations
+15
+
+--- Page 17 ---
+20
+40
+60
+80
+100
+140
+180
+6/15
+6/20
+6/25
+6/30
+7/5
+7/10
+7/15
+June 1947
+July 1947
+Daily U.S. UFO Sightings - Summer 1947
+Number of Reported Sightings
+Figure 1: Reported daily UFO sightings count in the US from mid-June through mid-July
+of 1947 reveals a notable increase centered on July 6, 1947. Data obtained from Bloecher
+[80]. The blue curve represents the best fit Gaussian riding on a constant rate.
+16
+
+--- Page 18 ---
+Figure 2: A. Kenneth Arnold showing an artist’s rendering of one of the nine objects
+he observed near Mount Rainier in Washington on June 24, 1947. B. One of the two
+photographs of an object observed by William Albert Rhodes on July 7, 1947 in Phoenix,
+Arizona. These two objects, observed in different parts of the country within two weeks
+of one another, exhibit some interesting similarities.
+above the June mean (Figure 1). Although it is not clear how much of this
+effect was sociological, there were numerous reliable sightings made by pilots
+and military personnel, as well as law enforcement officers and academics,
+presented and discussed by Bloecher [80]. We conclude this section by sum-
+marizing a number of these sightings.
+On July 3rd, two Navy Chief Petty Officers, Robert L, Jackson and
+William Baker, were at the Naval Station in San Diego, California, where
+they observed three disc-shaped objects over the Pacific Ocean. The objects
+flew in from the West, circled, and then headed back to sea.
+On July 4th, Yeoman Frank Ryman, of the US Coast Guard, photographed
+a disc as it flew over Lake City, Washington. Also on July 4th, Irving C. Allen,
+Chief of Airports Operations and Management in the 7th Region for the Civil
+Aeronautics Administration, and his passenger, watched for five minutes, a
+disc-like object fly north across his flight path near Moscow, Idaho, as they
+were flying from Coeur d’Alene to Lewistown, Idaho.
+United Airlines Flight Trip 105 Captain Emil J. Smith and First Officer
+Ralph Stevens, along with Flight Attendant Miss Marty Morrow, watched a
+loose formation of nine flying discs at the same level as their plane as they
+17
+
+--- Page 19 ---
+approached their cruising altitude of 7000 feet over Emmett, Idaho, on July
+4th [80]. Three weeks later, on July 28th, Captain Charles F. Gibian and First
+Officer Jack Harvey, flying the same United Airlines Flight Trip, observed an
+unidentified object at about 9000 feet altitude “weaving,” as if “it were going
+through choppy air.”
+On July 5th, TWA pilot Captain John L. Dobberteen and copilot Frank
+Corwin made observations of a spinning propeller-like object moving at an
+estimated speed of 200 mph over Neapolis, Ohio.
+On July 7th around 4:00 pm in Phoenix, Arizona, William Albert Rhodes
+observed and photographed an elliptical-shaped object, which appears to be
+similar to the objects observed by Kenneth Arnold (Figure 2B). The object,
+which made a sound similar to that of an approaching jet, spiraled down from
+5000 feet to 2000 feet and then ascended at a 45◦angle with an estimated
+speed of 400 to 600 miles per hour.
+On July 8th, there were three independent events that involved the ob-
+servation of objects of disc or sphere shape over Muroc Air Base, California.
+One of these events was witnessed by test pilot Major J. C. Wise as he pre-
+pared to perform a test of the XP-84 jet. The object was spherical in shape
+and was flying against the wind at an estimated speed of at least 200 mph.
+Also, on July 8th, more than 100 Navy men at Pearl Harbor, Hawaii, watched
+a long silvery oblong-shaped object fly westward toward Honolulu.
+At 1:00pm on July 8th on Catalina Island, off the coast of Laguna Beach
+California, three veterans of the US Army Air Corps, Bob Jung, Kenneth
+Johnson and Alvio Russo, along with hundreds of other witnesses, observed
+six discs, in a formation of two groups of three, approaching the island from
+the direction of Los Angeles to the northeast, flying directly over the city
+of Avalon, and disappearing over the East Peak to the south of Avalon Bay.
+The discs flew at high speed, estimated by two of the veterans to be about
+850 miles per hour. Jung, an aerial photographer, was able to photograph
+one of the discs. [87, 80]
+3.3.3. The US Government’s Response
+Documents, not intended for the public, have revealed that US officials
+were seriously concerned about this sudden increase in UFO sightings [79]:
+This “flying saucer” situation is not all imaginary or seeing too
+much in natural phenomena. Something really is flying around.
+- July 30, 1947 [88]
+18
+
+--- Page 20 ---
+The phenomena reported is something real and not visionary or
+fictitious.
+- Sept. 23, 1947 [89]
+It is the considered opinion of some elements that the object [sic]
+may in fact represent an interplanetary craft of some kind.
+- Oct. 28 1947 [90]
+By the end of December 1947 it was ordered that USAF Air Materiel Com-
+mand at Wright-Patterson Air Force Base initiate Project SIGN to establish
+the nature of these UFOs [91].
+3.3.4. Project SIGN
+Project SIGN, which was established in January 1948, was the first UFO
+investigation of the USAF, which involved both the Air Force Office of In-
+telligence (AFOIN) and the Air Materiel Command (AMC) of the USAF at
+Wright-Patterson Air Force Base. AFOIN consisted of two distinct execu-
+tive branches, the Air Force Office of Air Intelligence (AFOAI) and the Air
+Force Office of Intelligence Requirements (AFOIR), which had two different
+perspectives on the flying disc phenomenon [67]. AFOIR was closer to the
+problem and having met witnesses and familiarized themselves with first-
+hand reports, they were convinced of the physical reality of the phenomenon
+[67]. AFOAI took a more hands-off approach and focused on the intelligence
+aspects of the problem, which led to concern about a potential Soviet threat
+[67]. Meanwhile, the AMC at Wright-Patterson AFB was better equipped
+to incorporate Project SIGN as a special project in which engineers and
+technical support personnel worked toward a physical understanding of the
+phenomenon [67]. Naturally, this led to two very different interpretations of
+the situation.
+Project SIGN did not collect their own data on UFOs. Instead, they col-
+lected several hundred reports from both governmental and non-governmental
+sources [79]. During the course of the project in 1948, several cases were re-
+ported that seemed to defy straightforward explanation. For example, on 7
+May 1948, witnesses in Memphis, Tennessee, watched an estimated 50 or 60
+metallic objects racing across the sky mainly in a straight line, but exhibited
+some unusual zigzagging [92, 67]. Several months later, on 24 July, East-
+ern Airlines Flight 576, having left Houston Texas, was over Montgomery,
+Alabama, when Captain C.S. Chiles and Captain John B. Whitted spotted
+19

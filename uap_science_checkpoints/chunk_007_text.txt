@@ -1,0 +1,762 @@
+
+--- Page 1 ---
+in the other direction of the spectrum, which can provide additional impor-
+tant information.
+It is extremely important to obtain information about the light beyond
+the images. Spectra can provide information about the elements or molecules
+involved in the light production, which, in addition to informing us about
+the kinds of lights being used, can also provide information about the UAP’s
+lift and propulsion mechanisms. Obtaining imagery using a polarizer can
+provide information about the polarized light environment surrounding the
+UAP. The axis of polarized light can be rotated by strong magnetic fields via
+a phenomenon known as the Faraday effect [394], Given that the scattered
+light in the sky is generally polarized, one can use the rotation of the axis of
+polarization to estimate magnetic field strengths around UAP.
+Most UAP groups employ multiple cameras. This is especially important
+because it is helpful to record imagery with different kinds of lenses, ranging
+from wide-angle fisheye lenses to high-quality telephoto lenses, the latter of
+which will require some kind of computer-controlled tracking. In addition,
+different cameras could employ different polarizing lenses and be set up with
+different exposure times to be recorded at the expense of detailed imagery.
+This can help to provide valuable information about the speed and trajec-
+tory of a UAP in three dimensions, especially if multiple spatially-separated
+cameras are used for triangulation.
+10.4. Remote Sensing Satellites for Scientific UAP Research
+UAP researchers are now considering the air and space domains as open-
+air laboratories, utilizing these vast environments for systematic scientific
+inquiry. This chapter examines the role of remote sensing satellites in this
+scientific endeavor, highlighting the context, advantages, current efforts, and
+future possibilities in UAP research.
+Since the launch of Sputnik 1, Earth observation (EO) technology has seen
+tremendous developments, leading to a significant increase in the launch of
+EO satellites in recent years [395]. These satellites serve a multitude of ap-
+plications, revolutionizing industries ranging from agriculture, infrastructure
+monitoring, disaster management, security, and defense to environmental
+monitoring. Modern EO science is characterized by frequent and systematic
+image acquisitions of the Earth’s surface and atmosphere, providing high-
+resolution data that democratize the use of satellite imagery and extend its
+benefits to various levels of society. Continuous advances in science, infor-
+matics, communication, and instrumentation have facilitated ongoing im-
+120
+
+--- Page 2 ---
+provements in Earth monitoring across various parts of the electromagnetic
+spectrum.
+Currently, we benefit from higher spatial, temporal, and spectral resolu-
+tion, along with an expanding volume of imagery and accessible data, which
+ensures continuity for decades.
+In the past, access to satellites and their
+data was predominantly restricted to major governments and military and
+defense organizations. However, thanks to significant technological advance-
+ments and the proliferation of commercial satellite services, access to satellite
+data has expanded dramatically. In addition, rapid advances in information
+and communication technologies have opened new avenues for many more ac-
+tors. Tools such as cloud computing, artificial intelligence (AI), and machine
+learning (ML) now enable scientists to gather, store, transmit, and analyze
+data more efficiently than ever before. Today, a wide range of entities, in-
+cluding private companies, academic institutions, and individual researchers,
+can leverage satellite technology for various purposes. This democratization
+of satellite data opens new possibilities for scientific research, including the
+study of UAP, enabling a more broader and inclusive exploration of this field
+[396, 397].
+Compared to other instruments, satellites offer distinct advantages for
+UAP research. They provide a wide coverage and continuous monitoring of
+large areas of the sky, increasing the chances of detecting UAP that ground-
+based observations might miss. In addition, satellite imagery provides the
+unique opportunity to verify, inform, and supplement ground observations of
+UAP, especially large UAP, after the fact, especially in daytime over land,
+where satellite imagery is autonomously collected and archived. Unfortu-
+nately, satellite coverage over the oceans is still sporadic, and night-side
+imaging is generally limited as the activity during the night-side portions of
+the orbit are typically reserved for data download.
+Satellites are equipped with reliable and accurate measurement sensors
+capable of collecting scientifically useful data. Their high-resolution imaging
+capabilities allow for the capture of detailed images of UAP, facilitating iden-
+tification and analysis. In addition, satellites can access remote locations such
+as polar regions, deserts, and oceans, which are difficult for humans to reach.
+Furthermore, utilizing remote sensing satellites represents a cost-effective ap-
+proach for UAP research, as many relevant space-borne systems are already
+financed and deployed into orbit. The costs of acquiring and processing satel-
+lite images are decreasing, and some data, such as those from the European
+Copernicus satellites (EU/ESA), are made freely available daily. The global
+121
+
+--- Page 3 ---
+nature of both UAP phenomena and satellite observation underscores the
+importance of this approach. Satellites have the potential to enable the col-
+lection of validated independent data on a global scale, which is essential for
+a comprehensive understanding of UAP.
+Historically, UAP researchers were already envisaging the potential of
+satellite technology as early as the 1970s, long before public access to satel-
+lite data and the proliferation of Earth’s satellite coverage. Despite this early
+interest, scientific discussion on the satellite detection of UAP has been al-
+most nonexistent until the very recent years, with most information stemming
+from books or anecdotal reports rather than confirmed data from high-tech
+sensors. Occasionally, UFO literature discusses infrared satellite sensors, par-
+ticularly the Space-Based Infrared System (SBIRS). Originally designed to
+detect missile launches from the former Soviet Union and China, this net-
+work of satellites in geosynchronous and highly elliptical orbits, supported by
+ground-based data processing, detects a wide range of heat sources, includ-
+ing nuclear explosions, aircraft afterburners, forest fires, volcanoes, meteors,
+and re-entering satellites. Preceded by the Defense Support Program (DSP)
+satellites, the SBIRS has been rumored to record unidentified objects en-
+tering Earth’s atmosphere and maneuvering (unlike meteors). However, to-
+day’s context is quite different, as recent official declarations have suggested
+that UAP-like phenomena might indeed have been detected by defense satel-
+lites. For example, in 2021, the former US Director of National Intelligence
+John Ratcliffe highlighted the potential of satellites in UAP research, noting
+that some apparently anomalous phenomena have been detected by satellites
+[398]. Moreover, the United States Office of the Director of National Intel-
+ligence and Department of Defense Fiscal Year 2023 Consolidated Annual
+Report on UAP emphasized the need to fully integrate the space domain into
+the processes of the All-Domain Anomaly Resolution Office (AARO). The
+collaboration of several agencies related to space awareness with the AARO,
+including the National Aeronautics and Space Administration (NASA), the
+National Reconnaissance Office (NRO), the National Geospatial Intelligence
+Agency (NGA), and the United States Space Force (USSF), underscores the
+significant role that space remote sensing satellites and technologies can play
+in UAP detection and analysis.
+Building on advances in satellite technology and data accessibility, re-
+cent developments promise potential scientific progress.
+The 2023 NASA
+UAP Independent Study Team Report [399] emphasizes the use of existing
+and planned space observing assets, alongside archived historic and current
+122
+
+--- Page 4 ---
+datasets [398]. Although current NASA satellites may not have direct UAP
+detection capability, their sensors can investigate local environmental condi-
+tions associated with UAP reports. As stressed in this report, the commercial
+remote sensing industry offers a potent mix of Earth-observing sensors ca-
+pable of directly resolving UAP events. Commercial satellite constellations
+provide imagery at sub to several meters spatial resolution, suitable for typ-
+ical spatial scales of known UAP. Moreover, the high temporal cadence of
+commercial remote-sensing networks enhances the likelihood of retroactively
+covering UAP events initially observed through other means. However, it is
+important to note that high-resolution coverage of Earth’s surface by com-
+mercial satellites is limited at any given time, requiring fortunate timing
+to obtain observations of specific UAP events from space. Although Earth
+observation satellites have shown great potential in sensing technical capa-
+bilities, current satellites lack the necessary algorithms for UAP detection.
+Artificial intelligence will thus play a vital role in identifying rare occurrences
+such as UAP within large datasets, leveraging NASA’s robust data handling
+capabilities.
+The Society for UAP Studies (SUAPS) has recently proposed a promising
+research angle in UAP scientific research, highlighting the importance of citi-
+zen science as noted in the 2023 NASA report [399]. The report suggests sev-
+eral citizen science projects including a citizen reporting center, smartphone
+capture and reporting, ground instrumentation, and the use of commercial
+satellite remote sensing Earth observation imagery. Citizen science projects
+offer a compelling avenue for UAP research, taking advantage of the collec-
+tive power of the public to gather and analyze data. The success of citizen
+science projects such as Galaxy Zoo, which led to the discovery of Boyajian’s
+star, demonstrates the potential to develop a citizen science project focused
+on extracting valuable insights from satellite data for UAP research, aligned
+with rigorous evidence-based methodologies.
+Following this, it is important to highlight the contributions of the Galileo
+Project [332] (see Sec. 7.1.5), which has already begun to assess the feasibility
+of using satellite data for UAP detection and characterization. The project
+aims to develop software that employs pattern recognition techniques for
+the automatic identification of moving objects in commercial satellite images
+provided by the commercial company Planet Labs. The primary objective is
+to identify objects that exhibit velocities, accelerations, sizes, or shapes that
+deviate from those expected from natural phenomena, common vehicles, or
+projectiles. This includes satellite data that capture objects entering Earth’s
+123
+
+--- Page 5 ---
+atmosphere that do not follow ballistic orbits, such as meteors or rockets, al-
+though the task poses significant complexities and challenges. Since 2023, the
+Galileo Project’s research has made significant progress in analyzing the po-
+tential of satellite data for UAP detection. The project has demonstrated at
+least two distinctive and easily recognizable characteristic motion signatures
+in Earth observation images made with push-broom scanning, indicating that
+the proposed method is successful and enables the measurement of the ap-
+parent velocity of moving objects using archived information [332].
+This
+novel method uses multispectral images from push-broom scanning satellites
+to detect and analyze the velocities of moving objects. By estimating the
+relative acquisition times between different spectral bands, the method ac-
+curately determines velocities even without precise timestamp information,
+as demonstrated by comparing aircraft velocities derived from satellite im-
+ages with those reported by onboard ADS-B transponders. Keto and Watters
+[332] applied this image analysis technique to one of the most notorious UAP
+incidents of recent times: the flight of a Chinese spy balloon over the US,
+which was eventually shot down by an Air Force fighter jet. They also ana-
+lyzed imagery of a different spy balloon that passed over Colombia at about
+the same time. Using Planet’s SuperDove satellites, they created a baseline
+to interpret spectral-band images and provided estimates of the altitudes of
+the balloons. These techniques could be used to detect phenomena that are
+even more exotic than spy balloons, with the aim of collecting high-quality
+data that could be useful in the search for objects of non-human origin. In
+future work, the Galileo Project aims to generalize their method to analyze
+accelerating objects and to define any limitations. This includes recognizing
+objects with uncharacteristic flight patterns, such as sudden acceleration,
+which could be of particular interest [400].
+It is not only in the US that the interest in satellite-based instruments for
+UAP detection has increased, especially given the inherently limited scope
+of Earth-based observations. In 2022, the Julius-Maximilians-Universit¨at of
+W¨urzburg (JMU) made history by becoming the first prominent western
+university to formally recognize UAP as a legitimate subject for academic
+inquiry. The University’s Interdisciplinary Research Center for Extraterres-
+trial Science (IFEX) expanded its scope to include UAP research alongside
+its primary focus on space exploration and the search for extraterrestrial life.
+Under the supervision of Hakan Kayal, IFEX issued a research paper titled
+“Detection of UAP with a Nano Satellite” in early 2022 [401]. The paper
+evaluates the feasibility of using two proposed satellites for full-time observa-
+124
+
+--- Page 6 ---
+tion, employing onboard preprocessing of data to facilitate orbital searches
+for UAP. Visual detection was deemed to be the most achievable and two
+satellite versions with appropriately sized buses and solar panels were mod-
+eled, which met most of the user requirements. The study presented a tactic
+and structure for onboard data processing specialized for UAP detection, re-
+ducing unnecessary data transmission to the ground. Such a platform would
+provide global data on UAP occurrences, forming a basis for more extensive
+research. The document states that a nanosatellite of 12 to 30U7 could fulfill
+this role at a significantly lower cost than larger systems.
+However, it is recognized that a more extensive project with appropri-
+ate funding would be needed to realize the satellite concept. This concept
+could also be expanded to larger satellites for more varied and higher quality
+measurements or multiple satellites for more frequent coverage, depending
+on available funding. As emphasized by military and scientific experts, a
+greater understanding of the UAP will be very valuable. With high enough
+reliability, the satellite could also be linked to other systems, either on the
+ground or in orbit, notifying them of a detection to collect more data when
+needed.
+In a significant expansion of UAP research, IFEX (see Sec. 7.1.3) has also
+extended its efforts beyond traditional Earth-based observations to include
+the near-space environment. IFEX’s initiatives exemplify a strategic leap
+forward in integrating terrestrial and space-based observations to advance
+our understanding of unexplained aerospace phenomena.
+In conclusion, the integration of satellite technology, artificial intelligence,
+and citizen science initiatives represents a pivotal advancement in UAP re-
+search, offering new avenues for rigorous scientific inquiry and data-driven
+exploration. Future missions and technological innovations hold promise for
+overcoming current limitations and expanding our observational capabilities.
+In the coming years, collaborations between academia, commercial entities,
+and governmental space organizations, including NASA, ESA, CNES, and
+DLR, will be crucial in advancing UAP research. Using the global network
+of remote sensing satellites and harnessing the power of AI and citizen sci-
+ence, researchers can approach UAP research with unprecedented breadth
+7In the context of satellites, “U” stands for “Unit” which is a standard measurement
+used to describe the size of CubeSats. One “U” is defined as a cube with dimensions 10
+cm x 10 cm x 10 cm. Retrieved from [https://www.asc-csa.gc.ca/eng/satellites/
+cubesat/what-is-a-cubesat.asp. (Accessed: 14 Jan 2024)]
+125
+
+--- Page 7 ---
+and depth. This interdisciplinary approach underscores the transformative
+potential of integrating cutting-edge technologies into the study of unex-
+plained aerospace phenomena.
+11. Conclusion
+It is important to keep in mind that UAP are a class of unknown phe-
+nomena, and not a single thing [107]. For this reason, the instruments used
+to study them need to be sufficiently diverse to be able to provide useful
+information about a wide class of phenomena.
+We have seen that, as a class, UAP describe a wide range of at least
+initially unidentifiable aerial and sometimes undersea phenomena with char-
+acteristics that present to the sciences a number of challenges — both in terms
+of their physical properties and also in terms of the manner in which they
+manifest. The latter is perhaps the key difficulty in studying the phenomena
+strictly scientifically, as their seeming randomness or ephemerality (or “elu-
+siveness”, as the French philosopher Bertrand M´eheust recently described it)
+requires constant monitoring of wide swaths of terrestrial parameter space,
+which in turn requires significant resources (technological and personnel) to
+be devoted to the research for long periods of time. But because of their
+tantalizing elusiveness, the default mode of empirical study has been forensic
+in nature. As Eghigian [71] recognized in his recent history of the UFO phe-
+nomenon, attempts to empirically engage UAP have been largely confined
+to mere forensic cold case chases (as if dealing with a crime). But this is
+in truth inadequate to the very nature of the phenomena: if UAP are elu-
+sive or ephemeral, then no mere forensic study (which is what we might say
+“classical ufology” was all about) can possibly be definitive; only long-term,
+transgenerational research programs, such as enjoyed by many research pro-
+grams well established and stabilized within academic science now for many
+decades, can possibly yield the proper data on which a potential resolution
+to UAP can be founded. Yet, when a definite resolution was attempted, sci-
+entists and governments reached the default mode of forensic investigations
+and — unsurprisingly — often came to the conclusion that there is not much
+scientific value to be obtained from studying UAP.
+What we have also seen in this essay is that, starting decisively in the year
+2021, and with the founding of academic projects such as Harvard’s Galileo
+Project or W¨urzburg University’s IFEX, or the UAlbany-UAPx Collabora-
+tion, there is a concerted effort by serious academic researchers to transition
+126
+
+--- Page 8 ---
+away from classical “ufology” — a forensic or forensic-like science which relies
+principally on the UAP case report (rather than on reliable data about UAP
+themselves) — to a stricter, non-forensic observational research paradigm that
+is not primarily reliant on the case report but is, rather, in pursuit of data
+produced on and from reliably calibrated, well-characterized and accurately
+synchronized suites of instruments. Thus, the decisive historical change we
+have attempted to convey and document in this paper is the move away
+from the forensic cold case chase such as typifies classical ufology — often
+conducted by the “citizen scientist” — to the stricter forms of observational
+(Galileo Project, IFEX, UAlbany-UAPx) and experimental / observational
+science (i.e. VASCO and ExoProbe) conducted by university-trained pro-
+fessional scientists. Only long-term, transgenerational, sustained university
+research programs devoted to gathering — and then analyzing — data on
+UAP, we argue, can break the paradoxical loop of dismissal in mainstream
+science we have seen throughout the pre–2021 history of attempts to study
+UAP empirically: UAPs are not taken seriously because they are not studied
+seriously by trained academic scientists; but UAPs are not studied seriously
+by academic scientists because they are not considered a serious topic for
+study! Forensic cold case chases will not break this loop. Only well-funded,
+transgenerational university research can. That is a very long game for UAP
+research, like any other academic research program, but so far this has not
+happened. This paper shows that this, we hope, is changing.
+Reflecting further on the history of the conflict between UFOlogy and the
+scientific community, we are inspired by the Pocantico Meeting organized by
+Sturrock in 1997. Although Sturrock’s account details some of the familiar
+frustrations experienced by both the investigators and the academics, the
+recommendations made by the panel were both reasonable and productive.
+Perhaps holding more meetings with the same planning, organization and
+care might be equally productive.
+Acknowledgements
+The authors express their gratitude to Peter Sturrock, who passed away
+while this paper was being written, and whose influence on UAP studies
+cannot be overstated. There are a number of UFO researchers who could
+have been mentioned along with their colleagues in the appendix. In the end,
+both space and time became constraining factors, but we wish to emphasize
+127
+
+--- Page 9 ---
+that this in no way lessens our appreciation of their contributions. In this
+spirit, the authors express their gratitude to Jan Aldrich and Richard Hall.
+We are deeply grateful to the volunteers who made the “Flying Saucer
+Review” a quality publication for so many years, ensuring that the work
+of dedicated scientists and investigators would be recorded for the evolv-
+ing research community. We especially recognize the five long-term editors
+who succeeded each other in this thankless and difficult task: Derek Dem-
+ster, Brinsley Le Poer Trench, Waveney Girvan, Charles Bowen, and Gordon
+Creighton.
+Avi Loeb is warmly thanked for his contributions to the description of the
+Galileo Project and, more broadly, for his efforts to draw rigorous scientific
+attention to the UAP topic.
+The authors thank Larry J. Hancock, Ian M. Porritt, Sean Grosvenor,
+Larry Cates, and Ike Okafor of SCU for providing the histograms of UAP
+sightings near nuclear weapon complexes (Fig. 4).
+KHK thanks Michael Way for assisting with the Swedish references from
+the 1930s.
+JT and GT thank their friend and colleague Donna Nardo for her efforts
+as an Investigator/Senior Field Technician for the Nightcrawler - Eye on the
+Sky Project.
+Last, while it is perhaps awkward to thank one’s coauthors, KHK ex-
+presses his gratitude to them for their efforts in studying UAP (some of
+whom have been doing this their whole lives), for inspiring him to take on
+this exciting, albeit daunting, and at times, intimidating, challenge, for as-
+sisting in writing this altogether enormous and comprehensive paper, and
+for several years of friendship and support through what have been the most
+challenging and exciting years of his life. Most importantly, KHK thanks his
+family and especially his wife, Emily, for their support.
+128
+
+--- Page 10 ---
+Appendix A. Prominent Past Efforts and Individuals
+Four years ago, the director of Harvard College Observatory, the Admin-
+istrator of NASA, the Director of the CIA and the Archbishop of Wash-
+ington stood at the National Cathedral to announce that the enigma rep-
+resented by UAP (UFO) reports remained an unsolved mystery. Following
+such statements by government and military authorities about the reality of
+unexplained sightings of unexplained objects in the Earth’s environment, the
+public and the scientific community have begun to revise their negative im-
+pressions of the subject. Naturally, they now seek reliable information on its
+nature. For this reason, reconstructing and presenting the history of research
+on the topic of UAP has become critical.
+The range of phenomena known as UAP (formerly referred to as UFOs)
+was never accepted as a subject of interest in the Hard Sciences. Even qual-
+ity studies into the material nature and behavior of reported objects have
+been consistently discouraged by major scientific magazines—journals such
+as Science, Nature or even Scientific American. Their pages continue to be
+denied for such studies, even when submitted by established scientists with
+credentials and a history of publication in other areas.
+Much of the UAP literature of various quality is now found in the form of
+student theses, conference transcripts, and papers about witness psychology,
+reporting statistics, medical symptoms, and sociological interpretations of
+sightings, but not in formal papers about physics, engineering, or site inves-
+tigation of actual cases. As for computer compilations of the many thousands
+of reported cases, few sources are publicly available and their reliability is
+debatable. Such documentation does exist, however, in the form of research
+studies dating back to the 1960s, but it is easy to miss because it had to
+be published in rare amateur magazines that have only survived in obscure
+Internet archives or in the confusion of online depositories. An important
+exception is the professionally curated and edited magazine called Flying
+Saucer Review, which was published in England from 1955 to 2000. The
+researchers who submitted their results to such an obscure publication were
+particularly dedicated and passionate about the subject (and no, they did
+not always agree).
+In this section, we summarize the research efforts and works from a num-
+ber of prominent PhD scientists and academics who studied UFOs relatively
+early on. We explicitly mentioned and described Flying Saucer Review be-
+cause it is one of the only publications to which many of these individuals
+129
+
+--- Page 11 ---
+were able to submit their work.
+Appendix A.1. David Akers, Yakima Valley, Washington USA
+David Akers coordinated with local residents to study anomalous light
+phenomena on the Yakima Indian Reservation in the vicinity of Toppenish,
+WA, from 1972 to the early 2000s. This activity started in 1971 and spiked
+in the late summer of 1972, consisting largely of nocturnal lights very near
+the ground or at low altitude. The initial phase of investigation lasted from
+August 20 to August 31, 1972, during an intense wave of sightings; many
+of the most interesting results were derived from this period. In this inter-
+val, nocturnal lights were reported daily in the towns of Union Gap, Harrah,
+Zillah, Toppenish, Wapato and Mabton. Akers used optical SLR cameras
+(VIS-NIR), a compass spin detector, infrared photometer, microphone and
+casette recorder, and energetic particle detector (Geiger-Muller counter) (see
+[402] Appendix B). Relying on community reports, Akers deployed his in-
+struments where sightings were most recently reported (a “hit-and-run” ap-
+proach) and was successful in witnessing and recording events in this way.
+Activity decreased dramatically after the first two days of the study.
+Akers acquired several photographs of what he described as “large, flick-
+ering orange objects” [402], although no quantitative size determination was
+possible. An object viewed with binoculars was described as a “sharply de-
+fined, brownish orange disc “ with a mottled surface”. This object appeared
+to be flat and illuminated the ground with an orange glow. The appearance
+and motion of the light phenomena were highly distinctive and easily distin-
+guished from those of conventional aircraft. On multiple occasions, attempts
+to acquire photographs were foiled when illumination ceased abruptly just as
+a camera was trained on the object. The most striking example of this oc-
+curred at a relatively close range, while an object hovered directly overhead
+[402].
+On at least one occasion, a light was recorded in a background expo-
+sure, captured when no lights were visible to the naked eye, suggesting
+near-infrared emission or visible band emission with a pulse duration and
+repetition rate below the perception threshold of human sight. Akers also
+noted the possibility that the objects may have been moving in a discrete
+or noncontinuous fashion, as suggested by the observed flickering (when ob-
+served by eye) and discontinuities in long-exposure photographs; this was
+not definitively distinguished from ordinary flashing and displacement while
+the objects are nonluminous. During the initial 11-day field campaign, none
+130
+
+--- Page 12 ---
+of the other instruments succeeded in recording the anomalous events. On
+one occasion, Akers and a colleague experienced over a minute of extremely
+bright and disorienting light flashes in their peripheral vision, later tenta-
+tively ascribed to strong transient magnetic field fluctuations later observed
+at the same location [402].
+Appendix A.2. Phyllis A. Budinger, Frontier Analysis, Ltd.
+Phyllis Budinger is a chemist who is one of the few scientists who has
+worked to study the physical traces produced during UFO encounters. She
+received her B.S. in chemistry in 1961 from Baldwin-Wallace University in
+Berea, Ohio, and her M.S. in chemistry in 1964 from Miami University in
+Oxford, Ohio. She began working for Sohio, which was the original Standard
+Oil Company that later became BP/Amoco. She accumulated 35 years of
+analytical chemistry experience, during which she headed a group that spe-
+cialized in spectroscopy and magnetic resonance. She retired as a research
+scientist from BP/Amoco in 1999 [403, 404].
+In 2000, Budinger founded Frontier Analysis, Ltd. as a laboratory, which
+has been involved in analyzing physical traces related to UFO cases, such as
+UFO debris [405, 406] and deposits [407, 263, 408], as in the 1971 Delphos,
+Kansas USA encounter [270, 403, 404], and angel hair [294], as well as chem-
+ical traces related to claims of abductions [409, 410, 411, 412], unexplained
+cattle mutilations [413], and crop circles.
+Appendix A.3. Dr. Erol A. Faruk
+Dr. Erol A. Faruk was born in London, UK, in 1951. While undertaking
+postdoctoral organic chemical research at Nottingham University in England,
+he requested and received, through CUFOS, soil material that had reportedly
+been subjected to physical and chemical changes by an illuminated UFO
+observed hovering just above the ground.
+This event [268, 269] occurred
+in November 1971 on a farm in Delphos, Kansas, USA and left an eight-
+foot diameter ring of soil whose surface was found to glow brightly once the
+illuminated UFO had left the area. Subsequent field investigations showed
+that the ring soil had now become impervious to water down to a depth of
+14 inches, such that when snow had fallen later there was no absorption by
+the ring, leaving only a snow-covered shape while all around was dark muddy
+soil.
+After receiving the material Faruk approached his academic supervisor
+(Dr. B. W. Bycroft) who, after being described the event and associated
+131
+
+--- Page 13 ---
+glow, became curious enough to refer him to the resident chemiluminescence
+expert (Dr.
+Frank Palmer) who became similarly intrigued by the case.
+Together they enabled Faruk to analyze the material while Palmer under-
+took recording of fluorescence spectra on samples taken as the investigation
+proceeded. Faruk discovered that the ring soil was impregnated by an air-
+sensitive organic compound that on chromatographic purification revealed
+it to have all the attributes necessary to generate light, a process known as
+oxidative chemiluminescence. He was able to use the soil data to propose a
+viable theory as to how the ring had actually formed, essentially confirming
+the witnesses’ description of the nearby presence of a hovering aerial device
+of unknown technology and origin [266, 267].
+Appendix A.4. Dr. Pierre Gu´erin, Institut d’Astrophysique
+Dr. Pierre Gu´erin (1926 - 2000) was a French astrophysicist who spe-
+cialized in planetary studies. Working between his office in Paris and obser-
+vatories in the South of France (primarily at the Saint Michel Observatory
+in Haute Provence and at the Pyr´en´ees observatory at Pic du Midi), he
+produced some of the finest photographs of Mars, Jupiter, and Venus in pre-
+Sputnik days. He was also the discoverer of a new ring of Saturn and initiated
+improvements in optical and photographic planetary studies for space-based
+exploration.
+A former Ph.D. student of G´erard de Vaucouleurs, (the man who brought
+his expertise in planetary and galactic astrophysics to the University of Texas
+in Austin), Pierre Gu´erin was among a cohort of French scientists who had
+submitted articles about UFOs to the ’official’ academic press and had been
+rebuked, with the implication that such efforts would be detrimental to their
+career in the rigid mindset of French science. Decades before, Director LeV-
+errier of Paris Observatory had fired Camille Flammarion, a fine astronomer,
+because he tried to popularize science and dared to speculate about life on
+other worlds.
+As director of research at the Astrophysical Institute in Paris, Dr. Gu´erin
+was among the senior scientists who objected. Finding no professional journal
+willing to touch the subject, he turned to the British Flying Saucer Review
+(FSR) because—far from being the work of amateurs— it was professionally
+edited by a group of able specialists. His first two communications in FSR
+appeared in March 1970 and were followed by many others. Here we give a
+selection of the most significant ones: [414, 415, 416, 417, 418, 419, 420, 421,
+422, 423, 424, 425].
+132
+
+--- Page 14 ---
+The above selection of papers shows the mind of a scientist anticipating
+many of the issues that plague research to this day: the diversity of testimony,
+the tendency to pick one set of observed characteristics over another, and the
+complexity of technology when used in field conditions.
+Appendix A.5. Dr. Richard F. Haines, NASA-Ames Research Center
+Dr. Richard F. Haines, Ph.D., (born 1937) long served as a research sci-
+entist for NASA beginning in 1967. While working at NASA Ames Research
+Center, Haines investigated numerous aviation accidents and incidents for the
+United States Federal Aviation Administration (FAA) and the United States
+National Transportation Safety Board (NTSB). This professional work in-
+cludes over two decades of “Human Factors in Space” research studies. Dr.
+Haines has also worked with the FAA on several projects including "Head
+Up Display" (Flight Standard Hqs.). A member of the International Soci-
+ety of Air and Safety airline investigators, Dr. Haines has interviewed many
+military and commercial airline pilots, and spoken with many air traffic con-
+trollers to amass reports of more than 3,000 UFO sightings. Dr. Haines has
+been researching this subject now for over 37 years. He has written three
+books on the topic of UFOs [426, 427, 428], over 50 scientific and technical
+articles and more than 20 serious articles on unidentified aerial phenomena.
+We present here a selection of some of his more significant publications:
+[429, 430, 431, 432, 433, 434, 435, 435, 426, 436, 437, 438].
+Appendix A.6. Paul R. Hill, NASA Langley Research Center
+Paul R. Hill (1909-1990) was a distinguished American aerodynamicist
+who made significant contributions to mid-20th-century aerospace research.
+He obtained in his BS in mechanical engineering from the University of Cal-
+ifornia, Berkeley in 1936, and joined the National Advisory Committee of
+Aeronautics (NACA), the predecessor to NASA, in 1939.
+He worked on
+various NASA aerospace projects, including aircraft design, space missions,
+hypersonic propulsion, and the Apollo moon missions. He was one of NASA’s
+chief scientists and was awarded NASA’s Exceptional Service Medal in 1969.
+The historian James Hansen describes Hill as one of two “key members of Lan-
+gley’s early space station research.” [439, pp. 275–277], and as the specialist
+on configuration and propulsion on the HYWARDS (HYpersonic Weapon
+And R and D System) Program [440, p. 368].
+Hill is is widely known for his book Unconventional Flying Objects: A
+Scientific Analysis, which was rejected by many publishers and published
+133
+
+--- Page 15 ---
+Figure A.14: Richard F. Haines (left)and J. Allen Hynek (right). Image taken in 1975 at
+a conference in Ft. Smith, Arkansas, USA.
+after his death. After his considerable analysis of reported cases and noting
+their advanced performance characteristics, he accepted that they were most
+likely not from Earth. As Hill applied his expertise in aerodynamics to the
+study of the phenomena, his book focused on the scientific analysis of the
+types of craft and their possible propulsion systems.
+He concluded that
+UFOs, “obey, not defy, the laws of physics.” [52]
+In the early 1950’s, Paul had his first UFO sighting in the Chesapeake
+area of Virginia which he reported to Project Blue Book. He witnessed four
+objects flying in a V-formation over Chesapeake Bay, near Langley Air Force
+Base; that, after being investigated, were classified as being aircraft.
+He
+had yet another encounter a decade later which he did not report but it is
+mentioned in his book [52].
+Appendix A.7. Richard Lee Hoffman
+Rich Hoffman was born in Jasper, Indiana, in 1951 and at age 4 his
+parents moved to Dayton, Ohio. He graduated from West Carrollton High
+School in 1969 and went on to college at Ohio University in Athens, Ohio. He
+transferred to Wright State University and graduated with a BA degree in
+Organization Communications in 1995. He worked at a variety of companies
+as a Training and Development Manager for a variety of companies (Emery
+134
+
+--- Page 16 ---
+Worldwide, Miami Valley Hospital, and Ponderosa Steakhouses) and later
+transitioned into Information Technology and for the past three decades has
+been a defense contractor serving the US Army Materiel Command HQ. he
+is presently with Chugach Government Solutions LLC as a Senior Systems
+Engineering Analyst.
+It was in 1964, timed with the Socorro, New Mexico sighting at age 13,
+that Rich began investigating the UFO/UAP phenomena. By age 15, he
+was lecturing to churches, service clubs, and more and found himself on
+the Phil Donahue Show. He became the “go-to guy” for UFOs in Dayton.
+He got connected with Project Blue Book at Wright Patterson AFB and
+was provided a hot line number to RAPCON (Radar Approach Control)
+at the Base able to confirm traffic in and around Dayton when conducting
+investigations.
+In 1969, Rich joined the Midwest UFO Network (MUFON) and was the
+State Section Director. He served as the Director of Investigations for an
+Ohio-based UFO organization called the Ohio UFO Investigators League. It
+was this organization that held the 1978 MUFON Symposium in Dayton,
+attended by 3,000, the largest in UFO Conference in UFO History.
+During the 60 years, Rich conducted more than 1000 investigations, con-
+ducted field investigator training sessions, and held numerous additional po-
+sitions with MUFON. He was the State Director for Alabama and Mississippi,
+the Deputy Director of Investigations and Star Team Manager from 2009 to
+2015 and later the Director of Strategic Projects, a role that sought to bring
+technology to the forefront. In 2017, Rich left his MUFON leadership po-
+sitions and cofounded the Scientific Coalition for UAP Studies (SCU). The
+organization has grown rapidly, now close to 400 members worldwide. The
+vast majority are scientists, engineers, researchers, military, and many other
+disciplines. Rich is also an advisor and supporter for UAPx and the Society
+for UAP Studies (SUAPS).
+Rich has been on numerous TV, radio, podcasts, and news media and
+still lectures at universities and clubs. He is now in his fifth season as an
+expert on the History Channel show The Proof is Out There.
+In 2022, Rich represented the US along with Ryan Graves for a NATO
+workshop in Bologna, Italy. The workshop was focused on the Space Domain
+and the UAP as multi-domain phenomena and potential threat that NATO
+needs to consider as it develops its policies.
+135
+
+--- Page 17 ---
+Appendix A.8. Dr. J. Allen Hynek, Northwestern University
+Dr. Josef Allen Hynek (1910-1986) was born in Chicago (see Figure A.15).
+He graduated from the University of Chicago with a Bachelor of Science
+degree in 1931 and then spent four years at the Yerkes Observatory of the
+Department of Astronomy and Astrophysics at the University of Chicago,
+where he received his PhD in astrophysics in 1935.
+In 1936 Ohio State
+University hired him as an instructor in the Department of Physics and
+Astronomy and promoted him to assistant professor in 1939.
+During World War II, Hynek worked on developing a proximity fuse for
+the US Navy at Johns Hopkins University’s Applied Physics laboratory,
+returning to Ohio State in 1946 as associate professor and director of the
+McMillin Observatory. In 1950, he was promoted to full professor and be-
+came assistant dean of the Graduate School.
+While at Ohio State University, in 1948, Hynek had begun consulting
+for Project Sign at Wright-Patterson Air Force Base in Dayton, Ohio to
+investigate reports of UFOs.
+Hynek was initially skeptical of reports on
+UFOs, and stated that “the whole subject seems utterly ridiculous.” Hynek
+continued working for the Air Force as Project Sign became Project Grudge,
+and later remained a scientific consultant for Project Blue Book while he was
+at Northwestern University.
+Like most people, Hynek was a complicated individual, as he was skeptical
+and enjoyed his role as a debunker for the Air Force. In an interview in 1985,
+Hynek said: [441]
+My own investigations for Project Sign added to that [negative
+attitude surrounding UFOs], too, I think, because I was quite
+negative in most of my evaluations. I stretched far to give some-
+thing a natural explanation, sometimes when it may not have
+really had it. I remember one case from Snake River Canyon, I
+think it was, where a man and his two sons saw a metallic object
+come swirling down the canyon which caused the top of the trees
+to sway. In my attempt to find a natural explanation for it, I said
+that it was some sort of atmospheric eddy. Of course, I had never
+seen an eddy like that and had no real reason to believe that one
+even existed. But I was so anxious to find a natural explanation
+because I was convinced that it had to have one that, naturally,
+I did in fact, it wasn’t until quite some time had passed that I
+began to change my mind.
+136
+
+--- Page 18 ---
+Come to change his mind, he did. Hynek slowly came to resent the “negative
+and unyielding attitude of the Air Force”, which never gave the “UFOs the
+chance of existing, even if they were flying up and down the street in broad
+daylight. Everything had to have an explanation.” Furthermore, “the caliber
+of the witnesses began to trouble” him. [441].
+Hynek described his complicated relationship with the Air Force and sci-
+entists interested in the UFO phenomena in his 1985 interview [441]:
+Dr. James E. McDonald, a good friend of mine who was then
+an atmospheric meteorologist at the University of Arizona, and I
+had some fairly sharp words about it. He used to accuse me very
+much, saying you’re the scientific consultant to the Air Force,
+you should be pounding on generals’ doors and insisting on get-
+ting a better job done. I said, Jim, I was there, you weren’t you
+don’t know the mindset. They were under instruction from the
+Pentagon, following the Robertson Panel of 1953, that the whole
+subject had to be debunked, period, no question about it. That
+was the prevailing attitude. The panel was convened by the CIA,
+and I sat in on it, but I was not asked to sign the resolution.
+Had I been asked, I would not have signed it, because they took
+a completely negative attitude about everything. So when Jim
+McDonald used to accuse me of a sort of miscarriage of scien-
+tific justice, I had to tell him that had I done what he wanted,
+the generals would not have listened to me. They were already
+listening to Dr. Donald Menzel and the other boys over at the
+Harvard Astronomy Department as it was.
+Hynek believed that UFOs should be properly studied by the scientific
+community. He intensified his personal message when the Air Force closed
+Project Blue Book after a 1969 report by Dr. Edward Condon of the Uni-
+versity of Colorado concluded that UFOs did not merit further inquiry. In
+his 1985 interview, Hynek stated,
+the Condon Report said that a group of scientists had looked
+at UFOs and that the subject was dead. The UFOs, of course,
+didn’t bother to read the report and during the Flap of 1973,
+they came back in force.
+After 1969, Hynek was virtually alone in the scientific community in sup-
+porting the continued study of UFOs. Largely in response to the Condon
+137
+
+--- Page 19 ---
+Figure A.15: J. Allen Hynek (left)and Jacques Valll´ee (right). The image is in the Public
+Domain.
+report, Hynek wrote The UFO Experience [442], laying out the three classes
+of “Close Encounters.” Northwestern administrators were embarrassed by the
+publicity, demanding that Hynek’s Center for UFO Studies be kept separate
+from the University. Hynek retired from Northwestern in June 1978, and
+moved the Center to his home in 1981, disconnecting the toll-free hotline in
+1982. In search of funds and better research opportunities, Hynek moved the
+Center for UFO Studies to Arizona in 1984.
+It is a sad commentary on American science during the second half of
+the 20th century that Dr. Hynek and his team were never allowed to publish
+their research in the scientific press, despite multiple efforts. Instead, much
+of the fundamental work done during this period found a home in FSR. A list
+of selected articles by Dr. Hynek follows: [443, 444, 445, 442, 446, 447, 448]
+Dr. Hynek contributed many other items such as Letters to Editors and
+comments on current events in the field throughout his life. He was also a
+popular guest on TV programs and on local talk shows.
+138
+
+--- Page 20 ---
+Appendix A.9. Dr. Bruce Maccabee, US Naval Surface Warfare Center
+Bruce S. Maccabee (1942–2024) was a career physicist in optics for the
+US Navy. He received a B.S. in physics from Worcester Polytechnic Institute
+in Worcester, Massachusetts, and his M.S. and Ph.D. from American Univer-
+sity, Washington, DC. He worked at the Naval Ordnance Laboratory, White
+Oak, Silver Spring, Maryland; which later became the Naval Surface Warfare
+Center Dahlgren Division. He worked with optical systems and various as-
+pects of the Strategic Defense Initiative (SDI) and Ballistic Missile Defense
+(BMD) using high-power lasers.
+Dr. Maccabee’s interest in UFOs began in the 1960s. He authored sev-
+eral books on the subject [449][450][112] and has written dozens of articles
+on specific UFO sighting reports. As an optical scientist, his analysis of the
+luminosity of UFOs [57], as well as his analysis of two UFO photos taken
+in McMinnville, Oregon [451] were invaluable . His UFO research and in-
+vestigations also included the Kenneth Arnold sighting of 1947 [452], the
+F4 engagements of a UFO over Tehran in 1976 [453], the Kaik¯oura New
+Zealand videos and sightings of December 1978 [454, 455], the Japan Air-
+lines (JAL1628) sighting and radar data of 1986 [456, pp. 17–18], and the
+Phoenix Lights sightings of March 1997 [457].
+Appendix A.10. Dr. James McDonald, University of Arizona
+Dr. James McDonald (1920–1971), a nationally known University of Ari-
+zona physicist, is credited with advances in cloud physics and weather modi-
+fication research [458]. One of his first influential papers was on the shape of
+raindrops [459]. His meteorological work focused on radiation, atmospheric
+optics, cloud physics, nucleation, and cloud/weather modification [460].
+Born and raised in Duluth, Minnesota, he served as a cryptographer in the
+United States Navy during World War II. He received a B.A. in chemistry
+from the University of Omaha in 1942, an M.S. in meteorology from the
+Massachusetts Institute of Technology in 1945, and his Ph.D. in physics at
+Iowa State University in 1951. In 1953, Dr. McDonald, as a professor of
+meteorology at the University of Arizona in Tucson, helped to establish a
+meteorology and atmospherics program at the University of Arizona.
+He
+later became the head of the Institute of Atmospheric Physics. McDonald
+had a major impact on atmospheric physics through his service on the Panel
+on Weather and Climate Modification of the National Academy of Sciences
+[458].
+139

@@ -1,0 +1,43 @@
+{
+  "chunk_info": {
+    "chunk_num": 2,
+    "chunk_path": "/home/johnny5/Downloads/new science of UAP_chunks/new science of UAP_chunk_002_pages_21-40.pdf",
+    "text_file": "uap_science_checkpoints/chunk_002_text.txt",
+    "text_length": 44169,
+    "status": "extracted",
+    "preview": " --- Page 1 --- an incoming object shaped like an airplane fuselage with no wings or tail [93, 67]. They estimated the object to be about 100 feet in length with a barrel diameter about three times as"
+  },
+  "findings": [
+    {
+      "category": "craft",
+      "mention_count": 40,
+      "chunk_num": 2
+    },
+    {
+      "category": "phenomena",
+      "mention_count": 45,
+      "chunk_num": 2
+    },
+    {
+      "category": "technology",
+      "mention_count": 10,
+      "chunk_num": 2
+    },
+    {
+      "category": "witness",
+      "mention_count": 22,
+      "chunk_num": 2
+    },
+    {
+      "category": "government",
+      "mention_count": 24,
+      "chunk_num": 2
+    },
+    {
+      "category": "science",
+      "mention_count": 36,
+      "chunk_num": 2
+    }
+  ],
+  "timestamp": "2025-10-03T16:32:25.234275"
+}

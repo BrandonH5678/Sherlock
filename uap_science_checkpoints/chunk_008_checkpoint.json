@@ -1,0 +1,43 @@
+{
+  "chunk_info": {
+    "chunk_num": 8,
+    "chunk_path": "/home/johnny5/Downloads/new science of UAP_chunks/new science of UAP_chunk_008_pages_141-160.pdf",
+    "text_file": "uap_science_checkpoints/chunk_008_text.txt",
+    "text_length": 37819,
+    "status": "extracted",
+    "preview": " --- Page 1 --- McDonald gave a lecture on \u201cThe Problem of UFOs\u201d to the American Meteorological Society in Washington, D.C. in October 1966. McDonald estimated that only about 1% of UFOs were unknowns"
+  },
+  "findings": [
+    {
+      "category": "craft",
+      "mention_count": 29,
+      "chunk_num": 8
+    },
+    {
+      "category": "phenomena",
+      "mention_count": 26,
+      "chunk_num": 8
+    },
+    {
+      "category": "technology",
+      "mention_count": 23,
+      "chunk_num": 8
+    },
+    {
+      "category": "witness",
+      "mention_count": 11,
+      "chunk_num": 8
+    },
+    {
+      "category": "government",
+      "mention_count": 24,
+      "chunk_num": 8
+    },
+    {
+      "category": "science",
+      "mention_count": 38,
+      "chunk_num": 8
+    }
+  ],
+  "timestamp": "2025-10-03T16:32:25.550264"
+}
