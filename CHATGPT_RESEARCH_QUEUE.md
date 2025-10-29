@@ -1,18 +1,72 @@
+<!-- QUEUE_VERSION: 1.0 -->
+<!-- LAST_UPDATED: 2025-10-28T16:30:00Z -->
+<!-- QUEUE_ID: sherlock_research_queue_primary -->
+
 # ChatGPT Research Package Queue
 ## Sherlock Targeting Officer → ChatGPT Execution System
 
-**Last Updated:** 2025-10-28
-**Purpose:** Research packages designed for ChatGPT-5 execution, posted here for automated pickup
+---
+
+## 🔗 FETCH URLs (Use these for automated access)
+
+**PRIMARY (Always use this first):**
+```
+https://raw.githubusercontent.com/BrandonH5678/Sherlock/main/CHATGPT_RESEARCH_QUEUE.md
+```
+
+**FALLBACK 1 (GitHub Pages):**
+```
+https://brandonh5678.github.io/Sherlock/CHATGPT_RESEARCH_QUEUE.md
+```
+
+**FALLBACK 2 (Public Gist - maintained as secondary mirror):**
+```
+https://gist.githubusercontent.com/BrandonH5678/[gist-id]/raw/CHATGPT_RESEARCH_QUEUE.md
+```
+
+**Note:** Always fetch the RAW file (plain text), NOT the GitHub blob/HTML page.
 
 ---
 
-## ACTIVE RESEARCH PACKAGES - PRIORITY BATCH 1
+## ⚙️ IDEMPOTENCY & EXECUTION TRACKING
+
+### Execution Rules (CRITICAL - READ BEFORE PROCESSING)
+
+1. **Package ID is unique identifier** - Format: `sherlock_chatgpt_NNN`
+2. **Status determines executability:**
+   - `QUEUED` = Ready for execution, pick up and start
+   - `IN_PROGRESS` = Currently being executed by another agent, SKIP
+   - `COMPLETED` = Finished, DO NOT re-execute
+   - `FAILED` = Previous execution failed, can retry
+3. **Check EXECUTION_LOG at bottom** - Never execute package already logged as completed
+4. **Update status when starting** - Change to `IN_PROGRESS` + add start timestamp
+5. **Log completion** - Add entry to EXECUTION_LOG when done
+
+### File Structure for Parsing
+
+```
+<!-- PACKAGES_START -->
+[Package definitions here - each starts with ### Package N:]
+<!-- PACKAGES_END -->
+
+<!-- EXECUTION_LOG_START -->
+[Execution history - append only, never delete]
+<!-- EXECUTION_LOG_END -->
+```
+
+---
+
+<!-- PACKAGES_START -->
+
+## 📦 ACTIVE RESEARCH PACKAGES - PRIORITY BATCH 1
 
 ### Package 1: Thomas Townsend Brown & Biefeld-Brown Effect
-**Package ID:** sherlock_chatgpt_001
+**Package ID:** `sherlock_chatgpt_001`
 **Priority:** CRITICAL
 **Estimated Duration:** 3-4 hours
 **Status:** QUEUED
+**Created:** 2025-10-28T16:00:00Z
+**Last Modified:** 2025-10-28T16:00:00Z
 
 **Research Objectives:**
 1. **Thomas Townsend Brown Biography & Timeline (1905-1985)**
@@ -60,10 +114,12 @@
 ---
 
 ### Package 2: 1953 Inflection Point - Classified Programs Initiation
-**Package ID:** sherlock_chatgpt_002
+**Package ID:** `sherlock_chatgpt_002`
 **Priority:** CRITICAL
 **Estimated Duration:** 4-5 hours
 **Status:** QUEUED
+**Created:** 2025-10-28T16:00:00Z
+**Last Modified:** 2025-10-28T16:00:00Z
 
 **Research Objectives:**
 1. **Comprehensive Timeline of 1953 Government Program Initiations**
@@ -109,10 +165,12 @@
 ---
 
 ### Package 3: Stargate Project & UAP Connections
-**Package ID:** sherlock_chatgpt_003
+**Package ID:** `sherlock_chatgpt_003`
 **Priority:** HIGH
 **Estimated Duration:** 3-4 hours
 **Status:** QUEUED
+**Created:** 2025-10-28T16:00:00Z
+**Last Modified:** 2025-10-28T16:00:00Z
 
 **Research Objectives:**
 1. **Stargate Program Complete History**
@@ -157,10 +215,12 @@
 ---
 
 ### Package 4: MK-Ultra & UAP Witness Manipulation
-**Package ID:** sherlock_chatgpt_004
+**Package ID:** `sherlock_chatgpt_004`
 **Priority:** HIGH
 **Estimated Duration:** 3-4 hours
 **Status:** QUEUED
+**Created:** 2025-10-28T16:00:00Z
+**Last Modified:** 2025-10-28T16:00:00Z
 
 **Research Objectives:**
 1. **MK-Ultra Subprojects Related to Memory/Perception**
@@ -204,10 +264,12 @@
 ---
 
 ### Package 5: Operation Mockingbird to Modern Media Control
-**Package ID:** sherlock_chatgpt_005
+**Package ID:** `sherlock_chatgpt_005`
 **Priority:** HIGH
 **Estimated Duration:** 4-5 hours
 **Status:** QUEUED
+**Created:** 2025-10-28T16:00:00Z
+**Last Modified:** 2025-10-28T16:00:00Z
 
 **Research Objectives:**
 1. **Operation Mockingbird Complete History**
@@ -239,7 +301,7 @@
 - Carl Bernstein "CIA and the Media" article (1977)
 - Church Committee media findings
 - Media ownership databases
-   - Jeff Bezos AWS/CIA contract details
+- Jeff Bezos AWS/CIA contract details
 - Analysis of UAP coverage pre/post 2017
 
 **Expected Deliverables:**
@@ -253,10 +315,12 @@
 ---
 
 ### Package 6: Financial Control Infrastructure (Federal Reserve & BlackRock)
-**Package ID:** sherlock_chatgpt_006
+**Package ID:** `sherlock_chatgpt_006`
 **Priority:** HIGH
 **Estimated Duration:** 4-5 hours
 **Status:** QUEUED
+**Created:** 2025-10-28T16:00:00Z
+**Last Modified:** 2025-10-28T16:00:00Z
 
 **Research Objectives:**
 1. **Federal Reserve Structure & Control Mechanisms**
@@ -302,10 +366,12 @@
 ---
 
 ### Package 7: In-Q-Tel & CIA-Silicon Valley Fusion
-**Package ID:** sherlock_chatgpt_007
+**Package ID:** `sherlock_chatgpt_007`
 **Priority:** HIGH
 **Estimated Duration:** 3-4 hours
 **Status:** QUEUED
+**Created:** 2025-10-28T16:00:00Z
+**Last Modified:** 2025-10-28T16:00:00Z
 
 **Research Objectives:**
 1. **In-Q-Tel Complete History**
@@ -350,10 +416,12 @@
 ---
 
 ### Package 8: Zero-Point Energy & Advanced Propulsion Research
-**Package ID:** sherlock_chatgpt_008
+**Package ID:** `sherlock_chatgpt_008`
 **Priority:** MEDIUM-HIGH
 **Estimated Duration:** 3-4 hours
 **Status:** QUEUED
+**Created:** 2025-10-28T16:00:00Z
+**Last Modified:** 2025-10-28T16:00:00Z
 
 **Research Objectives:**
 1. **Zero-Point Energy Theoretical Basis**
@@ -398,10 +466,12 @@
 ---
 
 ### Package 9: UAP Nuclear Weapons Monitoring - Global Patterns
-**Package ID:** sherlock_chatgpt_009
+**Package ID:** `sherlock_chatgpt_009`
 **Priority:** MEDIUM-HIGH
 **Estimated Duration:** 4-5 hours
 **Status:** QUEUED
+**Created:** 2025-10-28T16:00:00Z
+**Last Modified:** 2025-10-28T16:00:00Z
 
 **Research Objectives:**
 1. **Complete Nuclear Facility UAP Reports Database**
@@ -447,10 +517,12 @@
 ---
 
 ### Package 10: Consciousness & UAP Interface - Scientific Research
-**Package ID:** sherlock_chatgpt_010
+**Package ID:** `sherlock_chatgpt_010`
 **Priority:** MEDIUM
 **Estimated Duration:** 3-4 hours
 **Status:** QUEUED
+**Created:** 2025-10-28T16:00:00Z
+**Last Modified:** 2025-10-28T16:00:00Z
 
 **Research Objectives:**
 1. **CE-5 Protocols & Claimed Results**
@@ -492,9 +564,11 @@
 
 **Strategic Value:** If consciousness plays role in UAP interaction/detection, explains why some witnesses have contact while others don't. May reveal detection and communication mechanisms.
 
+<!-- PACKAGES_END -->
+
 ---
 
-## EXECUTION INSTRUCTIONS FOR CHATGPT-5
+## 📋 EXECUTION INSTRUCTIONS FOR CHATGPT-5
 
 ### Research Standards
 1. **Source Quality Requirements:**
@@ -529,11 +603,22 @@ Each package considered complete when:
 2. Minimum 15 high-quality sources cited per deliverable
 3. Executive summary written
 4. Confidence levels assigned to key findings
-5. Files placed in `/home/johnny5/Sherlock/chatgpt_research_output/[package_id]/`
+5. **Package logged in EXECUTION_LOG below with completion timestamp**
+
+### Execution Workflow
+1. Fetch this file using PRIMARY URL (raw GitHub)
+2. Parse packages between `<!-- PACKAGES_START -->` and `<!-- PACKAGES_END -->`
+3. Check EXECUTION_LOG - skip any package already logged as completed
+4. Select package with status=QUEUED and highest priority
+5. Update package status to IN_PROGRESS (if you can write back)
+6. Execute research per package specifications
+7. Create deliverables in markdown format
+8. **Add completion entry to EXECUTION_LOG**
+9. Notify Brandon via configured channel
 
 ---
 
-## PRIORITY SEQUENCE RECOMMENDATIONS
+## 🗂️ PRIORITY SEQUENCE RECOMMENDATIONS
 
 **Week 1 (Immediate Critical Gaps):**
 1. Package 1 (Thomas Townsend Brown) - Direct UAP propulsion connection
@@ -555,6 +640,28 @@ Each package considered complete when:
 
 ---
 
-**System Status:** ACTIVE - Awaiting ChatGPT-5 automated pickup
-**Last Package Added:** 2025-10-28
-**Next Update:** Daily at 02:00 (after Sherlock Targeting Officer sweep)
+<!-- EXECUTION_LOG_START -->
+
+## 📝 EXECUTION LOG (Append-Only - Do Not Delete Entries)
+
+**Format:** `YYYY-MM-DD HH:MM:SS UTC | Package ID | Status | Agent | Notes`
+
+### Log Entries
+
+*No executions logged yet - queue initialized 2025-10-28*
+
+<!-- Future entries will be appended here by executing agents -->
+<!-- Example:
+2025-10-29 14:23:15 UTC | sherlock_chatgpt_001 | COMPLETED | ChatGPT-5 | All 4 deliverables created, 47 sources cited
+2025-10-29 18:45:32 UTC | sherlock_chatgpt_002 | COMPLETED | ChatGPT-5 | All 4 deliverables created, 52 sources cited
+-->
+
+<!-- EXECUTION_LOG_END -->
+
+---
+
+**Queue Status:** ACTIVE
+**Packages Queued:** 10
+**Packages Completed:** 0
+**Last Queue Update:** 2025-10-28T16:30:00Z
+**Next Scheduled Update:** Daily at 02:00 UTC (after Sherlock Targeting Officer sweep)
