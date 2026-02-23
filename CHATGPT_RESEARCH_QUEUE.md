@@ -635,16 +635,736 @@ Confidence: 70% factual with clear sourcing, 40% for claimed phenomena (unproven
 
 ---
 
+## RESEARCH FOCUS AREA 5: Epstein-Maxwell Intelligence Network
+
+This queue extends Sherlock's investigation into the Epstein-Maxwell intelligence network. These tasks require investigation BEYOND mainstream media narratives, which systematically downplay documented intelligence connections (consistent with Mockingbird-style media management patterns identified in SHERLOCK-20251028-005).
+
+**Counter-Intelligence Awareness:** Mainstream wire services (AP, Reuters) and major outlets have demonstrably suppressed or minimized Epstein-intelligence connections. Researchers should:
+- Prioritize independent investigative journalists (Whitney Webb, Julie K. Brown)
+- Seek court filings, depositions, and Congressional testimony as primary sources
+- Use FOIA documents and declassified materials where available
+- Apply Sherlock evidence typing: (a) adjudicated, (b) sworn untested, (c) investigative note, (d) third-party submission, (e) media summary
+- Note when mainstream framing diverges from documented evidence
+
+---
+
+---TASK---
+ID: SHERLOCK-20260222-001
+Title: Robert Maxwell Intelligence Profile
+Priority: Critical
+Requested By: Sherlock Targeting Officer / Claude Code
+Date Added: 2026-02-22
+Due: 2026-03-01
+Status: Pending
+Tags: intelligence, Mossad, MI6, PROMIS, Maxwell-family, espionage
+Confidence: 80% factual — well-documented by multiple biographers but intelligence connections inherently secretive
+
+# Objective
+Compile comprehensive intelligence profile of Robert Maxwell (1923-1991) documenting his relationships with MI6, Mossad, and other intelligence services. Map the PROMIS/Inslaw software distribution operation, his death circumstances, and the institutional continuity of intelligence relationships through Ghislaine Maxwell to Jeffrey Epstein.
+
+# Instructions
+1. **Robert Maxwell Biography with Intelligence Timeline (1923-1991)**
+   - Born Jan Ludvik Hyman Binyamin Hoch in Czechoslovakia
+   - British Army service (MC recipient)
+   - MI6 recruitment timeline and documented tasks
+   - Pergamon Press as intelligence platform (publishing scientific journals → access to Eastern Bloc scientists)
+   - Israeli connections: when documented, by whom, nature of relationship
+   - Parliamentary investigations
+   - Political career and media empire
+
+2. **PROMIS/Inslaw Affair and Maxwell's Distribution Role**
+   - Inslaw Inc and PROMIS software origins
+   - How PROMIS was allegedly stolen from Inslaw
+   - Rafi Eitan (Israeli intelligence) connection to PROMIS acquisition
+   - Maxwell's alleged role distributing backdoored PROMIS to 80+ countries
+   - House Judiciary Committee investigation (1992)
+   - Danny Casolaro death (1991) during Inslaw investigation
+   - Technical capabilities of PROMIS for intelligence exploitation
+
+3. **Robert Maxwell's Death (November 5, 1991) and Intelligence Implications**
+   - Circumstances of death aboard yacht Lady Ghislaine
+   - Official ruling vs. competing theories
+   - Funeral attendance (6 serving/former heads of intelligence agencies)
+   - Israeli state funeral with military honors
+   - Timing relative to financial empire collapse
+   - $460M missing from pension funds
+   - Which intelligence services attended funeral and what does attendance indicate?
+
+4. **Maxwell Family Network Mapping**
+   - Ghislaine's transition from Robert's world to Epstein
+   - When did Ghislaine meet Epstein? Who introduced them?
+   - Institutional continuity of intelligence relationships
+   - Other Maxwell family members and their connections
+   - Isabel Maxwell and technology/intelligence nexus (Magellan, CommTouch/Cyren)
+
+**Source Requirements:** Gordon Thomas "Gideon's Spies" and "Robert Maxwell: Israel's Superspy," Seymour Hersh reporting, Ari Ben-Menashe "Profits of War," UK Parliamentary records, Inslaw/BCCI House Judiciary Committee report (1992), John P. Thomas "The Secret Life of Robert Maxwell," declassified documents from UK National Archives. MINIMUM 15 sources per document.
+
+# Output Format - SPECIFIC REQUIREMENTS
+**MANDATORY: Deliver FOUR complete Markdown documents as specified in DELIVERABLE REQUIREMENTS above.**
+
+## Document 1: `robert_maxwell_intelligence_timeline.md`
+- **Length:** 5-8 pages
+- **Structure:**
+  * Executive summary (1-2 paragraphs)
+  * Year-by-year chronological biography with intelligence dimensions (1923-1991)
+  * Key milestones highlighted (MI6 recruitment, Mossad relationship, Pergamon Press, PROMIS)
+  * Full bibliography (15+ sources minimum)
+- **Required Citations:** Every date, position, intelligence relationship claim
+- **Primary Sources Required:** UK Parliamentary records, declassified UK National Archives docs, biographies with cited sourcing
+
+## Document 2: `promis_inslaw_maxwell_distribution.md`
+- **Length:** 5-8 pages
+- **Structure:**
+  * Executive summary
+  * PROMIS software technical history and capabilities
+  * Inslaw theft allegations and legal proceedings
+  * Rafi Eitan connection documentation
+  * Maxwell distribution network to 80+ countries (which countries, what evidence?)
+  * Danny Casolaro investigation and death
+  * House Judiciary Committee findings
+  * Full bibliography (15+ sources minimum including Congressional records)
+- **Required Citations:** Every legal proceeding, every Congressional finding, every distribution claim
+- **Primary Sources Required:** House Judiciary Committee report (1992), court filings, Inslaw Inc records
+
+## Document 3: `robert_maxwell_death_intelligence_analysis.md`
+- **Length:** 4-6 pages
+- **Structure:**
+  * Executive summary
+  * Detailed circumstances of death (November 5, 1991)
+  * Autopsy findings and competing medical assessments
+  * Funeral attendance analysis (identify all intelligence figures present)
+  * Israeli state funeral significance
+  * Financial collapse timeline
+  * Intelligence implications assessment
+  * Full bibliography (15+ sources minimum)
+- **Required Citations:** Autopsy reports, funeral attendee documentation, financial records
+- **Primary Sources Required:** Coroner's reports, Israeli government statements, financial audit reports
+
+## Document 4: `maxwell_family_network_epstein_bridge.md`
+- **Length:** 4-6 pages
+- **Structure:**
+  * Executive summary
+  * Ghislaine Maxwell biographical timeline post-Robert's death
+  * Robert → Ghislaine → Epstein institutional continuity analysis
+  * Isabel Maxwell technology/intelligence nexus
+  * Other Maxwell family members and connections
+  * Network mapping of intelligence relationship inheritance
+  * Full bibliography (15+ sources minimum)
+- **Required Citations:** Every meeting, introduction, financial arrangement, business relationship
+- **Primary Sources Required:** Court filings, deposition testimony, corporate records
+
+# Deliver To
+/home/johnny5/Sherlock/evidence/chatgpt_research_output/SHERLOCK-20260222-001/
+
+# Context Notes
+**Strategic Value:** Robert Maxwell is the critical bridge figure connecting Cold War-era intelligence operations (MI6, Mossad, PROMIS) to the modern Epstein network. Without understanding Maxwell's intelligence architecture, the Epstein operation appears to emerge from nowhere. With it, the institutional continuity of intelligence compromise operations becomes visible across 50+ years.
+
+**Cross-Reference:** SHERLOCK-20251028-005 (Operation Mockingbird — Maxwell's media empire as intelligence platform parallels CIA media assets). SHERLOCK-20251028-006 (Financial control structures — Maxwell's pension fund looting as intelligence financing model).
+
+**IMPORTANT:** Do NOT provide executive summary only. Deliver all 4 complete documents with full bibliographies as specified.
+---END---
+
+---TASK---
+ID: SHERLOCK-20260222-002
+Title: Epstein Intelligence Community Connections
+Priority: Critical
+Requested By: Sherlock Targeting Officer / Claude Code
+Date Added: 2026-02-22
+Due: 2026-03-01
+Status: Pending
+Tags: intelligence, CIA, Mossad, MI6, Acosta, Wexner, compromise-operations
+Confidence: 70% — Acosta quote documented, broader IC connections require triangulation from multiple sources
+
+# Objective
+Document the full scope of Jeffrey Epstein's alleged intelligence connections including CIA, Mossad, and MI6. Anchor analysis on Alexander Acosta's reported statement that Epstein "belonged to intelligence." Map Les Wexner relationship as potential cutout architecture and Ehud Barak connection as Israeli intelligence bridge.
+
+# Instructions
+1. **Acosta "Belonged to Intelligence" Statement**
+   - Original sourcing for this quote (Vicky Ward's reporting)
+   - Context of Acosta's decision to approve lenient NPA
+   - Acosta's subsequent career trajectory (Labor Secretary)
+   - What does "belonged to intelligence" mean operationally?
+   - Did Acosta elaborate? Corroborating statements from other officials
+   - Counter-narratives and denials
+
+2. **Epstein-CIA Connections**
+   - Bear Stearns origins (who hired him, who were his mentors, any intelligence-linked figures)
+   - Transition to private wealth management
+   - Les Wexner relationship — timeline, financial arrangements (power of attorney, townhouse transfer), Wexner as possible cutout
+   - Connections to CIA-linked figures (document each with sourcing)
+   - Any FOIA documents mentioning Epstein
+
+3. **Epstein-Mossad Connections**
+   - Via Maxwell family inheritance of intelligence relationships
+   - Ehud Barak documented visits and financial relationship
+   - Carbyne911 (emergency services tech company) co-investment with Barak
+   - Israeli tech investments
+   - Documented Israeli intelligence methodology for compromise/blackmail operations (compare with Epstein's documented operation patterns)
+   - Mega Group connections
+
+4. **Epstein-MI6 and International Intelligence**
+   - Prince Andrew as access point to UK establishment
+   - UK institutional protection patterns (Metropolitan Police failures)
+   - Ghislaine's UK connections
+   - Any documented MI6 interest
+   - Russian intelligence connections (if documented)
+   - Broader international intelligence dimensions
+
+**Counter-Intel Note:** Seek sources BEYOND mainstream wire services. Prioritize: Whitney Webb (Unlimited Hangout), "One Nation Under Blackmail" (Vol 1&2), Conchita Sarnoff "TrafficKing," court filings and deposition materials, FOIA documents, Congressional testimony. Note when mainstream sources conspicuously omit intelligence dimensions.
+
+# Output Format - SPECIFIC REQUIREMENTS
+**MANDATORY: Deliver FOUR complete Markdown documents as specified in DELIVERABLE REQUIREMENTS above.**
+
+## Document 1: `epstein_belonged_to_intelligence_analysis.md`
+- **Length:** 4-6 pages
+- **Structure:**
+  * Executive summary
+  * Acosta quote sourcing and verification
+  * NPA context and analysis
+  * Operational meaning of "belonged to intelligence"
+  * Corroborating evidence from other officials
+  * Counter-narratives and assessment
+  * Full bibliography (15+ sources minimum)
+- **Required Citations:** Every quote, every official statement, every legal proceeding
+- **Primary Sources Required:** NPA documents, Congressional testimony, original journalistic sourcing
+
+## Document 2: `epstein_cia_wexner_connections.md`
+- **Length:** 5-8 pages
+- **Structure:**
+  * Executive summary
+  * Bear Stearns timeline and intelligence-linked mentors
+  * Wexner relationship comprehensive mapping (financial, legal, property)
+  * Power of attorney analysis — what did this enable?
+  * CIA-linked figure connections (each documented separately)
+  * FOIA document analysis
+  * Full bibliography (15+ sources minimum)
+- **Required Citations:** Every financial transaction, every named connection, every FOIA document
+- **Primary Sources Required:** Court filings, financial records, FOIA releases, corporate filings
+
+## Document 3: `epstein_mossad_israeli_intelligence.md`
+- **Length:** 5-8 pages
+- **Structure:**
+  * Executive summary
+  * Maxwell family intelligence inheritance pathway
+  * Ehud Barak relationship documentation (visits, finances, Carbyne911)
+  * Israeli intelligence compromise methodology (documented operations)
+  * Comparison with Epstein operational patterns
+  * Mega Group analysis
+  * Full bibliography (15+ sources minimum)
+- **Required Citations:** Every meeting, every financial arrangement, every operational comparison
+- **Primary Sources Required:** Israeli media reporting, court documents, corporate filings, intelligence history sources
+
+## Document 4: `epstein_mi6_international_intelligence.md`
+- **Length:** 4-6 pages
+- **Structure:**
+  * Executive summary
+  * Prince Andrew relationship and UK establishment access
+  * Metropolitan Police investigation failures
+  * MI6 interest documentation (if available)
+  * International intelligence dimensions (Russia, France, others)
+  * Global network mapping
+  * Full bibliography (15+ sources minimum)
+- **Required Citations:** Every UK investigation reference, every international connection
+- **Primary Sources Required:** UK court documents, Metropolitan Police records, Virginia Giuffre depositions
+
+# Deliver To
+/home/johnny5/Sherlock/evidence/chatgpt_research_output/SHERLOCK-20260222-002/
+
+# Context Notes
+**Strategic Value:** The Acosta "belonged to intelligence" statement is the single most significant admission by a US government official regarding Epstein's intelligence role. If verified and contextualized properly, it transforms the entire Epstein case from criminal exploitation to intelligence operation. This reframing is essential for understanding institutional protection patterns.
+
+**Cross-Reference:** SHERLOCK-20260222-001 (Robert Maxwell as intelligence bridge). SHERLOCK-20251028-005 (Mockingbird — media suppression of intelligence dimensions). SHERLOCK-20260222-003 (financial architecture as intelligence infrastructure).
+
+**IMPORTANT:** Do NOT provide executive summary only. Deliver all 4 complete documents with full bibliographies as specified.
+---END---
+
+---TASK---
+ID: SHERLOCK-20260222-003
+Title: Epstein Financial Network & Intelligence Banking
+Priority: High
+Requested By: Sherlock Targeting Officer / Claude Code
+Date Added: 2026-02-22
+Due: 2026-03-08
+Status: Pending
+Tags: BCCI, Deutsche-Bank, JPMorgan, Morgan-Stanley, Wexner, financial-intelligence, offshore
+Confidence: 85% for financial facts (settlements documented), 65% for intelligence banking connections
+
+# Objective
+Map Epstein's complete financial architecture and investigate parallels with BCCI as intelligence banking infrastructure. Document Deutsche Bank, JPMorgan Chase, and Morgan Stanley relationships. Trace offshore and international financial flows.
+
+# Instructions
+1. **BCCI History and Intelligence Connections**
+   - BCCI founding (Agha Hasan Abedi, 1972)
+   - CIA operational usage documented by Congressional investigation
+   - Mossad usage
+   - Arms trafficking financing
+   - Pakistani nuclear program financing
+   - BCCI collapse (1991) and Robert Maxwell connections
+   - BCCI-Maxwell documented in Congressional record
+   - Lessons for understanding modern intelligence banking infrastructure
+   - What pattern does BCCI establish?
+
+2. **Epstein's Financial Architecture**
+   - Bear Stearns entry and departure circumstances
+   - J. Epstein & Co. — client list (who were actual clients?)
+   - Wexner wealth management structure — power of attorney, property transfers, financial arrangements
+   - Virgin Islands corporate entities (Southern Trust Company, others)
+   - Trust structures and beneficial ownership
+   - How did money actually flow?
+   - Source of Epstein's wealth (still unexplained by mainstream accounts)
+
+3. **Deutsche Bank / JPMorgan / Morgan Stanley**
+   - Deutsche Bank relationship timeline (2013-2019), compliance failures documented in $75M settlement, what red flags were ignored
+   - JPMorgan relationship (terminated 2013 but $290M settlement), what they knew
+   - Morgan Stanley trust accounts maintained to 2019 per Reuters
+   - Were these compliance failures or deliberate enablement?
+   - What do the settlement documents reveal?
+
+4. **Offshore and International Financial Flows**
+   - USVI entities and offshore structure
+   - Zorro Ranch NM operations
+   - Paris apartment financial arrangements
+   - London financial connections
+   - Fund flows to/from intelligence-linked entities
+   - Comparison with BCCI offshore structure
+   - Any documented connections to other intelligence-linked financial networks
+
+**Cross-Reference:** Existing Sherlock BBH/financial dynasty intelligence (207 claims), Sullivan & Cromwell analysis. Look for institutional patterns matching Brown Brothers Harriman model of private banking enabling elite concealment.
+
+# Output Format - SPECIFIC REQUIREMENTS
+**MANDATORY: Deliver FOUR complete Markdown documents as specified in DELIVERABLE REQUIREMENTS above.**
+
+## Document 1: `bcci_intelligence_banking_pattern.md`
+- **Length:** 5-8 pages
+- **Structure:**
+  * Executive summary
+  * BCCI founding and growth as intelligence bank
+  * CIA operational usage (documented by Congressional investigation)
+  * Mossad and other intelligence service usage
+  * Arms and nuclear proliferation financing
+  * BCCI-Maxwell connection documentation
+  * Pattern analysis: What does BCCI model reveal about intelligence banking?
+  * Full bibliography (15+ sources minimum including Congressional records)
+- **Required Citations:** Every Congressional finding, every intelligence connection, every financial transaction
+- **Primary Sources Required:** Senate Foreign Relations Committee report (Kerry Committee), BCCI court filings, Congressional testimony
+
+## Document 2: `epstein_financial_architecture_mapping.md`
+- **Length:** 5-8 pages
+- **Structure:**
+  * Executive summary
+  * Bear Stearns timeline
+  * J. Epstein & Co. structure and known clients
+  * Wexner financial arrangements (comprehensive)
+  * USVI corporate entities mapping
+  * Trust structures and beneficial ownership analysis
+  * Source of wealth analysis — what is documented vs. unexplained
+  * Full bibliography (15+ sources minimum)
+- **Required Citations:** Every corporate entity, every financial arrangement, every property transfer
+- **Primary Sources Required:** Corporate filings, court documents, USVI records, financial settlement documents
+
+## Document 3: `major_bank_relationships_compliance_analysis.md`
+- **Length:** 5-8 pages
+- **Structure:**
+  * Executive summary
+  * Deutsche Bank relationship (2013-2019) — timeline, red flags, $75M settlement details
+  * JPMorgan relationship — timeline, termination, $290M settlement details
+  * Morgan Stanley trust accounts (maintained to 2019)
+  * Compliance failure analysis: negligence or enablement?
+  * Settlement document revelations
+  * Pattern analysis across all three banks
+  * Full bibliography (15+ sources minimum)
+- **Required Citations:** Every settlement amount, every compliance failure, every timeline date
+- **Primary Sources Required:** Settlement documents, DFS/SEC filings, court records, bank compliance reports
+
+## Document 4: `offshore_international_financial_flows.md`
+- **Length:** 4-6 pages
+- **Structure:**
+  * Executive summary
+  * USVI offshore entity mapping
+  * International property holdings and financial arrangements
+  * Fund flow analysis (documented transfers)
+  * Intelligence-linked entity connections (if documented)
+  * BCCI structural comparison
+  * BBH/Sullivan & Cromwell pattern comparison
+  * Full bibliography (15+ sources minimum)
+- **Required Citations:** Every offshore entity, every international transfer, every structural comparison
+- **Primary Sources Required:** USVI corporate records, international property records, FOIA documents
+
+# Deliver To
+/home/johnny5/Sherlock/evidence/chatgpt_research_output/SHERLOCK-20260222-003/
+
+# Context Notes
+**Strategic Value:** Financial architecture is the skeleton key to understanding intelligence operations. BCCI established the template for intelligence banking; if Epstein's financial structure mirrors BCCI patterns, it provides structural evidence of intelligence operation regardless of explicit documentation. The unexplained source of Epstein's wealth is a critical intelligence indicator — legitimate wealth managers have identifiable client bases and revenue streams.
+
+**Cross-Reference:** SHERLOCK-20251028-006 (Federal Reserve & BlackRock financial control). SHERLOCK-20260222-001 (Maxwell-BCCI connection). Existing Sherlock BBH intelligence (207 claims on financial dynasty concealment patterns).
+
+**IMPORTANT:** Do NOT provide executive summary only. Deliver all 4 complete documents with full bibliographies as specified.
+---END---
+
+---TASK---
+ID: SHERLOCK-20260222-004
+Title: Epstein Science, Technology & Advanced Research Network
+Priority: High
+Requested By: Sherlock Targeting Officer / Claude Code
+Date Added: 2026-02-22
+Due: 2026-03-08
+Status: Pending
+Tags: gravity-research, electrogravitics, Harvard, MIT, Edge-Foundation, transhumanism, Atlantis, TerraMar
+Confidence: 75% — science funding documented, gravity symposium needs detailed sourcing, Atlantis connections speculative
+
+# Objective
+Map Epstein's complete science and technology funding network with particular focus on gravity research symposium (mid-2000s), connections to defense/intelligence funded research, Atlantis/pre-diluvian interests, and transhumanism connections. Cross-reference against known Sherlock targets in electrogravitics and advanced propulsion.
+
+# Instructions
+1. **Epstein Gravity Research Symposium**
+   - Exact date, location, and organizing details
+   - Complete attendee list (who was invited, who attended)
+   - Topics discussed
+   - Funding source and amount
+   - What were the research areas of attendees?
+   - Any connections to defense/intelligence funded gravity research (DARPA, ONR, AFOSR)?
+   - Any connections to electrogravitics research community?
+   - Any attendees also connected to Robert Bigelow, Hal Puthoff, or other Sherlock targets?
+   - Published proceedings or reports?
+
+2. **Broader Science Funding Network**
+   - Harvard Program for Evolutionary Dynamics (Martin Nowak) — funding amount, what research was conducted, any problematic dimensions
+   - MIT Media Lab (Joi Ito) — funding relationship details, Ito's resignation
+   - Santa Fe Institute connections
+   - Edge Foundation / John Brockman network — who else was in this network?
+   - Map ALL known scientific institutions and researchers receiving Epstein funding
+   - Total estimated science funding
+
+3. **Atlantis/Pre-Diluvian Research & TerraMar Project**
+   - Ghislaine Maxwell's TerraMar Project (2012-2019): stated mission, actual activities, UN presentations, funding sources, connections
+   - Maxwell/Epstein interest in underwater exploration — what specifically?
+   - Connections to Robert Ballard or other marine archaeologists
+   - Any documented interest in pre-flood civilizations, underwater ruins, or Atlantis
+   - Connection to broader "lost civilization" research community
+
+4. **Transhumanism, AI, and Eugenics**
+   - NYT reporting on Epstein's interest in "seeding the human race" with his DNA
+   - Connections to transhumanist circles (who specifically?)
+   - DNA/genetics research funding
+   - Any overlap with intelligence community interest in human enhancement programs (connect to MK-Ultra legacy research if applicable)
+   - AI and technology investments
+   - Epstein's vision for human modification
+
+**Cross-Reference:** Sherlock targets — Thomas Townsend Brown (electrogravitics), zero-point energy (SHERLOCK-20251028-008), consciousness-UAP interface (SHERLOCK-20251028-010). Look for any personnel or institutional overlap.
+
+# Output Format - SPECIFIC REQUIREMENTS
+**MANDATORY: Deliver FOUR complete Markdown documents as specified in DELIVERABLE REQUIREMENTS above.**
+
+## Document 1: `epstein_gravity_symposium_investigation.md`
+- **Length:** 4-6 pages
+- **Structure:**
+  * Executive summary
+  * Symposium details (date, location, organizers)
+  * Complete attendee list with research affiliations
+  * Topics and discussion areas
+  * Defense/intelligence connections of attendees
+  * Electrogravitics community overlap analysis
+  * Sherlock target cross-reference (Bigelow, Puthoff, others)
+  * Full bibliography (15+ sources minimum)
+- **Required Citations:** Every attendee, every institutional affiliation, every funding claim
+- **Primary Sources Required:** Symposium proceedings (if available), attendee interviews, institutional records
+
+## Document 2: `epstein_science_funding_network_map.md`
+- **Length:** 5-8 pages
+- **Structure:**
+  * Executive summary
+  * Harvard/Nowak funding analysis
+  * MIT Media Lab/Joi Ito relationship
+  * Santa Fe Institute connections
+  * Edge Foundation/Brockman network mapping
+  * Complete institutional funding map
+  * Total funding estimate
+  * Full bibliography (15+ sources minimum)
+- **Required Citations:** Every funding amount, every institutional relationship, every researcher named
+- **Primary Sources Required:** University records, tax filings, institutional statements, Ito resignation documents
+
+## Document 3: `atlantis_terrimar_underwater_research.md`
+- **Length:** 4-6 pages
+- **Structure:**
+  * Executive summary
+  * TerraMar Project comprehensive analysis (2012-2019)
+  * UN presentations and international connections
+  * Underwater exploration interests documentation
+  * Pre-diluvian/Atlantis research connections (if documented)
+  * Lost civilization research community overlap
+  * Full bibliography (15+ sources minimum)
+- **Required Citations:** Every UN presentation, every TerraMar activity, every exploration connection
+- **Primary Sources Required:** TerraMar corporate filings, UN records, marine research documentation
+
+## Document 4: `transhumanism_eugenics_ai_investments.md`
+- **Length:** 4-6 pages
+- **Structure:**
+  * Executive summary
+  * NYT "seeding the human race" reporting analysis
+  * Transhumanist circle connections (named individuals)
+  * Genetics/DNA research funding
+  * MK-Ultra legacy/human enhancement program connections (if applicable)
+  * AI and technology investments
+  * Full bibliography (15+ sources minimum)
+- **Required Citations:** Every named individual, every funding claim, every program connection
+- **Primary Sources Required:** NYT original reporting, scientific funding records, corporate filings
+
+# Deliver To
+/home/johnny5/Sherlock/evidence/chatgpt_research_output/SHERLOCK-20260222-004/
+
+# Context Notes
+**Strategic Value:** The gravity research symposium is potentially the highest-value intelligence target in this entire focus area for Sherlock's core mission. If Epstein funded or hosted gravity researchers with connections to classified programs, it bridges the Epstein intelligence network directly to Sherlock's primary investigation targets (electrogravitics, advanced propulsion, UAP technology). This cross-reference could reveal how intelligence-funded advanced physics research was monitored or controlled.
+
+**Cross-Reference:** SHERLOCK-20251028-001 (T.T. Brown electrogravitics), SHERLOCK-20251028-008 (Zero-Point Energy), SHERLOCK-20251028-011 (Biefeld-Brown deep investigation). Any personnel overlap between Epstein science network and these research areas is CRITICAL intelligence.
+
+**IMPORTANT:** Do NOT provide executive summary only. Deliver all 4 complete documents with full bibliographies as specified.
+---END---
+
+---TASK---
+ID: SHERLOCK-20260222-005
+Title: Operation Mockingbird & Epstein Media Suppression
+Priority: High
+Requested By: Sherlock Targeting Officer / Claude Code
+Date Added: 2026-02-22
+Due: 2026-03-08
+Status: Pending
+Tags: Mockingbird, media-suppression, ABC-News, counter-intel, narrative-control
+Confidence: 80% — media suppression patterns documented, intelligence connections to media harder to prove
+
+# Objective
+Document the systematic media suppression of Epstein-intelligence connection reporting. Analyze how mainstream outlets have framed the story to minimize intelligence dimensions. Catalog independent media landscape providing more comprehensive coverage. Extends existing Sherlock task SHERLOCK-20251028-005.
+
+# Instructions
+1. **History of Epstein Story Suppression**
+   - ABC News spike of Amy Robach story (2015 recording, 2019 hot mic leak) — full timeline, who ordered the spike, stated reasons
+   - Miami Herald's Julie K. Brown as exception — how did her reporting succeed where others were suppressed?
+   - Timeline of which major outlets published what and when
+   - Virginia Roberts Giuffre's media interactions
+   - Which stories were killed and by whom?
+   - Documented instances of editorial intervention
+
+2. **Post-Arrest Media Framing**
+   - How major outlets framed Epstein's death (suicide narrative adoption speed)
+   - Which narratives were promoted vs. suppressed
+   - "Conspiracy theory" labeling as suppression mechanism — document specific instances
+   - Treatment of intelligence connection allegations in mainstream vs. independent media
+   - AP/Reuters framing analysis
+
+3. **Post-2025 Transparency Act Coverage**
+   - How mainstream outlets are covering (or not covering) intelligence connections in released files
+   - DOJ January 2026 press release framing analysis (labeled certain claims "unfounded" — which claims, why?)
+   - Comparison of coverage depth between mainstream and independent outlets on same released documents
+   - What are mainstream outlets NOT reporting from the files?
+
+4. **Independent Media Landscape**
+   - Catalog key independent journalists/researchers: Whitney Webb (Unlimited Hangout, "One Nation Under Blackmail"), Maria Farmer interviews and testimony, Conchita Sarnoff, survivor testimony compilations
+   - Assessment of sourcing quality for each
+   - Which independent sources have the best verification rates?
+   - Podcast landscape: shows covering Epstein-intelligence connections comprehensively
+
+**Cross-Reference:** SHERLOCK-20251028-005 (Operation Mockingbird → Modern Media Control). Document how Mockingbird-era media control patterns manifest in Epstein coverage.
+
+# Output Format - SPECIFIC REQUIREMENTS
+**MANDATORY: Deliver FOUR complete Markdown documents as specified in DELIVERABLE REQUIREMENTS above.**
+
+## Document 1: `epstein_story_suppression_timeline.md`
+- **Length:** 5-8 pages
+- **Structure:**
+  * Executive summary
+  * ABC News/Amy Robach full timeline (2015-2019)
+  * Julie K. Brown/Miami Herald exception analysis
+  * Major outlet publication timeline (who published what, when)
+  * Killed stories documentation
+  * Editorial intervention instances
+  * Full bibliography (15+ sources minimum)
+- **Required Citations:** Every editorial decision, every killed story, every timeline date
+- **Primary Sources Required:** Amy Robach hot mic transcript, ABC News statements, Miami Herald reporting, journalist interviews
+
+## Document 2: `post_arrest_media_framing_analysis.md`
+- **Length:** 4-6 pages
+- **Structure:**
+  * Executive summary
+  * Suicide narrative adoption speed analysis (outlet-by-outlet)
+  * Promoted vs. suppressed narratives comparison
+  * "Conspiracy theory" labeling instances documentation
+  * Intelligence connection treatment: mainstream vs. independent
+  * AP/Reuters framing analysis
+  * Full bibliography (15+ sources minimum)
+- **Required Citations:** Every media outlet, every narrative framing instance, every labeling example
+- **Primary Sources Required:** Original media reporting (archived), AP/Reuters wire copy, independent media reporting
+
+## Document 3: `transparency_act_coverage_analysis.md`
+- **Length:** 4-6 pages
+- **Structure:**
+  * Executive summary
+  * 2025 Transparency Act overview and released documents
+  * DOJ January 2026 press release analysis
+  * Mainstream coverage depth assessment
+  * Independent coverage depth assessment
+  * Gap analysis: what is NOT being reported from released files
+  * Full bibliography (15+ sources minimum)
+- **Required Citations:** Every released document referenced, every DOJ claim, every coverage comparison
+- **Primary Sources Required:** Released government documents, DOJ press releases, Congressional statements
+
+## Document 4: `independent_media_landscape_assessment.md`
+- **Length:** 4-6 pages
+- **Structure:**
+  * Executive summary
+  * Whitney Webb / Unlimited Hangout assessment (methodology, sourcing quality, verification rate)
+  * Julie K. Brown / Miami Herald assessment
+  * Maria Farmer testimony compilation
+  * Conchita Sarnoff assessment
+  * Other key independent researchers
+  * Podcast landscape mapping
+  * Verification rate comparison: independent vs. mainstream
+  * Full bibliography (15+ sources minimum)
+- **Required Citations:** Every researcher, every publication, every verification claim
+- **Primary Sources Required:** Original independent reporting, court-verified claims, deposition transcripts
+
+# Deliver To
+/home/johnny5/Sherlock/evidence/chatgpt_research_output/SHERLOCK-20260222-005/
+
+# Context Notes
+**Strategic Value:** Media suppression analysis serves dual purpose: (1) documents HOW intelligence dimensions are minimized, enabling Sherlock to calibrate against mainstream framing bias, and (2) identifies which independent sources provide the most reliable intelligence, improving future research targeting. The ABC News spike is particularly significant — it demonstrates editorial suppression of verified reporting at a major network, consistent with Mockingbird-era patterns.
+
+**Cross-Reference:** SHERLOCK-20251028-005 (Operation Mockingbird evolution — this task documents modern manifestation of same patterns). SHERLOCK-20260222-002 (intelligence connections being suppressed). The media suppression IS the evidence — you don't suppress what isn't true.
+
+**IMPORTANT:** Do NOT provide executive summary only. Deliver all 4 complete documents with full bibliographies as specified.
+---END---
+
+---TASK---
+ID: SHERLOCK-20260222-006
+Title: Howard Lutnick, Cantor Fitzgerald & 9/11 Intelligence Nexus
+Priority: Critical
+Requested By: Sherlock Targeting Officer / Claude Code
+Date Added: 2026-02-22
+Due: 2026-03-01
+Status: Pending
+Tags: 9/11, Cantor-Fitzgerald, financial-foreknowledge, WTC7, put-options, bond-market, Lutnick
+Confidence: 60% — financial facts documented, foreknowledge allegations require careful sourcing, intelligence connections highly contested
+
+# Objective
+Investigate Howard Lutnick's absence from WTC on 9/11, Cantor Fitzgerald's role as systemic financial intelligence infrastructure (largest US government bond market maker), 9/11 financial foreknowledge indicators, and any connections to the Epstein network or intelligence community.
+
+# Instructions
+1. **Howard Lutnick Biography and 9/11 Timeline**
+   - Career history and rise to Cantor Fitzgerald CEO
+   - Detailed account of his absence from WTC on 9/11 — stated reason (taking son to first day of kindergarten), timeline, corroborating or contradicting evidence
+   - His brother Gary Lutnick killed at WTC
+   - Lutnick's public narrative over the years — has it been consistent?
+   - Post-9/11 rebuilding of Cantor Fitzgerald
+   - Political career trajectory including Commerce Secretary nomination
+   - Any documented connections to intelligence community figures
+
+2. **Cantor Fitzgerald as Financial Intelligence Infrastructure**
+   - eSpeed electronic bond trading platform — market share of US Treasury bond trading
+   - Government bond market dominance and what that means for financial intelligence
+   - Connections to intelligence community financial operations (if documented)
+   - Any relationships to BCCI-era intelligence banking or successor networks
+   - What records were destroyed at WTC and what were the implications for ongoing investigations?
+   - What SEC investigations had Cantor Fitzgerald data?
+
+3. **9/11 Financial Foreknowledge Investigation**
+   - Documented put options on American Airlines and United Airlines in days before 9/11 — who placed them, through which institutions, what did the 9/11 Commission conclude?
+   - SEC investigation files destroyed in WTC7 Building — what investigations were ongoing, who were the targets?
+   - Cantor Fitzgerald's specific role in government bond markets that were disrupted
+   - Insurance claims and financial outcomes
+   - Independent research on financial foreknowledge (Kevin Ryan, Sibel Edmonds, Michael Ruppert's documented findings)
+
+4. **Lutnick Network Mapping**
+   - Connections to Epstein network figures (direct or through intermediaries)
+   - Wall Street network overlaps with Epstein financial entities (Deutsche Bank, JPMorgan, Bear Stearns)
+   - Political connections and campaign contributions
+   - Any documented relationship with intelligence-linked figures
+   - Commerce Secretary nomination context — who supports, who opposes, what are the stated and unstated reasons?
+
+**Counter-Intel Note:** 9/11 foreknowledge is among the most heavily suppressed investigation threads. The 9/11 Commission explicitly noted it did not fully investigate the financial dimension. Seek: 9/11 Commission staff monographs on terrorist financing, Congressional testimony on put options, Kevin Ryan's research, Sibel Edmonds' testimony, FOIA documents related to SEC WTC7 investigations. Note when investigation was curtailed and by whom.
+
+# Output Format - SPECIFIC REQUIREMENTS
+**MANDATORY: Deliver FOUR complete Markdown documents as specified in DELIVERABLE REQUIREMENTS above.**
+
+## Document 1: `howard_lutnick_biography_911_timeline.md`
+- **Length:** 5-8 pages
+- **Structure:**
+  * Executive summary
+  * Career history and Cantor Fitzgerald rise
+  * Detailed 9/11 absence account with sourcing
+  * Narrative consistency analysis over 20+ years
+  * Post-9/11 rebuilding and political trajectory
+  * Commerce Secretary nomination context
+  * Intelligence community connections (if documented)
+  * Full bibliography (15+ sources minimum)
+- **Required Citations:** Every biographical claim, every quote, every timeline date
+- **Primary Sources Required:** Lutnick interviews (multiple years for consistency), Congressional testimony, corporate filings, campaign finance records
+
+## Document 2: `cantor_fitzgerald_financial_intelligence_infrastructure.md`
+- **Length:** 5-8 pages
+- **Structure:**
+  * Executive summary
+  * eSpeed platform and Treasury bond market dominance
+  * Financial intelligence implications of bond market position
+  * Intelligence community financial operations connections
+  * Records destroyed at WTC — investigation implications
+  * SEC investigations affected
+  * BCCI-era connections analysis
+  * Full bibliography (15+ sources minimum)
+- **Required Citations:** Every market share figure, every investigation reference, every intelligence connection
+- **Primary Sources Required:** SEC filings, Treasury market data, 9/11 Commission records, FOIA documents
+
+## Document 3: `911_financial_foreknowledge_investigation.md`
+- **Length:** 6-10 pages
+- **Structure:**
+  * Executive summary
+  * Put options documentation (AA and UA — amounts, dates, institutions)
+  * 9/11 Commission findings on financial foreknowledge
+  * What the Commission did NOT investigate (and why)
+  * SEC WTC7 investigation files — what was lost
+  * Independent researcher findings (Kevin Ryan, Sibel Edmonds, Michael Ruppert)
+  * Insurance claims and financial outcomes analysis
+  * Full bibliography (20+ sources minimum — this is the most complex document)
+- **Required Citations:** Every financial transaction, every Commission finding, every independent research claim
+- **Primary Sources Required:** 9/11 Commission Report and staff monographs, SEC documents, Congressional testimony, FOIA releases
+
+## Document 4: `lutnick_network_epstein_overlap_mapping.md`
+- **Length:** 4-6 pages
+- **Structure:**
+  * Executive summary
+  * Direct Epstein network connections (if any)
+  * Wall Street network overlaps (Deutsche Bank, JPMorgan, Bear Stearns)
+  * Political network mapping
+  * Intelligence-linked figure connections
+  * Commerce Secretary nomination analysis (supporters, opponents, context)
+  * Network intersection assessment
+  * Full bibliography (15+ sources minimum)
+- **Required Citations:** Every named connection, every financial relationship, every political contribution
+- **Primary Sources Required:** Campaign finance filings, corporate board records, event attendance records, Congressional nomination records
+
+# Deliver To
+/home/johnny5/Sherlock/evidence/chatgpt_research_output/SHERLOCK-20260222-006/
+
+# Context Notes
+**Strategic Value:** Cantor Fitzgerald's position as the largest US government bond market maker makes it systemic financial intelligence infrastructure regardless of any intelligence community connections. The destruction of that infrastructure on 9/11 — along with SEC investigation files in WTC7 — represents one of the largest intelligence data losses in US financial history. Whether this was exploited by those with foreknowledge is a critical unresolved question that the 9/11 Commission explicitly did not fully investigate.
+
+**Cross-Reference:** SHERLOCK-20260222-003 (Epstein financial networks — same banking institutions). SHERLOCK-20251028-006 (Financial control infrastructure). Existing Sherlock targets: George H.W. Bush (CIA/President), George Tenet (CIA Director on 9/11), Osama bin Laden. PKG-EP-003 (financial networks).
+
+**CRITICAL:** This is forensic investigation, not advocacy. Document evidence objectively. Where financial foreknowledge evidence is strong, state that. Where it is contested, present competing interpretations. Where investigation was curtailed, document by whom and stated reasons. Let evidence speak.
+
+**IMPORTANT:** Do NOT provide executive summary only. Deliver all 4 complete documents with full bibliographies as specified.
+---END---
+
+---
+
 ## EXECUTION LOG
 
 **Format:** YYYY-MM-DD HH:MM UTC | Task ID | Status | Agent | Notes
 
 *No tasks executed yet. Queue initialized 2025-10-28. Updated 2025-10-28 19:30 with full deliverable requirements and Task 011 added.*
+*Queue extended 2026-02-22: Added Research Focus Area 5 (Epstein-Maxwell Intelligence Network) with 6 new tasks (SHERLOCK-20260222-001 through 006).*
 
 ---
 
 **End of Queue**
-**Total Tasks:** 11 (10 original + 1 deep-dive Biefeld-Brown)
-**Status:** 0 Complete, 0 In Progress, 11 Pending
+**Total Tasks:** 17 (11 original + 6 Epstein-Maxwell Intelligence Network)
+**Status:** 0 Complete, 0 In Progress, 17 Pending
 **Next Review:** Daily at 02:00 UTC
-**Critical Priority:** Task 011 (Biefeld-Brown Deep Investigation) - mega-volt and gravitational sensitivity analysis
+**Critical Priority:** Tasks 011 (Biefeld-Brown Deep Investigation), 20260222-001 (Robert Maxwell), 20260222-002 (Epstein IC Connections), 20260222-006 (Lutnick/9-11)

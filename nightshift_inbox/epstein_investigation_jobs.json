@@ -1,0 +1,302 @@
+[
+  {
+    "job_id": "EP_007_Q1",
+    "type": "sherlock_research",
+    "class": "demanding",
+    "status": "ready",
+    "inputs": [
+      {
+        "type": "research_question",
+        "question": "What are Whitney Webb's top 20 highest-impact claims about Epstein-intelligence connections in 'One Nation Under Blackmail' Volumes 1 and 2, and what primary sources does she cite for each?",
+        "evidence_requirements": [
+          "primary_source_citations",
+          "claim_categorization",
+          "source_reliability_assessment"
+        ],
+        "min_sources": 3
+      }
+    ],
+    "outputs": [
+      {
+        "path": "/home/johnny5/Sherlock/evidence/whitney_webb_Q1_top_claims.md",
+        "type": "markdown"
+      }
+    ],
+    "metadata": {
+      "target_id": 42,
+      "target_name": "Jeffrey Epstein",
+      "intelligence_value": "high",
+      "complexity": "complex",
+      "generated_by": "sherlock_targeting_officer",
+      "generated_at": "2026-02-22T23:30:00Z",
+      "campaign": "PKG-EP"
+    }
+  },
+  {
+    "job_id": "EP_007_Q2",
+    "type": "sherlock_research",
+    "class": "demanding",
+    "status": "ready",
+    "inputs": [
+      {
+        "type": "research_question",
+        "question": "Which of Webb's claims about BCCI-Epstein-intelligence financial connections can be verified against Congressional records (especially the 1992 House Judiciary Committee report) and court documents?",
+        "evidence_requirements": [
+          "congressional_records",
+          "court_documents",
+          "financial_records"
+        ],
+        "min_sources": 3
+      }
+    ],
+    "outputs": [
+      {
+        "path": "/home/johnny5/Sherlock/evidence/whitney_webb_Q2_bcci_verification.md",
+        "type": "markdown"
+      }
+    ],
+    "metadata": {
+      "target_id": 48,
+      "target_name": "BCCI",
+      "intelligence_value": "high",
+      "complexity": "complex",
+      "generated_by": "sherlock_targeting_officer",
+      "generated_at": "2026-02-22T23:30:00Z",
+      "campaign": "PKG-EP"
+    }
+  },
+  {
+    "job_id": "EP_007_Q3",
+    "type": "sherlock_research",
+    "class": "demanding",
+    "status": "ready",
+    "inputs": [
+      {
+        "type": "research_question",
+        "question": "What is Webb's evidence chain for the Maxwell-PROMIS-intelligence nexus, and how does it align with the 1992 House Judiciary Committee report on Inslaw?",
+        "evidence_requirements": [
+          "congressional_records",
+          "court_documents",
+          "intelligence_reports"
+        ],
+        "min_sources": 3
+      }
+    ],
+    "outputs": [
+      {
+        "path": "/home/johnny5/Sherlock/evidence/whitney_webb_Q3_promis_nexus.md",
+        "type": "markdown"
+      }
+    ],
+    "metadata": {
+      "target_id": 50,
+      "target_name": "PROMIS/Inslaw",
+      "intelligence_value": "high",
+      "complexity": "complex",
+      "generated_by": "sherlock_targeting_officer",
+      "generated_at": "2026-02-22T23:30:00Z",
+      "campaign": "PKG-EP"
+    }
+  },
+  {
+    "job_id": "EP_007_Q4",
+    "type": "sherlock_research",
+    "class": "demanding",
+    "status": "ready",
+    "inputs": [
+      {
+        "type": "research_question",
+        "question": "Which of Webb's claims about Epstein's science and technology connections can be independently verified through university records, funding disclosures, and published research?",
+        "evidence_requirements": [
+          "university_records",
+          "funding_disclosures",
+          "published_research"
+        ],
+        "min_sources": 3
+      }
+    ],
+    "outputs": [
+      {
+        "path": "/home/johnny5/Sherlock/evidence/whitney_webb_Q4_science_verification.md",
+        "type": "markdown"
+      }
+    ],
+    "metadata": {
+      "target_id": 52,
+      "target_name": "Epstein Gravity Symposium",
+      "intelligence_value": "medium",
+      "complexity": "complex",
+      "generated_by": "sherlock_targeting_officer",
+      "generated_at": "2026-02-22T23:30:00Z",
+      "campaign": "PKG-EP"
+    }
+  },
+  {
+    "job_id": "EP_007_Q5",
+    "type": "sherlock_research",
+    "class": "demanding",
+    "status": "ready",
+    "inputs": [
+      {
+        "type": "research_question",
+        "question": "What are the weakest claims in Webb's 'One Nation Under Blackmail' analysis -- where does she rely on inference, circumstantial evidence, or single-source claims rather than documented evidence?",
+        "evidence_requirements": [
+          "source_analysis",
+          "methodology_review",
+          "evidence_chain_assessment"
+        ],
+        "min_sources": 3
+      }
+    ],
+    "outputs": [
+      {
+        "path": "/home/johnny5/Sherlock/evidence/whitney_webb_Q5_weak_claims.md",
+        "type": "markdown"
+      }
+    ],
+    "metadata": {
+      "target_id": 42,
+      "target_name": "Jeffrey Epstein",
+      "intelligence_value": "high",
+      "complexity": "complex",
+      "generated_by": "sherlock_targeting_officer",
+      "generated_at": "2026-02-22T23:30:00Z",
+      "campaign": "PKG-EP"
+    }
+  },
+  {
+    "job_id": "EP_008_Q1",
+    "type": "sherlock_research",
+    "class": "demanding",
+    "status": "ready",
+    "inputs": [
+      {
+        "type": "research_question",
+        "question": "Do any documented attendees of Epstein's gravity research symposium (mid-2000s) appear in the networks of Thomas Townsend Brown (electrogravitics), Hal Puthoff, Robert Bigelow/Bigelow Aerospace, or defense/intelligence gravity research programs?",
+        "evidence_requirements": [
+          "attendee_lists",
+          "network_mapping",
+          "cross_reference_analysis"
+        ],
+        "min_sources": 3
+      }
+    ],
+    "outputs": [
+      {
+        "path": "/home/johnny5/Sherlock/evidence/epstein_gravity_crossref.md",
+        "type": "markdown"
+      }
+    ],
+    "metadata": {
+      "target_id": 52,
+      "target_name": "Epstein Gravity Symposium",
+      "intelligence_value": "high",
+      "complexity": "complex",
+      "generated_by": "sherlock_targeting_officer",
+      "generated_at": "2026-02-22T23:30:00Z",
+      "campaign": "PKG-EP"
+    }
+  },
+  {
+    "job_id": "EP_008_Q2",
+    "type": "sherlock_research",
+    "class": "demanding",
+    "status": "ready",
+    "inputs": [
+      {
+        "type": "research_question",
+        "question": "Map all Epstein financial entity connections (Bear Stearns, Deutsche Bank, JPMorgan, Morgan Stanley, Wexner/L Brands, USVI entities) against known Brown Brothers Harriman, Sullivan & Cromwell, and opium dynasty networks. Identify shared institutional actors, board interlocks, or personnel overlap.",
+        "evidence_requirements": [
+          "financial_records",
+          "corporate_filings",
+          "board_membership_data",
+          "network_mapping"
+        ],
+        "min_sources": 3
+      }
+    ],
+    "outputs": [
+      {
+        "path": "/home/johnny5/Sherlock/evidence/epstein_financial_crossref.md",
+        "type": "markdown"
+      }
+    ],
+    "metadata": {
+      "target_id": 42,
+      "target_name": "Jeffrey Epstein",
+      "intelligence_value": "high",
+      "complexity": "complex",
+      "generated_by": "sherlock_targeting_officer",
+      "generated_at": "2026-02-22T23:30:00Z",
+      "campaign": "PKG-EP"
+    }
+  },
+  {
+    "job_id": "EP_008_Q3",
+    "type": "sherlock_research",
+    "class": "demanding",
+    "status": "ready",
+    "inputs": [
+      {
+        "type": "research_question",
+        "question": "Analyze the Danny Sheehan / Iran-Contra network (30 named defendants including Singlaub, Secord, Hakim, Clines, Shackley) against Epstein-adjacent figures. Do any Iran-Contra operatives connect to Epstein's documented network?",
+        "evidence_requirements": [
+          "court_records",
+          "congressional_testimony",
+          "network_mapping",
+          "personnel_records"
+        ],
+        "min_sources": 3
+      }
+    ],
+    "outputs": [
+      {
+        "path": "/home/johnny5/Sherlock/evidence/epstein_iran_contra_crossref.md",
+        "type": "markdown"
+      }
+    ],
+    "metadata": {
+      "target_id": 42,
+      "target_name": "Jeffrey Epstein",
+      "intelligence_value": "medium",
+      "complexity": "complex",
+      "generated_by": "sherlock_targeting_officer",
+      "generated_at": "2026-02-22T23:30:00Z",
+      "campaign": "PKG-EP"
+    }
+  },
+  {
+    "job_id": "EP_008_Q4",
+    "type": "sherlock_research",
+    "class": "demanding",
+    "status": "ready",
+    "inputs": [
+      {
+        "type": "research_question",
+        "question": "Map Howard Lutnick and Cantor Fitzgerald connections to existing Sherlock targets: George H.W. Bush (CIA/President), George Tenet (CIA Director on 9/11), BCCI financial network, and Epstein-adjacent financial entities. Identify any shared personnel, financial relationships, or institutional overlaps.",
+        "evidence_requirements": [
+          "corporate_filings",
+          "financial_records",
+          "personnel_records",
+          "network_mapping"
+        ],
+        "min_sources": 3
+      }
+    ],
+    "outputs": [
+      {
+        "path": "/home/johnny5/Sherlock/evidence/lutnick_entity_crossref.md",
+        "type": "markdown"
+      }
+    ],
+    "metadata": {
+      "target_id": 45,
+      "target_name": "Howard Lutnick",
+      "intelligence_value": "high",
+      "complexity": "complex",
+      "generated_by": "sherlock_targeting_officer",
+      "generated_at": "2026-02-22T23:30:00Z",
+      "campaign": "PKG-EP"
+    }
+  }
+]
