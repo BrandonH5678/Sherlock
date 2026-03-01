@@ -10,9 +10,9 @@
 ## SESSION RESUME
 > **Read this section first at every session start.**
 
-**Current Phase:** Phases 2-5 COMPLETE — Phase 6 NEXT
-**Last Completed Action:** Phase 5 Sonnet research complete — `rothschild_research_phase1_asset_mgmt.md` (413 lines)
-**Next Action:** Launch Opus agent for Phase 6 — 9/11 Financial Nexus Synthesis
+**Current Phase:** Phases 2-6 COMPLETE — Phase 7 NEXT
+**Last Completed Action:** Phase 6 Opus synthesis complete — `pkg911_financial_nexus_synthesis.md` (722 lines)
+**Next Action:** Launch Sonnet for Phase 7 — Write retriever scripts (Priority 1: academic papers; Priority 2: Alex. Brown puts documentation)
 **DB State at Last Save:** 782 claims | 283 xrefs | 39 sources | 68 targets (pre-ingestion; all research files written)
 
 **To resume:** Run `/context-refresh` → read this file → proceed to next action above.
@@ -57,8 +57,8 @@
   - [x] `evidence/apollo_research_phase4_rowan.md`
 - [x] **Phase 5: Rothschild Asset Management** (Sonnet) — COMPLETE 2026-02-28
   - [x] `evidence/rothschild_research_phase1_asset_mgmt.md` (413 lines)
-- [ ] **Phase 6: 9/11 Financial Nexus Synthesis** (Opus)
-  - [ ] `evidence/pkg911_financial_nexus_synthesis.md`
+- [x] **Phase 6: 9/11 Financial Nexus Synthesis** (Opus) — COMPLETE 2026-02-28
+  - [x] `evidence/pkg911_financial_nexus_synthesis.md` (722 lines)
 - [ ] **Phase 7: Retriever Deployment** (Sonnet)
   - [ ] `scripts/pkg911_academic_papers_retriever.py` **PRIORITY 1**
   - [ ] `scripts/pkg911_alex_brown_puts_retriever.py` **PRIORITY 2**
@@ -85,7 +85,7 @@
 
 | ID | Hypothesis | Confidence | Status |
 |----|-----------|-----------|--------|
-| H1 | Krongard Cover-Up Mechanism: ran Alex. Brown during put options → CIA → shaped/suppressed SEC-CIA assessment | **0.25-0.35** (revised down from 0.45 — H0 coincidence 0.45-0.55 competes) | PHASE 1 COMPLETE — UNRESOLVED |
+| H1 | Krongard Cover-Up Mechanism: ran Alex. Brown during put options → CIA → shaped/suppressed SEC-CIA assessment | **Structural conflict confirmed 0.90; active exploitation 0.30; H0 coincidence 0.45-0.55 still leads** — SEC record destruction creates permanent epistemic gap | PHASE 6 COMPLETE — STRUCTURALLY CONFIRMED, OPERATIONALLY UNRESOLVABLE |
 | H2 | Krongard Family Circuit: Buzzy (CIA) + Howard (IG blocking) + Cheryl (IG capture) = integrated protection circuit | **TWO-NODE CONFIRMED 0.95; THREE-NODE NOT CONFIRMED 0.15** — Cheryl NOT on State IG Advisory Board; she was Senior Partner at Apollo Management 2002-2004 — creates Apollo-Krongard circuit instead | PHASE 2 COMPLETE — REVISED |
 | H3 | Alex. Brown → Deutsche Bank → Epstein institutional continuity chain | 0.65 | PHASE 1 CONFIRMED — Deutsche Bank acquired Alex. Brown 1999; institutional continuity documented |
 | H4 | Apollo/Drexel → BCCI era finance parallel (structural) | **Direct org connection 0.10; structural parallel 0.90** — Bear Stearns identified as bridge node between ecosystems | PHASE 4 COMPLETE |
@@ -167,5 +167,17 @@
 
 ---
 
-## Current Phase: Phase 5 — PENDING
-## Next Action: Launch Sonnet agent — Rothschild Asset Management research
+## Current Phase: Phase 7 — PENDING
+## Next Action: Launch Sonnet agent — write retriever scripts (Priority 1: academic papers; Priority 2: Alex. Brown puts conduit documentation)
+
+## Phase 6 Synthesis — Key Conclusions
+1. **Informed trading statistically confirmed** — Poteshman + Chesney: 0.85-0.90 (E1 peer-reviewed)
+2. **Krongard two-node circuit confirmed** — 0.95 (E1); 15-day gap Howard blocking → Prince Buzzy invite is strongest coordination indicator
+3. **SEC record destruction creates permanent epistemic gap** — identity of "single US-based institutional investor" behind 95% of UAL puts is irrecoverable
+4. **Krongard structural conflict in CIA-SEC consultation confirmed** — 0.90; active exploitation: 0.30
+5. **Blackwater $1.5-2.1B through personal relationship, not procurement** — 0.85-0.90
+6. **Seven-layer accountability evasion architecture** — probability of coincidental alignment: 0.05-0.10 (strongest case for deliberate design)
+7. **Black $130M unexplained delta** — 0.95 for the delta; explanation: unnameable services 0.60
+8. **Epstein's Rothschild credentials predate Wexner** — 0.75 (E1 testimony; corroboration unavailable, Élie died 2007)
+9. **9/11/WoT network and Epstein network are PARALLEL SYSTEMS, not unified** — 0.70; no Krongard-Epstein or Prince-Epstein contact found
+10. **Overall network: semi-emergent profiteering ecosystem** — 0.55-0.65; NOT centrally coordinated conspiracy 0.05-0.10
