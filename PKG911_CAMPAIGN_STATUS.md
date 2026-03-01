@@ -10,10 +10,10 @@
 ## SESSION RESUME
 > **Read this section first at every session start.**
 
-**Current Phase:** Phases 2-6 COMPLETE — Phase 7 NEXT
-**Last Completed Action:** Phase 6 Opus synthesis complete — `pkg911_financial_nexus_synthesis.md` (722 lines)
-**Next Action:** Launch Sonnet for Phase 7 — Write retriever scripts (Priority 1: academic papers; Priority 2: Alex. Brown puts documentation)
-**DB State at Last Save:** 782 claims | 283 xrefs | 39 sources | 68 targets (pre-ingestion; all research files written)
+**Current Phase:** Phases 2-7 COMPLETE — Phase 8 NEXT
+**Last Completed Action:** Phase 7 scripts written + two live runs executed; IOSCO PDF retrieved (1.1MB); Poteshman/Chesney confirmed; NEW rebuttal paper found (2011 MFJ)
+**Next Action:** Phase 8A (Opus): Final intelligence reports for all targets | Phase 8B (Sonnet): Write 4 ingestion scripts
+**DB State at Last Save:** 782 claims | 283 xrefs | 39 sources | 68 targets (pre-ingestion)
 
 **To resume:** Run `/context-refresh` → read this file → proceed to next action above.
 
@@ -59,13 +59,15 @@
   - [x] `evidence/rothschild_research_phase1_asset_mgmt.md` (413 lines)
 - [x] **Phase 6: 9/11 Financial Nexus Synthesis** (Opus) — COMPLETE 2026-02-28
   - [x] `evidence/pkg911_financial_nexus_synthesis.md` (722 lines)
-- [ ] **Phase 7: Retriever Deployment** (Sonnet)
-  - [ ] `scripts/pkg911_academic_papers_retriever.py` **PRIORITY 1**
-  - [ ] `scripts/pkg911_alex_brown_puts_retriever.py` **PRIORITY 2**
-  - [ ] `scripts/pkg911_sec_filings_retriever.py`
-  - [ ] `scripts/pkg911_congressional_retriever.py`
-  - [ ] `scripts/pkg911_dod_contracts_retriever.py`
-  - [ ] `scripts/pkg911_foia_retriever.py`
+- [x] **Phase 7: Retriever Deployment** (Sonnet) — COMPLETE 2026-02-28
+  - [x] `scripts/pkg911_academic_papers_retriever.py` — run live: Poteshman (68 citations, E1); Chesney SSRN 1522157 (ZORA PDF found); NEW: 2011 MFJ rebuttal paper
+  - [x] `scripts/pkg911_alex_brown_puts_retriever.py` — run live: IOSCO IOSCOPD121 (1.1MB retrieved); 9/11 Commission SS3 PDF retrieved; EDGAR EFTS working
+  - [x] `scripts/pkg911_sec_filings_retriever.py`
+  - [x] `scripts/pkg911_congressional_retriever.py`
+  - [x] `scripts/pkg911_dod_contracts_retriever.py`
+  - [x] `scripts/pkg911_foia_retriever.py`
+  - [x] `evidence/pkg911_academic_papers_index.json`
+  - [x] `evidence/pkg911_alex_brown_puts_index.json`
 - [ ] **Phase 8: Final Reports + Ingestion** (Opus reports, Sonnet scripts)
   - [ ] `evidence/krongard_intelligence_report.md`
   - [ ] `evidence/alex_brown_intelligence_report.md`

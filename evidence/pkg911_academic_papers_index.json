@@ -1,0 +1,400 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-01T00:38:41.331242+00:00",
+    "generated_by": "pkg911_academic_papers_retriever.py",
+    "campaign": "PKG-911",
+    "dry_run": false,
+    "description": "Peer-reviewed academic analyses of pre-9/11 put option anomalies. Primary sources: Poteshman (2006) Journal of Business; Chesney, Crameri & Mancini (2015) Journal of Financial Stability."
+  },
+  "results": [
+    {
+      "source_name": "Poteshman 2006 - JSTOR",
+      "url": "https://www.jstor.org/stable/10.1086/503645",
+      "description": "Poteshman (2006) 'Unusual Option Market Activity and the Terrorist Attacks of September 11, 2001,' Journal of Business vol 79(4). Primary academic evidence of statistically anomalous put option activity before 9/11 using proprietary CBOE data.",
+      "doi": "10.1086/503645",
+      "status": "HTTP_ERROR_403",
+      "http_status_code": 403,
+      "content_preview": null,
+      "content_length": null,
+      "retrieved_at": "2026-03-01T00:38:15.990006+00:00",
+      "evidence_tier": "E1",
+      "campaign": "PKG-911",
+      "entity_mentions": [],
+      "extracted_metadata": {},
+      "error": null
+    },
+    {
+      "source_name": "Poteshman 2006 - Scholar Google",
+      "url": "https://scholar.google.com/scholar?q=Poteshman+2006+unusual+option+market+activity+terrorist+attacks+September+11",
+      "description": "Google Scholar search for Poteshman 2006 paper and citing articles.",
+      "doi": "10.1086/503645",
+      "status": "SUCCESS",
+      "http_status_code": 200,
+      "content_preview": "Google Scholar Loading... The system can&#39;t perform the operation now. Try again later. Cite Advanced search Find articles with all of the words with the exact phrase with at least one of the words without the words where my words occur anywhere in the article in the title of the article Return articles authored by e.g., \"PJ Hayes\" or McCarthy Return articles published in e.g., J Biol Chem or Nature Return articles dated between &nbsp;\u2014&nbsp; e.g., 1996 Saved to My library Done Remove article",
+      "content_length": 143576,
+      "retrieved_at": "2026-03-01T00:38:16.181264+00:00",
+      "evidence_tier": "E2",
+      "campaign": "PKG-911",
+      "entity_mentions": [
+        "Poteshman",
+        "September 11",
+        "terrorist",
+        "Journal of Business"
+      ],
+      "extracted_metadata": {},
+      "error": null
+    },
+    {
+      "source_name": "Poteshman 2006 - SSRN search",
+      "url": "https://papers.ssrn.com/sol3/results.cfm?RequestTimeout=50000000&txtSearch=Poteshman+September+11+options&rd=1",
+      "description": "SSRN search for Poteshman 2006 pre-print or working paper.",
+      "doi": "10.1086/503645",
+      "status": "HTTP_ERROR_403",
+      "http_status_code": 403,
+      "content_preview": null,
+      "content_length": null,
+      "retrieved_at": "2026-03-01T00:38:16.623717+00:00",
+      "evidence_tier": "E2",
+      "campaign": "PKG-911",
+      "entity_mentions": [],
+      "extracted_metadata": {},
+      "error": null
+    },
+    {
+      "source_name": "Poteshman 2006 - CrossRef metadata",
+      "url": "https://api.crossref.org/works/10.1086/503645",
+      "description": "CrossRef API metadata for Poteshman 2006 DOI \u2014 returns structured JSON with full citation details, abstract link, and citation count.",
+      "doi": "10.1086/503645",
+      "status": "SUCCESS",
+      "http_status_code": 200,
+      "content_preview": "{\"status\":\"ok\",\"message-type\":\"work\",\"message-version\":\"1.0.0\",\"message\":{\"indexed\":{\"date-parts\":[[2025,11,23]],\"date-time\":\"2025-11-23T19:04:10Z\",\"timestamp\":1763924650761},\"reference-count\":0,\"publisher\":\"University of Chicago Press\",\"issue\":\"4\",\"content-domain\":{\"domain\":[],\"crossmark-restriction\":false},\"short-container-title\":[\"J BUS\"],\"published-print\":{\"date-parts\":[[2006,7]]},\"DOI\":\"10.1086\\/503645\",\"type\":\"journal-article\",\"created\":{\"date-parts\":[[2006,7,25]],\"date-time\":\"2006-07-25T1",
+      "content_length": 1546,
+      "retrieved_at": "2026-03-01T00:38:16.820606+00:00",
+      "evidence_tier": "E1",
+      "campaign": "PKG-911",
+      "entity_mentions": [
+        "Poteshman",
+        "September 11",
+        "terrorist",
+        "Journal of Business"
+      ],
+      "extracted_metadata": {
+        "title": "Unusual Option Market Activity and the Terrorist Attacks of September 11, 2001*",
+        "doi": "10.1086/503645",
+        "journal": "The Journal of Business",
+        "year": 2006,
+        "abstract": "",
+        "publisher": "University of Chicago Press",
+        "volume": "79",
+        "issue": "4",
+        "page": "1703-1726"
+      },
+      "error": null
+    },
+    {
+      "source_name": "Poteshman 2006 - Semantic Scholar",
+      "url": "https://api.semanticscholar.org/graph/v1/paper/search?query=Poteshman+unusual+option+market+activity+September+11&fields=title,authors,year,abstract,externalIds,citationCount,url",
+      "description": "Semantic Scholar API search for Poteshman 2006 and related papers.",
+      "doi": "10.1086/503645",
+      "status": "FETCH_ERROR",
+      "http_status_code": null,
+      "content_preview": null,
+      "content_length": null,
+      "retrieved_at": "2026-03-01T00:38:17.217021+00:00",
+      "evidence_tier": "E1",
+      "campaign": "PKG-911",
+      "entity_mentions": [],
+      "extracted_metadata": {},
+      "error": "GET failed for https://api.semanticscholar.org/graph/v1/paper/search?query=Poteshman+unusual+option+market+activity+September+11&fields=title,authors,year,abstract,externalIds,citationCount,url: None"
+    },
+    {
+      "source_name": "Chesney et al. 2015 - SSRN working paper",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1522157",
+      "description": "Chesney, Crameri & Mancini \u2014 Swiss Finance Institute working paper on detecting informed trading in options markets around 9/11. This SSRN ID is to be verified \u2014 may be the correct identifier.",
+      "doi": null,
+      "status": "HTTP_ERROR_403",
+      "http_status_code": 403,
+      "content_preview": null,
+      "content_length": null,
+      "retrieved_at": "2026-03-01T00:38:24.465793+00:00",
+      "evidence_tier": "E1",
+      "campaign": "PKG-911",
+      "entity_mentions": [],
+      "extracted_metadata": {},
+      "error": null
+    },
+    {
+      "source_name": "Chesney et al. - Swiss Finance Institute",
+      "url": "https://www.swissfinanceinstitute.ch/research/publications",
+      "description": "Swiss Finance Institute publications page \u2014 search for Chesney, Crameri & Mancini informed trading / 9/11 working paper series.",
+      "doi": null,
+      "status": "FETCH_ERROR",
+      "http_status_code": null,
+      "content_preview": null,
+      "content_length": null,
+      "retrieved_at": "2026-03-01T00:38:24.609755+00:00",
+      "evidence_tier": "E2",
+      "campaign": "PKG-911",
+      "entity_mentions": [],
+      "extracted_metadata": {},
+      "error": "GET failed for https://www.swissfinanceinstitute.ch/research/publications: HTTPSConnectionPool(host='www.swissfinanceinstitute.ch', port=443): Max retries exceeded with url: /research/publications (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.swissfinanceinstitute.ch'. (_ssl.c:1000)\")))"
+    },
+    {
+      "source_name": "Chesney et al. 2015 - Scholar Google",
+      "url": "https://scholar.google.com/scholar?q=Chesney+Crameri+Mancini+detecting+informed+trading+options+September+11",
+      "description": "Google Scholar search for Chesney et al. paper and citing articles.",
+      "doi": null,
+      "status": "SUCCESS",
+      "http_status_code": 200,
+      "content_preview": "Google Scholar Loading... The system can&#39;t perform the operation now. Try again later. Cite Advanced search Find articles with all of the words with the exact phrase with at least one of the words without the words where my words occur anywhere in the article in the title of the article Return articles authored by e.g., \"PJ Hayes\" or McCarthy Return articles published in e.g., J Biol Chem or Nature Return articles dated between &nbsp;\u2014&nbsp; e.g., 1996 Saved to My library Done Remove article",
+      "content_length": 167208,
+      "retrieved_at": "2026-03-01T00:38:32.976338+00:00",
+      "evidence_tier": "E2",
+      "campaign": "PKG-911",
+      "entity_mentions": [
+        "Chesney",
+        "Crameri",
+        "Mancini",
+        "September 11",
+        "terrorist",
+        "informed trading",
+        "Swiss Finance Institute"
+      ],
+      "extracted_metadata": {},
+      "error": null
+    },
+    {
+      "source_name": "Chesney et al. - Semantic Scholar",
+      "url": "https://api.semanticscholar.org/graph/v1/paper/search?query=Chesney+Crameri+detecting+informed+trading+options+September+11&fields=title,authors,year,abstract,externalIds,citationCount,url",
+      "description": "Semantic Scholar API search for Chesney et al. and all related informed trading / 9/11 put option papers.",
+      "doi": null,
+      "status": "SUCCESS",
+      "http_status_code": 200,
+      "content_preview": "{\"total\": 2, \"offset\": 0, \"data\": [{\"paperId\": \"2e700743646d92a3110f9b3441321874a78f4d79\", \"externalIds\": {\"MAG\": \"2742289835\", \"DOI\": \"10.2139/SSRN.1522157\", \"CorpusId\": 169686128}, \"url\": \"https://www.semanticscholar.org/paper/2e700743646d92a3110f9b3441321874a78f4d79\", \"title\": \"Detecting Informed Trading Activities in the Options Markets\", \"year\": 2012, \"citationCount\": 18, \"openAccessPdf\": {\"url\": \"https://www.zora.uzh.ch/id/eprint/49681/5/Detecting_Informed_Trading_r2.pdf\", \"status\": \"GREEN",
+      "content_length": 2278,
+      "retrieved_at": "2026-03-01T00:38:33.114625+00:00",
+      "evidence_tier": "E1",
+      "campaign": "PKG-911",
+      "entity_mentions": [
+        "Chesney",
+        "Crameri",
+        "Mancini",
+        "informed trading"
+      ],
+      "extracted_metadata": {
+        "result_count": 2,
+        "papers": [
+          {
+            "title": "Detecting Informed Trading Activities in the Options Markets",
+            "year": 2012,
+            "authors": [
+              "M. Chesney",
+              "R. Crameri",
+              "Loriano Mancini"
+            ],
+            "abstract": "",
+            "citation_count": 18,
+            "url": "https://www.semanticscholar.org/paper/2e700743646d92a3110f9b3441321874a78f4d79",
+            "external_ids": {
+              "MAG": "2742289835",
+              "DOI": "10.2139/SSRN.1522157",
+              "CorpusId": 169686128
+            }
+          },
+          {
+            "title": "Detecting Abnormal Trading Activities in Option Markets: Supplemental Appendix",
+            "year": 2015,
+            "authors": [
+              "M. Chesney",
+              "R. Crameri",
+              "Loriano Mancini"
+            ],
+            "abstract": "",
+            "citation_count": 10,
+            "url": "https://www.semanticscholar.org/paper/e1fb0249f91d0aa22f8bb4cc8a19152281c0f659",
+            "external_ids": {
+              "MAG": "1585523207",
+              "DOI": "10.2139/SSRN.1931639",
+              "CorpusId": 166569648
+            }
+          }
+        ]
+      },
+      "error": null
+    },
+    {
+      "source_name": "Chesney et al. - Journal of Financial Stability DOI lookup",
+      "url": "https://api.crossref.org/works?query=Chesney+Crameri+Mancini+detecting+informed+trading+options&filter=container-title:Journal+of+Financial+Stability&rows=5",
+      "description": "CrossRef API search for Chesney et al. 2015 Journal of Financial Stability paper \u2014 retrieves DOI, abstract link, and full citation.",
+      "doi": null,
+      "status": "SUCCESS",
+      "http_status_code": 200,
+      "content_preview": "{\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":5,\"items\":[{\"indexed\":{\"date-parts\":[[2026,1,6]],\"date-time\":\"2026-01-06T13:06:28Z\",\"timestamp\":1767704788401},\"reference-count\":34,\"publisher\":\"Elsevier BV\",\"license\":[{\"start\":{\"date-parts\":[[2016,2,1]],\"date-time\":\"2016-02-01T00:00:00Z\",\"timestamp\":1454284800000},\"content-version\":\"tdm\",\"delay-in-days\":0,\"URL\":\"https:\\/\\/www.elsevier.com\\/tdm\\/userlicense\\/1.0\\/\"}],\"content-domain\":{\"dom",
+      "content_length": 64749,
+      "retrieved_at": "2026-03-01T00:38:33.326169+00:00",
+      "evidence_tier": "E1",
+      "campaign": "PKG-911",
+      "entity_mentions": [
+        "Chesney",
+        "Crameri",
+        "Mancini",
+        "informed trading",
+        "Journal of Financial Stability"
+      ],
+      "extracted_metadata": {
+        "result_count": 5,
+        "papers": [
+          {
+            "title": "Bankers\u2019 stock options, risk-taking and the financial crisis",
+            "year": 2016,
+            "doi": "10.1016/j.jfs.2016.01.008",
+            "journal": "Journal of Financial Stability",
+            "url": "https://doi.org/10.1016/j.jfs.2016.01.008",
+            "abstract": ""
+          },
+          {
+            "title": "Debt-overhang banking crises: Detecting and preventing systemic risk",
+            "year": 2017,
+            "doi": "10.1016/j.jfs.2015.12.008",
+            "journal": "Journal of Financial Stability",
+            "url": "https://doi.org/10.1016/j.jfs.2015.12.008",
+            "abstract": ""
+          },
+          {
+            "title": "Insurance companies\u2019 trading behaviour during the European sovereign debt crisis: Flight home or flight to quality?",
+            "year": 2016,
+            "doi": "10.1016/j.jfs.2016.11.001",
+            "journal": "Journal of Financial Stability",
+            "url": "https://doi.org/10.1016/j.jfs.2016.11.001",
+            "abstract": ""
+          },
+          {
+            "title": "Skin-in-the-game in ABS transactions: A critical review of policy options",
+            "year": 2022,
+            "doi": "10.1016/j.jfs.2022.100998",
+            "journal": "Journal of Financial Stability",
+            "url": "https://doi.org/10.1016/j.jfs.2022.100998",
+            "abstract": ""
+          },
+          {
+            "title": "Risk shocks, due loans, and policy options: When less is more!",
+            "year": 2025,
+            "doi": "10.1016/j.jfs.2025.101439",
+            "journal": "Journal of Financial Stability",
+            "url": "https://doi.org/10.1016/j.jfs.2025.101439",
+            "abstract": ""
+          }
+        ]
+      },
+      "error": null
+    },
+    {
+      "source_name": "Terrorist Finance Working Group - 9/11 Commission",
+      "url": "https://9-11commission.gov/staff_statements/staff_statement_3.pdf",
+      "description": "9/11 Commission Staff Statement No. 3 \u2014 Finances of the 9/11 Plot. Official record of the Commission's financial investigation findings, including SEC referrals on put option activity.",
+      "doi": null,
+      "status": "SUCCESS",
+      "http_status_code": 200,
+      "content_preview": "%PDF-1.4 %\ufffd\ufffd\ufffd\ufffd 1 0 obj > endobj 2 0 obj [ /PDF /Text /ImageC ] endobj 3 0 obj > endobj 4 0 obj > /XObject > /ProcSet 2 0 R >> /Contents [ 10 0 R 16 0 R ] >> endobj 5 0 obj > endobj 6 0 obj > endobj 7 0 obj > endobj 8 0 obj > stream \ufffd\ufffd\ufffd\ufffd\u0000\u000eAdobe\u0000d\ufffd\u0000\u0000\u0000\u0000\ufffd\ufffd\u0000C\u0000 \u0006\u0006\u0006\u0007\u0006\b\b\b \u0011\u000e \u0012\u001a\u0019\u0014\u0010\u0014\u0018\u0019 !\"(($#$% '+++,.3332-3333333333\ufffd\ufffd\u0000\u0011\b\u0000S\u0000S\u0003\u0001\u0011\u0000\u0002\u0011\u0000\u0003\u0011\u0000\ufffd\ufffd\u0000\ufffd\u0000\u0000\u0001\u0005\u0001\u0001\u0001\u0001\u0001\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000\u0001\u0002\u0004\u0005\u0006\u0007\b \u0010\u0000\u0001\u0004\u0001\u0003\u0002\u0004\u0002\u0005\u0006\u0006\b\u0007\u0003 a\u0001\u0000\u0002\u0011\u0003\u0004!\u00121\u0005AQa\u0013\"q\ufffd2\u0006\u0014\ufffd\ufffd\ufffdB#$\u0015Rb34\ufffdr\ufffdC\u0007%\ufffd\bS\ufffd\ufffdcs5\u0016\ufffd\ufffd&D\ufffdTdE\u00a3t6\u0017\u0018\ufffdU\ufffde\ufffd\ufffd\ufffdu\ufffd\ufffdF'\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdVfv\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd7GWgw\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd(8HXhx\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \u0019",
+      "content_length": 49396,
+      "retrieved_at": "2026-03-01T00:38:33.564956+00:00",
+      "evidence_tier": "E1",
+      "campaign": "PKG-911",
+      "entity_mentions": [],
+      "extracted_metadata": {},
+      "error": null
+    },
+    {
+      "source_name": "Semantic Scholar - broader 9/11 option trading academic search",
+      "url": "https://api.semanticscholar.org/graph/v1/paper/search?query=September+11+put+options+insider+trading+financial+markets&fields=title,authors,year,abstract,externalIds,citationCount,url&limit=10",
+      "description": "Broad Semantic Scholar search for all academic papers on 9/11 put option / insider trading / financial foreknowledge \u2014 intended to capture rebuttals, meta-analyses, and related work.",
+      "doi": null,
+      "status": "FETCH_ERROR",
+      "http_status_code": null,
+      "content_preview": null,
+      "content_length": null,
+      "retrieved_at": "2026-03-01T00:38:34.036082+00:00",
+      "evidence_tier": "E2",
+      "campaign": "PKG-911",
+      "entity_mentions": [],
+      "extracted_metadata": {},
+      "error": "GET failed for https://api.semanticscholar.org/graph/v1/paper/search?query=September+11+put+options+insider+trading+financial+markets&fields=title,authors,year,abstract,externalIds,citationCount,url&limit=10: None"
+    },
+    {
+      "source_name": "CrossRef broad search - 9/11 options foreknowledge",
+      "url": "https://api.crossref.org/works?query=September+11+put+options+insider+trading+terrorist+attacks&rows=10&sort=relevance",
+      "description": "CrossRef API broad search to find peer-reviewed papers on 9/11 options foreknowledge hypothesis, including any published rebuttals.",
+      "doi": null,
+      "status": "SUCCESS",
+      "http_status_code": 200,
+      "content_preview": "{\"status\":\"ok\",\"message-type\":\"work-list\",\"message-version\":\"1.0.0\",\"message\":{\"facets\":{},\"total-results\":6413193,\"items\":[{\"indexed\":{\"date-parts\":[[2022,4,5]],\"date-time\":\"2022-04-05T12:05:48Z\",\"timestamp\":1649160348382},\"reference-count\":0,\"publisher\":\"Elsevier BV\",\"content-domain\":{\"domain\":[],\"crossmark-restriction\":false},\"short-container-title\":[\"SSRN Journal\"],\"DOI\":\"10.2139\\/ssrn.370741\",\"type\":\"journal-article\",\"created\":{\"date-parts\":[[2005,7,7]],\"date-time\":\"2005-07-07T17:52:17Z\",\"t",
+      "content_length": 45233,
+      "retrieved_at": "2026-03-01T00:38:41.161335+00:00",
+      "evidence_tier": "E2",
+      "campaign": "PKG-911",
+      "entity_mentions": [
+        "Poteshman",
+        "put option",
+        "call option",
+        "September 11",
+        "terrorist",
+        "CBOE",
+        "informed trading",
+        "insider trading",
+        "Journal of Business"
+      ],
+      "extracted_metadata": {
+        "result_count": 10,
+        "papers": [
+          {
+            "title": "Unusual Options Market Activity with an Application to the Terrorist Attacks of September 11, 2001",
+            "year": 2003,
+            "doi": "10.2139/ssrn.370741",
+            "journal": "SSRN Electronic Journal",
+            "url": "https://doi.org/10.2139/ssrn.370741",
+            "abstract": ""
+          },
+          {
+            "title": "Was there Abnormal Trading in the S and P 500 Index Options Prior to the September 11 Attacks?",
+            "year": 2011,
+            "doi": "10.17578/15-1/2-1",
+            "journal": "Multinational Finance Journal",
+            "url": "https://doi.org/10.17578/15-1/2-1",
+            "abstract": ""
+          },
+          {
+            "title": "September 11 Terrorist Attacks and Leadership",
+            "year": 2023,
+            "doi": "10.4135/9781071840801.n257",
+            "journal": "The SAGE Encyclopedia of Leadership Studies",
+            "url": "https://doi.org/10.4135/9781071840801.n257",
+            "abstract": ""
+          },
+          {
+            "title": "A Review of Short-Term Cardiac Outcomes Associated with the Terrorist Attacks of September 11, 2001",
+            "year": 2018,
+            "doi": "10.21694/2639-3042.18005",
+            "journal": "American Research Journal of Public Health",
+            "url": "https://doi.org/10.21694/2639-3042.18005",
+            "abstract": ""
+          },
+          {
+            "title": "2 Diffusion of News of the September 11 Terrorist Attacks Everett M. Rogers",
+            "year": 2003,
+            "doi": "10.5771/9780742575639-17",
+            "journal": "Crisis Communications",
+            "url": "https://doi.org/10.5771/9780742575639-17",
+            "abstract": ""
+          }
+        ]
+      },
+      "error": null
+    }
+  ],
+  "statistics": {
+    "total_sources": 13,
+    "successful_fetches": 7,
+    "errors": 6,
+    "sources_with_entity_hits": 6
+  }
+}
