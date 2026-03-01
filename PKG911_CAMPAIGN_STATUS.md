@@ -10,10 +10,10 @@
 ## SESSION RESUME
 > **Read this section first at every session start.**
 
-**Current Phase:** Phases 2-4 COMPLETE — Phase 5 NEXT
-**Last Completed Action:** Phases 2, 3, 4 Opus research complete — ~3,800 lines written across 8 files
-**Next Action:** Launch Sonnet agent for Phase 5 — Rothschild Asset Management
-**DB State at Last Save:** 782 claims | 283 xrefs | 39 sources | 68 targets (pre-ingestion; research files written)
+**Current Phase:** Phases 2-5 COMPLETE — Phase 6 NEXT
+**Last Completed Action:** Phase 5 Sonnet research complete — `rothschild_research_phase1_asset_mgmt.md` (413 lines)
+**Next Action:** Launch Opus agent for Phase 6 — 9/11 Financial Nexus Synthesis
+**DB State at Last Save:** 782 claims | 283 xrefs | 39 sources | 68 targets (pre-ingestion; all research files written)
 
 **To resume:** Run `/context-refresh` → read this file → proceed to next action above.
 
@@ -55,8 +55,8 @@
   - [x] `evidence/apollo_research_phase2_defense.md`
   - [x] `evidence/apollo_research_phase3_black_epstein.md`
   - [x] `evidence/apollo_research_phase4_rowan.md`
-- [ ] **Phase 5: Rothschild Asset Management** (Sonnet)
-  - [ ] `evidence/rothschild_research_phase1_asset_mgmt.md`
+- [x] **Phase 5: Rothschild Asset Management** (Sonnet) — COMPLETE 2026-02-28
+  - [x] `evidence/rothschild_research_phase1_asset_mgmt.md` (413 lines)
 - [ ] **Phase 6: 9/11 Financial Nexus Synthesis** (Opus)
   - [ ] `evidence/pkg911_financial_nexus_synthesis.md`
 - [ ] **Phase 7: Retriever Deployment** (Sonnet)
@@ -107,6 +107,8 @@
 | **NEW** Cheryl Krongard | Apollo Global Management (Target 68) | Cheryl was Senior Partner at Apollo Management 2002-2004 — creates Apollo-Krongard circuit | HIGH |
 | **NEW** Erik Prince / Blackwater | CIA-to-Blackwater pipeline | Krongard, Cofer Black, Robert Richer, Enrique Prado all transitioned to Blackwater 2004-2007; 4 most senior CIA CT officers to same private company | HIGH |
 | **NEW** Erik Prince | FSG / CITIC Group (China state-owned) | Prince built China-backed PMC (FSG) post-Blackwater; CI risk 0.75 — former CIA contractor partnered with Chinese state entity | HIGH |
+| **NEW** Rothschild (EdR) | WEX-060 EXTENDED — E1 primary source | $25M contract Oct 5, 2015 between Epstein's Southern Trust Co. and Edmond de Rothschild Holding S.A. (Ariane de Rothschild); activated within 3 days of EdR's $45.245M DOJ settlement; Epstein arranged EdR's DOJ counsel (Ruemmler); Ariane had 12+ personal meetings 2013-2019 | CRITICAL |
+| **NEW CRITICAL** Rothschild pre-1987 | Target 47 (Wexner) | Wexner testified under oath that Epstein cited "personal work for Rothschild family in France" as credential AND Élie de Rothschild (1917-2007) personally vouched for Epstein — predates Wexner relationship; **may invert conventional origin narrative** | CRITICAL |
 
 ---
 
@@ -161,7 +163,7 @@
 | Date | Phase | Claims | Xrefs | Sources | Targets |
 |------|-------|--------|-------|---------|---------|
 | 2026-02-28 | Phase 0 complete | 782 | 283 | 39 | 68 |
-| 2026-02-28 | Phases 1-4 complete (research files written, not yet ingested) | 782 | 283 | 39 | 68 |
+| 2026-02-28 | Phases 1-5 complete (all research files written, not yet ingested) | 782 | 283 | 39 | 68 |
 
 ---
 
