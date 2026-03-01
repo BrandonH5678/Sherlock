@@ -10,10 +10,10 @@
 ## SESSION RESUME
 > **Read this section first at every session start.**
 
-**Current Phase:** Phase 0 COMPLETE — Phase 1 PENDING
-**Last Completed Action:** Target registration (IDs 59-68), context-refresh enhancement, campaign doc created
-**Next Action:** Launch Opus agent for Phase 1 — Krongard/Alex. Brown biographical research
-**DB State at Last Save:** 283 claims/xrefs (pre-campaign) | 68 targets | 39 sources
+**Current Phase:** Phases 2-4 COMPLETE — Phase 5 NEXT
+**Last Completed Action:** Phases 2, 3, 4 Opus research complete — ~3,800 lines written across 8 files
+**Next Action:** Launch Sonnet agent for Phase 5 — Rothschild Asset Management
+**DB State at Last Save:** 782 claims | 283 xrefs | 39 sources | 68 targets (pre-ingestion; research files written)
 
 **To resume:** Run `/context-refresh` → read this file → proceed to next action above.
 
@@ -41,20 +41,20 @@
 ## Research Phase Status
 
 - [x] **Phase 0: Setup** — targets registered, context-refresh enhanced, campaign doc created
-- [ ] **Phase 1: Krongard / Alex. Brown biography** (Opus)
-  - [ ] `evidence/krongard_research_phase1_alex_brown.md`
-  - [ ] `evidence/krongard_research_phase2_cia.md`
-- [ ] **Phase 2: Krongard family circuit** (Opus)
-  - [ ] `evidence/krongard_research_phase3_howard_ig.md`
-  - [ ] `evidence/krongard_research_phase4_cheryl_conflict.md`
-- [ ] **Phase 3: Blackwater / Erik Prince** (Opus)
-  - [ ] `evidence/prince_research_phase1_blackwater.md`
-  - [ ] `evidence/prince_research_phase2_operations.md`
-- [ ] **Phase 4: Leon Black / Apollo / Mark Rowan** (Sonnet search + Opus synthesis)
-  - [ ] `evidence/apollo_research_phase1_origins.md`
-  - [ ] `evidence/apollo_research_phase2_defense.md`
-  - [ ] `evidence/apollo_research_phase3_black_epstein.md`
-  - [ ] `evidence/apollo_research_phase4_rowan.md`
+- [x] **Phase 1: Krongard / Alex. Brown biography** (Opus) — COMPLETE 2026-02-28
+  - [x] `evidence/krongard_research_phase1_alex_brown.md` (528 lines)
+  - [x] `evidence/krongard_research_phase2_cia.md` (544 lines)
+- [x] **Phase 2: Krongard family circuit** (Opus) — COMPLETE 2026-02-28
+  - [x] `evidence/krongard_research_phase3_howard_ig.md` (423 lines)
+  - [x] `evidence/krongard_research_phase4_cheryl_conflict.md` (417 lines)
+- [x] **Phase 3: Blackwater / Erik Prince** (Opus) — COMPLETE 2026-02-28
+  - [x] `evidence/prince_research_phase1_blackwater.md` (664 lines)
+  - [x] `evidence/prince_research_phase2_operations.md` (679 lines)
+- [x] **Phase 4: Leon Black / Apollo / Mark Rowan** (Opus) — COMPLETE 2026-02-28
+  - [x] `evidence/apollo_research_phase1_origins.md`
+  - [x] `evidence/apollo_research_phase2_defense.md`
+  - [x] `evidence/apollo_research_phase3_black_epstein.md`
+  - [x] `evidence/apollo_research_phase4_rowan.md`
 - [ ] **Phase 5: Rothschild Asset Management** (Sonnet)
   - [ ] `evidence/rothschild_research_phase1_asset_mgmt.md`
 - [ ] **Phase 6: 9/11 Financial Nexus Synthesis** (Opus)
@@ -85,11 +85,11 @@
 
 | ID | Hypothesis | Confidence | Status |
 |----|-----------|-----------|--------|
-| H1 | Krongard Cover-Up Mechanism: ran Alex. Brown during put options → CIA → shaped/suppressed SEC-CIA assessment | 0.45 | UNDER INVESTIGATION |
-| H2 | Krongard Family Circuit: Buzzy (CIA) + Howard (IG blocking) + Cheryl (IG capture) = integrated protection circuit | 0.70 | STRUCTURAL CONFIRMED, OPERATIONAL PENDING |
-| H3 | Alex. Brown → Deutsche Bank → Epstein institutional continuity chain | 0.65 | PENDING PHASE 1 |
-| H4 | Apollo/Drexel → BCCI era finance parallel (structural) | 0.35 | PENDING PHASE 4 |
-| H5 | War on Terror profiteering circuit: Blackwater → CIA → IG protection → Apollo → political cover | 0.55 | PENDING PHASES 3-4 |
+| H1 | Krongard Cover-Up Mechanism: ran Alex. Brown during put options → CIA → shaped/suppressed SEC-CIA assessment | **0.25-0.35** (revised down from 0.45 — H0 coincidence 0.45-0.55 competes) | PHASE 1 COMPLETE — UNRESOLVED |
+| H2 | Krongard Family Circuit: Buzzy (CIA) + Howard (IG blocking) + Cheryl (IG capture) = integrated protection circuit | **TWO-NODE CONFIRMED 0.95; THREE-NODE NOT CONFIRMED 0.15** — Cheryl NOT on State IG Advisory Board; she was Senior Partner at Apollo Management 2002-2004 — creates Apollo-Krongard circuit instead | PHASE 2 COMPLETE — REVISED |
+| H3 | Alex. Brown → Deutsche Bank → Epstein institutional continuity chain | 0.65 | PHASE 1 CONFIRMED — Deutsche Bank acquired Alex. Brown 1999; institutional continuity documented |
+| H4 | Apollo/Drexel → BCCI era finance parallel (structural) | **Direct org connection 0.10; structural parallel 0.90** — Bear Stearns identified as bridge node between ecosystems | PHASE 4 COMPLETE |
+| H5 | War on Terror profiteering circuit: Blackwater → CIA → IG protection → Apollo → political cover | **Apollo classified PERIPHERAL NODE** — direct WoT profiteering 0.10; Blackwater circuit fully confirmed (Buzzy + Howard + CPA Order 17 + pardons); Apollo Epstein link is primary not WoT | PHASES 3-4 COMPLETE |
 
 ---
 
@@ -104,6 +104,9 @@
 | Leon Black | xref_ep_034 (0.99), ST-028, FXR-006 | $170M Epstein payments already confirmed | HIGH |
 | Howard Krongard | Target 65 (Blackwater) | IG blocked Blackwater investigations | HIGH |
 | Rothschild AM | WEX-060 | $25M Epstein-Rothschild agreement | MEDIUM |
+| **NEW** Cheryl Krongard | Apollo Global Management (Target 68) | Cheryl was Senior Partner at Apollo Management 2002-2004 — creates Apollo-Krongard circuit | HIGH |
+| **NEW** Erik Prince / Blackwater | CIA-to-Blackwater pipeline | Krongard, Cofer Black, Robert Richer, Enrique Prado all transitioned to Blackwater 2004-2007; 4 most senior CIA CT officers to same private company | HIGH |
+| **NEW** Erik Prince | FSG / CITIC Group (China state-owned) | Prince built China-backed PMC (FSG) post-Blackwater; CI risk 0.75 — former CIA contractor partnered with Chinese state entity | HIGH |
 
 ---
 
@@ -158,8 +161,9 @@
 | Date | Phase | Claims | Xrefs | Sources | Targets |
 |------|-------|--------|-------|---------|---------|
 | 2026-02-28 | Phase 0 complete | 782 | 283 | 39 | 68 |
+| 2026-02-28 | Phases 1-4 complete (research files written, not yet ingested) | 782 | 283 | 39 | 68 |
 
 ---
 
-## Current Phase: Phase 1 — PENDING
-## Next Action: Launch Opus agent — Krongard/Alex. Brown biographical research
+## Current Phase: Phase 5 — PENDING
+## Next Action: Launch Sonnet agent — Rothschild Asset Management research
