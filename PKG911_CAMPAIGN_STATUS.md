@@ -10,12 +10,12 @@
 ## SESSION RESUME
 > **Read this section first at every session start.**
 
-**Current Phase:** Phases 2-7 COMPLETE — Phase 8 NEXT
-**Last Completed Action:** Phase 7 scripts written + two live runs executed; IOSCO PDF retrieved (1.1MB); Poteshman/Chesney confirmed; NEW rebuttal paper found (2011 MFJ)
-**Next Action:** Phase 8A (Opus): Final intelligence reports for all targets | Phase 8B (Sonnet): Write 4 ingestion scripts
-**DB State at Last Save:** 782 claims | 283 xrefs | 39 sources | 68 targets (pre-ingestion)
+**Current Phase:** ALL PHASES COMPLETE — CAMPAIGN CLOSED
+**Last Completed Action:** Phase 8A final reports completed (Blackwater, Apollo, Network Synthesis); all 6 individual reports + 1 capstone network report written
+**Next Action:** None — campaign complete. See `evidence/pkg911_network_intelligence_report.md` for final synthesis.
+**DB State at Last Save:** 838 claims | 313 xrefs | 43 sources | 68 targets
 
-**To resume:** Run `/context-refresh` → read this file → proceed to next action above.
+**Campaign completed:** 2026-03-03
 
 ---
 
@@ -68,18 +68,18 @@
   - [x] `scripts/pkg911_foia_retriever.py`
   - [x] `evidence/pkg911_academic_papers_index.json`
   - [x] `evidence/pkg911_alex_brown_puts_index.json`
-- [ ] **Phase 8: Final Reports + Ingestion** (Opus reports, Sonnet scripts)
-  - [ ] `evidence/krongard_intelligence_report.md`
-  - [ ] `evidence/alex_brown_intelligence_report.md`
-  - [ ] `evidence/howard_krongard_intelligence_report.md`
-  - [ ] `evidence/blackwater_intelligence_report.md`
-  - [ ] `evidence/apollo_intelligence_report.md`
-  - [ ] `evidence/pkg911_network_intelligence_report.md`
-  - [ ] `scripts/ingest_pkg911_krongard.py`
-  - [ ] `scripts/ingest_pkg911_blackwater.py`
-  - [ ] `scripts/ingest_pkg911_apollo.py`
-  - [ ] `scripts/ingest_pkg911_rothschild.py`
-  - [ ] DB ingestion executed + verified
+- [x] **Phase 8: Final Reports + Ingestion** (Opus reports, Sonnet scripts) — COMPLETE 2026-03-03
+  - [x] `evidence/krongard_intelligence_report.md` (17KB, 2026-02-28)
+  - [x] `evidence/alex_brown_intelligence_report.md` (13KB, 2026-02-28)
+  - [x] `evidence/howard_krongard_intelligence_report.md` (13KB, 2026-02-28)
+  - [x] `evidence/blackwater_intelligence_report.md` (20KB, 2026-03-03)
+  - [x] `evidence/apollo_intelligence_report.md` (18KB, 2026-03-03)
+  - [x] `evidence/pkg911_network_intelligence_report.md` (capstone, 2026-03-03)
+  - [x] `scripts/ingest_pkg911_krongard.py` (22 claims, 10 xrefs)
+  - [x] `scripts/ingest_pkg911_blackwater.py` (15 claims, 8 xrefs)
+  - [x] `scripts/ingest_pkg911_apollo.py` (12 claims, 7 xrefs)
+  - [x] `scripts/ingest_pkg911_rothschild.py` (7 claims, 5 xrefs)
+  - [x] DB ingestion executed + verified — 838 claims, 313 xrefs, 43 sources
 
 ---
 
@@ -166,11 +166,13 @@
 |------|-------|--------|-------|---------|---------|
 | 2026-02-28 | Phase 0 complete | 782 | 283 | 39 | 68 |
 | 2026-02-28 | Phases 1-5 complete (all research files written, not yet ingested) | 782 | 283 | 39 | 68 |
+| 2026-02-28 | Phase 8B complete (ingestion scripts executed) | 838 | 313 | 43 | 68 |
+| 2026-03-03 | Phase 8A complete (all reports written) — CAMPAIGN CLOSED | 838 | 313 | 43 | 68 |
 
 ---
 
-## Current Phase: Phase 7 — PENDING
-## Next Action: Launch Sonnet agent — write retriever scripts (Priority 1: academic papers; Priority 2: Alex. Brown puts conduit documentation)
+## Current Phase: CAMPAIGN COMPLETE
+## Final Status: All 8 phases completed. 33 deliverable files, ~12,000 lines, 56 claims, 30 xrefs ingested.
 
 ## Phase 6 Synthesis — Key Conclusions
 1. **Informed trading statistically confirmed** — Poteshman + Chesney: 0.85-0.90 (E1 peer-reviewed)
