@@ -84,15 +84,15 @@ Thread 3 was a Soviet UFO research and analysis program that operated as part of
 
 ## ⚠️ Reliability Warnings
 
-1. **Knapp testimony claims about Oct 1982 incident diverge** from what the 10 released primary source documents describe. Five discrepancies documented. **However:** the released statements are exclusively from comms/observation personnel (no missile crew), and Knapp's account draws on years of classified briefings from investigating officer Col. Sokolov. Discrepancies may reflect additional information rather than escalation. Confidence on nuclear launch narrative: **0.35–0.65 (unresolved)**. See `evidence/thread3_cross_reference_analysis_2026.md` §VIII.
+1. **Knapp testimony claims about Oct 1982 incident diverge** from the literal text of 10 released witness statements. Five discrepancies documented. **However:** unit identification research (Feb 2026) confirmed MU 52035 = 50th Missile Division HQ (RVSN nuclear), MU 32156 = 163rd Missile Regiment (R-12 nuclear MRBMs), establishing that Katzman's "communication system" was the division-level C2 for nuclear missile launch authorization (Signal-A architecture). Knapp's operational interpretation appears substantially supported. Confidence on nuclear launch narrative: **0.55–0.75 (plausible to probable)**. See `evidence/thread3_military_unit_identification_2026.md` and `evidence/thread3_cross_reference_analysis_2026.md` §VIII.
 2. **MJ-12 content in Thread 3 documents is recycled American material**, not independent Soviet intelligence.
 3. **Thread 3 overview document** (thread3_documents.txt) contains mixed-date material: administrative docs from 1986-1990, analytical sections from 1988-1990, and referenced secondary sources from various decades.
 
 ## Next Steps
 
-- Research MU 52035, 32157, 32156, 03389 to determine actual military functions
-- Identify apparatus 153948 and associated blocks (BP-263, VTG-127) to determine if communication or weapons system
-- Cross-reference Katzman electronic event with known Soviet military communication/C2 systems
+- ~~Research MU 52035, 32157, 32156, 03389 to determine actual military functions~~ **RESOLVED 2026-02-22** — See `evidence/thread3_military_unit_identification_2026.md`
+- Identify apparatus 153948 and associated blocks (BP-263, VTG-127) — likely Signal-A related C2 equipment at division HQ
+- ~~Cross-reference Katzman electronic event with known Soviet military communication/C2 systems~~ **RESOLVED 2026-02-22** — Signal-A system identified as RVSN launch authorization chain
 - Determine if additional witness statements exist beyond the 10 released
 
 ---
@@ -103,3 +103,5 @@ Thread 3 was a Soviet UFO research and analysis program that operated as part of
 **Revision History:**
 - 2025-09-30: Initial summary (based on Knapp testimony only)
 - 2026-02-05: Major revision after primary source document analysis; nuclear launch claims downgraded; 1953 and MJ-12 cross-references added
+- 2026-02-07: Methodological caveat added (§VIII); nuclear launch confidence revised from 0.35 to 0.35–0.65 (unresolved); translation-layer and C2 architecture considerations documented
+- 2026-02-22: Claims JSON assessments updated; **MAJOR: all 4 military unit designations identified** — MU 52035 = 50th Missile Division HQ (RVSN), MU 32156 = 163rd Missile Regiment (R-12 nuclear), MU 32157 = 181st Missile Regiment, MU 03389 = 737th Comms Node. Nuclear launch confidence upgraded to 0.55–0.75

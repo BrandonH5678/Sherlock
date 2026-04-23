@@ -1,0 +1,91 @@
+{
+  "source_document": "The Day After Roswell",
+  "author": "Philip J. Corso (with William J. Birnes)",
+  "publication_year": 1997,
+  "extraction_date": "2025-12-07",
+  "research_status": "COMPLETED",
+  "total_claims": 8,
+  "credibility_assessment": "CONTESTED - Contains verifiable factual errors and chronological impossibilities",
+  "claims": [
+    {
+      "claim_id": "CORSO_001",
+      "claim": "US Government recovered alien spacecraft from Roswell in 1947 and reverse-engineered its technology",
+      "category": "uap_recovery",
+      "confidence": "LOW",
+      "verifiable": false,
+      "verification_status": "UNVERIFIED",
+      "supporting_evidence": "Author's testimony only; no corroborating physical evidence",
+      "critical_notes": "Core claim of the book with no independent verification"
+    },
+    {
+      "claim_id": "CORSO_002",
+      "claim": "Corso personally saw body of extraterrestrial in shipping crate at Fort Riley, Kansas in 1947",
+      "category": "uap_biological",
+      "confidence": "LOW",
+      "verifiable": false,
+      "verification_status": "UNVERIFIED",
+      "supporting_evidence": "Personal testimony only",
+      "critical_notes": "No corroborating witnesses documented"
+    },
+    {
+      "claim_id": "CORSO_003",
+      "claim": "As Chief of Pentagon's Foreign Technology Division (1960-1962), Corso seeded alien technology into American industry including IBM, Hughes Aircraft, Bell Labs, Dow Corning",
+      "category": "technology_transfer",
+      "confidence": "LOW",
+      "verifiable": true,
+      "verification_status": "CONTESTED",
+      "supporting_evidence": "Corso did serve in Foreign Technology Division briefly",
+      "critical_notes": "Critics note Corso lacked science/engineering degree; technology origins have conventional explanations"
+    },
+    {
+      "claim_id": "CORSO_004",
+      "claim": "Technologies reverse-engineered from alien craft include: integrated circuits, night vision, lasers, Kevlar, fiber optics, smart metals",
+      "category": "technology_claims",
+      "confidence": "LOW",
+      "verifiable": true,
+      "verification_status": "DISPUTED",
+      "supporting_evidence": "Technologies exist; alien origin claim unsubstantiated",
+      "critical_notes": "Conventional development histories exist for all named technologies"
+    },
+    {
+      "claim_id": "CORSO_005",
+      "claim": "Corso served on Eisenhower's National Security Council (1953-1957)",
+      "category": "career_claim",
+      "confidence": "HIGH",
+      "verifiable": true,
+      "verification_status": "VERIFIED",
+      "supporting_evidence": "Military records confirm NSC staff service",
+      "critical_notes": "Verifiable career claim"
+    },
+    {
+      "claim_id": "CORSO_006",
+      "claim": "Book attributes central heroic role to Corso in Cuban Missile Crisis, JFK assassination investigation, outing KGB spies in CIA",
+      "category": "career_claims",
+      "confidence": "LOW",
+      "verifiable": true,
+      "verification_status": "UNSUBSTANTIATED",
+      "supporting_evidence": "No historical records found confirming Corso's involvement in these events",
+      "critical_notes": "Skeptical Inquirer review (Brad Sparks) found no historical support"
+    }
+  ],
+  "documented_errors": [
+    "Misidentified 8th Air Force HQ as Fort Bliss instead of Fort Worth AAF",
+    "Misdated Walter Haut's Roswell press release",
+    "Erroneously described MIM-23 Hawk as heat-seeking (it's radar-guided)",
+    "Multiple chronological impossibilities noted by analysts"
+  ],
+  "critical_assessments": {
+    "philip_klass": "Challenged multiple claims as factually unbelievable",
+    "brad_sparks": "No historical record of Corso's involvement in claimed seminal events",
+    "general_consensus": "Large number of errors about basic, known facts"
+  },
+  "publication_context": {
+    "publisher": "Pocket Books",
+    "nyt_bestseller": "3 weeks on list",
+    "ghostwriter": "William J. Birnes"
+  },
+  "relevance_to_sherlock": {
+    "intelligence_value": "MEDIUM",
+    "notes": "Represents influential UAP disclosure narrative regardless of veracity. Claims about technology seeding to defense contractors relevant to understanding reverse-engineering allegations in UAP disclosure."
+  }
+}

@@ -655,7 +655,7 @@ Priority: Critical
 Requested By: Sherlock Targeting Officer / Claude Code
 Date Added: 2026-02-22
 Due: 2026-03-01
-Status: Pending
+Status: Complete - Partial Delivery (ChatGPT). Missing PROMIS/Inslaw, independent sources. Ingested as Source ID SHERLOCK-20260222-001, 21 claims. Supplementary research assigned to Claude Opus.
 Tags: intelligence, Mossad, MI6, PROMIS, Maxwell-family, espionage
 Confidence: 80% factual — well-documented by multiple biographers but intelligence connections inherently secretive
 
@@ -771,7 +771,7 @@ Priority: Critical
 Requested By: Sherlock Targeting Officer / Claude Code
 Date Added: 2026-02-22
 Due: 2026-03-01
-Status: Pending
+Status: Reassigned to Claude Opus — ChatGPT censorship prevents quality output on intelligence topics
 Tags: intelligence, CIA, Mossad, MI6, Acosta, Wexner, compromise-operations
 Confidence: 70% — Acosta quote documented, broader IC connections require triangulation from multiple sources
 
@@ -885,7 +885,7 @@ Priority: High
 Requested By: Sherlock Targeting Officer / Claude Code
 Date Added: 2026-02-22
 Due: 2026-03-08
-Status: Pending
+Status: Reassigned to Claude Opus — ChatGPT censorship prevents quality output on intelligence topics
 Tags: BCCI, Deutsche-Bank, JPMorgan, Morgan-Stanley, Wexner, financial-intelligence, offshore
 Confidence: 85% for financial facts (settlements documented), 65% for intelligence banking connections
 
@@ -1008,7 +1008,7 @@ Priority: High
 Requested By: Sherlock Targeting Officer / Claude Code
 Date Added: 2026-02-22
 Due: 2026-03-08
-Status: Pending
+Status: Reassigned to Claude Opus + Retriever — ChatGPT censorship prevents quality output on intelligence topics
 Tags: gravity-research, electrogravitics, Harvard, MIT, Edge-Foundation, transhumanism, Atlantis, TerraMar
 Confidence: 75% — science funding documented, gravity symposium needs detailed sourcing, Atlantis connections speculative
 
@@ -1127,7 +1127,7 @@ Priority: High
 Requested By: Sherlock Targeting Officer / Claude Code
 Date Added: 2026-02-22
 Due: 2026-03-08
-Status: Pending
+Status: Reassigned to Claude Opus — ChatGPT censorship prevents quality output on intelligence topics
 Tags: Mockingbird, media-suppression, ABC-News, counter-intel, narrative-control
 Confidence: 80% — media suppression patterns documented, intelligence connections to media harder to prove
 
@@ -1239,7 +1239,7 @@ Priority: Critical
 Requested By: Sherlock Targeting Officer / Claude Code
 Date Added: 2026-02-22
 Due: 2026-03-01
-Status: Pending
+Status: Reassigned to Claude Opus — ChatGPT censorship prevents quality output on intelligence/9-11 topics
 Tags: 9/11, Cantor-Fitzgerald, financial-foreknowledge, WTC7, put-options, bond-market, Lutnick
 Confidence: 60% — financial facts documented, foreknowledge allegations require careful sourcing, intelligence connections highly contested
 

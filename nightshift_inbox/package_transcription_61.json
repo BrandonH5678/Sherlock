@@ -1,0 +1,53 @@
+{
+  "task_id": "sherlock_transcription_af5e0e1e-03c7-44dc-bd23-a8cf359fdb23",
+  "task_type": "sherlock_podcast_intelligence",
+  "package_id": 61,
+  "target_name": "SHERLOCK - American Alchemy - Sheehan JFK (WARM TEST)",
+  "source": "freelance_transcription_service",
+  "package_type": "podcast_transcript",
+  "priority": 2,
+  "input_files": {
+    "txt": "/home/johnny5/Sherlock/transcripts/sherlock_american_alchemy_sheehan_jfk_warm_test_af5e0e1e-03c7-44dc-bd23-a8cf359fdb23.txt",
+    "json": "/home/johnny5/Sherlock/transcripts/sherlock_american_alchemy_sheehan_jfk_warm_test_af5e0e1e-03c7-44dc-bd23-a8cf359fdb23.json",
+    "srt": "/home/johnny5/Sherlock/transcripts/sherlock_american_alchemy_sheehan_jfk_warm_test_af5e0e1e-03c7-44dc-bd23-a8cf359fdb23_subtitles.srt",
+    "vtt": "/home/johnny5/Sherlock/transcripts/sherlock_american_alchemy_sheehan_jfk_warm_test_af5e0e1e-03c7-44dc-bd23-a8cf359fdb23_subtitles.vtt"
+  },
+  "quality_metrics": {
+    "processing_time_seconds": 1245.3641331195831,
+    "real_time_factor": 8.069697635201607,
+    "gpu_utilization_percent": 99,
+    "diarization_status": "completed",
+    "speaker_count": 16,
+    "diarization_backend": "whisperx+pyannote",
+    "diarization_error_rate": null,
+    "speaker_purity": 0.993616430752151,
+    "speaker_coverage": 0.993616430752151,
+    "diarization_time_seconds": 344.19775342941284,
+    "diarization_real_time_factor": 29.197494463196627,
+    "diarization_vram_used_gb": null,
+    "overall_score": 0.9585734667443888,
+    "avg_confidence": 0.897453777615854,
+    "word_error_rate_estimate": 0.10254622238414601,
+    "coverage_ratio": 1.0
+  },
+  "expected_outputs": [
+    "analysis/sherlock_american_alchemy_sheehan_jfk_warm_test_intelligence_summary.json",
+    "evidence/sherlock_american_alchemy_sheehan_jfk_warm_test_claims.json",
+    "network/sherlock_american_alchemy_sheehan_jfk_warm_test_entities.json"
+  ],
+  "processing_instructions": {
+    "extract_entities": true,
+    "extract_claims": true,
+    "cross_reference": true,
+    "generate_summary": true,
+    "intelligence_categories": [
+      "UAP/NHI",
+      "Government Programs",
+      "Witnesses",
+      "Locations",
+      "Technologies",
+      "Organizations"
+    ]
+  },
+  "created_at": "2026-01-08T03:45:01.415149+00:00"
+}

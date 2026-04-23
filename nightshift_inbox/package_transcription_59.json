@@ -1,0 +1,53 @@
+{
+  "task_id": "sherlock_transcription_32c484ff-e51d-4fee-b6d9-5d2b7c3e4d00",
+  "task_type": "sherlock_podcast_intelligence",
+  "package_id": 59,
+  "target_name": "SHERLOCK - American Alchemy - Pasulka Nell (WARM TEST)",
+  "source": "freelance_transcription_service",
+  "package_type": "podcast_transcript",
+  "priority": 2,
+  "input_files": {
+    "txt": "/home/johnny5/Sherlock/transcripts/sherlock_american_alchemy_pasulka_nell_warm_test_32c484ff-e51d-4fee-b6d9-5d2b7c3e4d00.txt",
+    "json": "/home/johnny5/Sherlock/transcripts/sherlock_american_alchemy_pasulka_nell_warm_test_32c484ff-e51d-4fee-b6d9-5d2b7c3e4d00.json",
+    "srt": "/home/johnny5/Sherlock/transcripts/sherlock_american_alchemy_pasulka_nell_warm_test_32c484ff-e51d-4fee-b6d9-5d2b7c3e4d00_subtitles.srt",
+    "vtt": "/home/johnny5/Sherlock/transcripts/sherlock_american_alchemy_pasulka_nell_warm_test_32c484ff-e51d-4fee-b6d9-5d2b7c3e4d00_subtitles.vtt"
+  },
+  "quality_metrics": {
+    "processing_time_seconds": 709.3752927780151,
+    "real_time_factor": 6.723177489482206,
+    "gpu_utilization_percent": 94,
+    "diarization_status": "completed",
+    "speaker_count": 5,
+    "diarization_backend": "whisperx+pyannote",
+    "diarization_error_rate": null,
+    "speaker_purity": 0.987597911227154,
+    "speaker_coverage": 0.987597911227154,
+    "diarization_time_seconds": 155.5129075050354,
+    "diarization_real_time_factor": 30.667910956816076,
+    "diarization_vram_used_gb": null,
+    "overall_score": 0.965947508225425,
+    "avg_confidence": 0.9162189055770635,
+    "word_error_rate_estimate": 0.08378109442293646,
+    "coverage_ratio": 1.0
+  },
+  "expected_outputs": [
+    "analysis/sherlock_american_alchemy_pasulka_nell_warm_test_intelligence_summary.json",
+    "evidence/sherlock_american_alchemy_pasulka_nell_warm_test_claims.json",
+    "network/sherlock_american_alchemy_pasulka_nell_warm_test_entities.json"
+  ],
+  "processing_instructions": {
+    "extract_entities": true,
+    "extract_claims": true,
+    "cross_reference": true,
+    "generate_summary": true,
+    "intelligence_categories": [
+      "UAP/NHI",
+      "Government Programs",
+      "Witnesses",
+      "Locations",
+      "Technologies",
+      "Organizations"
+    ]
+  },
+  "created_at": "2026-01-08T02:50:25.552833+00:00"
+}

@@ -1,0 +1,100 @@
+{
+  "source_document": "A People's History of the United States",
+  "author": "Howard Zinn",
+  "extraction_date": "2025-12-07",
+  "total_claims": 8,
+  "claims": [
+    {
+      "claim_id": "ZINN_001",
+      "claim": "History writing is never neutral but always shaped by ideological choices that reinforce power structures of the time",
+      "category": "historiographical_methodology",
+      "confidence": "HIGH",
+      "verifiable": true,
+      "verification_status": "PHILOSOPHICAL_CLAIM",
+      "supporting_evidence": "Central methodological argument throughout the text",
+      "relevance": "Framework for critical analysis of official narratives"
+    },
+    {
+      "claim_id": "ZINN_002",
+      "claim": "The concept of 'national interest' is a pretense masking the reality that America has always been divided by class, race, and economic interests",
+      "category": "political_analysis",
+      "confidence": "HIGH",
+      "verifiable": true,
+      "verification_status": "SUPPORTED_BY_EVIDENCE",
+      "supporting_evidence": "Documented class conflicts throughout American history",
+      "relevance": "Critical lens for examining intelligence community claims of national security"
+    },
+    {
+      "claim_id": "ZINN_003",
+      "claim": "Government economic policies are primarily directed towards the needs of corporations, with 'the economy' serving as shorthand for corporate profit",
+      "category": "economic_analysis",
+      "confidence": "MEDIUM",
+      "verifiable": true,
+      "verification_status": "PARTIALLY_VERIFIED",
+      "supporting_evidence": "Pattern of regulatory capture and corporate influence documented",
+      "relevance": "Framework for understanding military-industrial-intelligence complex"
+    },
+    {
+      "claim_id": "ZINN_004",
+      "claim": "Colonial America established economic and social structures that created persistent inequality and class struggle",
+      "category": "historical_analysis",
+      "confidence": "HIGH",
+      "verifiable": true,
+      "verification_status": "VERIFIED",
+      "supporting_evidence": "Extensive historical documentation of colonial class systems",
+      "relevance": "Foundation for understanding elite power networks"
+    },
+    {
+      "claim_id": "ZINN_005",
+      "claim": "Major social progress (fair wages, labor laws, suffrage, civil rights) came from grassroots movements against bloody resistance from elites",
+      "category": "social_history",
+      "confidence": "HIGH",
+      "verifiable": true,
+      "verification_status": "VERIFIED",
+      "supporting_evidence": "Documented history of labor movement, civil rights movement, suffrage movement",
+      "relevance": "Pattern of institutional resistance to reform"
+    },
+    {
+      "claim_id": "ZINN_006",
+      "claim": "Traditional history teaching emphasizes 'great men in high places' while ignoring perspectives of workers, minorities, and marginalized groups",
+      "category": "educational_critique",
+      "confidence": "HIGH",
+      "verifiable": true,
+      "verification_status": "VERIFIED",
+      "supporting_evidence": "Analysis of pre-1980 history curricula confirms this bias",
+      "relevance": "Understanding how narratives are controlled"
+    },
+    {
+      "claim_id": "ZINN_007",
+      "claim": "America was built on the blood and suffering of the poor",
+      "category": "core_thesis",
+      "confidence": "MEDIUM",
+      "verifiable": true,
+      "verification_status": "SUPPORTED_BUT_CONTESTED",
+      "supporting_evidence": "Extensive documentation of exploitation, though critics argue oversimplification",
+      "relevance": "Foundational critique of American exceptionalism narratives"
+    },
+    {
+      "claim_id": "ZINN_008",
+      "claim": "Elite rulers from across orthodox political parties form an aggregate that manipulates and exploits the majority through rigged systems",
+      "category": "power_structure_analysis",
+      "confidence": "MEDIUM",
+      "verifiable": true,
+      "verification_status": "PARTIALLY_VERIFIED",
+      "supporting_evidence": "Documented cases of bipartisan elite cooperation",
+      "relevance": "HIGH - Directly applicable to Sherlock research on hidden power networks"
+    }
+  ],
+  "cross_references": [
+    {
+      "related_entity": "Brown Brothers Harriman",
+      "connection_type": "exemplifies",
+      "description": "Wall Street-government nexus exemplifies Zinn's claims about elite power networks"
+    },
+    {
+      "related_entity": "Allen Dulles",
+      "connection_type": "exemplifies",
+      "description": "CIA-Wall Street connections support claims about corporate-government alignment"
+    }
+  ]
+}

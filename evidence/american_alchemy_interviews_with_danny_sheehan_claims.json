@@ -1,0 +1,72 @@
+{
+  "source": "American Alchemy Podcast",
+  "host": "Jesse Michels",
+  "guest": "Daniel P. Sheehan",
+  "extraction_date": "2025-12-07",
+  "research_status": "PARTIALLY_COMPLETED",
+  "notes": "American Alchemy is a podcast/YouTube channel hosted by Jesse Michels. Danny Sheehan has appeared on multiple UAP disclosure-focused podcasts. Specific American Alchemy episode claims require direct video review.",
+  "total_claims": 5,
+  "claims": [
+    {
+      "claim_id": "AA_SHEEHAN_001",
+      "claim": "Sheehan has 50 years of experience with UAP disclosure efforts dating to Carter administration",
+      "category": "biographical",
+      "confidence": "HIGH",
+      "verifiable": true,
+      "verification_status": "VERIFIED",
+      "source_context": "Multiple podcast appearances"
+    },
+    {
+      "claim_id": "AA_SHEEHAN_002",
+      "claim": "New Paradigm Institute founded 2023 to compel UAP disclosure and prepare society for cultural shifts from extraterrestrial contact confirmation",
+      "category": "organizational",
+      "confidence": "HIGH",
+      "verifiable": true,
+      "verification_status": "VERIFIED",
+      "source_context": "NPI website and multiple interviews"
+    },
+    {
+      "claim_id": "AA_SHEEHAN_003",
+      "claim": "Crash retrieval programs exist and have been hidden from democratic oversight for decades",
+      "category": "uap_disclosure",
+      "confidence": "MEDIUM",
+      "verifiable": true,
+      "verification_status": "CLAIMED_BY_MULTIPLE_SOURCES",
+      "source_context": "Consistent claim across Sheehan's appearances"
+    },
+    {
+      "claim_id": "AA_SHEEHAN_004",
+      "claim": "Sheehan serving as counsel for whistleblowers including Luis Elizondo",
+      "category": "legal_representation",
+      "confidence": "HIGH",
+      "verifiable": true,
+      "verification_status": "VERIFIED",
+      "source_context": "Public record"
+    },
+    {
+      "claim_id": "AA_SHEEHAN_005",
+      "claim": "Close encounter witnesses represent the frontline of contact beyond official admissions",
+      "category": "philosophical",
+      "confidence": "MEDIUM",
+      "verifiable": false,
+      "verification_status": "OPINION",
+      "source_context": "Sheehan's stated position on contact phenomenon"
+    }
+  ],
+  "related_content": {
+    "podcast_series": "American Alchemy (Jesse Michels)",
+    "platform": "YouTube",
+    "focus": "UAP disclosure, consciousness, non-human intelligence",
+    "notable_guests": [
+      "Danny Sheehan",
+      "Various UAP researchers and officials"
+    ]
+  },
+  "action_required": "Full transcript review for specific episode claims",
+  "cross_references": [
+    "New Paradigm Institute",
+    "Luis Elizondo",
+    "AATIP",
+    "UAP Disclosure Act"
+  ]
+}

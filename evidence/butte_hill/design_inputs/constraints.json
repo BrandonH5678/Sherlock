@@ -1,0 +1,141 @@
+{
+  "schema_version": "butte_hill_constraints_v1",
+  "site_id": "butte_hill_210_lahti_rd",
+  "defaults": {
+    "units": {
+      "horizontal": "ft",
+      "vertical": "ft",
+      "slope": "deg"
+    }
+  },
+
+  "geology_constraints": {
+    "target_medium": {
+      "allowed": ["bedrock_flow_core"],
+      "conditionally_allowed": ["bedrock_flow_core_near_contact"],
+      "prohibited": ["mass_wasting", "flow_breccia", "volcaniclastic_interbed", "unknown"]
+    },
+
+    "bedrock_unit_expectation": {
+      "description": "Basaltic andesite to basalt flows with flow breccias; alteration products indicate groundwater along contacts; flow cores are excavation targets; breccias are conduits/weak zones.",
+      "confidence": "medium",
+      "source": "WGS 24k unit description + portal"
+    },
+
+    "contact_handling": {
+      "min_offset_from_flow_contacts_ft": 15,
+      "min_offset_from_mapped_faults_ft": 100,
+      "treat_breccia_as": ["groundwater_conduit", "weak_zone", "no_habitable_voids"]
+    }
+  },
+
+  "terrain_constraints": {
+    "portal_siting": {
+      "max_local_slope_deg": 18,
+      "min_distance_from_head_scarp_ft": 300,
+      "min_distance_from_toe_bulge_ft": 300,
+      "min_distance_from_stream_channel_ft": 200,
+      "avoid_hummocky_terrain": true,
+      "avoid_concave_hollows": true
+    },
+
+    "avoid_zone_generation": {
+      "include_features": [
+        "mapped_landslide_polygons",
+        "lidar_head_scarps",
+        "lidar_secondary_scarps",
+        "lidar_toe_bulges",
+        "hummocky_topography_clusters",
+        "persistent_wet_lines"
+      ],
+      "buffers_ft": {
+        "mapped_landslides": 200,
+        "head_scarps": 300,
+        "secondary_scarps": 200,
+        "toe_bulges": 300,
+        "wet_lines": 150
+      }
+    }
+  },
+
+  "excavation_envelope_constraints": {
+    "access_modes": {
+      "preferred_order": ["vertical_access", "inclined_shaft", "short_adit_only_if_thin_veneer"],
+      "prohibited": ["long_horizontal_adit_in_mass_wasting"]
+    },
+
+    "vertical_access": {
+      "required_conditions": [
+        "portal_outside_avoid_zones",
+        "estimated_mass_wasting_thickness_ft <= 60",
+        "bedrock_confidence_at_portal != low"
+      ],
+      "support_assumed": ["temporary_shoring_in_mass_wasting", "lined_shaft_through_shear_zone"]
+    },
+
+    "adit_access": {
+      "allowed_only_if": [
+        "mass_wasting_thickness_ft <= 20",
+        "no_scarps_within_buffer",
+        "no_wet_lines_within_buffer",
+        "bedrock_exposed_or_high_confidence"
+      ],
+      "max_adit_length_ft": 80
+    },
+
+    "habitable_void_rules": {
+      "min_roof_cover_over_void_ft": 30,
+      "min_offset_from_breccia_ft": 15,
+      "voids_must_be_in": ["bedrock_flow_core"],
+      "no_unsupported_spans_in": ["mass_wasting", "flow_breccia"]
+    }
+  },
+
+  "uncertainty_and_stage_gates": {
+    "uncertainty_bounds": {
+      "bedrock_depth_ft_plus_minus": 20,
+      "mass_wasting_thickness_ft_plus_minus": 20
+    },
+
+    "stop_conditions": [
+      {
+        "id": "STOP-01",
+        "trigger": "bedrock_confidence_at_portal == low",
+        "action": "halt_freecad_generation",
+        "required_next_data": ["additional_well_logs", "field_outcrop_check", "geotech_boring_or_refraction"]
+      },
+      {
+        "id": "STOP-02",
+        "trigger": "portal_candidate_intersects_avoid_zone == true",
+        "action": "reject_portal_candidate"
+      },
+      {
+        "id": "STOP-03",
+        "trigger": "wet_line_density_high == true",
+        "action": "halt_and_flag_groundwater_risk",
+        "required_next_data": ["seasonal_spring_mapping", "drainage_plan", "hydro_review"]
+      },
+      {
+        "id": "STOP-04",
+        "trigger": "mass_wasting_thickness_ft > 60",
+        "action": "require_vertical_access_or_abort",
+        "required_next_data": ["boring_or_refraction_to_confirm_depth"]
+      }
+    ]
+  },
+
+  "reporting_requirements": {
+    "pipeline_must_output": [
+      "portal_candidates_ranked_with_rejection_reasons",
+      "avoid_zone_map_with_sources",
+      "bedrock_depth_envelope_summary",
+      "excavation_envelope_candidates (if allowed)",
+      "stage_gate_status"
+    ],
+    "must_include_in_report": [
+      "explicit confidence levels",
+      "assumptions list",
+      "stop_conditions evaluated"
+    ]
+  }
+}

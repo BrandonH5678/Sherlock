@@ -1,0 +1,12 @@
+{
+  "status": "placeholder",
+  "message": "Sherlock research job received but not yet implemented",
+  "job_id": "SHERLOCK_PKG_30",
+  "target": "George Joannides",
+  "package_type": "composite",
+  "collection_urls": [
+    "https://www.google.com/search?q=George+Joannides",
+    "https://en.wikipedia.org/wiki/George_Joannides"
+  ],
+  "created_at": "2025-12-07T20:28:36.641303"
+}

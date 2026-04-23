@@ -1,0 +1,127 @@
+{
+  "source_entity": "Daniel P. Sheehan",
+  "entity_type": "person",
+  "extraction_date": "2025-12-07",
+  "research_status": "COMPLETED",
+  "summary": "Harvard-trained constitutional litigator with 50+ years experience. Key figure in Pentagon Papers, Karen Silkwood, Iran-Contra cases. Currently leads UAP disclosure efforts through New Paradigm Institute. Represents Luis Elizondo in case against DoD.",
+  "biography": {
+    "born": "April 9, 1945",
+    "education": [
+      "Northeastern University (transferred)",
+      "Harvard College (BA American Government Studies, 1967)",
+      "Harvard Law School (JD, 1970)"
+    ],
+    "current_roles": [
+      "Chief Counsel, Romero Institute",
+      "Founder, New Paradigm Institute (2023)",
+      "General Counsel to Luis Elizondo"
+    ]
+  },
+  "total_claims": 10,
+  "claims": [
+    {
+      "claim_id": "SHEEHAN_001",
+      "claim": "Defended publication of Pentagon Papers at Supreme Court for New York Times (1971)",
+      "category": "career_fact",
+      "confidence": "HIGH",
+      "verifiable": true,
+      "verification_status": "VERIFIED"
+    },
+    {
+      "claim_id": "SHEEHAN_002",
+      "claim": "Chief Attorney on Karen Silkwood Case (1976) revealing CIA Israeli Desk plutonium smuggling",
+      "category": "career_fact",
+      "confidence": "HIGH",
+      "verifiable": true,
+      "verification_status": "VERIFIED",
+      "notes": "Case resulted in $10.5M Supreme Court judgment"
+    },
+    {
+      "claim_id": "SHEEHAN_003",
+      "claim": "Filed $24M civil suit in Iran-Contra case naming 30 defendants including John Singlaub, Richard Secord, Albert Hakim, Thomas Clines, Theodore Shackley",
+      "category": "career_fact",
+      "confidence": "HIGH",
+      "verifiable": true,
+      "verification_status": "VERIFIED"
+    },
+    {
+      "claim_id": "SHEEHAN_004",
+      "claim": "Has known about multiple whistleblowers who confirmed existence of 'Immaculate Constellation' UAP program",
+      "category": "uap_disclosure",
+      "confidence": "MEDIUM",
+      "verifiable": true,
+      "verification_status": "CLAIMED_BY_SOURCE",
+      "notes": "Program existence alleged by multiple sources; official denial from AARO"
+    },
+    {
+      "claim_id": "SHEEHAN_005",
+      "claim": "USS Nimitz-class carriers off Baja California monitored underwater UFO/UAP base near Guadalupe Island with 100+ sightings of craft tracked by Navy submarines",
+      "category": "uap_claim",
+      "confidence": "LOW",
+      "verifiable": false,
+      "verification_status": "UNVERIFIED",
+      "notes": "Specific operational claim; no public corroboration"
+    },
+    {
+      "claim_id": "SHEEHAN_006",
+      "claim": "Dr. Kirkpatrick and AARO associates are 'consciously lying' when denying substantive evidence",
+      "category": "uap_disclosure",
+      "confidence": "MEDIUM",
+      "verifiable": true,
+      "verification_status": "CONTESTED",
+      "notes": "Direct accusation against government officials"
+    },
+    {
+      "claim_id": "SHEEHAN_007",
+      "claim": "Represented Harvard psychiatrist Dr. John Mack in academic freedom case over alien abduction research",
+      "category": "career_fact",
+      "confidence": "HIGH",
+      "verifiable": true,
+      "verification_status": "VERIFIED"
+    },
+    {
+      "claim_id": "SHEEHAN_008",
+      "claim": "UAP information has been hidden from public and Congress for over 80 years by Military Industrial Complex",
+      "category": "uap_claim",
+      "confidence": "MEDIUM",
+      "verifiable": true,
+      "verification_status": "PARTIALLY_VERIFIED",
+      "notes": "Some UAP secrecy documented; 80-year timeframe and MIC attribution contested"
+    },
+    {
+      "claim_id": "SHEEHAN_009",
+      "claim": "Involvement with UAP disclosure began during Carter administration",
+      "category": "biographical",
+      "confidence": "HIGH",
+      "verifiable": true,
+      "verification_status": "VERIFIED"
+    },
+    {
+      "claim_id": "SHEEHAN_010",
+      "claim": "Currently representing UAP whistleblowers speaking out about crash retrieval programs",
+      "category": "current_activity",
+      "confidence": "HIGH",
+      "verifiable": true,
+      "verification_status": "VERIFIED"
+    }
+  ],
+  "notable_cases": [
+    {"case": "Pentagon Papers", "year": 1971, "outcome": "Victory - secured press freedom"},
+    {"case": "Watergate", "year": 1972, "role": "Litigator"},
+    {"case": "Wounded Knee", "year": 1973, "role": "ACLU attorney"},
+    {"case": "Karen Silkwood", "year": 1976, "outcome": "$10.5M Supreme Court judgment"},
+    {"case": "Greensboro Massacre", "year": "1980s", "role": "Attorney"},
+    {"case": "La Penca/Iran-Contra", "year": 1986, "role": "Christic Institute"},
+    {"case": "Dr. John Mack", "year": "1990s", "outcome": "Secured academic freedom"},
+    {"case": "Luis Elizondo v. DoD", "year": "2020s", "role": "General Counsel"}
+  ],
+  "cross_references": [
+    "Luis Elizondo",
+    "Steven Greer / Disclosure Project",
+    "Dr. John Mack",
+    "AATIP",
+    "New Paradigm Institute",
+    "Theodore Shackley",
+    "CIA"
+  ]
+}

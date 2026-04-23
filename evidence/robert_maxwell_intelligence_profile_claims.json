@@ -1,0 +1,375 @@
+{
+  "source": "SHERLOCK-20260222-001: Robert Maxwell Intelligence Profile",
+  "source_type": "chatgpt_research_deliverable",
+  "source_generator": "ChatGPT Research Agent",
+  "task_id": "SHERLOCK-20260222-001",
+  "campaign": "PKG-EP",
+  "document_files": [
+    "SHERLOCK-20260222-001_Robert_Maxwell_Combined.pdf",
+    "SHERLOCK-20260222-001_Robert_Maxwell_Combined_SEF.pdf"
+  ],
+  "document_count": 4,
+  "total_pages": 15,
+  "analysis_date": "2026-02-22",
+  "ingestion_date": "2026-02-22",
+  "provenance": "ChatGPT Research Agent deliverable for Sherlock PKG-EP campaign. 4 documents: (1) Chronological Intelligence Timeline 1923-1991, (2) Networks & Relationships Map, (3) Evidence Dossier with primary artifact anchors, (4) Analytic Synthesis with competing hypotheses. Sources include FBI Vault corpus (Parts 01-08), UK Parliament publications, Cambridge Core academic papers, Oxford case study, contemporaneous 1991 reporting (Washington Post, LA Times, UPI), Guardian FOI-era reporting (2000, 2007), Telegraph archival reporting. Evidence graded E1 (Documented), E2 (Credible Allegation), E3 (Speculative).",
+  "methodological_note": "ChatGPT applied a 3-tier evidence grading system: E1 Documented (primary source confirmed), E2 Credible Allegation (press reporting citing archives but not embedding primary docs), E3 Speculative (inference or pattern-matching without documentation). Confidence levels 0.0-1.0 assigned per claim. COUNTER-INTEL ASSESSMENT: ChatGPT's overall confidence levels (0.58-0.65) are conservative, consistent with mainstream media framing that systematically underweights intelligence connections. Key gap: No Whitney Webb, Gordon Thomas 'Gideon's Spies', Ari Ben-Menashe testimony, or Rafi Eitan/PROMIS material was incorporated despite being explicitly requested. The PROMIS/Inslaw dimension — the core of the intelligence tasking — is entirely absent. This deliverable establishes biographical baseline but does NOT fulfill the intelligence profile objective.",
+
+  "overall_assessment": {
+    "doc1_timeline_confidence": 0.65,
+    "doc2_networks_confidence": 0.60,
+    "doc3_evidence_dossier_confidence": 0.58,
+    "doc4_synthesis_confidence": 0.62,
+    "aggregate_confidence": 0.61,
+    "sherlock_assessment": "PARTIAL DELIVERY. Biographical timeline and platform power are well-documented. Intelligence dimensions remain at allegation level. Critical gap: zero coverage of PROMIS/Inslaw, Rafi Eitan, Ari Ben-Menashe, Gordon Thomas sources despite being specified in task. Whitney Webb material not incorporated. Requires supplementary research pass.",
+    "source_quality": "Primary anchors (FBI Vault, UK Parliament, court records) are solid. Secondary layer (Guardian FOI reporting) is credible. Missing: the independent investigative journalism sources that contain the most detailed intelligence connection documentation."
+  },
+
+  "key_entities": {
+    "people": [
+      {
+        "name": "Robert Maxwell",
+        "birth_name": "Jan Ludvik Hyman Binyamin Hoch",
+        "born": "1923-06-10",
+        "birthplace": "Solotvyno, Carpathian Ruthenia (then Czechoslovakia, now Ukraine)",
+        "died": "1991-11-05",
+        "death_location": "Yacht Lady Ghislaine, near Canary Islands",
+        "burial": "Mount of Olives, Jerusalem, 1991-11-11",
+        "roles": ["Publisher (Pergamon Press, Mirror Group)", "British Army officer (Military Cross)", "Member of Parliament", "Alleged intelligence asset (MI6, Mossad, KGB — all unproven at E1 level)"],
+        "target_id": 44
+      },
+      {
+        "name": "Paul Rosbaud",
+        "role": "Pergamon Press co-founder, documented WWII intelligence figure",
+        "significance": "Maxwell's business partner was a confirmed intelligence-connected figure — inference to Maxwell is E2"
+      },
+      {
+        "name": "Seymour Hersh",
+        "role": "Investigative journalist, published Maxwell intelligence allegations",
+        "significance": "Maxwell sued Hersh (1991) — litigation documented, underlying allegations E2"
+      },
+      {
+        "name": "Nicholas Davies",
+        "role": "Named in Hersh allegation cluster",
+        "significance": "Part of Maxwell-intelligence litigation pattern"
+      },
+      {
+        "name": "Yitzhak Shamir",
+        "role": "Israeli PM, attended Maxwell funeral",
+        "significance": "State-level attendance at funeral signals institutional relationship"
+      },
+      {
+        "name": "Chaim Herzog",
+        "role": "Israeli President, attended Maxwell funeral",
+        "significance": "State-level attendance at funeral signals institutional relationship"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Pergamon Press",
+        "type": "Scientific publishing",
+        "significance": "Maxwell's primary platform — provided structured access to researchers, conferences, manuscripts, cross-border networks. Intelligence utility rated 0.75 confidence.",
+        "evidence_grade": "E1"
+      },
+      {
+        "name": "Mirror Group Newspapers",
+        "type": "Mass media",
+        "significance": "Maxwell's mass-media influence capacity. Control documented.",
+        "evidence_grade": "E1"
+      },
+      {
+        "name": "MI6 / Secret Intelligence Service",
+        "type": "Intelligence agency",
+        "significance": "Alleged to have 'bankrolled' Maxwell's early publishing (Guardian 2000). E2 pending archival confirmation.",
+        "evidence_grade": "E2"
+      },
+      {
+        "name": "FBI",
+        "type": "Law enforcement / intelligence",
+        "significance": "Maintained multi-part Robert Maxwell file (Parts 01-08) in FBI Vault. Existence documented.",
+        "evidence_grade": "E1"
+      },
+      {
+        "name": "UK Foreign Office",
+        "type": "Government",
+        "significance": "Suspected Maxwell was a Russian agent (Telegraph 2003). E2 press report of archival content.",
+        "evidence_grade": "E2"
+      },
+      {
+        "name": "UK Parliament",
+        "type": "Government",
+        "significance": "Documented 'Maxwellisation' as procedural phenomenon. EDM 2134 filed referencing Hersh allegations.",
+        "evidence_grade": "E1"
+      }
+    ]
+  },
+
+  "claims": [
+    {
+      "claim_id": "RM-001",
+      "claim": "Robert Maxwell was born Jan Ludvik Hyman Binyamin Hoch on 10 June 1923 in Carpathian Ruthenia, Czechoslovakia (now Solotvyno, Ukraine), into an Orthodox Jewish family.",
+      "evidence_grade": "E1",
+      "confidence": 0.95,
+      "sources": ["Wikipedia: Robert Maxwell"],
+      "category": "biography"
+    },
+    {
+      "claim_id": "RM-002",
+      "claim": "Maxwell joined Czechoslovak forces in exile in France in 1940, later transferred to British Army, rose to NCO and commissioned officer, received Military Cross on 29 January 1945.",
+      "evidence_grade": "E1",
+      "confidence": 0.90,
+      "sources": ["Wikipedia: Robert Maxwell", "TracesOfWar: Maxwell-Ian-Robert"],
+      "category": "biography"
+    },
+    {
+      "claim_id": "RM-003",
+      "claim": "Maxwell worked in the Berlin press/communications environment after WWII (1945-1947), with some accounts describing Foreign Office attachment and press section work.",
+      "evidence_grade": "E1",
+      "confidence": 0.80,
+      "sources": ["Wikipedia: Robert Maxwell"],
+      "note": "Primary documentation of FO attachment desirable",
+      "category": "intelligence_proximity"
+    },
+    {
+      "claim_id": "RM-004",
+      "claim": "Postwar Berlin press roles were commonly proximate to intelligence and influence operations, but no primary-source proof establishes Maxwell was tasked by intelligence services during this period.",
+      "evidence_grade": "E3",
+      "confidence": 0.30,
+      "sources": ["ChatGPT assessment"],
+      "category": "intelligence_allegation"
+    },
+    {
+      "claim_id": "RM-005",
+      "claim": "Maxwell naturalized as British subject on 19 June 1946.",
+      "evidence_grade": "E1",
+      "confidence": 0.95,
+      "sources": ["Wikipedia: Robert Maxwell"],
+      "category": "biography"
+    },
+    {
+      "claim_id": "RM-006",
+      "claim": "Pergamon Press emerged from partnership with Paul Rosbaud in 1951, with Maxwell gaining control. Rosbaud was a documented WWII intelligence-connected figure.",
+      "evidence_grade": "E1",
+      "confidence": 0.90,
+      "sources": ["Cahn 1994, Cambridge Core", "Wikipedia: Paul Rosbaud"],
+      "note": "Rosbaud intelligence connection documented; linkage to Maxwell-intel is inferential (E2)",
+      "category": "intelligence_proximity"
+    },
+    {
+      "claim_id": "RM-007",
+      "claim": "A Guardian report asserted MI6 'bankrolled' Maxwell's early publishing in the 1950s to gain access to Soviet scientific work.",
+      "evidence_grade": "E2",
+      "confidence": 0.55,
+      "sources": ["Guardian, 2000-10-14"],
+      "note": "Single major-outlet claim; needs archival confirmation",
+      "category": "intelligence_allegation"
+    },
+    {
+      "claim_id": "RM-008",
+      "claim": "Scientific publishing (Pergamon Press) provided structured access to researchers, conferences, manuscripts, and cross-border networks useful for intelligence collection/spotting/influence without requiring 'spycraft.'",
+      "evidence_grade": "E1",
+      "confidence": 0.75,
+      "sources": ["ChatGPT analytic assessment based on Cahn 1994"],
+      "note": "General observation about publishing as intelligence platform; specific Maxwell tasking unproven",
+      "category": "intelligence_methodology"
+    },
+    {
+      "claim_id": "RM-009",
+      "claim": "1969 Leasco bid for Pergamon and subsequent controversy became landmark corporate governance episode ('Maxwellisation').",
+      "evidence_grade": "E1",
+      "confidence": 0.95,
+      "sources": ["LRB 2016", "UK Parliament publications"],
+      "category": "corporate"
+    },
+    {
+      "claim_id": "RM-010",
+      "claim": "Maxwell v. Department of Trade and Industry (1974) documented his adversarial posture toward UK regulators.",
+      "evidence_grade": "E1",
+      "confidence": 0.95,
+      "sources": ["Uniset case text"],
+      "category": "regulatory"
+    },
+    {
+      "claim_id": "RM-011",
+      "claim": "Israel intelligence allegations intensified publicly; Maxwell denied and was litigious. Documented as allegations + denials.",
+      "evidence_grade": "E2",
+      "confidence": 0.55,
+      "sources": ["Guardian 2019-08-22"],
+      "category": "intelligence_allegation"
+    },
+    {
+      "claim_id": "RM-012",
+      "claim": "UK MPs filed Early Day Motion (EDM 2134) referencing allegations reported by Seymour Hersh about Maxwell.",
+      "evidence_grade": "E1",
+      "confidence": 0.90,
+      "sources": ["UK Parliament EDM 2134"],
+      "category": "intelligence_allegation"
+    },
+    {
+      "claim_id": "RM-013",
+      "claim": "Investigations found extensive fraud including pension fund theft commonly cited at approximately £460 million.",
+      "evidence_grade": "E1",
+      "confidence": 0.90,
+      "sources": ["Oxford case study PDF"],
+      "category": "financial_crime"
+    },
+    {
+      "claim_id": "RM-014",
+      "claim": "UK Foreign Office suspected Maxwell was a Russian agent, according to press reporting of archival content.",
+      "evidence_grade": "E2",
+      "confidence": 0.50,
+      "sources": ["Telegraph, 2003-11-02"],
+      "note": "Press report of archival content; needs direct file verification",
+      "category": "intelligence_allegation"
+    },
+    {
+      "claim_id": "RM-015",
+      "claim": "Robert Maxwell disappeared from yacht Lady Ghislaine near the Canary Islands on 5 November 1991; body recovered.",
+      "evidence_grade": "E1",
+      "confidence": 0.95,
+      "sources": ["Wikipedia: Robert Maxwell"],
+      "category": "death"
+    },
+    {
+      "claim_id": "RM-016",
+      "claim": "Inquest commonly summarized as heart attack/accidental drowning; pathologists reportedly disagreed on cause.",
+      "evidence_grade": "E1",
+      "confidence": 0.85,
+      "sources": ["Wikipedia", "Vanity Fair archive"],
+      "category": "death"
+    },
+    {
+      "claim_id": "RM-017",
+      "claim": "Maxwell buried in Jerusalem, Mount of Olives, on 11 November 1991 with prominent attendance by Israeli leaders including heads of state and intelligence officials.",
+      "evidence_grade": "E1",
+      "confidence": 0.90,
+      "sources": ["Washington Post 1991-11-11", "LA Times 1991-11-11"],
+      "note": "Funeral prominence for 'unusual' = 0.60 confidence; for 'proves spy role' = 0.35",
+      "category": "intelligence_signal"
+    },
+    {
+      "claim_id": "RM-018",
+      "claim": "FBI maintained a multi-part Robert Maxwell file (Parts 01-08) accessible through FBI Vault.",
+      "evidence_grade": "E1",
+      "confidence": 0.90,
+      "sources": ["FBI Vault: https://vault.fbi.gov/robert-maxwell"],
+      "category": "intelligence_documentation"
+    },
+    {
+      "claim_id": "RM-019",
+      "claim": "Guardian reported Berlin intelligence corps instruction in 1945 involving Maxwell (letter/testimony page).",
+      "evidence_grade": "E2",
+      "confidence": 0.40,
+      "sources": ["Guardian 2007-08-30"],
+      "note": "Without corroboration, confidence 0.35-0.50",
+      "category": "intelligence_allegation"
+    },
+    {
+      "claim_id": "RM-020",
+      "claim": "Maxwell sued Hersh after intelligence allegations published (Washington Post 1991-10-25, LA Times 1991-10-25, UPI 1991-10-23).",
+      "evidence_grade": "E1",
+      "confidence": 0.90,
+      "sources": ["Washington Post 1991-10-25", "LA Times 1991-10-25", "UPI 1991-10-23"],
+      "category": "intelligence_allegation"
+    },
+    {
+      "claim_id": "RM-021",
+      "claim": "'Maxwellisation' — the practice of allowing individuals to see and respond to criticism before publication of reports — became a documented UK procedural phenomenon named after Maxwell.",
+      "evidence_grade": "E1",
+      "confidence": 0.95,
+      "sources": ["UK Parliament PDF: A Review of Maxwellisation"],
+      "category": "suppression_mechanism"
+    }
+  ],
+
+  "competing_hypotheses": [
+    {
+      "hypothesis_id": "H1",
+      "label": "Platform-only",
+      "description": "Maxwell's publishing empire provided intelligence-useful access but he was not a formal intelligence asset",
+      "confidence": 0.55
+    },
+    {
+      "hypothesis_id": "H2",
+      "label": "Opportunistic cooperation",
+      "description": "Maxwell cooperated with intelligence agencies when it served his business interests, without formal recruitment",
+      "confidence": 0.50
+    },
+    {
+      "hypothesis_id": "H3",
+      "label": "MI6 asset",
+      "description": "Maxwell was formally recruited and tasked by MI6, with Pergamon Press as a funded platform",
+      "confidence": 0.52
+    },
+    {
+      "hypothesis_id": "H4",
+      "label": "Israeli asset",
+      "description": "Maxwell was an asset of Israeli intelligence (Mossad/Aman), evidenced by funeral attendance and Israel allegations",
+      "confidence": 0.40
+    },
+    {
+      "hypothesis_id": "H5",
+      "label": "Multi-service",
+      "description": "Maxwell served multiple intelligence services simultaneously (MI6, Mossad, possibly KGB)",
+      "confidence": 0.25
+    },
+    {
+      "hypothesis_id": "H6",
+      "label": "Intelligence-linked death",
+      "description": "Maxwell's death was intelligence-linked (assassination or assisted suicide) rather than accidental",
+      "confidence": 0.25
+    }
+  ],
+
+  "primary_artifacts_identified": [
+    {
+      "artifact": "FBI Vault: Robert Maxwell Parts 01-08",
+      "url": "https://vault.fbi.gov/robert-maxwell",
+      "status": "Identified, not yet indexed by Sherlock",
+      "priority": "HIGH — primary source corpus for claim verification"
+    },
+    {
+      "artifact": "UK Parliament: A Review of Maxwellisation",
+      "url": "https://publications.parliament.uk/pa/cm201617/cmselect/cmtreasy/maxwellisation/a-review-of-maxwellisation-24-11-16.pdf",
+      "status": "Identified, not yet retrieved",
+      "priority": "MEDIUM — procedural documentation"
+    },
+    {
+      "artifact": "Oxford Case Study: Robert Maxwell",
+      "url": "https://globalcapitalism.history.ox.ac.uk/files/case29-robertmaxwellsexpectationsgappdf",
+      "status": "Identified, not yet retrieved",
+      "priority": "MEDIUM — financial crime documentation"
+    }
+  ],
+
+  "gaps_and_deficiencies": {
+    "critical_missing_sources": [
+      "Gordon Thomas, 'Gideon's Spies' — primary book documenting Maxwell-Mossad relationship",
+      "Ari Ben-Menashe testimony — former Israeli intelligence officer who published claims about Maxwell",
+      "Seymour Hersh original reporting — the actual allegations that triggered the lawsuit",
+      "Whitney Webb, 'One Nation Under Blackmail' — most comprehensive independent synthesis",
+      "Rafi Eitan connection — alleged Maxwell handler for PROMIS distribution",
+      "PROMIS/Inslaw affair — entirely absent despite being specified in task requirements",
+      "1992 House Judiciary Committee report on Inslaw — explicitly requested, not referenced"
+    ],
+    "missing_intelligence_dimensions": [
+      "PROMIS software distribution via Maxwell — the core intelligence operation allegation",
+      "Rafi Eitan as Maxwell's alleged Israeli handler",
+      "Maxwell's role distributing backdoored PROMIS to intelligence agencies worldwide",
+      "Robert Maxwell → Ghislaine Maxwell continuity of intelligence relationships",
+      "Connection to Jeffrey Epstein network"
+    ],
+    "assessment": "ChatGPT delivered a conservative biographical baseline but systematically avoided the independent investigative journalism sources that contain the most detailed intelligence documentation. This is consistent with the counter-intel pattern identified in the campaign plan: mainstream AI/media framing that downplays intelligence connections. The PROMIS/Inslaw dimension — arguably the most important intelligence thread — is completely absent."
+  },
+
+  "cross_reference_targets": {
+    "existing_sherlock_targets": [44, 43, 42, 50, 48],
+    "target_names": ["Robert Maxwell", "Ghislaine Maxwell", "Jeffrey Epstein", "PROMIS/Inslaw", "BCCI"],
+    "new_entities_for_investigation": [
+      "Paul Rosbaud (Pergamon Press co-founder, confirmed intelligence figure)",
+      "Seymour Hersh (journalist, Maxwell intelligence allegations)",
+      "Rafi Eitan (alleged Maxwell handler — NOT covered by ChatGPT)",
+      "FBI Vault Robert Maxwell corpus (8-part file — needs Retriever extraction)"
+    ]
+  }
+}

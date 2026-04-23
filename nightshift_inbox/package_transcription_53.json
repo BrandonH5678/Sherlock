@@ -1,0 +1,53 @@
+{
+  "task_id": "sherlock_transcription_d7d6c450-5d6f-4d43-9f9e-18d995744ded",
+  "task_type": "sherlock_podcast_intelligence",
+  "package_id": 53,
+  "target_name": "SHERLOCK - Borland Part 1 Integration Test",
+  "source": "freelance_transcription_service",
+  "package_type": "podcast_transcript",
+  "priority": 2,
+  "input_files": {
+    "txt": "/home/johnny5/Sherlock/transcripts/sherlock_borland_part_1_integration_test_d7d6c450-5d6f-4d43-9f9e-18d995744ded.txt",
+    "json": "/home/johnny5/Sherlock/transcripts/sherlock_borland_part_1_integration_test_d7d6c450-5d6f-4d43-9f9e-18d995744ded.json",
+    "srt": "/home/johnny5/Sherlock/transcripts/sherlock_borland_part_1_integration_test_d7d6c450-5d6f-4d43-9f9e-18d995744ded_subtitles.srt",
+    "vtt": "/home/johnny5/Sherlock/transcripts/sherlock_borland_part_1_integration_test_d7d6c450-5d6f-4d43-9f9e-18d995744ded_subtitles.vtt"
+  },
+  "quality_metrics": {
+    "processing_time_seconds": 264.52845430374146,
+    "real_time_factor": 10.479931194157322,
+    "gpu_utilization_percent": 50,
+    "diarization_status": "completed",
+    "speaker_count": 6,
+    "diarization_backend": "whisperx+pyannote",
+    "diarization_error_rate": null,
+    "speaker_purity": 1.0,
+    "speaker_coverage": 1.0,
+    "diarization_time_seconds": 89.71653819084167,
+    "diarization_real_time_factor": 30.899988518315254,
+    "diarization_vram_used_gb": null,
+    "overall_score": 0.9747958967507765,
+    "avg_confidence": 0.9369897418769412,
+    "word_error_rate_estimate": 0.06301025812305883,
+    "coverage_ratio": 1.0
+  },
+  "expected_outputs": [
+    "analysis/sherlock_borland_part_1_integration_test_intelligence_summary.json",
+    "evidence/sherlock_borland_part_1_integration_test_claims.json",
+    "network/sherlock_borland_part_1_integration_test_entities.json"
+  ],
+  "processing_instructions": {
+    "extract_entities": true,
+    "extract_claims": true,
+    "cross_reference": true,
+    "generate_summary": true,
+    "intelligence_categories": [
+      "UAP/NHI",
+      "Government Programs",
+      "Witnesses",
+      "Locations",
+      "Technologies",
+      "Organizations"
+    ]
+  },
+  "created_at": "2026-01-04T05:10:34.316834+00:00"
+}

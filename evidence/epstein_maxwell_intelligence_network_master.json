@@ -1,0 +1,2610 @@
+{
+  "metadata": {
+    "campaign": "PKG-EP",
+    "title": "Sherlock Epstein-Maxwell Intelligence Network - Master Visualization",
+    "generated": "2026-02-22",
+    "generator": "Sherlock Evidence Analysis System",
+    "total_nodes": 91,
+    "total_edges": 98,
+    "total_claims": 532,
+    "total_sources": 26,
+    "node_breakdown": {
+      "database_targets": 54,
+      "external_entities": 37
+    },
+    "edge_breakdown": {
+      "epstein_campaign_xrefs": 58,
+      "uap_disclosure_xrefs": 40
+    },
+    "evidence_grade_distribution": {
+      "E1_primary_documented": 38,
+      "E2_credible_secondary": 17,
+      "E3_speculative_alleged": 43
+    },
+    "cluster_sizes": {
+      "other": 9,
+      "uap": 17,
+      "cold_war": 9,
+      "intelligence": 21,
+      "financial": 12,
+      "science": 10,
+      "epstein_core": 8,
+      "media": 5
+    },
+    "evidence_grade_key": {
+      "E1": "Primary source documentation or court records (confidence >= 0.85)",
+      "E2": "Credible secondary reporting with multiple corroborations (confidence 0.50-0.84)",
+      "E3": "Speculative, alleged, or single-source claims (confidence < 0.50)"
+    }
+  },
+  "nodes": [
+    {
+      "id": "target_1",
+      "label": "A People's History of the United States \u2014 Howard Zinn",
+      "type": "book",
+      "priority": 3,
+      "status": "new",
+      "group": "other",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 1,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-09T02:31:39.149452"
+      }
+    },
+    {
+      "id": "target_2",
+      "label": "American Alchemy Interviews with Danny Sheehan",
+      "type": "interview_series",
+      "priority": 3,
+      "status": "new",
+      "group": "other",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 2,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-09T10:35:16.227085"
+      }
+    },
+    {
+      "id": "target_3",
+      "label": "American Alchemy with Harald Malmgren",
+      "type": "interview_series",
+      "priority": 3,
+      "status": "new",
+      "group": "other",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 3,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T22:16:00.687017"
+      }
+    },
+    {
+      "id": "target_4",
+      "label": "Danny Sheehan Bibliography",
+      "type": "book_collection",
+      "priority": 3,
+      "status": "new",
+      "group": "other",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 4,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-09T10:35:16.227085"
+      }
+    },
+    {
+      "id": "target_5",
+      "label": "Imminent \u2014 Luis Elizondo",
+      "type": "book",
+      "priority": 3,
+      "status": "new",
+      "group": "uap",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 5,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T22:16:04.200965"
+      }
+    },
+    {
+      "id": "target_6",
+      "label": "Weaponized Podcast",
+      "type": "podcast_series",
+      "priority": 3,
+      "status": "new",
+      "group": "uap",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 6,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-09T10:35:16.227085"
+      }
+    },
+    {
+      "id": "target_7",
+      "label": "The Day After Roswell \u2014 Colonel Philip J. Corso",
+      "type": "book",
+      "priority": 3,
+      "status": "new",
+      "group": "uap",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 7,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T22:16:07.387753"
+      }
+    },
+    {
+      "id": "target_8",
+      "label": "US Army INSCOM",
+      "type": "org",
+      "priority": 4,
+      "status": "new",
+      "group": "uap",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 8,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T22:15:30.509261"
+      }
+    },
+    {
+      "id": "target_9",
+      "label": "US Naval Intelligence",
+      "type": "org",
+      "priority": 3,
+      "status": "new",
+      "group": "uap",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 9,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T22:16:10.403247"
+      }
+    },
+    {
+      "id": "target_10",
+      "label": "Soviet Psychic Program",
+      "type": "program",
+      "priority": 3,
+      "status": "new",
+      "group": "cold_war",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 10,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T22:16:13.959487"
+      }
+    },
+    {
+      "id": "target_11",
+      "label": "US Radar Lab (Naval Intelligence, 1930s)",
+      "type": "org_unit",
+      "priority": 4,
+      "status": "new",
+      "group": "uap",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 11,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-09T04:57:31.081748"
+      }
+    },
+    {
+      "id": "target_12",
+      "label": "S-Force",
+      "type": "program",
+      "priority": 1,
+      "status": "new",
+      "group": "uap",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 12,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T11:17:25.929035"
+      }
+    },
+    {
+      "id": "target_13",
+      "label": "MK-Ultra and MK Programs",
+      "type": "program_cluster",
+      "priority": 4,
+      "status": "under_research",
+      "group": "intelligence",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 13,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T22:15:37.898133"
+      }
+    },
+    {
+      "id": "target_14",
+      "label": "Brown Brothers Harriman",
+      "type": "org",
+      "priority": 1,
+      "status": "new",
+      "group": "financial",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 14,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T11:29:34.211273"
+      }
+    },
+    {
+      "id": "target_15",
+      "label": "Sullivan & Cromwell",
+      "type": "org",
+      "priority": 4,
+      "status": "under_research",
+      "group": "financial",
+      "claim_count": 2,
+      "metadata": {
+        "target_id": 15,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-09T01:27:49.999776"
+      }
+    },
+    {
+      "id": "target_16",
+      "label": "TSMC",
+      "type": "org",
+      "priority": 5,
+      "status": "under_research",
+      "group": "financial",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 16,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-09T05:13:21.170418"
+      }
+    },
+    {
+      "id": "target_17",
+      "label": "Allen Dulles",
+      "type": "person",
+      "priority": 3,
+      "status": "new",
+      "group": "intelligence",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 17,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T22:16:20.709365",
+        "role": "CIA Director 1953\u201361"
+      }
+    },
+    {
+      "id": "target_18",
+      "label": "Thomas Townsend Brown",
+      "type": "person",
+      "priority": 1,
+      "status": "new",
+      "group": "uap",
+      "claim_count": 2,
+      "metadata": {
+        "target_id": 18,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T11:29:41.653593"
+      }
+    },
+    {
+      "id": "target_19",
+      "label": "John Trump",
+      "type": "person",
+      "priority": 3,
+      "status": "new",
+      "group": "other",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 19,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T22:16:24.196006"
+      }
+    },
+    {
+      "id": "target_20",
+      "label": "James Jesus Angleton",
+      "type": "person",
+      "priority": 3,
+      "status": "new",
+      "group": "intelligence",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 20,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T22:16:27.781645",
+        "role": "CIA counterintelligence"
+      }
+    },
+    {
+      "id": "target_21",
+      "label": "Curtis LeMay",
+      "type": "person",
+      "priority": 3,
+      "status": "new",
+      "group": "cold_war",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 21,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T22:16:30.765621",
+        "role": "USAF general"
+      }
+    },
+    {
+      "id": "target_22",
+      "label": "Harald Malmgren",
+      "type": "person",
+      "priority": 4,
+      "status": "new",
+      "group": "cold_war",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 22,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T22:15:41.132754"
+      }
+    },
+    {
+      "id": "target_23",
+      "label": "Luis Elizondo",
+      "type": "person",
+      "priority": 3,
+      "status": "new",
+      "group": "uap",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 23,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T22:16:34.349773",
+        "role": "Former AATIP head"
+      }
+    },
+    {
+      "id": "target_24",
+      "label": "Dr. James Lacatski",
+      "type": "person",
+      "priority": 4,
+      "status": "new",
+      "group": "uap",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 24,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T22:15:43.888447"
+      }
+    },
+    {
+      "id": "target_25",
+      "label": "Bigelow Aerospace",
+      "type": "org",
+      "priority": 3,
+      "status": "new",
+      "group": "science",
+      "claim_count": 2,
+      "metadata": {
+        "target_id": 25,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T22:16:36.981841"
+      }
+    },
+    {
+      "id": "target_26",
+      "label": "Joseph McMoneagle",
+      "type": "person",
+      "priority": 4,
+      "status": "new",
+      "group": "uap",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 26,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T22:15:46.660295",
+        "role": "Remote viewer, US Army"
+      }
+    },
+    {
+      "id": "target_27",
+      "label": "Ingo Swann",
+      "type": "person",
+      "priority": 3,
+      "status": "new",
+      "group": "uap",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 27,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T22:16:39.789711",
+        "role": "Remote viewing pioneer"
+      }
+    },
+    {
+      "id": "target_28",
+      "label": "Pat Price",
+      "type": "person",
+      "priority": 1,
+      "status": "new",
+      "group": "uap",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 28,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T11:17:36.491478",
+        "role": "Remote viewer"
+      }
+    },
+    {
+      "id": "target_29",
+      "label": "Agnew Bahnson",
+      "type": "person",
+      "priority": 1,
+      "status": "new",
+      "group": "uap",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 29,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T11:17:41.563361"
+      }
+    },
+    {
+      "id": "target_30",
+      "label": "Wernher von Braun",
+      "type": "person",
+      "priority": 4,
+      "status": "new",
+      "group": "cold_war",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 30,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T22:17:08.593989",
+        "role": "Rocket engineer, NASA"
+      }
+    },
+    {
+      "id": "target_31",
+      "label": "George H. W. Bush",
+      "type": "person",
+      "priority": 3,
+      "status": "new",
+      "group": "cold_war",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 31,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T22:16:43.162980"
+      }
+    },
+    {
+      "id": "target_32",
+      "label": "Henry Kissinger",
+      "type": "person",
+      "priority": 5,
+      "status": "new",
+      "group": "cold_war",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 32,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T22:16:47.277152",
+        "role": "Policy, secrecy networks"
+      }
+    },
+    {
+      "id": "target_33",
+      "label": "George Joannides",
+      "type": "person",
+      "priority": 3,
+      "status": "new",
+      "group": "intelligence",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 33,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T22:16:50.421485",
+        "role": "CIA officer (JFK files)"
+      }
+    },
+    {
+      "id": "target_34",
+      "label": "George Tenet",
+      "type": "person",
+      "priority": 3,
+      "status": "new",
+      "group": "intelligence",
+      "claim_count": 2,
+      "metadata": {
+        "target_id": 34,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T22:15:16.236734",
+        "role": "CIA Director"
+      }
+    },
+    {
+      "id": "target_35",
+      "label": "Osama bin Laden",
+      "type": "person",
+      "priority": 2,
+      "status": "new",
+      "group": "cold_war",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 35,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-09T11:39:51.596598",
+        "role": "AQ leader"
+      }
+    },
+    {
+      "id": "target_36",
+      "label": "Hal Puthoff",
+      "type": "person",
+      "priority": 3,
+      "status": "new",
+      "group": "science",
+      "claim_count": 3,
+      "metadata": {
+        "target_id": 36,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T22:16:53.226868",
+        "role": "Physicist, remote viewing"
+      }
+    },
+    {
+      "id": "target_37",
+      "label": "Richard Bissell",
+      "type": "person",
+      "priority": 3,
+      "status": "new",
+      "group": "intelligence",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 37,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T22:16:56.330798",
+        "role": "CIA planning"
+      }
+    },
+    {
+      "id": "target_38",
+      "label": "Vladimir Lenin",
+      "type": "person",
+      "priority": 5,
+      "status": "new",
+      "group": "cold_war",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 38,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-08T22:16:59.991037",
+        "role": "Soviet state founder"
+      }
+    },
+    {
+      "id": "target_39",
+      "label": "Albert Stubblebine",
+      "type": "person",
+      "priority": 2,
+      "status": "new",
+      "group": "uap",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 39,
+        "created_at": "2025-12-06 23:32:58",
+        "updated_at": "2025-12-09T06:01:20.763631",
+        "role": "US Army Intel/psychic"
+      }
+    },
+    {
+      "id": "target_40",
+      "label": "Shared Context Podcast",
+      "type": "podcast_series",
+      "priority": 3,
+      "status": "active",
+      "group": "other",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 40,
+        "created_at": "2025-12-08 20:31:25",
+        "updated_at": "2025-12-08T22:17:04.287284"
+      }
+    },
+    {
+      "id": "target_41",
+      "label": "Age of Disclosure",
+      "type": "video",
+      "priority": 1,
+      "status": "new",
+      "group": "uap",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 41,
+        "created_at": "2025-12-09T14:37:28.490188",
+        "updated_at": "2025-12-09T15:28:17.067061"
+      }
+    },
+    {
+      "id": "target_42",
+      "label": "Jeffrey Epstein",
+      "type": "person",
+      "priority": 1,
+      "status": "active",
+      "group": "epstein_core",
+      "claim_count": 82,
+      "metadata": {
+        "target_id": 42,
+        "created_at": "2026-02-22T23:58:11.901591+00:00",
+        "updated_at": "2026-02-22T23:58:11.901591+00:00",
+        "role": "Central subject \u2014 intelligence network hub, convicted sex trafficker",
+        "campaign": "PKG-EP",
+        "connections": [
+          "Ghislaine Maxwell",
+          "Robert Maxwell",
+          "Les Wexner",
+          "Ehud Barak",
+          "Prince Andrew"
+        ]
+      }
+    },
+    {
+      "id": "target_43",
+      "label": "Ghislaine Maxwell",
+      "type": "person",
+      "priority": 1,
+      "status": "active",
+      "group": "epstein_core",
+      "claim_count": 12,
+      "metadata": {
+        "target_id": 43,
+        "created_at": "2026-02-22T23:58:11.901591+00:00",
+        "updated_at": "2026-02-22T23:58:11.901591+00:00",
+        "role": "Co-principal, intelligence bridge from Robert Maxwell to Epstein network",
+        "campaign": "PKG-EP",
+        "connections": [
+          "Jeffrey Epstein",
+          "Robert Maxwell",
+          "Prince Andrew",
+          "TerraMar Project"
+        ]
+      }
+    },
+    {
+      "id": "target_44",
+      "label": "Robert Maxwell",
+      "type": "person",
+      "priority": 1,
+      "status": "active",
+      "group": "epstein_core",
+      "claim_count": 32,
+      "metadata": {
+        "target_id": 44,
+        "created_at": "2026-02-22T23:58:11.901591+00:00",
+        "updated_at": "2026-02-22T23:58:11.901591+00:00",
+        "role": "Intelligence network origin \u2014 MI6, Mossad documented connections",
+        "campaign": "PKG-EP",
+        "intelligence_connections": [
+          "MI6 (documented)",
+          "Mossad (documented by multiple biographers)",
+          "KGB (alleged)"
+        ]
+      }
+    },
+    {
+      "id": "target_45",
+      "label": "Howard Lutnick",
+      "type": "person",
+      "priority": 1,
+      "status": "active",
+      "group": "financial",
+      "claim_count": 23,
+      "metadata": {
+        "target_id": 45,
+        "created_at": "2026-02-22T23:58:11.901591+00:00",
+        "updated_at": "2026-02-22T23:58:11.901591+00:00",
+        "role": "Chairman/CEO Cantor Fitzgerald, absent from WTC on 9/11, Commerce Secretary nominee",
+        "campaign": "PKG-EP"
+      }
+    },
+    {
+      "id": "target_46",
+      "label": "Cantor Fitzgerald",
+      "type": "org",
+      "priority": 1,
+      "status": "active",
+      "group": "financial",
+      "claim_count": 25,
+      "metadata": {
+        "target_id": 46,
+        "created_at": "2026-02-22T23:58:11.901591+00:00",
+        "updated_at": "2026-02-22T23:58:11.901591+00:00",
+        "campaign": "PKG-EP"
+      }
+    },
+    {
+      "id": "target_47",
+      "label": "Les Wexner",
+      "type": "person",
+      "priority": 2,
+      "status": "active",
+      "group": "epstein_core",
+      "claim_count": 1,
+      "metadata": {
+        "target_id": 47,
+        "created_at": "2026-02-22T23:58:11.901591+00:00",
+        "updated_at": "2026-02-22T23:58:11.901591+00:00",
+        "role": "L Brands/Limited Brands founder, Epstein's primary financial patron",
+        "campaign": "PKG-EP"
+      }
+    },
+    {
+      "id": "target_48",
+      "label": "BCCI (Bank of Credit and Commerce International)",
+      "type": "org",
+      "priority": 2,
+      "status": "active",
+      "group": "intelligence",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 48,
+        "created_at": "2026-02-22T23:58:11.901591+00:00",
+        "updated_at": "2026-02-22T23:58:11.901591+00:00",
+        "campaign": "PKG-EP"
+      }
+    },
+    {
+      "id": "target_49",
+      "label": "Mega Group",
+      "type": "org",
+      "priority": 2,
+      "status": "active",
+      "group": "intelligence",
+      "claim_count": 5,
+      "metadata": {
+        "target_id": 49,
+        "created_at": "2026-02-22T23:58:11.901591+00:00",
+        "updated_at": "2026-02-22T23:58:11.901591+00:00",
+        "campaign": "PKG-EP"
+      }
+    },
+    {
+      "id": "target_50",
+      "label": "PROMIS/Inslaw",
+      "type": "program",
+      "priority": 2,
+      "status": "active",
+      "group": "intelligence",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 50,
+        "created_at": "2026-02-22T23:58:11.901591+00:00",
+        "updated_at": "2026-02-22T23:58:11.901591+00:00",
+        "campaign": "PKG-EP"
+      }
+    },
+    {
+      "id": "target_51",
+      "label": "Ehud Barak",
+      "type": "person",
+      "priority": 3,
+      "status": "active",
+      "group": "epstein_core",
+      "claim_count": 4,
+      "metadata": {
+        "target_id": 51,
+        "created_at": "2026-02-22T23:58:11.901591+00:00",
+        "updated_at": "2026-02-22T23:58:11.901591+00:00",
+        "role": "Former Israeli Prime Minister, documented Epstein associate",
+        "campaign": "PKG-EP"
+      }
+    },
+    {
+      "id": "target_52",
+      "label": "Epstein Gravity Symposium",
+      "type": "event",
+      "priority": 3,
+      "status": "active",
+      "group": "science",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 52,
+        "created_at": "2026-02-22T23:58:11.901591+00:00",
+        "updated_at": "2026-02-22T23:58:11.901591+00:00",
+        "campaign": "PKG-EP"
+      }
+    },
+    {
+      "id": "target_53",
+      "label": "TerraMar Project",
+      "type": "org",
+      "priority": 3,
+      "status": "active",
+      "group": "epstein_core",
+      "claim_count": 3,
+      "metadata": {
+        "target_id": 53,
+        "created_at": "2026-02-22T23:58:11.901591+00:00",
+        "updated_at": "2026-02-22T23:58:11.901591+00:00",
+        "campaign": "PKG-EP"
+      }
+    },
+    {
+      "id": "target_54",
+      "label": "9/11 Financial Foreknowledge",
+      "type": "event",
+      "priority": 2,
+      "status": "active",
+      "group": "financial",
+      "claim_count": 0,
+      "metadata": {
+        "target_id": 54,
+        "created_at": "2026-02-22T23:58:11.901591+00:00",
+        "updated_at": "2026-02-22T23:58:11.901591+00:00",
+        "campaign": "PKG-EP"
+      }
+    },
+    {
+      "id": "ext_william_barr",
+      "label": "William Barr",
+      "type": "person",
+      "priority": null,
+      "status": "external_entity",
+      "group": "intelligence",
+      "claim_count": 2,
+      "metadata": {
+        "role": "AG under Bush Sr. and Trump, linked to both BCCI cover-up and Epstein custodial death"
+      }
+    },
+    {
+      "id": "ext_adnan_khashoggi",
+      "label": "Adnan Khashoggi",
+      "type": "person",
+      "priority": null,
+      "status": "external_entity",
+      "group": "intelligence",
+      "claim_count": 2,
+      "metadata": {
+        "role": "Saudi arms dealer, Iran-Contra figure, Epstein network overlap"
+      }
+    },
+    {
+      "id": "ext_jes_staley",
+      "label": "Jes Staley",
+      "type": "person",
+      "priority": null,
+      "status": "external_entity",
+      "group": "financial",
+      "claim_count": 2,
+      "metadata": {
+        "role": "Former JPMorgan executive, documented Epstein social connection, later Barclays CEO"
+      }
+    },
+    {
+      "id": "ext_danny_sheehan",
+      "label": "Danny Sheehan",
+      "type": "person",
+      "priority": null,
+      "status": "external_entity",
+      "group": "other",
+      "claim_count": 0,
+      "metadata": {
+        "role": "Constitutional lawyer, Iran-Contra whistleblower, UAP disclosure advocate"
+      }
+    },
+    {
+      "id": "ext_whitney_webb",
+      "label": "Whitney Webb",
+      "type": "person",
+      "priority": null,
+      "status": "external_entity",
+      "group": "other",
+      "claim_count": 4,
+      "metadata": {
+        "role": "Investigative journalist, One Nation Under Blackmail, primary Epstein-intelligence researcher"
+      }
+    },
+    {
+      "id": "ext_lisa_randall",
+      "label": "Lisa Randall",
+      "type": "person",
+      "priority": null,
+      "status": "external_entity",
+      "group": "science",
+      "claim_count": 3,
+      "metadata": {
+        "role": "Harvard physicist, Epstein Gravity Symposium participant, AAWSAP DIRD No.13 author"
+      }
+    },
+    {
+      "id": "ext_lawrence_krauss",
+      "label": "Lawrence Krauss",
+      "type": "person",
+      "priority": null,
+      "status": "external_entity",
+      "group": "science",
+      "claim_count": 5,
+      "metadata": {
+        "role": "Theoretical physicist, Origins Project, Epstein science network participant"
+      }
+    },
+    {
+      "id": "ext_donald_barr",
+      "label": "Donald Barr",
+      "type": "person",
+      "priority": null,
+      "status": "external_entity",
+      "group": "intelligence",
+      "claim_count": 2,
+      "metadata": {
+        "role": "Dalton School headmaster, hired Epstein as teacher, OSS veteran, father of William Barr"
+      }
+    },
+    {
+      "id": "ext_douglas_leese",
+      "label": "Douglas Leese",
+      "type": "person",
+      "priority": null,
+      "status": "external_entity",
+      "group": "intelligence",
+      "claim_count": 1,
+      "metadata": {
+        "role": "British arms dealer, alleged intelligence-adjacent introduction of Epstein to elite circles"
+      }
+    },
+    {
+      "id": "ext_abc_news",
+      "label": "ABC News",
+      "type": "org",
+      "priority": null,
+      "status": "external_entity",
+      "group": "media",
+      "claim_count": 8,
+      "metadata": {
+        "role": "Killed Epstein story 4 years before arrest (Amy Robach hot mic)"
+      }
+    },
+    {
+      "id": "ext_vanity_fair",
+      "label": "Vanity Fair / Graydon Carter",
+      "type": "org",
+      "priority": null,
+      "status": "external_entity",
+      "group": "media",
+      "claim_count": 2,
+      "metadata": {
+        "role": "Editorial intervention after Epstein visit, story softened"
+      }
+    },
+    {
+      "id": "ext_nyt",
+      "label": "New York Times / Landon Thomas",
+      "type": "org",
+      "priority": null,
+      "status": "external_entity",
+      "group": "media",
+      "claim_count": 2,
+      "metadata": {
+        "role": "Journalist compromise - Landon Thomas maintained social relationship with Epstein while covering"
+      }
+    },
+    {
+      "id": "ext_operation_mockingbird",
+      "label": "Operation Mockingbird",
+      "type": "program",
+      "priority": null,
+      "status": "external_entity",
+      "group": "media",
+      "claim_count": 2,
+      "metadata": {
+        "role": "CIA media control program, structural parallel to Epstein media suppression patterns"
+      }
+    },
+    {
+      "id": "ext_cia",
+      "label": "CIA",
+      "type": "org",
+      "priority": null,
+      "status": "external_entity",
+      "group": "intelligence",
+      "claim_count": 82,
+      "metadata": {
+        "role": "Central Intelligence Agency - recurring entity across Epstein, UAP, and Cold War threads"
+      }
+    },
+    {
+      "id": "ext_mossad",
+      "label": "Mossad",
+      "type": "org",
+      "priority": null,
+      "status": "external_entity",
+      "group": "intelligence",
+      "claim_count": 6,
+      "metadata": {
+        "role": "Israeli intelligence service - alleged Epstein/Maxwell connection via Robert Maxwell"
+      }
+    },
+    {
+      "id": "ext_fbi",
+      "label": "FBI",
+      "type": "org",
+      "priority": null,
+      "status": "external_entity",
+      "group": "intelligence",
+      "claim_count": 14,
+      "metadata": {
+        "role": "Federal Bureau of Investigation - investigated Epstein, Maria Farmer complaint 1996"
+      }
+    },
+    {
+      "id": "ext_deutsche_bank",
+      "label": "Deutsche Bank",
+      "type": "org",
+      "priority": null,
+      "status": "external_entity",
+      "group": "financial",
+      "claim_count": 4,
+      "metadata": {
+        "role": "Institutional enabler - maintained Epstein accounts despite compliance warnings"
+      }
+    },
+    {
+      "id": "ext_jpmorgan",
+      "label": "JPMorgan Chase",
+      "type": "org",
+      "priority": null,
+      "status": "external_entity",
+      "group": "financial",
+      "claim_count": 2,
+      "metadata": {
+        "role": "Institutional enabler - maintained Epstein relationship, Jes Staley connection"
+      }
+    },
+    {
+      "id": "ext_leon_black",
+      "label": "Leon Black / Apollo",
+      "type": "person",
+      "priority": null,
+      "status": "external_entity",
+      "group": "financial",
+      "claim_count": 5,
+      "metadata": {
+        "role": "Apollo Global Management founder, $170M+ in payments to Epstein"
+      }
+    },
+    {
+      "id": "ext_harvard_ped",
+      "label": "Harvard PED",
+      "type": "org",
+      "priority": null,
+      "status": "external_entity",
+      "group": "science",
+      "claim_count": 2,
+      "metadata": {
+        "role": "Harvard Program for Evolutionary Dynamics - Epstein funded, embedded in institution"
+      }
+    },
+    {
+      "id": "ext_mit_media_lab",
+      "label": "MIT Media Lab",
+      "type": "org",
+      "priority": null,
+      "status": "external_entity",
+      "group": "science",
+      "claim_count": 2,
+      "metadata": {
+        "role": "Epstein anonymous funding conduit, Joi Ito resignation"
+      }
+    },
+    {
+      "id": "ext_edge_foundation",
+      "label": "Edge Foundation / John Brockman",
+      "type": "org",
+      "priority": null,
+      "status": "external_entity",
+      "group": "science",
+      "claim_count": 3,
+      "metadata": {
+        "role": "Science elite access architecture - Brockman literary agent facilitated Epstein-scientist connections"
+      }
+    },
+    {
+      "id": "ext_sec",
+      "label": "SEC",
+      "type": "org",
+      "priority": null,
+      "status": "external_entity",
+      "group": "financial",
+      "claim_count": 51,
+      "metadata": {
+        "role": "Securities and Exchange Commission - investigation files destroyed in WTC7 collapse"
+      }
+    },
+    {
+      "id": "ext_donald_trump",
+      "label": "Donald Trump",
+      "type": "person",
+      "priority": null,
+      "status": "external_entity",
+      "group": "cold_war",
+      "claim_count": 0,
+      "metadata": {
+        "role": "Political figure, Lutnick Commerce Secretary nomination, historical Epstein social overlap"
+      }
+    },
+    {
+      "id": "ext_doj",
+      "label": "DOJ",
+      "type": "org",
+      "priority": null,
+      "status": "external_entity",
+      "group": "intelligence",
+      "claim_count": 45,
+      "metadata": {
+        "role": "Department of Justice - surveilled Congressional staff searching Epstein files"
+      }
+    },
+    {
+      "id": "ext_iran_contra",
+      "label": "Iran-Contra Network",
+      "type": "event",
+      "priority": null,
+      "status": "external_entity",
+      "group": "intelligence",
+      "claim_count": 0,
+      "metadata": {
+        "role": "1980s covert arms/drugs network - institutional pattern parallel to Epstein network"
+      }
+    },
+    {
+      "id": "ext_transhumanist",
+      "label": "Transhumanist Network",
+      "type": "org",
+      "priority": null,
+      "status": "external_entity",
+      "group": "science",
+      "claim_count": 0,
+      "metadata": {
+        "role": "Epstein-funded eugenics/transhumanist ideology and research"
+      }
+    },
+    {
+      "id": "ext_nsa",
+      "label": "NSA",
+      "type": "org",
+      "priority": null,
+      "status": "external_entity",
+      "group": "intelligence",
+      "claim_count": 15,
+      "metadata": {
+        "role": "National Security Agency - Epstein recruited cryptographers for genomics project"
+      }
+    },
+    {
+      "id": "ext_maria_farmer",
+      "label": "Maria Farmer",
+      "type": "person",
+      "priority": null,
+      "status": "external_entity",
+      "group": "epstein_core",
+      "claim_count": 2,
+      "metadata": {
+        "role": "Early Epstein/Maxwell victim, FBI complaint 1996, law enforcement failure"
+      }
+    },
+    {
+      "id": "ext_facial_recognition_ai",
+      "label": "Facial Recognition AI",
+      "type": "program",
+      "priority": null,
+      "status": "external_entity",
+      "group": "science",
+      "claim_count": 0,
+      "metadata": {
+        "role": "Surveillance capability Epstein invested in developing"
+      }
+    },
+    {
+      "id": "ext_us_corporate_media",
+      "label": "US Corporate Media",
+      "type": "org",
+      "priority": null,
+      "status": "external_entity",
+      "group": "media",
+      "claim_count": 1,
+      "metadata": {
+        "role": "Systematic omission of Israel/Mossad intelligence links in Epstein coverage"
+      }
+    },
+    {
+      "id": "ext_congressional_oversight",
+      "label": "Congressional Oversight",
+      "type": "org",
+      "priority": null,
+      "status": "external_entity",
+      "group": "other",
+      "claim_count": 0,
+      "metadata": {
+        "role": "DOJ surveillance of Congressional staff searching Epstein files"
+      }
+    },
+    {
+      "id": "ext_dod",
+      "label": "DoD",
+      "type": "org",
+      "priority": null,
+      "status": "external_entity",
+      "group": "intelligence",
+      "claim_count": 7,
+      "metadata": {
+        "role": "Department of Defense - UAP programs, reverse engineering oversight"
+      }
+    },
+    {
+      "id": "ext_dia",
+      "label": "DIA",
+      "type": "org",
+      "priority": null,
+      "status": "external_entity",
+      "group": "intelligence",
+      "claim_count": 54,
+      "metadata": {
+        "role": "Defense Intelligence Agency - AAWSAP/AATIP program management"
+      }
+    },
+    {
+      "id": "ext_bear_stearns",
+      "label": "Bear Stearns",
+      "type": "org",
+      "priority": null,
+      "status": "external_entity",
+      "group": "financial",
+      "claim_count": 5,
+      "metadata": {
+        "role": "Epstein's early Wall Street career, trading floor"
+      }
+    },
+    {
+      "id": "ext_epstein_blackmail_op",
+      "label": "Epstein Blackmail Operation",
+      "type": "program",
+      "priority": null,
+      "status": "external_entity",
+      "group": "epstein_core",
+      "claim_count": 1,
+      "metadata": {
+        "role": "Alleged systematic blackmail/kompromat collection operation"
+      }
+    },
+    {
+      "id": "ext_aawsap",
+      "label": "AAWSAP/AATIP",
+      "type": "program",
+      "priority": null,
+      "status": "external_entity",
+      "group": "uap",
+      "claim_count": 0,
+      "metadata": {
+        "role": "Advanced Aerospace Weapon System Applications Program - DIA UAP research"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "xref_0000",
+      "source": "pentagon",
+      "target": "the pentagon",
+      "relationship": "co-occurrence",
+      "confidence": 1.0,
+      "evidence_grade": "E1",
+      "source_claims": "{\"weaponized_capitol_bombs\": 3, \"weaponized_lacatski_part1\": 9, \"weaponized_lacatski_part2\": 2}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0001",
+      "source": "cia",
+      "target": "uap",
+      "relationship": "co-occurrence",
+      "confidence": 0.5,
+      "evidence_grade": "E2",
+      "source_claims": "{\"weaponized_lacatski_part1\": 1, \"weaponized_borland_part1\": 2, \"weaponized_borland_part2\": 2}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0002",
+      "source": "cia",
+      "target": "craft",
+      "relationship": "co-occurrence",
+      "confidence": 0.4,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_capitol_bombs\": 2, \"weaponized_lacatski_part1\": 1, \"weaponized_borland_part1\": 1}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0003",
+      "source": "craft",
+      "target": "uap",
+      "relationship": "co-occurrence",
+      "confidence": 0.4,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_capitol_bombs\": 1, \"weaponized_lacatski_part1\": 1, \"weaponized_borland_part1\": 2}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0004",
+      "source": "dia",
+      "target": "uap",
+      "relationship": "co-occurrence",
+      "confidence": 0.4,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_borland_part1\": 2, \"weaponized_borland_part2\": 2}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0005",
+      "source": "house",
+      "target": "uap",
+      "relationship": "co-occurrence",
+      "confidence": 0.4,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_borland_part1\": 2, \"weaponized_borland_part2\": 2}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0006",
+      "source": "non-human origin",
+      "target": "uap",
+      "relationship": "co-occurrence",
+      "confidence": 0.3,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_capitol_bombs\": 1, \"weaponized_borland_part1\": 2}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0007",
+      "source": "craft",
+      "target": "non-human origin",
+      "relationship": "co-occurrence",
+      "confidence": 0.3,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_capitol_bombs\": 1, \"weaponized_borland_part1\": 2}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0008",
+      "source": "uap",
+      "target": "ufo",
+      "relationship": "co-occurrence",
+      "confidence": 0.3,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_capitol_bombs\": 1, \"weaponized_lacatski_part1\": 1, \"weaponized_borland_part2\": 1}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0009",
+      "source": "pentagon",
+      "target": "ufo",
+      "relationship": "co-occurrence",
+      "confidence": 0.3,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_lacatski_part1\": 3}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0010",
+      "source": "the pentagon",
+      "target": "ufo",
+      "relationship": "co-occurrence",
+      "confidence": 0.3,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_lacatski_part1\": 3}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0011",
+      "source": "cia",
+      "target": "engineering",
+      "relationship": "co-occurrence",
+      "confidence": 0.3,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_lacatski_part1\": 1, \"weaponized_borland_part1\": 2}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0012",
+      "source": "engineering",
+      "target": "uap",
+      "relationship": "co-occurrence",
+      "confidence": 0.3,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_lacatski_part1\": 1, \"weaponized_borland_part1\": 2}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0013",
+      "source": "dia",
+      "target": "house",
+      "relationship": "co-occurrence",
+      "confidence": 0.3,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_borland_part1\": 2, \"weaponized_borland_part2\": 1}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0014",
+      "source": "cia",
+      "target": "dia",
+      "relationship": "co-occurrence",
+      "confidence": 0.3,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_borland_part1\": 2, \"weaponized_borland_part2\": 1}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0015",
+      "source": "cia",
+      "target": "house",
+      "relationship": "co-occurrence",
+      "confidence": 0.3,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_borland_part1\": 2, \"weaponized_borland_part2\": 1}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0016",
+      "source": "craft",
+      "target": "senator schumer",
+      "relationship": "co-occurrence",
+      "confidence": 0.2,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_capitol_bombs\": 2}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0017",
+      "source": "cia",
+      "target": "senator schumer",
+      "relationship": "co-occurrence",
+      "confidence": 0.2,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_capitol_bombs\": 2}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0018",
+      "source": "uap",
+      "target": "uap review board",
+      "relationship": "co-occurrence",
+      "confidence": 0.2,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_capitol_bombs\": 2}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0019",
+      "source": "authorization act",
+      "target": "intelligence authorization act",
+      "relationship": "co-occurrence",
+      "confidence": 0.2,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_capitol_bombs\": 2}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0020",
+      "source": "authorization act",
+      "target": "national defense authorization act",
+      "relationship": "co-occurrence",
+      "confidence": 0.2,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_capitol_bombs\": 2}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0021",
+      "source": "intelligence authorization act",
+      "target": "national defense authorization act",
+      "relationship": "co-occurrence",
+      "confidence": 0.2,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_capitol_bombs\": 2}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0022",
+      "source": "ufo",
+      "target": "washington",
+      "relationship": "co-occurrence",
+      "confidence": 0.2,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_capitol_bombs\": 1, \"weaponized_lacatski_part1\": 1}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0023",
+      "source": "craft",
+      "target": "ufo",
+      "relationship": "co-occurrence",
+      "confidence": 0.2,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_lacatski_part1\": 2}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0024",
+      "source": "dia",
+      "target": "ufo",
+      "relationship": "co-occurrence",
+      "confidence": 0.2,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_lacatski_part1\": 1, \"weaponized_borland_part2\": 1}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0025",
+      "source": "craft",
+      "target": "engineering",
+      "relationship": "co-occurrence",
+      "confidence": 0.2,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_lacatski_part1\": 1, \"weaponized_borland_part1\": 1}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0026",
+      "source": "engineering",
+      "target": "nsa",
+      "relationship": "co-occurrence",
+      "confidence": 0.2,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_lacatski_part1\": 1, \"weaponized_borland_part1\": 1}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0027",
+      "source": "cia",
+      "target": "nsa",
+      "relationship": "co-occurrence",
+      "confidence": 0.2,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_lacatski_part1\": 1, \"weaponized_borland_part1\": 1}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0028",
+      "source": "nsa",
+      "target": "uap",
+      "relationship": "co-occurrence",
+      "confidence": 0.2,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_lacatski_part1\": 1, \"weaponized_borland_part1\": 1}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0029",
+      "source": "cia",
+      "target": "ufo",
+      "relationship": "co-occurrence",
+      "confidence": 0.2,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_lacatski_part1\": 1, \"weaponized_borland_part2\": 1}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0030",
+      "source": "craft",
+      "target": "ufos",
+      "relationship": "co-occurrence",
+      "confidence": 0.2,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_lacatski_part1\": 1, \"weaponized_lacatski_part2\": 1}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0031",
+      "source": "dia",
+      "target": "engineering",
+      "relationship": "co-occurrence",
+      "confidence": 0.2,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_borland_part1\": 2}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0032",
+      "source": "engineering",
+      "target": "house",
+      "relationship": "co-occurrence",
+      "confidence": 0.2,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_borland_part1\": 2}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0033",
+      "source": "dia",
+      "target": "the dod",
+      "relationship": "co-occurrence",
+      "confidence": 0.2,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_borland_part1\": 1, \"weaponized_borland_part2\": 1}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0034",
+      "source": "house",
+      "target": "the dod",
+      "relationship": "co-occurrence",
+      "confidence": 0.2,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_borland_part1\": 1, \"weaponized_borland_part2\": 1}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0035",
+      "source": "cia",
+      "target": "the dod",
+      "relationship": "co-occurrence",
+      "confidence": 0.2,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_borland_part1\": 1, \"weaponized_borland_part2\": 1}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0036",
+      "source": "the dod",
+      "target": "uap",
+      "relationship": "co-occurrence",
+      "confidence": 0.2,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_borland_part1\": 1, \"weaponized_borland_part2\": 1}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0037",
+      "source": "house",
+      "target": "reverse engineering",
+      "relationship": "co-occurrence",
+      "confidence": 0.2,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_borland_part1\": 1, \"weaponized_borland_part2\": 1}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0038",
+      "source": "reverse engineering",
+      "target": "uap",
+      "relationship": "co-occurrence",
+      "confidence": 0.2,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_borland_part1\": 1, \"weaponized_borland_part2\": 1}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_0039",
+      "source": "house",
+      "target": "senate",
+      "relationship": "co-occurrence",
+      "confidence": 0.2,
+      "evidence_grade": "E3",
+      "source_claims": "{\"weaponized_borland_part2\": 2}",
+      "created_at": "2026-01-07T15:01:51.515821"
+    },
+    {
+      "id": "xref_ep_001",
+      "source": "FBI",
+      "target": "Jeffrey Epstein",
+      "relationship": "investigated_subject",
+      "confidence": 0.7,
+      "evidence_grade": "E2",
+      "source_claims": "{\"epstein_briefing\": 4, \"weaponized_borland\": 1}",
+      "created_at": "2026-02-22T23:01:28.834546+00:00"
+    },
+    {
+      "id": "xref_ep_002",
+      "source": "U.S. Congress",
+      "target": "Epstein Files Transparency Act",
+      "relationship": "legislative_action",
+      "confidence": 0.9,
+      "evidence_grade": "E1",
+      "source_claims": "{\"epstein_briefing\": 3, \"weaponized_capitol_bombs\": 4}",
+      "created_at": "2026-02-22T23:01:28.834546+00:00"
+    },
+    {
+      "id": "xref_ep_003",
+      "source": "DOJ Inspector General",
+      "target": "Epstein custodial death",
+      "relationship": "watchdog_investigation",
+      "confidence": 0.85,
+      "evidence_grade": "E1",
+      "source_claims": "{\"epstein_briefing\": 2}",
+      "created_at": "2026-02-22T23:01:28.834546+00:00"
+    },
+    {
+      "id": "xref_ep_004",
+      "source": "Brown Brothers Harriman",
+      "target": "Deutsche Bank / JPMorgan / Morgan Stanley",
+      "relationship": "financial_enablement_pattern",
+      "confidence": 0.75,
+      "evidence_grade": "E2",
+      "source_claims": "{\"epstein_briefing\": 3, \"zinn_analysis\": 2}",
+      "created_at": "2026-02-22T23:01:28.834546+00:00"
+    },
+    {
+      "id": "xref_ep_005",
+      "source": "CIA intelligence community",
+      "target": "Robert Maxwell / Epstein intel allegations",
+      "relationship": "unresolved_intelligence_tie",
+      "confidence": 0.5,
+      "evidence_grade": "E2",
+      "source_claims": "{\"epstein_briefing\": 2, \"sheehan_cia_israeli_desk\": 1}",
+      "created_at": "2026-02-22T23:01:28.834546+00:00"
+    },
+    {
+      "id": "xref_ep_006",
+      "source": "Congressional disclosure mechanism",
+      "target": "UAP disclosure + Epstein disclosure",
+      "relationship": "parallel_institutional_pattern",
+      "confidence": 0.9,
+      "evidence_grade": "E1",
+      "source_claims": "{\"epstein_briefing\": 3, \"weaponized_capitol_bombs\": 4, \"weaponized_borland\": 2}",
+      "created_at": "2026-02-22T23:01:28.834546+00:00"
+    },
+    {
+      "id": "xref_ep_007",
+      "source": "Whistleblower suppression",
+      "target": "Epstein witness safety + UAP whistleblower risk",
+      "relationship": "parallel_suppression_pattern",
+      "confidence": 0.85,
+      "evidence_grade": "E1",
+      "source_claims": "{\"epstein_briefing\": 3, \"weaponized_podcast\": 3}",
+      "created_at": "2026-02-22T23:01:28.834546+00:00"
+    },
+    {
+      "id": "xref_ep_008",
+      "source": "Robert Maxwell",
+      "target": "PROMIS/Inslaw",
+      "relationship": "alleged_distribution_channel",
+      "confidence": 0.6,
+      "evidence_grade": "E2",
+      "source_claims": "[\"RM-007\", \"gap_analysis\"]",
+      "created_at": "2026-02-23T01:37:53.170994+00:00"
+    },
+    {
+      "id": "xref_ep_009",
+      "source": "Robert Maxwell",
+      "target": "MI6",
+      "relationship": "alleged_asset_funding",
+      "confidence": 0.55,
+      "evidence_grade": "E2",
+      "source_claims": "[\"RM-007\"]",
+      "created_at": "2026-02-23T01:37:53.170994+00:00"
+    },
+    {
+      "id": "xref_ep_010",
+      "source": "Robert Maxwell",
+      "target": "FBI",
+      "relationship": "subject_of_investigation",
+      "confidence": 0.9,
+      "evidence_grade": "E1",
+      "source_claims": "[\"RM-018\"]",
+      "created_at": "2026-02-23T01:37:53.170994+00:00"
+    },
+    {
+      "id": "xref_ep_011",
+      "source": "Howard Lutnick",
+      "target": "Jeffrey Epstein",
+      "relationship": "documented_business_relationship",
+      "confidence": 0.95,
+      "evidence_grade": "E1",
+      "source_claims": "[\"LCF-015\", \"LCF-016\"]",
+      "created_at": "2026-02-23T01:50:47.375665+00:00"
+    },
+    {
+      "id": "xref_ep_012",
+      "source": "Cantor Fitzgerald",
+      "target": "9/11 Financial Foreknowledge",
+      "relationship": "infrastructure_destruction",
+      "confidence": 0.9,
+      "evidence_grade": "E1",
+      "source_claims": "[\"LCF-004\", \"LCF-006\", \"LCF-012\"]",
+      "created_at": "2026-02-23T01:50:47.375665+00:00"
+    },
+    {
+      "id": "xref_ep_013",
+      "source": "Howard Lutnick",
+      "target": "Cantor Fitzgerald",
+      "relationship": "ownership_control",
+      "confidence": 0.95,
+      "evidence_grade": "E1",
+      "source_claims": "[\"LCF-019\"]",
+      "created_at": "2026-02-23T01:50:47.375665+00:00"
+    },
+    {
+      "id": "xref_ep_014",
+      "source": "9/11 Financial Foreknowledge",
+      "target": "SEC",
+      "relationship": "emergency_powers_invoked",
+      "confidence": 0.95,
+      "evidence_grade": "E1",
+      "source_claims": "[\"LCF-013\", \"LCF-012\"]",
+      "created_at": "2026-02-23T01:50:47.375665+00:00"
+    },
+    {
+      "id": "xref_ep_015",
+      "source": "Howard Lutnick",
+      "target": "Donald Trump",
+      "relationship": "political_fundraising_nomination",
+      "confidence": 0.95,
+      "evidence_grade": "E1",
+      "source_claims": "[\"LCF-017\"]",
+      "created_at": "2026-02-23T01:50:47.375665+00:00"
+    },
+    {
+      "id": "xref_ep_016",
+      "source": "Jeffrey Epstein",
+      "target": "Mossad",
+      "relationship": "alleged_asset_via_maxwell",
+      "confidence": 0.55,
+      "evidence_grade": "E2",
+      "source_claims": "[\"EIC-009\", \"EIC-010\", \"EIC-011\"]",
+      "created_at": "2026-02-23T01:52:27.202483+00:00"
+    },
+    {
+      "id": "xref_ep_017",
+      "source": "Jeffrey Epstein",
+      "target": "CIA",
+      "relationship": "circumstantial_indicators",
+      "confidence": 0.45,
+      "evidence_grade": "E3",
+      "source_claims": "[\"EIC-001\", \"EIC-006\", \"EIC-007\"]",
+      "created_at": "2026-02-23T01:52:27.202483+00:00"
+    },
+    {
+      "id": "xref_ep_018",
+      "source": "Jeffrey Epstein",
+      "target": "Les Wexner",
+      "relationship": "financial_control",
+      "confidence": 0.95,
+      "evidence_grade": "E1",
+      "source_claims": "[\"EIC-004\", \"EIC-005\"]",
+      "created_at": "2026-02-23T01:52:27.202483+00:00"
+    },
+    {
+      "id": "xref_ep_019",
+      "source": "Jeffrey Epstein",
+      "target": "Ehud Barak",
+      "relationship": "documented_relationship",
+      "confidence": 0.9,
+      "evidence_grade": "E1",
+      "source_claims": "[\"EIC-011\", \"EIC-012\"]",
+      "created_at": "2026-02-23T01:52:27.202483+00:00"
+    },
+    {
+      "id": "xref_ep_020",
+      "source": "Jeffrey Epstein",
+      "target": "PROMIS/Inslaw",
+      "relationship": "indirect_via_maxwell_family",
+      "confidence": 0.3,
+      "evidence_grade": "E3",
+      "source_claims": "[\"EIC-015\", \"EIC-017\"]",
+      "created_at": "2026-02-23T01:52:27.202483+00:00"
+    },
+    {
+      "id": "xref_ep_021",
+      "source": "Jeffrey Epstein",
+      "target": "Douglas Leese",
+      "relationship": "intelligence_adjacent_introduction",
+      "confidence": 0.75,
+      "evidence_grade": "E2",
+      "source_claims": "[\"EIC-008\"]",
+      "created_at": "2026-02-23T01:52:27.202483+00:00"
+    },
+    {
+      "id": "xref_ep_022",
+      "source": "Donald Barr",
+      "target": "Jeffrey Epstein",
+      "relationship": "dalton_school_hiring",
+      "confidence": 0.9,
+      "evidence_grade": "E1",
+      "source_claims": "[\"EIC-003\"]",
+      "created_at": "2026-02-23T01:52:27.202483+00:00"
+    },
+    {
+      "id": "xref_ep_023",
+      "source": "Jeffrey Epstein",
+      "target": "BCCI",
+      "relationship": "intelligence_banking_pattern",
+      "confidence": 0.7,
+      "evidence_grade": "E2",
+      "source_claims": "[\"EFN-001\"]",
+      "created_at": "2026-02-23T02:01:40.859779+00:00"
+    },
+    {
+      "id": "xref_ep_024",
+      "source": "Jeffrey Epstein",
+      "target": "Deutsche Bank",
+      "relationship": "institutional_enablement",
+      "confidence": 0.95,
+      "evidence_grade": "E1",
+      "source_claims": "[\"EFN-005\"]",
+      "created_at": "2026-02-23T02:01:40.859779+00:00"
+    },
+    {
+      "id": "xref_ep_025",
+      "source": "Jeffrey Epstein",
+      "target": "JPMorgan",
+      "relationship": "institutional_enablement",
+      "confidence": 0.95,
+      "evidence_grade": "E1",
+      "source_claims": "[\"EFN-006\"]",
+      "created_at": "2026-02-23T02:01:40.859779+00:00"
+    },
+    {
+      "id": "xref_ep_026",
+      "source": "Jeffrey Epstein",
+      "target": "Leon Black",
+      "relationship": "financial_payments",
+      "confidence": 0.9,
+      "evidence_grade": "E1",
+      "source_claims": "[\"EFN-003\"]",
+      "created_at": "2026-02-23T02:01:40.859779+00:00"
+    },
+    {
+      "id": "xref_ep_027",
+      "source": "Jeffrey Epstein",
+      "target": "Harvard PED",
+      "relationship": "funding_and_embedding",
+      "confidence": 0.99,
+      "evidence_grade": "E1",
+      "source_claims": "[\"ST-006\", \"ST-007\", \"ST-008\"]",
+      "created_at": "2026-02-23T02:11:52.750122Z"
+    },
+    {
+      "id": "xref_ep_028",
+      "source": "Jeffrey Epstein",
+      "target": "MIT Media Lab",
+      "relationship": "anonymous_funding_conduit",
+      "confidence": 0.99,
+      "evidence_grade": "E1",
+      "source_claims": "[\"ST-009\", \"ST-010\", \"ST-011\", \"ST-012\"]",
+      "created_at": "2026-02-23T02:11:52.750122Z"
+    },
+    {
+      "id": "xref_ep_029",
+      "source": "Jeffrey Epstein",
+      "target": "Edge Foundation / John Brockman",
+      "relationship": "science_elite_access_architecture",
+      "confidence": 0.97,
+      "evidence_grade": "E1",
+      "source_claims": "[\"ST-014\", \"ST-015\"]",
+      "created_at": "2026-02-23T02:11:52.750122Z"
+    },
+    {
+      "id": "xref_ep_030",
+      "source": "Jeffrey Epstein",
+      "target": "Transhumanist Network",
+      "relationship": "eugenics_ideology_funding",
+      "confidence": 0.95,
+      "evidence_grade": "E1",
+      "source_claims": "[\"ST-019\", \"ST-020\", \"ST-021\", \"ST-022\"]",
+      "created_at": "2026-02-23T02:11:52.750122Z"
+    },
+    {
+      "id": "xref_ep_031",
+      "source": "Jeffrey Epstein",
+      "target": "NSA",
+      "relationship": "cryptographer_recruitment_for_genomics",
+      "confidence": 0.93,
+      "evidence_grade": "E1",
+      "source_claims": "[\"ST-025\"]",
+      "created_at": "2026-02-23T02:11:52.750122Z"
+    },
+    {
+      "id": "xref_ep_032",
+      "source": "Jeffrey Epstein",
+      "target": "CIA",
+      "relationship": "self_reported_affiliation_glomar",
+      "confidence": 0.99,
+      "evidence_grade": "E1",
+      "source_claims": "[\"ST-026\", \"ST-027\"]",
+      "created_at": "2026-02-23T02:11:52.750122Z"
+    },
+    {
+      "id": "xref_ep_033",
+      "source": "Ghislaine Maxwell",
+      "target": "TerraMar Project",
+      "relationship": "shell_organization_maritime_capability",
+      "confidence": 0.97,
+      "evidence_grade": "E1",
+      "source_claims": "[\"ST-016\", \"ST-017\", \"ST-018\"]",
+      "created_at": "2026-02-23T02:11:52.750122Z"
+    },
+    {
+      "id": "xref_ep_034",
+      "source": "Jeffrey Epstein",
+      "target": "Leon Black / Apollo",
+      "relationship": "financial_conduit_170M",
+      "confidence": 0.99,
+      "evidence_grade": "E1",
+      "source_claims": "[\"ST-028\"]",
+      "created_at": "2026-02-23T02:11:52.750122Z"
+    },
+    {
+      "id": "xref_ep_035",
+      "source": "Jeffrey Epstein",
+      "target": "Facial Recognition AI",
+      "relationship": "surveillance_capability_development",
+      "confidence": 0.97,
+      "evidence_grade": "E1",
+      "source_claims": "[\"ST-023\"]",
+      "created_at": "2026-02-23T02:11:52.750122Z"
+    },
+    {
+      "id": "xref_ep_036",
+      "source": "ABC News",
+      "target": "Media Suppression",
+      "relationship": "story_killed_4_years",
+      "confidence": 0.95,
+      "evidence_grade": "E1",
+      "source_claims": "[\"MS-001\", \"MS-002\", \"MS-003\"]",
+      "created_at": "2026-02-23T02:11:52.750122Z"
+    },
+    {
+      "id": "xref_ep_037",
+      "source": "Vanity Fair / Graydon Carter",
+      "target": "Media Suppression",
+      "relationship": "editorial_intervention_epstein_visit",
+      "confidence": 0.95,
+      "evidence_grade": "E1",
+      "source_claims": "[\"MS-005\"]",
+      "created_at": "2026-02-23T02:11:52.750122Z"
+    },
+    {
+      "id": "xref_ep_038",
+      "source": "FBI",
+      "target": "Maria Farmer",
+      "relationship": "law_enforcement_failure_1996",
+      "confidence": 0.98,
+      "evidence_grade": "E1",
+      "source_claims": "[\"MS-006\"]",
+      "created_at": "2026-02-23T02:11:52.750122Z"
+    },
+    {
+      "id": "xref_ep_039",
+      "source": "New York Times / Landon Thomas",
+      "target": "Jeffrey Epstein",
+      "relationship": "journalist_compromise",
+      "confidence": 0.92,
+      "evidence_grade": "E1",
+      "source_claims": "[\"MS-008\"]",
+      "created_at": "2026-02-23T02:11:52.750122Z"
+    },
+    {
+      "id": "xref_ep_040",
+      "source": "DOJ",
+      "target": "Congressional Oversight",
+      "relationship": "surveillance_of_epstein_file_searches",
+      "confidence": 0.97,
+      "evidence_grade": "E1",
+      "source_claims": "[\"MS-013\"]",
+      "created_at": "2026-02-23T02:11:52.750122Z"
+    },
+    {
+      "id": "xref_ep_041",
+      "source": "Operation Mockingbird",
+      "target": "Epstein Media Suppression",
+      "relationship": "structural_parallel",
+      "confidence": 0.78,
+      "evidence_grade": "E2",
+      "source_claims": "[\"MS-016\", \"MS-017\", \"MS-018\"]",
+      "created_at": "2026-02-23T02:11:52.750122Z"
+    },
+    {
+      "id": "xref_ep_042",
+      "source": "US Corporate Media",
+      "target": "Israel/Mossad Intelligence Links",
+      "relationship": "systematic_omission",
+      "confidence": 0.85,
+      "evidence_grade": "E1",
+      "source_claims": "[\"MS-014\"]",
+      "created_at": "2026-02-23T02:11:52.750122Z"
+    },
+    {
+      "id": "xref_ep_043",
+      "source": "Whitney Webb Analysis",
+      "target": "Sherlock PKG-EP Phase 1",
+      "relationship": "validation_and_extension",
+      "confidence": 0.75,
+      "evidence_grade": "E2",
+      "source_claims": "WW1-002,WW1-003",
+      "created_at": "2026-02-23T04:50:05.173818"
+    },
+    {
+      "id": "xref_ep_044",
+      "source": "PROMIS/Inslaw",
+      "target": "Epstein Blackmail Operation",
+      "relationship": "operational_continuity_alleged",
+      "confidence": 0.3,
+      "evidence_grade": "E3",
+      "source_claims": "WW3-008,WW1-003",
+      "created_at": "2026-02-23T04:50:05.173818"
+    },
+    {
+      "id": "xref_ep_045",
+      "source": "BCCI Sex Trafficking",
+      "target": "Epstein Sex Trafficking",
+      "relationship": "structural_parallel",
+      "confidence": 0.65,
+      "evidence_grade": "E2",
+      "source_claims": "WW2-001,WW2-008",
+      "created_at": "2026-02-23T04:50:05.173818"
+    },
+    {
+      "id": "xref_ep_046",
+      "source": "BCCI Intelligence Banking",
+      "target": "Epstein Financial Architecture",
+      "relationship": "operational_pattern_match",
+      "confidence": 0.4,
+      "evidence_grade": "E3",
+      "source_claims": "WW2-002,WW2-010",
+      "created_at": "2026-02-23T04:50:05.173818"
+    },
+    {
+      "id": "xref_ep_047",
+      "source": "Epstein Gravity Symposium",
+      "target": "AAWSAP/Bigelow Aerospace",
+      "relationship": "citation_bridge_only",
+      "confidence": 0.3,
+      "evidence_grade": "E3",
+      "source_claims": "GXR-001,GXR-002",
+      "created_at": "2026-02-23T04:50:05.173818"
+    },
+    {
+      "id": "xref_ep_048",
+      "source": "Lisa Randall (Epstein symposium)",
+      "target": "DIA DIRD No. 13 (AAWSAP)",
+      "relationship": "theoretical_citation",
+      "confidence": 0.9,
+      "evidence_grade": "E1",
+      "source_claims": "GXR-002",
+      "created_at": "2026-02-23T04:50:05.173818"
+    },
+    {
+      "id": "xref_ep_049",
+      "source": "JPMorgan Chase",
+      "target": "BBH/Rockefeller Dynasty",
+      "relationship": "institutional_lineage",
+      "confidence": 0.85,
+      "evidence_grade": "E1",
+      "source_claims": "FXR-001",
+      "created_at": "2026-02-23T04:50:05.173818"
+    },
+    {
+      "id": "xref_ep_050",
+      "source": "Sullivan & Cromwell",
+      "target": "Epstein Network Legal Infrastructure",
+      "relationship": "recurring_legal_bridge",
+      "confidence": 0.75,
+      "evidence_grade": "E2",
+      "source_claims": "FXR-003",
+      "created_at": "2026-02-23T04:50:05.173818"
+    },
+    {
+      "id": "xref_ep_051",
+      "source": "Mega Group (Wexner/Bronfman)",
+      "target": "BBH/WASP Dynasty",
+      "relationship": "parallel_elite_network",
+      "confidence": 0.6,
+      "evidence_grade": "E2",
+      "source_claims": "FXR-005",
+      "created_at": "2026-02-23T04:50:05.173818"
+    },
+    {
+      "id": "xref_ep_052",
+      "source": "Iran-Contra Network",
+      "target": "Epstein Network",
+      "relationship": "institutional_pattern_parallel",
+      "confidence": 0.55,
+      "evidence_grade": "E2",
+      "source_claims": "ICX-003,ICX-006",
+      "created_at": "2026-02-23T04:50:05.173818"
+    },
+    {
+      "id": "xref_ep_053",
+      "source": "William Barr",
+      "target": "BCCI Cover-Up AND Epstein Death",
+      "relationship": "institutional_bridge_person",
+      "confidence": 0.85,
+      "evidence_grade": "E1",
+      "source_claims": "ICX-001",
+      "created_at": "2026-02-23T04:50:05.173818"
+    },
+    {
+      "id": "xref_ep_054",
+      "source": "Adnan Khashoggi",
+      "target": "Both Iran-Contra AND Epstein Networks",
+      "relationship": "personnel_overlap",
+      "confidence": 0.7,
+      "evidence_grade": "E2",
+      "source_claims": "ICX-004",
+      "created_at": "2026-02-23T04:50:05.173818"
+    },
+    {
+      "id": "xref_ep_055",
+      "source": "Jes Staley/JPMorgan",
+      "target": "George Tenet/CIA",
+      "relationship": "documented_social_connection",
+      "confidence": 0.9,
+      "evidence_grade": "E1",
+      "source_claims": "LXR-002,LXR-003",
+      "created_at": "2026-02-23T04:50:05.173818"
+    },
+    {
+      "id": "xref_ep_056",
+      "source": "Cantor Fitzgerald 9/11",
+      "target": "SEC Records Destruction (WTC7)",
+      "relationship": "financial_infrastructure_nexus",
+      "confidence": 0.85,
+      "evidence_grade": "E1",
+      "source_claims": "LXR-004,LXR-005",
+      "created_at": "2026-02-23T04:50:05.173818"
+    },
+    {
+      "id": "xref_ep_057",
+      "source": "Howard Lutnick",
+      "target": "Jeffrey Epstein",
+      "relationship": "documented_contradiction_in_testimony",
+      "confidence": 0.95,
+      "evidence_grade": "E1",
+      "source_claims": "LXR-001",
+      "created_at": "2026-02-23T04:50:05.173818"
+    },
+    {
+      "id": "xref_ep_058",
+      "source": "Whitney Webb (source reliability)",
+      "target": "Sherlock Evidence Standards",
+      "relationship": "meta_assessment",
+      "confidence": 0.8,
+      "evidence_grade": "E2",
+      "source_claims": "WW5-001,WW5-002,WW5-003",
+      "created_at": "2026-02-23T04:50:05.173818"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "epstein_core",
+      "label": "Epstein-Maxwell Core Network",
+      "description": "Central subjects and direct associates of the Epstein-Maxwell intelligence/trafficking network",
+      "members": [
+        "Jeffrey Epstein",
+        "Ghislaine Maxwell",
+        "Robert Maxwell",
+        "Les Wexner",
+        "Ehud Barak",
+        "TerraMar Project",
+        "Maria Farmer",
+        "Epstein Blackmail Operation"
+      ]
+    },
+    {
+      "id": "intelligence",
+      "label": "Intelligence Community",
+      "description": "Intelligence agencies, programs, and personnel with documented or alleged connections",
+      "members": [
+        "MK-Ultra and MK Programs",
+        "Allen Dulles",
+        "James Jesus Angleton",
+        "George Joannides",
+        "George Tenet",
+        "Richard Bissell",
+        "BCCI (Bank of Credit and Commerce International)",
+        "Mega Group",
+        "PROMIS/Inslaw",
+        "William Barr",
+        "Adnan Khashoggi",
+        "Donald Barr",
+        "Douglas Leese",
+        "CIA",
+        "Mossad",
+        "FBI",
+        "DOJ",
+        "Iran-Contra Network",
+        "NSA",
+        "DoD",
+        "DIA"
+      ]
+    },
+    {
+      "id": "financial",
+      "label": "Financial Infrastructure",
+      "description": "Banks, financial firms, and individuals enabling Epstein's financial architecture",
+      "members": [
+        "Brown Brothers Harriman",
+        "Sullivan & Cromwell",
+        "TSMC",
+        "Howard Lutnick",
+        "Cantor Fitzgerald",
+        "9/11 Financial Foreknowledge",
+        "Jes Staley",
+        "Deutsche Bank",
+        "JPMorgan Chase",
+        "Leon Black / Apollo",
+        "SEC",
+        "Bear Stearns"
+      ]
+    },
+    {
+      "id": "science",
+      "label": "Science & Technology Network",
+      "description": "Academic institutions, scientists, and research programs funded or influenced by Epstein",
+      "members": [
+        "Bigelow Aerospace",
+        "Hal Puthoff",
+        "Epstein Gravity Symposium",
+        "Lisa Randall",
+        "Lawrence Krauss",
+        "Harvard PED",
+        "MIT Media Lab",
+        "Edge Foundation / John Brockman",
+        "Transhumanist Network",
+        "Facial Recognition AI"
+      ]
+    },
+    {
+      "id": "media",
+      "label": "Media Suppression Pattern",
+      "description": "Media organizations and programs involved in suppression or distortion of Epstein coverage",
+      "members": [
+        "ABC News",
+        "Vanity Fair / Graydon Carter",
+        "New York Times / Landon Thomas",
+        "Operation Mockingbird",
+        "US Corporate Media"
+      ]
+    },
+    {
+      "id": "uap",
+      "label": "UAP/Anomalous Phenomena",
+      "description": "UAP disclosure programs, researchers, and evidence sources with cross-reference to intelligence networks",
+      "members": [
+        "Imminent \u2014 Luis Elizondo",
+        "Weaponized Podcast",
+        "The Day After Roswell \u2014 Colonel Philip J. Corso",
+        "US Army INSCOM",
+        "US Naval Intelligence",
+        "US Radar Lab (Naval Intelligence, 1930s)",
+        "S-Force",
+        "Thomas Townsend Brown",
+        "Luis Elizondo",
+        "Dr. James Lacatski",
+        "Joseph McMoneagle",
+        "Ingo Swann",
+        "Pat Price",
+        "Agnew Bahnson",
+        "Albert Stubblebine",
+        "Age of Disclosure",
+        "AAWSAP/AATIP"
+      ]
+    },
+    {
+      "id": "cold_war",
+      "label": "Cold War / Geopolitical",
+      "description": "Cold War-era figures, programs, and geopolitical actors with network connections",
+      "members": [
+        "Soviet Psychic Program",
+        "Curtis LeMay",
+        "Harald Malmgren",
+        "Wernher von Braun",
+        "George H. W. Bush",
+        "Henry Kissinger",
+        "Osama bin Laden",
+        "Vladimir Lenin",
+        "Donald Trump"
+      ]
+    },
+    {
+      "id": "other",
+      "label": "Reference Sources & Context",
+      "description": "Books, podcasts, and reference material providing evidentiary context",
+      "members": [
+        "A People's History of the United States \u2014 Howard Zinn",
+        "American Alchemy Interviews with Danny Sheehan",
+        "American Alchemy with Harald Malmgren",
+        "Danny Sheehan Bibliography",
+        "John Trump",
+        "Shared Context Podcast",
+        "Danny Sheehan",
+        "Whitney Webb",
+        "Congressional Oversight"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "null",
+      "title": "Comprehensive Briefing on the Epstein Files and What the Public Record Supports",
+      "evidence_type": "secondary_analysis_document",
+      "claim_count": 0,
+      "processing_status": "completed"
+    },
+    {
+      "source_id": "EP_007_Q1",
+      "title": "Whitney Webb Top 20 Epstein-Intelligence Claims (PKG-EP Phase 2)",
+      "evidence_type": "intelligence_report",
+      "claim_count": 20,
+      "processing_status": "complete"
+    },
+    {
+      "source_id": "EP_007_Q2",
+      "title": "Whitney Webb BCCI-Epstein Financial Connections Verification (PKG-EP Phase 2)",
+      "evidence_type": "intelligence_report",
+      "claim_count": 10,
+      "processing_status": "complete"
+    },
+    {
+      "source_id": "EP_007_Q3",
+      "title": "Whitney Webb Maxwell-PROMIS-Intelligence Nexus (PKG-EP Phase 2)",
+      "evidence_type": "intelligence_report",
+      "claim_count": 8,
+      "processing_status": "complete"
+    },
+    {
+      "source_id": "EP_007_Q4",
+      "title": "Whitney Webb Science/Technology Claims Verification (PKG-EP Phase 2)",
+      "evidence_type": "intelligence_report",
+      "claim_count": 8,
+      "processing_status": "complete"
+    },
+    {
+      "source_id": "EP_007_Q5",
+      "title": "Whitney Webb Weakest Claims Analysis (PKG-EP Phase 2)",
+      "evidence_type": "intelligence_report",
+      "claim_count": 7,
+      "processing_status": "complete"
+    },
+    {
+      "source_id": "EP_008_Q1",
+      "title": "Epstein Gravity Symposium / Sherlock Entity Cross-Reference (PKG-EP Phase 2)",
+      "evidence_type": "cross_reference_report",
+      "claim_count": 5,
+      "processing_status": "complete"
+    },
+    {
+      "source_id": "EP_008_Q2",
+      "title": "Epstein Financial Entity / Sherlock Dynasty Cross-Reference (PKG-EP Phase 2)",
+      "evidence_type": "cross_reference_report",
+      "claim_count": 7,
+      "processing_status": "complete"
+    },
+    {
+      "source_id": "EP_008_Q3",
+      "title": "Danny Sheehan / Iran-Contra / Epstein Network Cross-Reference (PKG-EP Phase 2)",
+      "evidence_type": "cross_reference_report",
+      "claim_count": 6,
+      "processing_status": "complete"
+    },
+    {
+      "source_id": "EP_008_Q4",
+      "title": "Howard Lutnick / Cantor Fitzgerald / Sherlock Entity Cross-Reference (PKG-EP Phase 2)",
+      "evidence_type": "cross_reference_report",
+      "claim_count": 7,
+      "processing_status": "complete"
+    },
+    {
+      "source_id": "SHERLOCK-20260222-001",
+      "title": "Robert Maxwell Intelligence Profile (PKG-EP-001)",
+      "evidence_type": "chatgpt_research_deliverable",
+      "claim_count": 21,
+      "processing_status": "ingested"
+    },
+    {
+      "source_id": "SHERLOCK-20260222-002",
+      "title": "Epstein Intelligence Community Connections \u2014 OSINT Report",
+      "evidence_type": "claude_opus_research",
+      "claim_count": 22,
+      "processing_status": "ingested"
+    },
+    {
+      "source_id": "SHERLOCK-20260222-003",
+      "title": "Epstein Financial Network & Intelligence Banking",
+      "evidence_type": "claude_sonnet_research",
+      "claim_count": 9,
+      "processing_status": "ingested"
+    },
+    {
+      "source_id": "SHERLOCK-20260222-004",
+      "title": "Epstein Science, Technology & Advanced Research Network \u2014 OSINT Report",
+      "evidence_type": "intelligence_report",
+      "claim_count": 31,
+      "processing_status": "complete"
+    },
+    {
+      "source_id": "SHERLOCK-20260222-005",
+      "title": "Epstein Case Media Suppression & Operation Mockingbird Patterns \u2014 OSINT Report",
+      "evidence_type": "intelligence_report",
+      "claim_count": 23,
+      "processing_status": "complete"
+    },
+    {
+      "source_id": "SHERLOCK-20260222-006",
+      "title": "Howard Lutnick, Cantor Fitzgerald & 9/11 Intelligence Nexus",
+      "evidence_type": "claude_opus_research",
+      "claim_count": 23,
+      "processing_status": "ingested"
+    },
+    {
+      "source_id": "weaponized_borland_part1",
+      "title": "Douglas Borland Interview - Part 1",
+      "evidence_type": "podcast",
+      "claim_count": 23,
+      "processing_status": "pending"
+    },
+    {
+      "source_id": "weaponized_borland_part2",
+      "title": "Douglas Borland Interview - Part 2",
+      "evidence_type": "podcast",
+      "claim_count": 87,
+      "processing_status": "pending"
+    },
+    {
+      "source_id": "weaponized_capitol_bombs",
+      "title": "UFO Bombs Dropped On Capitol Hill",
+      "evidence_type": "podcast",
+      "claim_count": 127,
+      "processing_status": "pending"
+    },
+    {
+      "source_id": "weaponized_lacatski_part1",
+      "title": "Dr. James Lacatski Interview - Part 1",
+      "evidence_type": "podcast",
+      "claim_count": 44,
+      "processing_status": "pending"
+    },
+    {
+      "source_id": "weaponized_lacatski_part2",
+      "title": "Dr. James Lacatski Interview - Part 2",
+      "evidence_type": "podcast",
+      "claim_count": 14,
+      "processing_status": "pending"
+    },
+    {
+      "source_id": "youtube_1d9bea7e7f3e",
+      "title": "LLM Fine Tuning: A few tricks that change EVERYTHING",
+      "evidence_type": "youtube",
+      "claim_count": 0,
+      "processing_status": "pending"
+    },
+    {
+      "source_id": "youtube_65d72c7a8ed9",
+      "title": "LLM Fine Tuning: A few tricks that change EVERYTHING",
+      "evidence_type": "youtube",
+      "claim_count": 0,
+      "processing_status": "pending"
+    },
+    {
+      "source_id": "youtube_6d77e4017a04",
+      "title": "LLM Fine Tuning: A few tricks that change EVERYTHING",
+      "evidence_type": "youtube",
+      "claim_count": 0,
+      "processing_status": "pending"
+    },
+    {
+      "source_id": "youtube_752a0bc9672a",
+      "title": "LLM Fine Tuning: A few tricks that change EVERYTHING",
+      "evidence_type": "youtube",
+      "claim_count": 0,
+      "processing_status": "pending"
+    },
+    {
+      "source_id": "youtube_96c1e1fe99e5",
+      "title": "LLM Fine Tuning: A few tricks that change EVERYTHING",
+      "evidence_type": "youtube",
+      "claim_count": 0,
+      "processing_status": "pending"
+    }
+  ]
+}

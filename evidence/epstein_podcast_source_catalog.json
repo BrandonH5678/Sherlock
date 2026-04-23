@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "generated_at": "2026-02-23T02:17:16.536737+00:00",
+    "generated_by": "epstein_podcast_discovery.py",
+    "campaign": "PKG-EP",
+    "search_terms": [
+      "Epstein",
+      "Maxwell",
+      "Mossad",
+      "PROMIS",
+      "intelligence",
+      "BCCI",
+      "Lutnick",
+      "Cantor Fitzgerald"
+    ],
+    "dry_run": false,
+    "sources_scanned": 3
+  },
+  "sources": [
+    {
+      "name": "Unlimited Hangout",
+      "homepage": "https://unlimitedhangout.com/",
+      "description": "Whitney Webb investigative journalism - primary Epstein/intelligence analysis",
+      "priority": 1
+    },
+    {
+      "name": "The Corbett Report",
+      "homepage": "https://www.corbettreport.com/",
+      "description": "Independent investigative journalism on intelligence, finance, geopolitics",
+      "priority": 2
+    },
+    {
+      "name": "TrueAnon",
+      "homepage": "https://soundcloud.com/trueanonpod",
+      "description": "Podcast focused on Epstein case, intelligence operations, and power structures",
+      "priority": 1
+    }
+  ],
+  "episodes": [
+    {
+      "source": "Unlimited Hangout",
+      "title": "The Age of Artificial Intelligence",
+      "pub_date": "Wed, 31 Jan 2024 23:58:52 +0000",
+      "audio_url": "https://media.rssblue.com/podcasts/unlimited-hangout/the-age-of-artificial-intelligence/audio.ep-54-2.mp3",
+      "rss_feed": "https://unlimitedhangout.com/feed/",
+      "matched_terms": [
+        "intelligence"
+      ],
+      "match_count": 1
+    },
+    {
+      "source": "The Corbett Report",
+      "title": "Episode 491 \u2013 What I Learned From the Epstein Files",
+      "pub_date": "Tue, 10 Feb 2026 01:34:16 +0000",
+      "audio_url": "https://www.corbettreport.com/mp3/episode491_epstein_files.mp3",
+      "rss_feed": "https://corbettreport.com/feed",
+      "matched_terms": [
+        "Epstein"
+      ],
+      "match_count": 1
+    },
+    {
+      "source": "The Corbett Report",
+      "title": "Interview 2000 \u2013 Epstein, Israel and Secret Societies on The Ripple Effect",
+      "pub_date": "Thu, 05 Feb 2026 01:43:38 +0000",
+      "audio_url": "https://www.corbettreport.com/mp3/2026-02-04_Ripple_Effect.mp3",
+      "rss_feed": "https://corbettreport.com/podcast",
+      "matched_terms": [
+        "Epstein"
+      ],
+      "match_count": 1
+    }
+  ],
+  "statistics": {
+    "total_episodes_found": 0,
+    "total_matching_episodes": 3,
+    "by_source": {
+      "Unlimited Hangout": 1,
+      "The Corbett Report": 2,
+      "TrueAnon": 0
+    },
+    "by_search_term": {
+      "Epstein": 2,
+      "Maxwell": 0,
+      "Mossad": 0,
+      "PROMIS": 0,
+      "intelligence": 1,
+      "BCCI": 0,
+      "Lutnick": 0,
+      "Cantor Fitzgerald": 0
+    }
+  }
+}

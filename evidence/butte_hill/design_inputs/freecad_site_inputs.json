@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "project": "ButteHill_Bedrock_Characterization",
+    "date_generated": "2025-12-25T16:13:33.680508",
+    "data_sources": [
+      "R1_geocode",
+      "R2_lidar",
+      "R4_wells",
+      "R5_geology",
+      "R6_landslides"
+    ]
+  },
+  "site": {
+    "address": "210 Lahti Rd, Woodland WA 98674",
+    "latlon_wgs84": {
+      "lat": 45.9067,
+      "lon": -122.77
+    }
+  },
+  "crs": {
+    "working_epsg": "EPSG:26910",
+    "storage_epsg": "EPSG:4326"
+  },
+  "aoi": {
+    "radius_miles": 1.5,
+    "terrain_radius_miles": 2.0
+  },
+  "terrain": {
+    "dtm_resolution_m": 0,
+    "slope_stats_deg": {
+      "min": 0,
+      "p50": 0,
+      "p90": 0,
+      "max": 0
+    },
+    "portal_candidates": [
+      {
+        "id": "PC01",
+        "centroid_xy": {
+          "x_m": 0,
+          "y_m": 0
+        },
+        "elev_ft": 500,
+        "slope_deg": 10,
+        "notes": "Placeholder - awaiting terrain data"
+      }
+    ],
+    "avoid_zones": []
+  },
+  "subsurface": {
+    "wells_count": 0,
+    "bedrock_depth_ft": {
+      "min": 0.0,
+      "likely": 0.0,
+      "max": 0.0
+    },
+    "water_table_ft": {
+      "min": 0,
+      "likely": 0,
+      "max": 0
+    },
+    "confidence_0to1": 0.0,
+    "notes": "No wells found within search radius"
+  },
+  "recommendations": {
+    "recommended_portal_id": "PC01",
+    "adit_axis": {
+      "bearing_deg": 0,
+      "grade_pct": 2.0,
+      "target_station_bedrock_ft": 0.0
+    },
+    "needs_geophysics": true,
+    "geophysics_recommendation": "Recommended: 1 ERT line along proposed adit axis + 1 cross line. Optional: MASW seismic for confirmation."
+  },
+  "freecad_params": {
+    "units": {
+      "length": "ft",
+      "angle": "deg"
+    },
+    "adit": {
+      "length_ft": 10.0,
+      "excavation_w_ft": 7.0,
+      "excavation_h_ft": 8.5,
+      "clear_w_ft": 6.0,
+      "clear_h_ft": 7.0,
+      "set_spacing_ft": 3.0
+    },
+    "collar": {
+      "thickness_ft": 1.0,
+      "key_into_rock_ft": 2.0
+    },
+    "chambers": [
+      {
+        "id": "CH1",
+        "length_ft": 24.0,
+        "width_ft": 18.0,
+        "height_ft": 9.0,
+        "role": "Decon + staging + mechanical core"
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "task_id": "sherlock_transcription_c48aa91f-06cc-4d8b-9423-cab9c6b496c8",
+  "task_type": "sherlock_podcast_intelligence",
+  "package_id": 74,
+  "target_name": "SHERLOCK - Intelligent Disclosure - UFOs in Space",
+  "source": "freelance_transcription_service",
+  "package_type": "podcast_transcript",
+  "priority": 2,
+  "input_files": {
+    "txt": "/home/johnny5/Sherlock/transcripts/sherlock_intelligent_disclosure_ufos_in_space_c48aa91f-06cc-4d8b-9423-cab9c6b496c8.txt",
+    "json": "/home/johnny5/Sherlock/transcripts/sherlock_intelligent_disclosure_ufos_in_space_c48aa91f-06cc-4d8b-9423-cab9c6b496c8.json",
+    "srt": "/home/johnny5/Sherlock/transcripts/sherlock_intelligent_disclosure_ufos_in_space_c48aa91f-06cc-4d8b-9423-cab9c6b496c8_subtitles.srt",
+    "vtt": "/home/johnny5/Sherlock/transcripts/sherlock_intelligent_disclosure_ufos_in_space_c48aa91f-06cc-4d8b-9423-cab9c6b496c8_subtitles.vtt"
+  },
+  "quality_metrics": {
+    "processing_time_seconds": 972.725715637207,
+    "real_time_factor": 6.487477300696357,
+    "gpu_utilization_percent": 0.0,
+    "hallucination_flagged_count": 17,
+    "hallucination_flagged_percent": 1.4154870940882598,
+    "llm_salvage": {
+      "total_flagged": 17,
+      "salvaged": 4,
+      "marked_inaudible": 11,
+      "marked_unclear": 2,
+      "estimated_cost": 0.17,
+      "processed": 17,
+      "api_calls": 17
+    },
+    "diarization_status": "completed",
+    "speaker_count": 2,
+    "diarization_backend": "whisperx+pyannote",
+    "diarization_error_rate": null,
+    "speaker_purity": 0.9992412746585736,
+    "speaker_coverage": 0.9992412746585736,
+    "diarization_time_seconds": 205.47350072860718,
+    "diarization_real_time_factor": 30.712164720136155,
+    "diarization_vram_used_gb": null,
+    "diarization_correction": {
+      "false_interjections_merged": 13,
+      "mid_sentence_switches_fixed": 184,
+      "segments_reduced": 197
+    },
+    "voice_anchor_matching": {
+      "anchors_loaded": 7,
+      "speakers_matched": 0,
+      "high_confidence_matches": 0,
+      "medium_confidence_matches": 0,
+      "total_speakers": 2
+    },
+    "overall_score": 0.9600972372140966,
+    "avg_confidence": 0.9006594127687967,
+    "word_error_rate_estimate": 0.09934058723120331,
+    "coverage_ratio": 1.0
+  },
+  "expected_outputs": [
+    "analysis/sherlock_intelligent_disclosure_ufos_in_space_intelligence_summary.json",
+    "evidence/sherlock_intelligent_disclosure_ufos_in_space_claims.json",
+    "network/sherlock_intelligent_disclosure_ufos_in_space_entities.json"
+  ],
+  "processing_instructions": {
+    "extract_entities": true,
+    "extract_claims": true,
+    "cross_reference": true,
+    "generate_summary": true,
+    "intelligence_categories": [
+      "UAP/NHI",
+      "Government Programs",
+      "Witnesses",
+      "Locations",
+      "Technologies",
+      "Organizations"
+    ]
+  },
+  "created_at": "2026-01-14T23:36:49.154594+00:00"
+}

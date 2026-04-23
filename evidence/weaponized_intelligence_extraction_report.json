@@ -1,0 +1,91 @@
+{
+  "extraction_date": "2026-01-07T14:25:47.351502",
+  "system": "Sherlock Evidence Analysis System",
+  "episodes": [
+    {
+      "episode_id": "borland_part1",
+      "title": "Douglas Borland Interview - Part 1",
+      "processed": "2026-01-07T14:16:14.755100",
+      "stats": {
+        "transcript_length": 44565,
+        "entities_extracted": {
+          "people": 0,
+          "organizations": 9,
+          "programs": 0,
+          "locations": 0,
+          "technologies": 9
+        },
+        "claims_extracted": 23
+      },
+      "transcript_excerpt": "My name is Dylan Borland, a former 1N1 geospatial intelligence specialist for the United States Air Force in an active duty enlisted capacity from 2010 to 2013.  I did the search and rescue for the SEALs and Marines who passed away in the helicopter accident, the ones that got bin Laden.  I did Overwatch for the withdrawal of Iraq. That was my unit I was a part of. I was a part of those missions.  That, I think, is honorable. There are other things that I have done that are questionable.  The dr..."
+    },
+    {
+      "episode_id": "borland_part2",
+      "title": "Douglas Borland Interview - Part 2",
+      "processed": "2026-01-07T14:16:14.843035",
+      "stats": {
+        "transcript_length": 95631,
+        "entities_extracted": {
+          "people": 4,
+          "organizations": 11,
+          "programs": 1,
+          "locations": 1,
+          "technologies": 10
+        },
+        "claims_extracted": 87
+      },
+      "transcript_excerpt": "Gold, lava, plasma, some type of fluid going over and around the craft.  What is it that you saw and found out and can tell us about?  I only came for them because I sincerely believed they were going to die.  Sucks.  I think what we are dealing with is very, very, very old.  I think old humans have written those down in religious stories.  I think that it's quite clear that we have been influenced by something else.  I provided three rudimentary drawings, one of which was unclassified,  and the..."
+    },
+    {
+      "episode_id": "capitol_bombs",
+      "title": "UFO Bombs Dropped On Capitol Hill",
+      "processed": "2026-01-07T14:16:14.650033",
+      "stats": {
+        "transcript_length": 56559,
+        "entities_extracted": {
+          "people": 21,
+          "organizations": 16,
+          "programs": 6,
+          "locations": 4,
+          "technologies": 12
+        },
+        "claims_extracted": 127
+      },
+      "transcript_excerpt": "Last episode of Weaponized, we heard directly from Tim Burchett.  There was a lot that he said, but there was a lot that we could not say.  Now, some of that was put out.  July 26th, we'll have a hearing.  We'll hear directly from firsthand witnesses.  Senator Schumer is a pretty crafty politician.  He's not going to stick his neck out if he doesn't have some kind of a support  for taking this sort of a position.  We all have to believe that the testimony of David Grush that came out a few weeks..."
+    },
+    {
+      "episode_id": "lacatski_part1",
+      "title": "Dr. James Lacatski Interview - Part 1",
+      "processed": "2026-01-07T14:16:14.701324",
+      "stats": {
+        "transcript_length": 48853,
+        "entities_extracted": {
+          "people": 14,
+          "organizations": 12,
+          "programs": 2,
+          "locations": 5,
+          "technologies": 10
+        },
+        "claims_extracted": 44
+      },
+      "transcript_excerpt": "OSAP was the U.S. government's largest acknowledged UFO study program in history,  and Dr. James Lekatsky was the head of that program.  I was the creator and DIA program manager of OSAP,  the Advanced Aerospace Weapon System Applications Program,  and of the follow-on Kona Blue program, KBP.  We've already admitted, because you're allowed to,  that we have an exploitation or a UFO program to study at least one craft.  That has been the core question people have been arguing about,  and you're a..."
+    },
+    {
+      "episode_id": "lacatski_part2",
+      "title": "Dr. James Lacatski Interview - Part 2",
+      "processed": "2026-01-07T14:16:14.711179",
+      "stats": {
+        "transcript_length": 9232,
+        "entities_extracted": {
+          "people": 2,
+          "organizations": 4,
+          "programs": 1,
+          "locations": 1,
+          "technologies": 5
+        },
+        "claims_extracted": 14
+      },
+      "transcript_excerpt": "In part two of our interview with the creator and head of the U.S. government's largest acknowledged UAP study program, Dr. James Lukatsky.  The glory days of technologies were the 60s and 70s.  There were a lot of bright ideas and a lot of tests.  The Georgia case where the fella inadvertently hit, not inadvertently, he deliberately fired at a black triangle a million candle spotlight and it immediately fired back a radiation beam and he got tumors from it.  Through some investigative journalis..."
+    }
+  ]
+}

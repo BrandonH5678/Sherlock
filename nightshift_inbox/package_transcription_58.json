@@ -1,0 +1,53 @@
+{
+  "task_id": "sherlock_transcription_ec40f341-6953-452a-b065-f0e210d55fc4",
+  "task_type": "sherlock_podcast_intelligence",
+  "package_id": 58,
+  "target_name": "SHERLOCK - American Alchemy - Hall Area51",
+  "source": "freelance_transcription_service",
+  "package_type": "podcast_transcript",
+  "priority": 2,
+  "input_files": {
+    "txt": "/home/johnny5/Sherlock/transcripts/sherlock_american_alchemy_hall_area51_ec40f341-6953-452a-b065-f0e210d55fc4.txt",
+    "json": "/home/johnny5/Sherlock/transcripts/sherlock_american_alchemy_hall_area51_ec40f341-6953-452a-b065-f0e210d55fc4.json",
+    "srt": "/home/johnny5/Sherlock/transcripts/sherlock_american_alchemy_hall_area51_ec40f341-6953-452a-b065-f0e210d55fc4_subtitles.srt",
+    "vtt": "/home/johnny5/Sherlock/transcripts/sherlock_american_alchemy_hall_area51_ec40f341-6953-452a-b065-f0e210d55fc4_subtitles.vtt"
+  },
+  "quality_metrics": {
+    "processing_time_seconds": 861.2614250183105,
+    "real_time_factor": 9.87513402195992,
+    "gpu_utilization_percent": 2,
+    "diarization_status": "completed",
+    "speaker_count": 8,
+    "diarization_backend": "whisperx+pyannote",
+    "diarization_error_rate": null,
+    "speaker_purity": 0.9997859589041096,
+    "speaker_coverage": 0.9997859589041096,
+    "diarization_time_seconds": 270.5741455554962,
+    "diarization_real_time_factor": 31.433424588808556,
+    "diarization_vram_used_gb": null,
+    "overall_score": 0.9759963543571734,
+    "avg_confidence": 0.9410626972541336,
+    "word_error_rate_estimate": 0.05893730274586639,
+    "coverage_ratio": 1.0
+  },
+  "expected_outputs": [
+    "analysis/sherlock_american_alchemy_hall_area51_intelligence_summary.json",
+    "evidence/sherlock_american_alchemy_hall_area51_claims.json",
+    "network/sherlock_american_alchemy_hall_area51_entities.json"
+  ],
+  "processing_instructions": {
+    "extract_entities": true,
+    "extract_claims": true,
+    "cross_reference": true,
+    "generate_summary": true,
+    "intelligence_categories": [
+      "UAP/NHI",
+      "Government Programs",
+      "Witnesses",
+      "Locations",
+      "Technologies",
+      "Organizations"
+    ]
+  },
+  "created_at": "2026-01-05T21:56:36.857781+00:00"
+}

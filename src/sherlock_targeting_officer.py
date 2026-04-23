@@ -597,6 +597,86 @@ class TargetingOfficer:
             created_packages=created_packages
         )
 
+    def update_target_priorities_from_review(
+        self,
+        priority_updates: List[Dict],
+        reviewer: str = "prism_claude",
+        review_timestamp: datetime = None
+    ) -> Dict:
+        """
+        Update target priorities based on Prism intelligence review.
+
+        Creates full audit trail in database via target_priority_history table.
+
+        Args:
+            priority_updates: List of dicts with format:
+                [{
+                    'target_id': int,
+                    'old_priority': int,
+                    'new_priority': int,
+                    'reasoning': str
+                }, ...]
+            reviewer: Who is making the update (default: prism_claude)
+            review_timestamp: When the review occurred (default: now)
+
+        Returns:
+            Dict with update results
+        """
+        conn = sqlite3.connect(self.db_path)
+        cursor = conn.cursor()
+
+        results = []
+        for update in priority_updates:
+            try:
+                # Update target priority
+                cursor.execute('''
+                    UPDATE targets
+                    SET priority = ?, updated_at = ?
+                    WHERE target_id = ?
+                ''', (
+                    update['new_priority'],
+                    datetime.now().isoformat(),
+                    update['target_id']
+                ))
+
+                # Log priority change to history
+                cursor.execute('''
+                    INSERT INTO target_priority_history
+                    (target_id, old_priority, new_priority, reasoning, reviewer, timestamp)
+                    VALUES (?, ?, ?, ?, ?, ?)
+                ''', (
+                    update['target_id'],
+                    update['old_priority'],
+                    update['new_priority'],
+                    update['reasoning'],
+                    reviewer,
+                    (review_timestamp or datetime.now()).isoformat()
+                ))
+
+                results.append({
+                    'target_id': update['target_id'],
+                    'status': 'updated',
+                    'new_priority': update['new_priority']
+                })
+
+            except Exception as e:
+                results.append({
+                    'target_id': update.get('target_id'),
+                    'status': 'failed',
+                    'error': str(e)
+                })
+
+        conn.commit()
+        conn.close()
+
+        successful = len([r for r in results if r['status'] == 'updated'])
+
+        return {
+            'updated_count': successful,
+            'failed_count': len(results) - successful,
+            'updates': results
+        }
+
 
 def main():
     """Example usage and testing"""

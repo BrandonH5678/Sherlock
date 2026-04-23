@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "generated_at": "2026-02-23T02:17:17.426424+00:00",
+    "generated_by": "epstein_foia_collector.py",
+    "campaign": "PKG-EP",
+    "dry_run": false,
+    "archives_scanned": 3,
+    "supplementary_keywords": [
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell",
+      "Epstein blackmail",
+      "Epstein intelligence",
+      "Les Wexner Epstein"
+    ]
+  },
+  "archives": [
+    {
+      "name": "DOJ Epstein Library",
+      "base_url": "https://www.justice.gov/epstein",
+      "status": "success",
+      "document_count": 0,
+      "errors": []
+    },
+    {
+      "name": "FBI Vault - Epstein",
+      "base_url": "https://vault.fbi.gov/",
+      "status": "http_error",
+      "document_count": 0,
+      "errors": [
+        "HTTP 403 from https://vault.fbi.gov/search?SearchableText=epstein"
+      ]
+    },
+    {
+      "name": "CIA CREST Reading Room",
+      "base_url": "https://www.cia.gov/readingroom/",
+      "status": "success",
+      "document_count": 0,
+      "errors": []
+    }
+  ],
+  "documents": [],
+  "statistics": {
+    "total_documents": 0,
+    "verified_documents": 0,
+    "by_archive": {
+      "DOJ Epstein Library": 0,
+      "FBI Vault - Epstein": 0,
+      "CIA CREST Reading Room": 0
+    }
+  }
+}

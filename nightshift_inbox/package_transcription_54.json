@@ -1,0 +1,53 @@
+{
+  "task_id": "sherlock_transcription_6fb1e97d-1e4c-4845-85bb-cf4486a4bd8f",
+  "task_type": "sherlock_podcast_intelligence",
+  "package_id": 54,
+  "target_name": "SHERLOCK - Lacatski Part 2 Premium Default Test",
+  "source": "freelance_transcription_service",
+  "package_type": "podcast_transcript",
+  "priority": 2,
+  "input_files": {
+    "txt": "/home/johnny5/Sherlock/transcripts/sherlock_lacatski_part_2_premium_default_test_6fb1e97d-1e4c-4845-85bb-cf4486a4bd8f.txt",
+    "json": "/home/johnny5/Sherlock/transcripts/sherlock_lacatski_part_2_premium_default_test_6fb1e97d-1e4c-4845-85bb-cf4486a4bd8f.json",
+    "srt": "/home/johnny5/Sherlock/transcripts/sherlock_lacatski_part_2_premium_default_test_6fb1e97d-1e4c-4845-85bb-cf4486a4bd8f_subtitles.srt",
+    "vtt": "/home/johnny5/Sherlock/transcripts/sherlock_lacatski_part_2_premium_default_test_6fb1e97d-1e4c-4845-85bb-cf4486a4bd8f_subtitles.vtt"
+  },
+  "quality_metrics": {
+    "processing_time_seconds": 100.24546718597412,
+    "real_time_factor": 5.178334468100825,
+    "gpu_utilization_percent": 98,
+    "diarization_status": "completed",
+    "speaker_count": 4,
+    "diarization_backend": "whisperx+pyannote",
+    "diarization_error_rate": null,
+    "speaker_purity": 0.9946236559139785,
+    "speaker_coverage": 0.9946236559139785,
+    "diarization_time_seconds": 25.319698333740234,
+    "diarization_real_time_factor": 20.502004058565642,
+    "diarization_vram_used_gb": null,
+    "overall_score": 0.9661867349835216,
+    "avg_confidence": 0.9188914949930506,
+    "word_error_rate_estimate": 0.08110850500694944,
+    "coverage_ratio": 1.0
+  },
+  "expected_outputs": [
+    "analysis/sherlock_lacatski_part_2_premium_default_test_intelligence_summary.json",
+    "evidence/sherlock_lacatski_part_2_premium_default_test_claims.json",
+    "network/sherlock_lacatski_part_2_premium_default_test_entities.json"
+  ],
+  "processing_instructions": {
+    "extract_entities": true,
+    "extract_claims": true,
+    "cross_reference": true,
+    "generate_summary": true,
+    "intelligence_categories": [
+      "UAP/NHI",
+      "Government Programs",
+      "Witnesses",
+      "Locations",
+      "Technologies",
+      "Organizations"
+    ]
+  },
+  "created_at": "2026-01-05T01:03:42.912098+00:00"
+}

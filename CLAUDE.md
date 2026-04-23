@@ -270,3 +270,36 @@ request = VoiceProcessingRequest(
 ---
 
 **This file provides automatic context injection for Claude Code when working in the Sherlock system. All operators should reference the complete AI Operator Manual for detailed protocols and procedures.**
+---
+
+## 🗑️ Media Retention Policy (48-Hour Auto-Delete)
+
+**IMPORTANT:** Source media files (podcasts, audio, video) are automatically
+deleted 48 hours after download. This is enforced by systemd timer.
+
+### Workflow
+1. **Download media** → stored in `/var/lib/johnny5/media-staging/sherlock/`
+2. **Transcribe** → transcript saved to `/home/johnny5/Sherlock/evidence/`
+3. **48-hour window** → time for review/re-processing if needed
+4. **Auto-cleanup** → source media deleted, transcript retained permanently
+
+### Storage Locations
+| Type | Location | Retention |
+|------|----------|-----------|
+| Temporary media | `/var/lib/johnny5/media-staging/sherlock/` | 48 hours (auto-cleaned) |
+| Processing artifacts | `/var/lib/johnny5/media-staging/sherlock-processing/` | 48 hours (auto-cleaned) |
+| Permanent transcripts | `/home/johnny5/Sherlock/evidence/` | Permanent |
+| Archives (manual) | `/home/johnny5/Sherlock/archives/` | Permanent (excluded from cleanup) |
+
+### If You Need to Keep Media Longer
+- Move to `/home/johnny5/Sherlock/archives/` (excluded from cleanup)
+- Or ensure processing completes within 48 hours
+
+### Cleanup System
+- **Script:** `/var/lib/johnny5/scripts/media-cleanup.sh`
+- **Timer:** `j5a-media-cleanup.timer` (runs every 6 hours)
+- **Log:** `/var/log/j5a-media-cleanup.log`
+
+**Constitutional Basis:** Principle 4 (Resource Stewardship) - Efficient use of storage resources
+
+---

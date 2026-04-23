@@ -1,0 +1,19 @@
+{
+  "source_entity": "S-Force",
+  "extraction_date": "2025-12-07",
+  "research_status": "INSUFFICIENT_DATA",
+  "total_claims": 0,
+  "claims": [],
+  "notes": "Unable to extract claims - research target 'S-Force' not definitively identified in public sources. Term requires additional context from original targeting source.",
+  "related_findings": {
+    "special_operations": [
+      "ISA/Task Force Orange - actual JSOC intelligence unit",
+      "Various SAP code names used for classified operations"
+    ],
+    "uap_programs": [
+      "Immaculate Constellation - alleged Pentagon UAP program",
+      "Kona Blue - proposed but never approved DHS program"
+    ]
+  },
+  "recommendation": "Flag for human analyst review to identify source context"
+}

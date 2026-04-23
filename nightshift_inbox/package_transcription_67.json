@@ -1,0 +1,69 @@
+{
+  "task_id": "sherlock_transcription_01cbcbd5-8240-432c-ab3c-8026275fef1f",
+  "task_type": "sherlock_podcast_intelligence",
+  "package_id": 67,
+  "target_name": "SHERLOCK - Weaponized - Immaculate Constellation Part 3",
+  "source": "freelance_transcription_service",
+  "package_type": "podcast_transcript",
+  "priority": 2,
+  "input_files": {
+    "txt": "/home/johnny5/Sherlock/transcripts/sherlock_weaponized_immaculate_constellation_part_3_01cbcbd5-8240-432c-ab3c-8026275fef1f.txt",
+    "json": "/home/johnny5/Sherlock/transcripts/sherlock_weaponized_immaculate_constellation_part_3_01cbcbd5-8240-432c-ab3c-8026275fef1f.json",
+    "srt": "/home/johnny5/Sherlock/transcripts/sherlock_weaponized_immaculate_constellation_part_3_01cbcbd5-8240-432c-ab3c-8026275fef1f_subtitles.srt",
+    "vtt": "/home/johnny5/Sherlock/transcripts/sherlock_weaponized_immaculate_constellation_part_3_01cbcbd5-8240-432c-ab3c-8026275fef1f_subtitles.vtt"
+  },
+  "quality_metrics": {
+    "processing_time_seconds": 408.98419189453125,
+    "real_time_factor": 8.977336150798777,
+    "gpu_utilization_percent": 95,
+    "hallucination_flagged_count": 22,
+    "hallucination_flagged_percent": 2.696078431372549,
+    "llm_salvage": {
+      "total_flagged": 22,
+      "salvaged": 2,
+      "marked_inaudible": 18,
+      "marked_unclear": 2,
+      "estimated_cost": 0.22,
+      "processed": 22,
+      "api_calls": 22
+    },
+    "diarization_status": "completed",
+    "speaker_count": 3,
+    "diarization_backend": "whisperx+pyannote",
+    "diarization_error_rate": null,
+    "speaker_purity": 0.9977452085682075,
+    "speaker_coverage": 0.9977452085682075,
+    "diarization_time_seconds": 121.45797991752625,
+    "diarization_real_time_factor": 30.2292906031627,
+    "diarization_vram_used_gb": null,
+    "diarization_correction": {
+      "false_interjections_merged": 5,
+      "mid_sentence_switches_fixed": 143,
+      "segments_reduced": 148
+    },
+    "overall_score": 0.97040892721987,
+    "avg_confidence": 0.9278605533437929,
+    "word_error_rate_estimate": 0.07213944665620708,
+    "coverage_ratio": 1.0
+  },
+  "expected_outputs": [
+    "analysis/sherlock_weaponized_immaculate_constellation_part_3_intelligence_summary.json",
+    "evidence/sherlock_weaponized_immaculate_constellation_part_3_claims.json",
+    "network/sherlock_weaponized_immaculate_constellation_part_3_entities.json"
+  ],
+  "processing_instructions": {
+    "extract_entities": true,
+    "extract_claims": true,
+    "cross_reference": true,
+    "generate_summary": true,
+    "intelligence_categories": [
+      "UAP/NHI",
+      "Government Programs",
+      "Witnesses",
+      "Locations",
+      "Technologies",
+      "Organizations"
+    ]
+  },
+  "created_at": "2026-01-12T00:31:39.915296+00:00"
+}

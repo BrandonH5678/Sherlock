@@ -1,0 +1,86 @@
+{
+  "source_entity": "John G. Trump",
+  "extraction_date": "2025-12-07",
+  "research_status": "COMPLETED",
+  "total_claims": 6,
+  "claims": [
+    {
+      "claim_id": "JTRUMP_001",
+      "claim": "John G. Trump analyzed Nikola Tesla's papers for the FBI in January 1943",
+      "category": "historical_fact",
+      "confidence": "HIGH",
+      "verifiable": true,
+      "verification_status": "VERIFIED",
+      "supporting_evidence": "FBI declassified documents, OAPC records, Trump's official memo released 2017"
+    },
+    {
+      "claim_id": "JTRUMP_002",
+      "claim": "Trump concluded Tesla's 'death ray' papers lacked sufficient information to build a working weapon",
+      "category": "technical_assessment",
+      "confidence": "HIGH",
+      "verifiable": true,
+      "verification_status": "VERIFIED",
+      "supporting_evidence": "Trump's official report to OAPC; assessment not overturned by 1984 Yugoslav document discovery"
+    },
+    {
+      "claim_id": "JTRUMP_003",
+      "claim": "Trump determined Tesla's work was 'primarily speculative, philosophical and promotional'",
+      "category": "technical_assessment",
+      "confidence": "HIGH",
+      "verifiable": true,
+      "verification_status": "VERIFIED",
+      "supporting_evidence": "Direct quote from declassified Trump report"
+    },
+    {
+      "claim_id": "JTRUMP_004",
+      "claim": "Some of Tesla's files remain missing after government seizure",
+      "category": "document_status",
+      "confidence": "MEDIUM",
+      "verifiable": true,
+      "verification_status": "PARTIALLY_VERIFIED",
+      "supporting_evidence": "FBI acknowledgment; 2016-2018 FOIA releases still incomplete",
+      "critical_notes": "Opens questions about what may have been retained or classified"
+    },
+    {
+      "claim_id": "JTRUMP_005",
+      "claim": "Trump had government clearance through NDRC during WWII",
+      "category": "biographical_fact",
+      "confidence": "HIGH",
+      "verifiable": true,
+      "verification_status": "VERIFIED",
+      "supporting_evidence": "Historical records of NDRC service"
+    },
+    {
+      "claim_id": "JTRUMP_006",
+      "claim": "Tesla had offered the US Army a license to unspecified secret weapons before his death",
+      "category": "historical_context",
+      "confidence": "HIGH",
+      "verifiable": true,
+      "verification_status": "VERIFIED",
+      "supporting_evidence": "Documented correspondence and historical records"
+    }
+  ],
+  "cross_references": [
+    {
+      "related_entity": "Nikola Tesla",
+      "connection_type": "subject_of_analysis",
+      "description": "Trump analyzed Tesla's papers for potential national security implications"
+    },
+    {
+      "related_entity": "FBI",
+      "connection_type": "requesting_agency",
+      "description": "FBI coordinated Tesla papers review with OAPC"
+    },
+    {
+      "related_entity": "MIT",
+      "connection_type": "institutional_affiliation",
+      "description": "Trump's MIT position provided technical credibility for government consultation"
+    }
+  ],
+  "open_questions": [
+    "Complete inventory of Tesla materials reviewed vs. materials not reviewed",
+    "Fate of 'missing' Tesla files",
+    "Full scope of government interest in Tesla's advanced technology claims",
+    "Any connection to later unconventional weapons research programs"
+  ]
+}

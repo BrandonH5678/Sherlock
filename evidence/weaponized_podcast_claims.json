@@ -1,0 +1,116 @@
+{
+  "source": "WEAPONIZED Podcast",
+  "hosts": ["Jeremy Corbell", "George Knapp"],
+  "extraction_date": "2025-12-07",
+  "research_status": "COMPLETED",
+  "summary": "Multi-platform investigative series featuring exclusive interviews with government whistleblowers, military officials, scientists, and journalists. Primary focus on UAP/UFO phenomena, cover-ups, and related topics.",
+  "total_claims": 8,
+  "claims": [
+    {
+      "claim_id": "WEAPONIZED_001",
+      "claim": "Dylan Borland testified to Congress (September 2025) as legitimate UAP whistleblower with top-secret clearance from Air Force/intelligence agency work",
+      "category": "whistleblower",
+      "confidence": "HIGH",
+      "verifiable": true,
+      "verification_status": "VERIFIED",
+      "source_context": "Congressional testimony publicly documented"
+    },
+    {
+      "claim_id": "WEAPONIZED_002",
+      "claim": "Legacy UAP programs exist and extreme measures are taken against potential whistleblowers",
+      "category": "uap_program",
+      "confidence": "MEDIUM",
+      "verifiable": true,
+      "verification_status": "CLAIMED_BY_WHISTLEBLOWERS",
+      "source_context": "Dylan Borland revelations on podcast"
+    },
+    {
+      "claim_id": "WEAPONIZED_003",
+      "claim": "Witnesses face real risks for speaking truth about UAP encounters",
+      "category": "whistleblower_risks",
+      "confidence": "HIGH",
+      "verifiable": true,
+      "verification_status": "DOCUMENTED",
+      "source_context": "Multiple whistleblower accounts, congressional testimony"
+    },
+    {
+      "claim_id": "WEAPONIZED_004",
+      "claim": "Congressional hearing (2025) featured testimony from Jeff Nuccetelli, Alexandro Wiggins, Dylan Borland, George Knapp",
+      "category": "congressional_activity",
+      "confidence": "HIGH",
+      "verifiable": true,
+      "verification_status": "VERIFIED",
+      "source_context": "Public congressional record"
+    },
+    {
+      "claim_id": "WEAPONIZED_005",
+      "claim": "Podcast has released never-before-seen footage and previously-suppressed documents related to UFOs",
+      "category": "investigative_journalism",
+      "confidence": "HIGH",
+      "verifiable": true,
+      "verification_status": "VERIFIED",
+      "source_context": "Published content on WeaponizedPodcast.com and YouTube"
+    },
+    {
+      "claim_id": "WEAPONIZED_006",
+      "claim": "Whistleblowers must report through appropriate Inspector General channels (Title 5 for civil servants, Title 50 for intelligence community)",
+      "category": "legal_framework",
+      "confidence": "HIGH",
+      "verifiable": true,
+      "verification_status": "VERIFIED",
+      "source_context": "Legal requirements discussed in whistleblower episodes"
+    },
+    {
+      "claim_id": "WEAPONIZED_007",
+      "claim": "Rep. Anna Paulina Luna chaired UAP hearing with military witnesses testifying under oath",
+      "category": "congressional_activity",
+      "confidence": "HIGH",
+      "verifiable": true,
+      "verification_status": "VERIFIED",
+      "source_context": "Congressional record"
+    },
+    {
+      "claim_id": "WEAPONIZED_008",
+      "claim": "UAP phenomena involve cover-ups, conspiracies, and crimes at high levels",
+      "category": "editorial_position",
+      "confidence": "MEDIUM",
+      "verifiable": true,
+      "verification_status": "POSITION_STATEMENT",
+      "source_context": "Podcast mission statement"
+    }
+  ],
+  "notable_episodes": [
+    {
+      "title": "Dylan Borland UAP Whistleblower Part 2",
+      "focus": "Legacy programs and whistleblower intimidation"
+    },
+    {
+      "title": "Threats, Intimidation, Prosecution - The Daunting Risks For UFO Whistleblowers",
+      "focus": "Whistleblower legal protections and risks"
+    },
+    {
+      "title": "Congressional Hearing Coverage",
+      "focus": "2025 UAP hearing analysis"
+    }
+  ],
+  "hosts_background": {
+    "jeremy_corbell": "Documentary filmmaker, UFO researcher, released Navy UAP footage",
+    "george_knapp": "Investigative journalist, Emmy winner, broke Bob Lazar story, covered Area 51"
+  },
+  "platform_availability": [
+    "Apple Podcasts",
+    "Spotify",
+    "iHeart",
+    "Amazon Music",
+    "YouTube (@WeaponizedPodcast)",
+    "weaponizedpodcast.com"
+  ],
+  "cross_references": [
+    "Dylan Borland",
+    "Luis Elizondo",
+    "David Grusch",
+    "AARO",
+    "Congressional UAP hearings",
+    "Navy UAP footage"
+  ]
+}

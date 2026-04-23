@@ -1,0 +1,1114 @@
+{
+  "analysis_date": "2026-01-07T15:01:51.512577",
+  "analysis_scope": {
+    "date_range": "Since 2025-11-01",
+    "db_claims_analyzed": 295,
+    "unique_entities": 90,
+    "external_evidence_files": 43
+  },
+  "key_findings": {
+    "multi_source_entities": 32,
+    "entity_cooccurrences": 40,
+    "thematic_connections": {
+      "uap_disclosure": 144,
+      "government_programs": 32,
+      "legislation": 41,
+      "technology": 75,
+      "defense_contractors": 30,
+      "intelligence_community": 39
+    },
+    "external_cross_references": 17
+  },
+  "top_people": [
+    {
+      "name": "Senator Reid",
+      "mentions": 6,
+      "sources": 3
+    },
+    {
+      "name": "David Grush",
+      "mentions": 8,
+      "sources": 2
+    },
+    {
+      "name": "Bob Lazar",
+      "mentions": 6,
+      "sources": 2
+    },
+    {
+      "name": "Harry Reid",
+      "mentions": 4,
+      "sources": 2
+    },
+    {
+      "name": "Dr. James Lukatsky",
+      "mentions": 3,
+      "sources": 2
+    },
+    {
+      "name": "Senator Harry",
+      "mentions": 2,
+      "sources": 2
+    },
+    {
+      "name": "Senator Schumer",
+      "mentions": 5,
+      "sources": 1
+    },
+    {
+      "name": "George Knapp",
+      "mentions": 4,
+      "sources": 1
+    },
+    {
+      "name": "Chuck Schumer",
+      "mentions": 4,
+      "sources": 1
+    },
+    {
+      "name": "dr james katsuki",
+      "mentions": 3,
+      "sources": 1
+    },
+    {
+      "name": "Jeremy Corbell",
+      "mentions": 2,
+      "sources": 1
+    },
+    {
+      "name": "Tim Burchett",
+      "mentions": 2,
+      "sources": 1
+    },
+    {
+      "name": "Chris Sharp",
+      "mentions": 2,
+      "sources": 1
+    },
+    {
+      "name": "Susan Goh",
+      "mentions": 2,
+      "sources": 1
+    },
+    {
+      "name": "Senator Gillibrand",
+      "mentions": 2,
+      "sources": 1
+    },
+    {
+      "name": "Senator Rubio",
+      "mentions": 2,
+      "sources": 1
+    },
+    {
+      "name": "eric davis",
+      "mentions": 2,
+      "sources": 1
+    },
+    {
+      "name": "Dr. James Lekatsky",
+      "mentions": 2,
+      "sources": 1
+    },
+    {
+      "name": "Cory Booker",
+      "mentions": 1,
+      "sources": 1
+    },
+    {
+      "name": "Jacques Vallee",
+      "mentions": 1,
+      "sources": 1
+    }
+  ],
+  "top_cooccurrences": [
+    {
+      "entity1": "pentagon",
+      "entity2": "the pentagon",
+      "total_cooccurrences": 14,
+      "sources": {
+        "weaponized_capitol_bombs": 3,
+        "weaponized_lacatski_part1": 9,
+        "weaponized_lacatski_part2": 2
+      }
+    },
+    {
+      "entity1": "cia",
+      "entity2": "uap",
+      "total_cooccurrences": 5,
+      "sources": {
+        "weaponized_lacatski_part1": 1,
+        "weaponized_borland_part1": 2,
+        "weaponized_borland_part2": 2
+      }
+    },
+    {
+      "entity1": "cia",
+      "entity2": "craft",
+      "total_cooccurrences": 4,
+      "sources": {
+        "weaponized_capitol_bombs": 2,
+        "weaponized_lacatski_part1": 1,
+        "weaponized_borland_part1": 1
+      }
+    },
+    {
+      "entity1": "craft",
+      "entity2": "uap",
+      "total_cooccurrences": 4,
+      "sources": {
+        "weaponized_capitol_bombs": 1,
+        "weaponized_lacatski_part1": 1,
+        "weaponized_borland_part1": 2
+      }
+    },
+    {
+      "entity1": "dia",
+      "entity2": "uap",
+      "total_cooccurrences": 4,
+      "sources": {
+        "weaponized_borland_part1": 2,
+        "weaponized_borland_part2": 2
+      }
+    },
+    {
+      "entity1": "house",
+      "entity2": "uap",
+      "total_cooccurrences": 4,
+      "sources": {
+        "weaponized_borland_part1": 2,
+        "weaponized_borland_part2": 2
+      }
+    },
+    {
+      "entity1": "non-human origin",
+      "entity2": "uap",
+      "total_cooccurrences": 3,
+      "sources": {
+        "weaponized_capitol_bombs": 1,
+        "weaponized_borland_part1": 2
+      }
+    },
+    {
+      "entity1": "craft",
+      "entity2": "non-human origin",
+      "total_cooccurrences": 3,
+      "sources": {
+        "weaponized_capitol_bombs": 1,
+        "weaponized_borland_part1": 2
+      }
+    },
+    {
+      "entity1": "uap",
+      "entity2": "ufo",
+      "total_cooccurrences": 3,
+      "sources": {
+        "weaponized_capitol_bombs": 1,
+        "weaponized_lacatski_part1": 1,
+        "weaponized_borland_part2": 1
+      }
+    },
+    {
+      "entity1": "pentagon",
+      "entity2": "ufo",
+      "total_cooccurrences": 3,
+      "sources": {
+        "weaponized_lacatski_part1": 3
+      }
+    },
+    {
+      "entity1": "the pentagon",
+      "entity2": "ufo",
+      "total_cooccurrences": 3,
+      "sources": {
+        "weaponized_lacatski_part1": 3
+      }
+    },
+    {
+      "entity1": "cia",
+      "entity2": "engineering",
+      "total_cooccurrences": 3,
+      "sources": {
+        "weaponized_lacatski_part1": 1,
+        "weaponized_borland_part1": 2
+      }
+    },
+    {
+      "entity1": "engineering",
+      "entity2": "uap",
+      "total_cooccurrences": 3,
+      "sources": {
+        "weaponized_lacatski_part1": 1,
+        "weaponized_borland_part1": 2
+      }
+    },
+    {
+      "entity1": "dia",
+      "entity2": "house",
+      "total_cooccurrences": 3,
+      "sources": {
+        "weaponized_borland_part1": 2,
+        "weaponized_borland_part2": 1
+      }
+    },
+    {
+      "entity1": "cia",
+      "entity2": "dia",
+      "total_cooccurrences": 3,
+      "sources": {
+        "weaponized_borland_part1": 2,
+        "weaponized_borland_part2": 1
+      }
+    },
+    {
+      "entity1": "cia",
+      "entity2": "house",
+      "total_cooccurrences": 3,
+      "sources": {
+        "weaponized_borland_part1": 2,
+        "weaponized_borland_part2": 1
+      }
+    },
+    {
+      "entity1": "craft",
+      "entity2": "senator schumer",
+      "total_cooccurrences": 2,
+      "sources": {
+        "weaponized_capitol_bombs": 2
+      }
+    },
+    {
+      "entity1": "cia",
+      "entity2": "senator schumer",
+      "total_cooccurrences": 2,
+      "sources": {
+        "weaponized_capitol_bombs": 2
+      }
+    },
+    {
+      "entity1": "uap",
+      "entity2": "uap review board",
+      "total_cooccurrences": 2,
+      "sources": {
+        "weaponized_capitol_bombs": 2
+      }
+    },
+    {
+      "entity1": "authorization act",
+      "entity2": "intelligence authorization act",
+      "total_cooccurrences": 2,
+      "sources": {
+        "weaponized_capitol_bombs": 2
+      }
+    },
+    {
+      "entity1": "authorization act",
+      "entity2": "national defense authorization act",
+      "total_cooccurrences": 2,
+      "sources": {
+        "weaponized_capitol_bombs": 2
+      }
+    },
+    {
+      "entity1": "intelligence authorization act",
+      "entity2": "national defense authorization act",
+      "total_cooccurrences": 2,
+      "sources": {
+        "weaponized_capitol_bombs": 2
+      }
+    },
+    {
+      "entity1": "ufo",
+      "entity2": "washington",
+      "total_cooccurrences": 2,
+      "sources": {
+        "weaponized_capitol_bombs": 1,
+        "weaponized_lacatski_part1": 1
+      }
+    },
+    {
+      "entity1": "craft",
+      "entity2": "ufo",
+      "total_cooccurrences": 2,
+      "sources": {
+        "weaponized_lacatski_part1": 2
+      }
+    },
+    {
+      "entity1": "dia",
+      "entity2": "ufo",
+      "total_cooccurrences": 2,
+      "sources": {
+        "weaponized_lacatski_part1": 1,
+        "weaponized_borland_part2": 1
+      }
+    },
+    {
+      "entity1": "craft",
+      "entity2": "engineering",
+      "total_cooccurrences": 2,
+      "sources": {
+        "weaponized_lacatski_part1": 1,
+        "weaponized_borland_part1": 1
+      }
+    },
+    {
+      "entity1": "engineering",
+      "entity2": "nsa",
+      "total_cooccurrences": 2,
+      "sources": {
+        "weaponized_lacatski_part1": 1,
+        "weaponized_borland_part1": 1
+      }
+    },
+    {
+      "entity1": "cia",
+      "entity2": "nsa",
+      "total_cooccurrences": 2,
+      "sources": {
+        "weaponized_lacatski_part1": 1,
+        "weaponized_borland_part1": 1
+      }
+    },
+    {
+      "entity1": "nsa",
+      "entity2": "uap",
+      "total_cooccurrences": 2,
+      "sources": {
+        "weaponized_lacatski_part1": 1,
+        "weaponized_borland_part1": 1
+      }
+    },
+    {
+      "entity1": "cia",
+      "entity2": "ufo",
+      "total_cooccurrences": 2,
+      "sources": {
+        "weaponized_lacatski_part1": 1,
+        "weaponized_borland_part2": 1
+      }
+    }
+  ],
+  "thematic_analysis": {
+    "uap_disclosure": [
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0003",
+        "source": "weaponized_capitol_bombs",
+        "text": "[00:10 - 00:12] July 26th, we'll have a hearing."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0094",
+        "source": "weaponized_capitol_bombs",
+        "text": "[06:32 - 06:40] And he's inserted this huge amendment, basically, which provides a UAP review board,\n[06:40 - 06:48] which will basically look to release UAP reports going back decades."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0095",
+        "source": "weaponized_capitol_bombs",
+        "text": "[06:48 - 06:57] But not only that, it would also look to potentially, potentially release UAP materials,\n[06:58 - 06:59] which could also mean craft."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0097",
+        "source": "weaponized_capitol_bombs",
+        "text": "[07:02 - 07:07] Biological specimens as well, relating to UAP, which are non-human in nature."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0099",
+        "source": "weaponized_capitol_bombs",
+        "text": "[07:28 - 07:31] Now, this new amendment by Chuck Schumer,\n[07:32 - 07:38] is a follow on in a way from that because it says that if any UAP materials,\n[07:38 - 07:42] you know, or biological specimens..."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0114",
+        "source": "weaponized_capitol_bombs",
+        "text": "[08:35 - 08:44] Look, this new legislation is making a powerful move to expose the issue of illegal UAP technological holdings."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0138",
+        "source": "weaponized_capitol_bombs",
+        "text": "[10:31 - 10:47] I feel that UAP potentially being of either unknown origin, albeit of a non-prosaic origin, let's say, or non-human origin that they're able to determine."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0168",
+        "source": "weaponized_capitol_bombs",
+        "text": "[13:02 - 13:12] And so this is where people's hubris and egos are very helpful to the disclosure efforts about this topic, whatever it might be."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0209",
+        "source": "weaponized_capitol_bombs",
+        "text": "[15:58 - 16:02] They're interested in the UAP topic and which may hold hearings."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0212",
+        "source": "weaponized_capitol_bombs",
+        "text": "[16:16 - 16:25] And it just so happens in this new legislation that that committee is going to pay a major role in terms of oversight in this new UAP review board."
+      }
+    ],
+    "government_programs": [
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0005",
+        "source": "weaponized_capitol_bombs",
+        "text": "[00:15 - 00:18] Senator Schumer is a pretty crafty politician."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0172",
+        "source": "weaponized_capitol_bombs",
+        "text": "[13:17 - 13:20] Senator Schumer is a pretty crafty politician."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0215",
+        "source": "weaponized_capitol_bombs",
+        "text": "[16:35 - 16:47] And I think that our friend Chuck Schumer has just set the bar now and provided cover for those other politicians to actually start talking about this publicly."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0298",
+        "source": "weaponized_capitol_bombs",
+        "text": "[24:00 - 24:04] And Chris, you've really, really digested the information that once the legislation is passed,\n[24:04 - 24:13] there'll be a financial incentive for insiders to kind of blow the whistl..."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0330",
+        "source": "weaponized_capitol_bombs",
+        "text": "[26:13 - 26:16] Then the Pentagon had a panic."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0430",
+        "source": "weaponized_capitol_bombs",
+        "text": "[33:00 - 33:05] We've now seen a release from the Pentagon, 126 photos."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0434",
+        "source": "weaponized_capitol_bombs",
+        "text": "[33:14 - 33:18] You tell us what you learned, what information you were able to get out of the Pentagon,\n[33:18 - 33:20] and what you think about where this has gone."
+      },
+      {
+        "claim_id": "weaponized_lacatski_part1_claim_0012",
+        "source": "weaponized_lacatski_part1",
+        "text": "It was a time when you couldn't,  but I did officially call you on behalf of Congress  and ask would you be willing to testify,  even if it's just in a skiff and it's behind closed doors compared to p..."
+      },
+      {
+        "claim_id": "weaponized_lacatski_part1_claim_0040",
+        "source": "weaponized_lacatski_part1",
+        "text": "So those books,  which are Skinwalkers at the Pentagon,  Inside the U.S."
+      },
+      {
+        "claim_id": "weaponized_lacatski_part1_claim_0086",
+        "source": "weaponized_lacatski_part1",
+        "text": "I don't suspect, wonder,  or harbor any suspicion  that false statements  have been made to Congress,  to the Pentagon,  to you, the press,  and on the internet."
+      }
+    ],
+    "legislation": [
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0005",
+        "source": "weaponized_capitol_bombs",
+        "text": "[00:15 - 00:18] Senator Schumer is a pretty crafty politician."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0010",
+        "source": "weaponized_capitol_bombs",
+        "text": "[00:52 - 00:55] Now, this news tonight from Senator Schumer introducing new legislation."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0043",
+        "source": "weaponized_capitol_bombs",
+        "text": "[02:20 - 02:26] Let's start with Chuck Schumer and this big drop a few days ago about an amendment to the defense bill."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0087",
+        "source": "weaponized_capitol_bombs",
+        "text": "[05:37 - 05:45] And reluctantly, even the New York Times had to report on this bombshell dropped by Senator Schumer within the last two days."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0092",
+        "source": "weaponized_capitol_bombs",
+        "text": "[06:16 - 06:25] And what it is, it's a new amendment to the National Defense Authorization Act by, you know, it's by the most powerful person in the Senate."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0093",
+        "source": "weaponized_capitol_bombs",
+        "text": "[06:26 - 06:32] It's by Chuck Schumer, who's the leader of the Senate from the Democrats."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0094",
+        "source": "weaponized_capitol_bombs",
+        "text": "[06:32 - 06:40] And he's inserted this huge amendment, basically, which provides a UAP review board,\n[06:40 - 06:48] which will basically look to release UAP reports going back decades."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0099",
+        "source": "weaponized_capitol_bombs",
+        "text": "[07:28 - 07:31] Now, this new amendment by Chuck Schumer,\n[07:32 - 07:38] is a follow on in a way from that because it says that if any UAP materials,\n[07:38 - 07:42] you know, or biological specimens..."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0114",
+        "source": "weaponized_capitol_bombs",
+        "text": "[08:35 - 08:44] Look, this new legislation is making a powerful move to expose the issue of illegal UAP technological holdings."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0115",
+        "source": "weaponized_capitol_bombs",
+        "text": "[08:44 - 08:46] Like, that's what this legislation is doing."
+      }
+    ],
+    "technology": [
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0005",
+        "source": "weaponized_capitol_bombs",
+        "text": "[00:15 - 00:18] Senator Schumer is a pretty crafty politician."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0046",
+        "source": "weaponized_capitol_bombs",
+        "text": "[02:31 - 02:40] That really it puts the screws on, you know, some of these holding companies that allegedly have off-world craft not made here on Earth."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0095",
+        "source": "weaponized_capitol_bombs",
+        "text": "[06:48 - 06:57] But not only that, it would also look to potentially, potentially release UAP materials,\n[06:58 - 06:59] which could also mean craft."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0097",
+        "source": "weaponized_capitol_bombs",
+        "text": "[07:02 - 07:07] Biological specimens as well, relating to UAP, which are non-human in nature."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0099",
+        "source": "weaponized_capitol_bombs",
+        "text": "[07:28 - 07:31] Now, this new amendment by Chuck Schumer,\n[07:32 - 07:38] is a follow on in a way from that because it says that if any UAP materials,\n[07:38 - 07:42] you know, or biological specimens..."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0101",
+        "source": "weaponized_capitol_bombs",
+        "text": "[07:47 - 07:52] So Lockheed Martin, look, if they have these materials, they'll have to surrender them to the U.S."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0138",
+        "source": "weaponized_capitol_bombs",
+        "text": "[10:31 - 10:47] I feel that UAP potentially being of either unknown origin, albeit of a non-prosaic origin, let's say, or non-human origin that they're able to determine."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0150",
+        "source": "weaponized_capitol_bombs",
+        "text": "[11:45 - 11:59] And now we know that this bombshell language, which basically asserts, asserts that there are non-human entities, or implies that at least, that now that's come from, in part, from the..."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0172",
+        "source": "weaponized_capitol_bombs",
+        "text": "[13:17 - 13:20] Senator Schumer is a pretty crafty politician."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0248",
+        "source": "weaponized_capitol_bombs",
+        "text": "[20:06 - 20:15] Use of eminent domain to claim government ownership of any non-human tech, ET tech, saucers, craft, materials, bodies."
+      }
+    ],
+    "defense_contractors": [
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0008",
+        "source": "weaponized_capitol_bombs",
+        "text": "\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n**Multiple Speakers/Unclear**\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n[00:37 -..."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0043",
+        "source": "weaponized_capitol_bombs",
+        "text": "[02:20 - 02:26] Let's start with Chuck Schumer and this big drop a few days ago about an amendment to the defense bill."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0092",
+        "source": "weaponized_capitol_bombs",
+        "text": "[06:16 - 06:25] And what it is, it's a new amendment to the National Defense Authorization Act by, you know, it's by the most powerful person in the Senate."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0098",
+        "source": "weaponized_capitol_bombs",
+        "text": "[07:07 - 07:16] And that is just explosive because we know there is already a version of the Intelligence Authorization Act\n[07:16 - 07:22] and the National Defense Authorization Act, which provides a..."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0101",
+        "source": "weaponized_capitol_bombs",
+        "text": "[07:47 - 07:52] So Lockheed Martin, look, if they have these materials, they'll have to surrender them to the U.S."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0226",
+        "source": "weaponized_capitol_bombs",
+        "text": "[17:35 - 17:48] And look, for the last three or four years now, we've had multiple UAP, you know, amendments and language added to both the Intelligence Authorization Act and the National Defense Auth..."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0229",
+        "source": "weaponized_capitol_bombs",
+        "text": "[17:59 - 18:10] And we also know that this is in conjunction with the other language out there which provides amnesty to basically defense contractors like Lockheed Martin."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0231",
+        "source": "weaponized_capitol_bombs",
+        "text": "[18:16 - 18:24] And I think that we can expect more legislation to come forward, whether it be in this National Defense Authorization Act or perhaps next year."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0252",
+        "source": "weaponized_capitol_bombs",
+        "text": "[20:21 - 20:25] Lockheed has saucers stashed in a hangar somewhere."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0267",
+        "source": "weaponized_capitol_bombs",
+        "text": "[21:32 - 21:36] I'd say that if Lockheed Martin does..."
+      }
+    ],
+    "intelligence_community": [
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0098",
+        "source": "weaponized_capitol_bombs",
+        "text": "[07:07 - 07:16] And that is just explosive because we know there is already a version of the Intelligence Authorization Act\n[07:16 - 07:22] and the National Defense Authorization Act, which provides a..."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0226",
+        "source": "weaponized_capitol_bombs",
+        "text": "[17:35 - 17:48] And look, for the last three or four years now, we've had multiple UAP, you know, amendments and language added to both the Intelligence Authorization Act and the National Defense Auth..."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0276",
+        "source": "weaponized_capitol_bombs",
+        "text": "[22:22 - 22:27] And I think that needs to be included within the legislation, such as compensation."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0322",
+        "source": "weaponized_capitol_bombs",
+        "text": "[25:53 - 25:58] So I went back to Susan Goh because David Grush specifically mentioned non-human intelligence."
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0323",
+        "source": "weaponized_capitol_bombs",
+        "text": "[25:59 - 26:01] So I said, what about non-human intelligence?"
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0325",
+        "source": "weaponized_capitol_bombs",
+        "text": "[26:03 - 26:04] But do you also mean non-human intelligence?"
+      },
+      {
+        "claim_id": "weaponized_capitol_bombs_claim_0339",
+        "source": "weaponized_capitol_bombs",
+        "text": "[26:58 - 27:04] Because that means that you may be going through the process of verifying whether it is non-human intelligence."
+      },
+      {
+        "claim_id": "weaponized_lacatski_part1_claim_0026",
+        "source": "weaponized_lacatski_part1",
+        "text": "Both classified programs,  regardless of what the internet has said in the past."
+      },
+      {
+        "claim_id": "weaponized_lacatski_part1_claim_0027",
+        "source": "weaponized_lacatski_part1",
+        "text": "Both classified."
+      },
+      {
+        "claim_id": "weaponized_lacatski_part1_claim_0072",
+        "source": "weaponized_lacatski_part1",
+        "text": "At the hearings and on the internet,  there are four classes of individuals  that I've observed,  truthful descriptions of observations,  but sometimes they are fooled  by classified weapons testing  ..."
+      }
+    ]
+  },
+  "external_matches": [
+    {
+      "external_source": "weaponized_podcast_claims",
+      "external_claim": "Dylan Borland testified to Congress (September 2025) as legitimate UAP whistleblower with top-secret",
+      "db_claim_id": "weaponized_borland_part1_claim_0401",
+      "db_source": "weaponized_borland_part1",
+      "common_terms": [
+        "agency",
+        "congress",
+        "dylan",
+        "testified",
+        "air",
+        "force",
+        "uap",
+        "whistleblower",
+        "work"
+      ],
+      "match_strength": 9
+    },
+    {
+      "external_source": "weaponized_podcast_claims",
+      "external_claim": "Dylan Borland testified to Congress (September 2025) as legitimate UAP whistleblower with top-secret",
+      "db_claim_id": "weaponized_borland_part2_claim_0389",
+      "db_source": "weaponized_borland_part2",
+      "common_terms": [
+        "congress",
+        "dylan",
+        "testified",
+        "air",
+        "force",
+        "uap",
+        "clearance",
+        "whistleblower",
+        "work"
+      ],
+      "match_strength": 9
+    },
+    {
+      "external_source": "weaponized_podcast_claims",
+      "external_claim": "Dylan Borland testified to Congress (September 2025) as legitimate UAP whistleblower with top-secret",
+      "db_claim_id": "weaponized_borland_part1_claim_0425",
+      "db_source": "weaponized_borland_part1",
+      "common_terms": [
+        "intelligence",
+        "secret",
+        "air",
+        "force",
+        "uap",
+        "clearance",
+        "work"
+      ],
+      "match_strength": 7
+    },
+    {
+      "external_source": "weaponized_podcast_claims",
+      "external_claim": "Dylan Borland testified to Congress (September 2025) as legitimate UAP whistleblower with top-secret",
+      "db_claim_id": "weaponized_lacatski_part1_claim_0487",
+      "db_source": "weaponized_lacatski_part1",
+      "common_terms": [
+        "intelligence",
+        "agency",
+        "congress",
+        "uap",
+        "clearance",
+        "work"
+      ],
+      "match_strength": 6
+    },
+    {
+      "external_source": "danny_sheehan_bibliography_claims",
+      "external_claim": "Has known about multiple whistleblowers who confirmed existence of 'Immaculate Constellation' UAP pr",
+      "db_claim_id": "weaponized_lacatski_part1_claim_0487",
+      "db_source": "weaponized_lacatski_part1",
+      "common_terms": [
+        "who",
+        "uap",
+        "about",
+        "multiple",
+        "program",
+        "whistleblowers"
+      ],
+      "match_strength": 6
+    },
+    {
+      "external_source": "danny_sheehan_bibliography_claims",
+      "external_claim": "USS Nimitz-class carriers off Baja California monitored underwater UFO/UAP base near Guadalupe Islan",
+      "db_claim_id": "weaponized_borland_part2_claim_0389",
+      "db_source": "weaponized_borland_part2",
+      "common_terms": [
+        "100",
+        "uap",
+        "ufo",
+        "navy",
+        "off",
+        "near"
+      ],
+      "match_strength": 6
+    },
+    {
+      "external_source": "danny_sheehan_bibliography_claims",
+      "external_claim": "Currently representing UAP whistleblowers speaking out about crash retrieval programs",
+      "db_claim_id": "weaponized_lacatski_part1_claim_0487",
+      "db_source": "weaponized_lacatski_part1",
+      "common_terms": [
+        "programs",
+        "speaking",
+        "uap",
+        "about",
+        "out",
+        "whistleblowers"
+      ],
+      "match_strength": 6
+    },
+    {
+      "external_source": "john_trump_claims",
+      "external_claim": "Some of Tesla's files remain missing after government seizure",
+      "db_claim_id": "weaponized_borland_part1_claim_0425",
+      "db_source": "weaponized_borland_part1",
+      "common_terms": [
+        "government",
+        "missing",
+        "files",
+        "s",
+        "some"
+      ],
+      "match_strength": 5
+    },
+    {
+      "external_source": "weaponized_podcast_claims",
+      "external_claim": "Dylan Borland testified to Congress (September 2025) as legitimate UAP whistleblower with top-secret",
+      "db_claim_id": "weaponized_borland_part2_claim_0133",
+      "db_source": "weaponized_borland_part2",
+      "common_terms": [
+        "intelligence",
+        "congress",
+        "testified",
+        "air",
+        "force"
+      ],
+      "match_strength": 5
+    },
+    {
+      "external_source": "weaponized_podcast_claims",
+      "external_claim": "Witnesses face real risks for speaking truth about UAP encounters",
+      "db_claim_id": "weaponized_lacatski_part1_claim_0487",
+      "db_source": "weaponized_lacatski_part1",
+      "common_terms": [
+        "speaking",
+        "real",
+        "uap",
+        "about",
+        "truth"
+      ],
+      "match_strength": 5
+    },
+    {
+      "external_source": "weaponized_podcast_claims",
+      "external_claim": "Podcast has released never-before-seen footage and previously-suppressed documents related to UFOs",
+      "db_claim_id": "weaponized_lacatski_part1_claim_0487",
+      "db_source": "weaponized_lacatski_part1",
+      "common_terms": [
+        "seen",
+        "documents",
+        "podcast",
+        "released",
+        "never"
+      ],
+      "match_strength": 5
+    },
+    {
+      "external_source": "danny_sheehan_bibliography_claims",
+      "external_claim": "Has known about multiple whistleblowers who confirmed existence of 'Immaculate Constellation' UAP pr",
+      "db_claim_id": "weaponized_borland_part1_claim_0401",
+      "db_source": "weaponized_borland_part1",
+      "common_terms": [
+        "whistleblowers",
+        "uap",
+        "about",
+        "program",
+        "who"
+      ],
+      "match_strength": 5
+    },
+    {
+      "external_source": "danny_sheehan_bibliography_claims",
+      "external_claim": "Has known about multiple whistleblowers who confirmed existence of 'Immaculate Constellation' UAP pr",
+      "db_claim_id": "weaponized_borland_part2_claim_0389",
+      "db_source": "weaponized_borland_part2",
+      "common_terms": [
+        "uap",
+        "about",
+        "program",
+        "who",
+        "known"
+      ],
+      "match_strength": 5
+    },
+    {
+      "external_source": "danny_sheehan_bibliography_claims",
+      "external_claim": "USS Nimitz-class carriers off Baja California monitored underwater UFO/UAP base near Guadalupe Islan",
+      "db_claim_id": "weaponized_borland_part1_claim_0401",
+      "db_source": "weaponized_borland_part1",
+      "common_terms": [
+        "100",
+        "craft",
+        "uap",
+        "off",
+        "base"
+      ],
+      "match_strength": 5
+    },
+    {
+      "external_source": "danny_sheehan_bibliography_claims",
+      "external_claim": "UAP information has been hidden from public and Congress for over 80 years by Military Industrial Co",
+      "db_claim_id": "weaponized_borland_part2_claim_0389",
+      "db_source": "weaponized_borland_part2",
+      "common_terms": [
+        "congress",
+        "public",
+        "information",
+        "uap",
+        "over"
+      ],
+      "match_strength": 5
+    },
+    {
+      "external_source": "danny_sheehan_bibliography_claims",
+      "external_claim": "Currently representing UAP whistleblowers speaking out about crash retrieval programs",
+      "db_claim_id": "weaponized_borland_part1_claim_0401",
+      "db_source": "weaponized_borland_part1",
+      "common_terms": [
+        "programs",
+        "uap",
+        "about",
+        "out",
+        "whistleblowers"
+      ],
+      "match_strength": 5
+    },
+    {
+      "external_source": "a_peoples_history_of_the_united_states_howard_zinn_claims",
+      "external_claim": "Traditional history teaching emphasizes 'great men in high places' while ignoring perspectives of wo",
+      "db_claim_id": "weaponized_borland_part2_claim_0389",
+      "db_source": "weaponized_borland_part2",
+      "common_terms": [
+        "teaching",
+        "while",
+        "great",
+        "high",
+        "places"
+      ],
+      "match_strength": 5
+    }
+  ],
+  "multi_source_entities": {
+    "Dr. James Lukatsky": [
+      "lacatski_part1",
+      "lacatski_part2"
+    ],
+    "Senator Reid": [
+      "lacatski_part1",
+      "lacatski_part2",
+      "capitol_bombs"
+    ],
+    "Pentagon": [
+      "lacatski_part1",
+      "lacatski_part2",
+      "capitol_bombs"
+    ],
+    "cia": [
+      "lacatski_part1",
+      "lacatski_part2",
+      "borland_part2",
+      "borland_part1",
+      "capitol_bombs"
+    ],
+    "dia": [
+      "lacatski_part1",
+      "lacatski_part2",
+      "borland_part2",
+      "borland_part1",
+      "capitol_bombs"
+    ],
+    "Senate": [
+      "borland_part2",
+      "lacatski_part2",
+      "borland_part1",
+      "capitol_bombs"
+    ],
+    "Kona Blue": [
+      "lacatski_part1",
+      "lacatski_part2"
+    ],
+    "UAP": [
+      "lacatski_part1",
+      "lacatski_part2",
+      "borland_part2",
+      "borland_part1",
+      "capitol_bombs"
+    ],
+    "UFO": [
+      "lacatski_part1",
+      "lacatski_part2",
+      "borland_part2",
+      "borland_part1",
+      "capitol_bombs"
+    ],
+    "UFOs": [
+      "lacatski_part1",
+      "lacatski_part2",
+      "borland_part2",
+      "capitol_bombs"
+    ],
+    "craft": [
+      "lacatski_part1",
+      "lacatski_part2",
+      "borland_part2",
+      "borland_part1",
+      "capitol_bombs"
+    ],
+    "David Grush": [
+      "capitol_bombs",
+      "borland_part2"
+    ],
+    "Harry Reid": [
+      "lacatski_part1",
+      "capitol_bombs"
+    ],
+    "Bob Lazar": [
+      "capitol_bombs",
+      "borland_part2"
+    ],
+    "Senator Harry": [
+      "lacatski_part1",
+      "capitol_bombs"
+    ],
+    "DOD": [
+      "borland_part2",
+      "lacatski_part1",
+      "capitol_bombs",
+      "borland_part1"
+    ],
+    "nsa": [
+      "borland_part2",
+      "lacatski_part1",
+      "capitol_bombs",
+      "borland_part1"
+    ],
+    "House": [
+      "borland_part2",
+      "lacatski_part1",
+      "capitol_bombs",
+      "borland_part1"
+    ],
+    "AATIP": [
+      "lacatski_part1",
+      "capitol_bombs"
+    ],
+    "New York Times": [
+      "lacatski_part1",
+      "capitol_bombs"
+    ],
+    "Washington": [
+      "lacatski_part1",
+      "capitol_bombs"
+    ],
+    "UAPs": [
+      "lacatski_part1",
+      "capitol_bombs",
+      "borland_part1"
+    ],
+    "non-human origin": [
+      "capitol_bombs",
+      "borland_part1"
+    ],
+    "non-human intelligence": [
+      "borland_part2",
+      "capitol_bombs",
+      "borland_part1"
+    ],
+    "dod": [
+      "borland_part2",
+      "borland_part1"
+    ],
+    "FBI": [
+      "borland_part2",
+      "borland_part1"
+    ],
+    "house": [
+      "borland_part2",
+      "borland_part1"
+    ],
+    "uap": [
+      "borland_part2",
+      "lacatski_part1",
+      "borland_part1"
+    ],
+    "reverse engineering": [
+      "borland_part2",
+      "lacatski_part1",
+      "borland_part1"
+    ],
+    "engineering": [
+      "borland_part2",
+      "lacatski_part1",
+      "borland_part1"
+    ]
+  }
+}

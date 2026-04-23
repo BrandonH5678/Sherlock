@@ -406,6 +406,8 @@ def build_searchable_index(
         # Simple term indexing
         terms = set(re.findall(r'\b\w{2,}\b', doc_text.lower()))
         for term in terms:
+            if isinstance(index_agent.term_index[term], list):
+                index_agent.term_index[term] = set(index_agent.term_index[term])
             index_agent.term_index[term].add(doc_id)
             index_agent.term_freq[term][doc_id] += 1
         index_agent.doc_lengths[doc_id] = len(terms)
@@ -424,6 +426,8 @@ def build_searchable_index(
 
         terms = set(re.findall(r'\b\w{2,}\b', doc_text.lower()))
         for term in terms:
+            if isinstance(index_agent.term_index[term], list):
+                index_agent.term_index[term] = set(index_agent.term_index[term])
             index_agent.term_index[term].add(doc_id)
             index_agent.term_freq[term][doc_id] += 1
         index_agent.doc_lengths[doc_id] = len(terms)

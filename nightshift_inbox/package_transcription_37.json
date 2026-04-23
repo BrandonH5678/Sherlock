@@ -1,0 +1,43 @@
+{
+  "task_id": "sherlock_transcription_72f99f84-44cb-402c-b572-9601112a2d66",
+  "task_type": "sherlock_podcast_intelligence",
+  "package_id": 37,
+  "target_name": "SHERLOCK - Dr. James Lacatski - Pentagon UFO Program (PART 1)",
+  "source": "freelance_transcription_service",
+  "package_type": "podcast_transcript",
+  "priority": 2,
+  "input_files": {
+    "txt": "/home/johnny5/Sherlock/transcripts/sherlock_dr_james_lacatski_pentagon_ufo_program_part_1_72f99f84-44cb-402c-b572-9601112a2d66.txt",
+    "json": "/home/johnny5/Sherlock/transcripts/sherlock_dr_james_lacatski_pentagon_ufo_program_part_1_72f99f84-44cb-402c-b572-9601112a2d66.json"
+  },
+  "quality_metrics": {
+    "processing_time_seconds": 405.24665999412537,
+    "real_time_factor": 8.713804081818195,
+    "gpu_utilization_percent": 67,
+    "diarization_status": "error",
+    "overall_score": 0.9738241303791147,
+    "avg_confidence": 0.9345603259477869,
+    "word_error_rate_estimate": 0.06543967405221307,
+    "coverage_ratio": 1.0
+  },
+  "expected_outputs": [
+    "analysis/sherlock_dr_james_lacatski_pentagon_ufo_program_part_1_intelligence_summary.json",
+    "evidence/sherlock_dr_james_lacatski_pentagon_ufo_program_part_1_claims.json",
+    "network/sherlock_dr_james_lacatski_pentagon_ufo_program_part_1_entities.json"
+  ],
+  "processing_instructions": {
+    "extract_entities": true,
+    "extract_claims": true,
+    "cross_reference": true,
+    "generate_summary": true,
+    "intelligence_categories": [
+      "UAP/NHI",
+      "Government Programs",
+      "Witnesses",
+      "Locations",
+      "Technologies",
+      "Organizations"
+    ]
+  },
+  "created_at": "2025-12-12T21:05:51.670892+00:00"
+}

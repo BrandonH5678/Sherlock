@@ -1,0 +1,51 @@
+{
+  "task_id": "sherlock_transcription_ef9bd3c5-4e8a-4b90-8b7c-f93956d90aa2",
+  "task_type": "sherlock_podcast_intelligence",
+  "package_id": 45,
+  "target_name": "SHERLOCK - Dylan Borland - UFO Whistleblower (PART 1)",
+  "source": "freelance_transcription_service",
+  "package_type": "podcast_transcript",
+  "priority": 2,
+  "input_files": {
+    "txt": "/home/johnny5/Sherlock/transcripts/sherlock_dylan_borland_ufo_whistleblower_part_1_ef9bd3c5-4e8a-4b90-8b7c-f93956d90aa2.txt",
+    "json": "/home/johnny5/Sherlock/transcripts/sherlock_dylan_borland_ufo_whistleblower_part_1_ef9bd3c5-4e8a-4b90-8b7c-f93956d90aa2.json"
+  },
+  "quality_metrics": {
+    "processing_time_seconds": 69.0948383808136,
+    "real_time_factor": 40.12224451153505,
+    "gpu_utilization_percent": 84,
+    "diarization_status": "completed",
+    "speaker_count": 3,
+    "diarization_backend": "msdd_telephonic",
+    "diarization_error_rate": 0.12,
+    "speaker_purity": 0.92,
+    "speaker_coverage": 0.95,
+    "diarization_time_seconds": 0.00033783912658691406,
+    "diarization_real_time_factor": 8205799.09736062,
+    "diarization_vram_used_gb": 0.0,
+    "overall_score": 0.9784808392374563,
+    "avg_confidence": 0.946202098093641,
+    "word_error_rate_estimate": 0.053797901906359025,
+    "coverage_ratio": 1.0
+  },
+  "expected_outputs": [
+    "analysis/sherlock_dylan_borland_ufo_whistleblower_part_1_intelligence_summary.json",
+    "evidence/sherlock_dylan_borland_ufo_whistleblower_part_1_claims.json",
+    "network/sherlock_dylan_borland_ufo_whistleblower_part_1_entities.json"
+  ],
+  "processing_instructions": {
+    "extract_entities": true,
+    "extract_claims": true,
+    "cross_reference": true,
+    "generate_summary": true,
+    "intelligence_categories": [
+      "UAP/NHI",
+      "Government Programs",
+      "Witnesses",
+      "Locations",
+      "Technologies",
+      "Organizations"
+    ]
+  },
+  "created_at": "2025-12-12T21:56:18.717490+00:00"
+}

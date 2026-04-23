@@ -1,0 +1,76 @@
+{
+  "task_id": "sherlock_transcription_4fa72fbe-2ece-4b79-aef4-5c6649435c75",
+  "task_type": "sherlock_podcast_intelligence",
+  "package_id": 70,
+  "target_name": "SHERLOCK - American Alchemy - Chris Bledsoe NASA",
+  "source": "freelance_transcription_service",
+  "package_type": "podcast_transcript",
+  "priority": 2,
+  "input_files": {
+    "txt": "/home/johnny5/Sherlock/transcripts/sherlock_american_alchemy_chris_bledsoe_nasa_4fa72fbe-2ece-4b79-aef4-5c6649435c75.txt",
+    "json": "/home/johnny5/Sherlock/transcripts/sherlock_american_alchemy_chris_bledsoe_nasa_4fa72fbe-2ece-4b79-aef4-5c6649435c75.json",
+    "srt": "/home/johnny5/Sherlock/transcripts/sherlock_american_alchemy_chris_bledsoe_nasa_4fa72fbe-2ece-4b79-aef4-5c6649435c75_subtitles.srt",
+    "vtt": "/home/johnny5/Sherlock/transcripts/sherlock_american_alchemy_chris_bledsoe_nasa_4fa72fbe-2ece-4b79-aef4-5c6649435c75_subtitles.vtt"
+  },
+  "quality_metrics": {
+    "processing_time_seconds": 1343.8009252548218,
+    "real_time_factor": 9.244726481821884,
+    "gpu_utilization_percent": 0,
+    "hallucination_flagged_count": 97,
+    "hallucination_flagged_percent": 2.3739598629466467,
+    "llm_salvage": {
+      "total_flagged": 97,
+      "salvaged": 16,
+      "marked_inaudible": 65,
+      "marked_unclear": 16,
+      "estimated_cost": 0.97,
+      "processed": 97,
+      "api_calls": 97
+    },
+    "diarization_status": "completed",
+    "speaker_count": 3,
+    "diarization_backend": "whisperx+pyannote",
+    "diarization_error_rate": null,
+    "speaker_purity": 0.9953579281700464,
+    "speaker_coverage": 0.9953579281700464,
+    "diarization_time_seconds": 411.62952280044556,
+    "diarization_real_time_factor": 30.180225935889926,
+    "diarization_vram_used_gb": null,
+    "diarization_correction": {
+      "false_interjections_merged": 42,
+      "mid_sentence_switches_fixed": 3,
+      "segments_reduced": 45
+    },
+    "voice_anchor_matching": {
+      "anchors_loaded": 5,
+      "speakers_matched": 1,
+      "high_confidence_matches": 0,
+      "medium_confidence_matches": 0,
+      "total_speakers": 4
+    },
+    "overall_score": 0.9538102539056127,
+    "avg_confidence": 0.8866059088707372,
+    "word_error_rate_estimate": 0.1133940911292628,
+    "coverage_ratio": 1.0
+  },
+  "expected_outputs": [
+    "analysis/sherlock_american_alchemy_chris_bledsoe_nasa_intelligence_summary.json",
+    "evidence/sherlock_american_alchemy_chris_bledsoe_nasa_claims.json",
+    "network/sherlock_american_alchemy_chris_bledsoe_nasa_entities.json"
+  ],
+  "processing_instructions": {
+    "extract_entities": true,
+    "extract_claims": true,
+    "cross_reference": true,
+    "generate_summary": true,
+    "intelligence_categories": [
+      "UAP/NHI",
+      "Government Programs",
+      "Witnesses",
+      "Locations",
+      "Technologies",
+      "Organizations"
+    ]
+  },
+  "created_at": "2026-01-13T21:07:52.680702+00:00"
+}

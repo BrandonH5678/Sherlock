@@ -1,0 +1,43 @@
+{
+  "task_id": "sherlock_transcription_9d4fde22-cc54-47cf-b11d-2ef68ded4875",
+  "task_type": "sherlock_podcast_intelligence",
+  "package_id": 38,
+  "target_name": "SHERLOCK - Dr. James Lacatski - Government UFO Boss (PART 2)",
+  "source": "freelance_transcription_service",
+  "package_type": "podcast_transcript",
+  "priority": 2,
+  "input_files": {
+    "txt": "/home/johnny5/Sherlock/transcripts/sherlock_dr_james_lacatski_government_ufo_boss_part_2_9d4fde22-cc54-47cf-b11d-2ef68ded4875.txt",
+    "json": "/home/johnny5/Sherlock/transcripts/sherlock_dr_james_lacatski_government_ufo_boss_part_2_9d4fde22-cc54-47cf-b11d-2ef68ded4875.json"
+  },
+  "quality_metrics": {
+    "processing_time_seconds": 68.67263388633728,
+    "real_time_factor": 7.559118219627194,
+    "gpu_utilization_percent": 91,
+    "diarization_status": "error",
+    "overall_score": 0.9552753338343626,
+    "avg_confidence": 0.8881883345859064,
+    "word_error_rate_estimate": 0.1118116654140936,
+    "coverage_ratio": 1.0
+  },
+  "expected_outputs": [
+    "analysis/sherlock_dr_james_lacatski_government_ufo_boss_part_2_intelligence_summary.json",
+    "evidence/sherlock_dr_james_lacatski_government_ufo_boss_part_2_claims.json",
+    "network/sherlock_dr_james_lacatski_government_ufo_boss_part_2_entities.json"
+  ],
+  "processing_instructions": {
+    "extract_entities": true,
+    "extract_claims": true,
+    "cross_reference": true,
+    "generate_summary": true,
+    "intelligence_categories": [
+      "UAP/NHI",
+      "Government Programs",
+      "Witnesses",
+      "Locations",
+      "Technologies",
+      "Organizations"
+    ]
+  },
+  "created_at": "2025-12-12T21:07:10.530059+00:00"
+}

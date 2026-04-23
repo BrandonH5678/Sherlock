@@ -1,0 +1,21 @@
+{
+  "package_id": 16,
+  "target_id": 19,
+  "target_name": "John Trump",
+  "version": 1,
+  "package_type": "document",
+  "status": "submitted",
+  "collection_urls": [
+    "https://en.wikipedia.org/wiki/John_G._Trump",
+    "https://www.google.com/search?q=John+Trump+MIT+Tesla+papers"
+  ],
+  "expected_outputs": [
+    "documents/john_trump_text.txt",
+    "evidence/john_trump_claims.json",
+    "analysis/john_trump_summary.json"
+  ],
+  "metadata": {
+    "priority": 2,
+    "research_focus": "John G. Trump MIT professor, Tesla papers analysis, FBI connection"
+  }
+}

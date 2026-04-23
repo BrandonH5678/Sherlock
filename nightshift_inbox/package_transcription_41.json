@@ -1,0 +1,43 @@
+{
+  "task_id": "sherlock_transcription_a9d5f8d3-a3f9-42be-b934-085e891c7d72",
+  "task_type": "sherlock_podcast_intelligence",
+  "package_id": 41,
+  "target_name": "SHERLOCK - Weaponized - Lacatski Part 2",
+  "source": "freelance_transcription_service",
+  "package_type": "podcast_transcript",
+  "priority": 2,
+  "input_files": {
+    "txt": "/home/johnny5/Sherlock/transcripts/sherlock_weaponized_lacatski_part_2_a9d5f8d3-a3f9-42be-b934-085e891c7d72.txt",
+    "json": "/home/johnny5/Sherlock/transcripts/sherlock_weaponized_lacatski_part_2_a9d5f8d3-a3f9-42be-b934-085e891c7d72.json"
+  },
+  "quality_metrics": {
+    "processing_time_seconds": 95.04308700561523,
+    "real_time_factor": 5.4617813283919405,
+    "gpu_utilization_percent": 94,
+    "diarization_status": "error",
+    "overall_score": 0.9424082047460124,
+    "avg_confidence": 0.8600205118650309,
+    "word_error_rate_estimate": 0.13997948813496908,
+    "coverage_ratio": 1.0
+  },
+  "expected_outputs": [
+    "analysis/sherlock_weaponized_lacatski_part_2_intelligence_summary.json",
+    "evidence/sherlock_weaponized_lacatski_part_2_claims.json",
+    "network/sherlock_weaponized_lacatski_part_2_entities.json"
+  ],
+  "processing_instructions": {
+    "extract_entities": true,
+    "extract_claims": true,
+    "cross_reference": true,
+    "generate_summary": true,
+    "intelligence_categories": [
+      "UAP/NHI",
+      "Government Programs",
+      "Witnesses",
+      "Locations",
+      "Technologies",
+      "Organizations"
+    ]
+  },
+  "created_at": "2025-12-12T21:28:45.512256+00:00"
+}

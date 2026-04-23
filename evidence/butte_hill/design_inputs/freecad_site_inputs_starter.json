@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "project": "ButteHill_Bedrock_Characterization",
+    "date_generated": "2025-12-25",
+    "data_sources": ["PENDING: WA DNR LiDAR", "PENDING: WA Ecology wells", "PENDING: USGS Woodland geology", "PENDING: landslide inventory"]
+  },
+  "site": {
+    "address": "210 Lahti Rd, Woodland WA 98674",
+    "latlon_wgs84": { "lat": 0, "lon": 0 }
+  },
+  "crs": { "working_epsg": "EPSG:26910", "storage_epsg": "EPSG:4326" },
+  "aoi": { "radius_miles": 1.5, "terrain_radius_miles": 2.0 },
+  "terrain": {
+    "dtm_resolution_m": 0,
+    "slope_stats_deg": { "min": 0, "p50": 0, "p90": 0, "max": 0 },
+    "portal_candidates": [],
+    "avoid_zones": []
+  },
+  "subsurface": {
+    "wells_count": 0,
+    "bedrock_depth_ft": { "min": 0, "likely": 0, "max": 0 },
+    "water_table_ft": { "min": 0, "likely": 0, "max": 0 },
+    "confidence_0to1": 0,
+    "notes": "Placeholder until Retriever+Sherlock populate."
+  },
+  "recommendations": {
+    "recommended_portal_id": "",
+    "adit_axis": { "bearing_deg": 0, "grade_pct": 2.0, "target_station_bedrock_ft": 30.0 },
+    "needs_geophysics": true,
+    "geophysics_recommendation": "Default true until wells + terrain are analyzed."
+  },
+  "freecad_params": {
+    "units": { "length": "ft", "angle": "deg" },
+    "adit": {
+      "length_ft": 30.0,
+      "excavation_w_ft": 7.0,
+      "excavation_h_ft": 8.5,
+      "clear_w_ft": 6.0,
+      "clear_h_ft": 7.0,
+      "set_spacing_ft": 3.0
+    },
+    "collar": { "thickness_ft": 1.0, "key_into_rock_ft": 2.0 },
+    "chambers": [
+      { "id": "CH1", "length_ft": 24.0, "width_ft": 18.0, "height_ft": 9.0, "role": "Decon + staging + mechanical core" }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task_id": "sherlock_transcription_ef7ad008-75fc-4d12-905a-b0fc35a38555",
+  "task_type": "sherlock_podcast_intelligence",
+  "package_id": 51,
+  "target_name": "SHERLOCK - American Alchemy - Danny Sheehan JFK",
+  "source": "freelance_transcription_service",
+  "package_type": "podcast_transcript",
+  "priority": 2,
+  "input_files": {
+    "txt": "/home/johnny5/Sherlock/transcripts/sherlock_american_alchemy_danny_sheehan_jfk_ef7ad008-75fc-4d12-905a-b0fc35a38555.txt",
+    "json": "/home/johnny5/Sherlock/transcripts/sherlock_american_alchemy_danny_sheehan_jfk_ef7ad008-75fc-4d12-905a-b0fc35a38555.json",
+    "srt": "/home/johnny5/Sherlock/transcripts/sherlock_american_alchemy_danny_sheehan_jfk_ef7ad008-75fc-4d12-905a-b0fc35a38555_subtitles.srt",
+    "vtt": "/home/johnny5/Sherlock/transcripts/sherlock_american_alchemy_danny_sheehan_jfk_ef7ad008-75fc-4d12-905a-b0fc35a38555_subtitles.vtt"
+  },
+  "quality_metrics": {
+    "processing_time_seconds": 1245.7829735279083,
+    "real_time_factor": 8.066984549917565,
+    "gpu_utilization_percent": 0,
+    "overall_score": 0.9618549851749384,
+    "avg_confidence": 0.9070621252165286,
+    "word_error_rate_estimate": 0.09293787478347137,
+    "coverage_ratio": 1.0
+  },
+  "expected_outputs": [
+    "analysis/sherlock_american_alchemy_danny_sheehan_jfk_intelligence_summary.json",
+    "evidence/sherlock_american_alchemy_danny_sheehan_jfk_claims.json",
+    "network/sherlock_american_alchemy_danny_sheehan_jfk_entities.json"
+  ],
+  "processing_instructions": {
+    "extract_entities": true,
+    "extract_claims": true,
+    "cross_reference": true,
+    "generate_summary": true,
+    "intelligence_categories": [
+      "UAP/NHI",
+      "Government Programs",
+      "Witnesses",
+      "Locations",
+      "Technologies",
+      "Organizations"
+    ]
+  },
+  "created_at": "2025-12-24T20:08:59.672555+00:00"
+}

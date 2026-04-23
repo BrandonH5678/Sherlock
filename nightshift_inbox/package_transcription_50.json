@@ -1,0 +1,48 @@
+{
+  "task_id": "sherlock_transcription_lacatski_part2_50",
+  "task_type": "sherlock_podcast_intelligence",
+  "package_id": 50,
+  "target_name": "SHERLOCK - Dr. James Lacatski - Pentagon UFO Program (PART 2)",
+  "source": "freelance_transcription_service",
+  "package_type": "podcast_transcript",
+  "priority": 2,
+  "created_at": "2025-12-23T18:20:16.300453Z",
+  "input_files": {
+    "txt": "/home/johnny5/Sherlock/freelance_transcripts/weaponized/lacatski_part2/audio_transcription/audio.txt",
+    "json": "/home/johnny5/Sherlock/freelance_transcripts/weaponized/lacatski_part2/audio_transcription/audio.json",
+    "json_enhanced": "/home/johnny5/Sherlock/freelance_transcripts/weaponized/lacatski_part2/audio_transcription/audio_enhanced.json",
+    "readable": "/home/johnny5/Sherlock/freelance_transcripts/weaponized/lacatski_part2/audio_transcription/audio_enhanced_READABLE.txt"
+  },
+  "expected_outputs": [
+    "analysis/lacatski_part2_intelligence_summary.json",
+    "evidence/lacatski_part2_claims.json",
+    "network/lacatski_part2_entities.json"
+  ],
+  "processing_instructions": {
+    "extract_entities": true,
+    "extract_claims": true,
+    "cross_reference": true,
+    "intelligence_categories": [
+      "UAP/NHI",
+      "Government Programs",
+      "Witnesses",
+      "Locations",
+      "Technologies",
+      "Organizations",
+      "Pentagon UFO Program",
+      "AATIP/AAWSAP"
+    ]
+  },
+  "metadata": {
+    "episode": "lacatski_part2",
+    "duration_seconds": 672.6,
+    "speakers": [
+      "Dr. James Lacatski",
+      "Jeremy Corbell",
+      "George Knapp"
+    ],
+    "word_count": 1604,
+    "quality_score": 0.93,
+    "processing_method": "whisperx_medium + claude_api_enhancement"
+  }
+}

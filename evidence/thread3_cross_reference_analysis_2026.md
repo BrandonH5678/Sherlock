@@ -26,7 +26,7 @@ Knapp's sworn testimony (Source A) makes specific claims about an October 1982 i
 | **INCON-002** | "something or someone entered the correct launch codes for the missiles" | "Control code combination at 21:38" annotated as "codes of the **service signals on the control desk**" - communication service codes, not missile launch codes | **HIGH** | Escalation |
 | **INCON-003** | "Those missiles fired up and appeared ready to be launched" | Communication displays spontaneously illuminated. No mention of missiles, launch systems, or weapons in these 10 released statements | **HIGH** | Unsupported by released documents (see Methodological Caveat §VIII) |
 | **INCON-004** | "The officers at the controls could not shut them down. They tried their best to disengage but could not" | Not described in any of the 10 released witness statements. Apparatus tested normally afterward | **HIGH** | Unsupported by released documents |
-| **INCON-005** | "This was not a power surge or a security test using EMP" | Katzman explicitly hypothesizes: "I suppose that this effect can take place as a result of the influence of **a powerful impulse on the apparatus's power system**" | **HIGH** | Direct contradiction |
+| **INCON-005** | "This was not a power surge or a security test using EMP" | Katzman explicitly hypothesizes: "I suppose that this effect can take place as a result of the influence of **a powerful impulse on the apparatus's power system**" | **HIGH** | Tension — Katzman's initial hypothesis may have been rejected by Sokolov's investigation |
 | **INCON-006** | "It was observed for four hours" | Documented timeline: 19:10 (Lipezki) to 21:38 (Katzman) = ~2.5 hours | **MEDIUM** | Exaggeration |
 | **INCON-007** | Apparatus weakness and prior fuse failure omitted from testimony | Katzman: apparatus 153948 "weak in power system"; 10-amp fuse blown in thunderstorm July 1982 | **MEDIUM** | Omission |
 
@@ -207,7 +207,7 @@ The composite nature means different sections have different reliability levels.
 |---|---|---|---|
 | 1953 Inflection Point | 0.90 | **0.93** | Soviet adversary documentation independently validates; AFR 200-2 adds enforcement mechanism |
 | Nuclear-UAP Correlation | 0.85 | **0.85** | Oct 1982 incident supports but nuclear aspect specifically unconfirmed by primary docs |
-| Oct 1982 "Nuclear Launch" | 0.85 (implied) | **0.35–0.65 (unresolved)** | Released documents (comms personnel only) do not directly support missile/nuclear claims, but record is demonstrably partial — no missile crew statements included. Knapp's additional briefings from Sokolov may bridge the gap. See §VIII |
+| Oct 1982 "Nuclear Launch" | 0.85 (implied) | **0.55–0.75 (plausible to probable)** | Unit identification (Feb 2026) confirms MU 52035 = 50th Missile Division HQ (RVSN); MU 32156 = 163rd Missile Regiment (R-12 nuclear MRBMs). Katzman's C2 system at division HQ carried launch authorization signals via Signal-A. Sokolov reportedly concluded objects caused activation. See `thread3_military_unit_identification_2026.md` |
 | Oct 1982 Mass Military UFO Observation | N/A (new) | **0.95** | 10 independent military witnesses, consistent accounts, physical effects |
 | Oct 1982 Electromagnetic Effects | N/A (new) | **0.88** | Three independent EM effect categories (vehicle, radio, electronic) |
 | MJ-12 Authenticity (from Thread 3) | N/A | **0.10** | Circular evidence only; no independent validation |
@@ -216,7 +216,7 @@ The composite nature means different sections have different reliability levels.
 
 ## VII. Open Questions
 
-1. **What were the actual functions of MU 52035, 32157, 32156, 03389?** If MU 32156 "battery 4" is confirmed as a nuclear missile battery, the proximity argument strengthens even if these specific documents don't describe missile effects.
+1. ~~**What were the actual functions of MU 52035, 32157, 32156, 03389?**~~ **RESOLVED (2026-02-22):** MU 52035 = 50th Missile Division HQ; MU 32156 = 163rd Missile Regiment (R-12 nukes); MU 32157 = 181st Missile Regiment; MU 03389 = 737th Communications Node. See `thread3_military_unit_identification_2026.md`
 
 2. **What is apparatus 153948?** The specific block designations (BP-263, VTG-127) may be identifiable as communication, C2, or weapons-related through Soviet military equipment databases.
 
@@ -264,6 +264,12 @@ At Soviet strategic missile installations, communication systems and launch syst
 
 These technical implications require subject matter expertise in Soviet military C2 systems to properly evaluate — expertise that Knapp may possess and this automated analysis does not.
 
+### Translation-Layer Problem
+
+An additional factor: these documents passed through at least two translation layers (original Russian military terminology → English translation released by KLAS-TV). Soviet military technical language is dense, domain-specific, and carries operational connotations that may not survive literal translation. A communications technician writing in standardized Soviet military report format would describe equipment behavior in prescribed technical terms — the operational *meaning* of that behavior (e.g., whether "spontaneous illumination of all displays" and "control code combination" appearing on a launch-authorization-linked system constitutes a near-launch event) would be understood by the investigating officer (Sokolov) but not necessarily articulated by the technician writing the report.
+
+Knapp's "synthesis" — translating Katzman's technical description into "missiles fired up and appeared ready to be launched" — may represent not escalation but *accurate operational interpretation* of technical descriptions that, read literally in English translation, appear to describe only a communications anomaly. The gap between "communication displays illuminated" and "missiles appeared ready to launch" may be a gap of *operational context*, not a gap of *truthfulness*.
+
 ### Revised Analytical Posture
 
 This analysis **correctly identifies** that the 10 released witness statements do not, by their text, describe missile launch activation. This is a factual observation.
@@ -279,7 +285,7 @@ This analysis **should not conclude** that missile launch effects did not occur,
 | # | Target | Purpose | Priority |
 |---|--------|---------|----------|
 | RT-001 | Soviet C2 architecture at strategic missile installations | Determine role of communication systems in launch authorization chain | HIGH |
-| RT-002 | MU 32156 "battery 4" identification | Confirm unit function (strategic nuclear, tactical, or conventional artillery) | HIGH |
+| RT-002 | ~~MU 32156 "battery 4" identification~~ | **RESOLVED:** 163rd Missile Regiment, R-12 (SS-4) nuclear MRBMs, 12 launchers | ~~HIGH~~ COMPLETE |
 | RT-003 | Apparatus 153948 / BP-263 / VTG-127 identification | Determine if comm-only or dual-use C2 equipment | HIGH |
 | RT-004 | Colonel Sokolov published statements | Locate any direct statements beyond Knapp's reporting | MEDIUM |
 | RT-005 | Additional witness statements from MU 32156 personnel | Determine if missile crew reports exist in the broader document set | MEDIUM |

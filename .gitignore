@@ -9,15 +9,21 @@ venv/
 ENV/
 env/
 gladio_env/
+geo_env/
+primevideo_env/
 
 # IDE
 .vscode/
 .idea/
 *.swp
 *~
+.~lock.*
 
 # System
 .DS_Store
+
+# CSA farm pipeline (separate project, excluded from Sherlock repo)
+resiliency-csa/
 
 # Logs
 *.log

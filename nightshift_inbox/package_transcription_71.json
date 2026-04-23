@@ -1,0 +1,76 @@
+{
+  "task_id": "sherlock_transcription_1485752f-2c91-49cb-b946-57867e044af2",
+  "task_type": "sherlock_podcast_intelligence",
+  "package_id": 71,
+  "target_name": "SHERLOCK - American Alchemy - James Fox Varginha",
+  "source": "freelance_transcription_service",
+  "package_type": "podcast_transcript",
+  "priority": 2,
+  "input_files": {
+    "txt": "/home/johnny5/Sherlock/transcripts/sherlock_american_alchemy_james_fox_varginha_1485752f-2c91-49cb-b946-57867e044af2.txt",
+    "json": "/home/johnny5/Sherlock/transcripts/sherlock_american_alchemy_james_fox_varginha_1485752f-2c91-49cb-b946-57867e044af2.json",
+    "srt": "/home/johnny5/Sherlock/transcripts/sherlock_american_alchemy_james_fox_varginha_1485752f-2c91-49cb-b946-57867e044af2_subtitles.srt",
+    "vtt": "/home/johnny5/Sherlock/transcripts/sherlock_american_alchemy_james_fox_varginha_1485752f-2c91-49cb-b946-57867e044af2_subtitles.vtt"
+  },
+  "quality_metrics": {
+    "processing_time_seconds": 1575.1705751419067,
+    "real_time_factor": 7.161327273386731,
+    "gpu_utilization_percent": 0,
+    "hallucination_flagged_count": 65,
+    "hallucination_flagged_percent": 1.7082785808147174,
+    "llm_salvage": {
+      "total_flagged": 65,
+      "salvaged": 15,
+      "marked_inaudible": 29,
+      "marked_unclear": 20,
+      "estimated_cost": 0.65,
+      "processed": 65,
+      "api_calls": 65
+    },
+    "diarization_status": "completed",
+    "speaker_count": 3,
+    "diarization_backend": "whisperx+pyannote",
+    "diarization_error_rate": null,
+    "speaker_purity": 0.9992760617760618,
+    "speaker_coverage": 0.9992760617760618,
+    "diarization_time_seconds": 380.6416506767273,
+    "diarization_real_time_factor": 29.634991283652727,
+    "diarization_vram_used_gb": null,
+    "diarization_correction": {
+      "false_interjections_merged": 33,
+      "mid_sentence_switches_fixed": 58,
+      "segments_reduced": 91
+    },
+    "voice_anchor_matching": {
+      "anchors_loaded": 5,
+      "speakers_matched": 0,
+      "high_confidence_matches": 0,
+      "medium_confidence_matches": 0,
+      "total_speakers": 3
+    },
+    "overall_score": 0.9560076703420349,
+    "avg_confidence": 0.893829951150751,
+    "word_error_rate_estimate": 0.10617004884924897,
+    "coverage_ratio": 1.0
+  },
+  "expected_outputs": [
+    "analysis/sherlock_american_alchemy_james_fox_varginha_intelligence_summary.json",
+    "evidence/sherlock_american_alchemy_james_fox_varginha_claims.json",
+    "network/sherlock_american_alchemy_james_fox_varginha_entities.json"
+  ],
+  "processing_instructions": {
+    "extract_entities": true,
+    "extract_claims": true,
+    "cross_reference": true,
+    "generate_summary": true,
+    "intelligence_categories": [
+      "UAP/NHI",
+      "Government Programs",
+      "Witnesses",
+      "Locations",
+      "Technologies",
+      "Organizations"
+    ]
+  },
+  "created_at": "2026-01-13T22:32:48.567861+00:00"
+}

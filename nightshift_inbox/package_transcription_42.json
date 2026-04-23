@@ -1,0 +1,51 @@
+{
+  "task_id": "sherlock_transcription_db9019d2-cfc7-4a2b-b334-ebe9f2ccedfe",
+  "task_type": "sherlock_podcast_intelligence",
+  "package_id": 42,
+  "target_name": "SHERLOCK - Weaponized - Lacatski Part 2",
+  "source": "freelance_transcription_service",
+  "package_type": "podcast_transcript",
+  "priority": 2,
+  "input_files": {
+    "txt": "/home/johnny5/Sherlock/transcripts/sherlock_weaponized_lacatski_part_2_db9019d2-cfc7-4a2b-b334-ebe9f2ccedfe.txt",
+    "json": "/home/johnny5/Sherlock/transcripts/sherlock_weaponized_lacatski_part_2_db9019d2-cfc7-4a2b-b334-ebe9f2ccedfe.json"
+  },
+  "quality_metrics": {
+    "processing_time_seconds": 106.56735682487488,
+    "real_time_factor": 4.8711404079680705,
+    "gpu_utilization_percent": 2,
+    "diarization_status": "completed",
+    "speaker_count": 3,
+    "diarization_backend": "msdd_telephonic",
+    "diarization_error_rate": 0.12,
+    "speaker_purity": 0.92,
+    "speaker_coverage": 0.95,
+    "diarization_time_seconds": 0.007002592086791992,
+    "diarization_real_time_factor": 74130.34367361112,
+    "diarization_vram_used_gb": 0.0,
+    "overall_score": 0.9491772464746088,
+    "avg_confidence": 0.872943116186522,
+    "word_error_rate_estimate": 0.12705688381347802,
+    "coverage_ratio": 1.0
+  },
+  "expected_outputs": [
+    "analysis/sherlock_weaponized_lacatski_part_2_intelligence_summary.json",
+    "evidence/sherlock_weaponized_lacatski_part_2_claims.json",
+    "network/sherlock_weaponized_lacatski_part_2_entities.json"
+  ],
+  "processing_instructions": {
+    "extract_entities": true,
+    "extract_claims": true,
+    "cross_reference": true,
+    "generate_summary": true,
+    "intelligence_categories": [
+      "UAP/NHI",
+      "Government Programs",
+      "Witnesses",
+      "Locations",
+      "Technologies",
+      "Organizations"
+    ]
+  },
+  "created_at": "2025-12-12T21:49:37.780547+00:00"
+}
