@@ -19,8 +19,14 @@ from pyannote.audio import Pipeline
 import whisperx
 import pandas as pd
 
-# Load HF token
-hf_token = "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"
+# Load HF token from env var or ~/.hf_token file
+hf_token = os.environ.get('HF_TOKEN')
+if not hf_token:
+    hf_token_path = Path.home() / '.hf_token'
+    if hf_token_path.exists():
+        hf_token = hf_token_path.read_text().strip()
+if not hf_token:
+    raise ValueError('HF token not found: set HF_TOKEN env var or write token to ~/.hf_token')
 
 # Load aligned transcript
 with open("/home/johnny5/Sherlock/freelance_transcripts/weaponized/borland_part2/audio_transcription/alignment_audio/audio_aligned.json", "r") as f:

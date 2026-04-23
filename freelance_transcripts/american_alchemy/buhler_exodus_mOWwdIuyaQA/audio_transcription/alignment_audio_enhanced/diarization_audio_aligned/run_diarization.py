@@ -23,8 +23,14 @@ WAV_FILE = EPISODE_DIR / "audio_diarize.wav"
 OUTPUT_DIR = EPISODE_DIR / "audio_transcription" / "alignment_audio_enhanced" / "diarization_audio_aligned"
 OUTPUT_FILE = OUTPUT_DIR / "audio_diarized.json"
 
-# Load HF token
-hf_token = "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"
+# Load HF token from env var or ~/.hf_token file
+hf_token = os.environ.get('HF_TOKEN')
+if not hf_token:
+    hf_token_path = Path.home() / '.hf_token'
+    if hf_token_path.exists():
+        hf_token = hf_token_path.read_text().strip()
+if not hf_token:
+    raise ValueError('HF token not found: set HF_TOKEN env var or write token to ~/.hf_token')
 
 # Load aligned transcript
 with open(ALIGNED_JSON, "r") as f:
