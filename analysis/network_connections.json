@@ -1,0 +1,59 @@
+{
+  "analysis_date": "2025-12-07",
+  "network_clusters": [
+    {
+      "cluster_id": "cia_cold_war",
+      "name": "CIA Cold War Operations Network",
+      "members": ["allen_dulles", "james_jesus_angleton", "richard_bissell", "george_joannides"],
+      "time_period": "1950s-1970s",
+      "key_operations": ["MKUltra", "Bay of Pigs", "Operation Paperclip", "JMWAVE"],
+      "evidence_level": "HIGH"
+    },
+    {
+      "cluster_id": "stargate_rv",
+      "name": "Remote Viewing / Stargate Network",
+      "members": ["hal_puthoff", "ingo_swann", "joseph_mcmoneagle", "albert_stubblebine", "us_army_inscom"],
+      "time_period": "1970s-1995",
+      "key_programs": ["Stargate", "GRILL FLAME", "CENTER LANE", "SUN STREAK"],
+      "evidence_level": "HIGH"
+    },
+    {
+      "cluster_id": "uap_disclosure",
+      "name": "Modern UAP Disclosure Network",
+      "members": ["luis_elizondo", "james_lacatski", "hal_puthoff", "bigelow_aerospace"],
+      "time_period": "2007-present",
+      "key_programs": ["AATIP", "AAWSAP"],
+      "evidence_level": "MIXED"
+    },
+    {
+      "cluster_id": "wall_street_intel",
+      "name": "Wall Street / Intelligence Nexus",
+      "members": ["brown_brothers_harriman", "allen_dulles", "george_hw_bush"],
+      "time_period": "1930s-1990s",
+      "key_connections": ["BBH partnerships", "CIA leadership", "Political dynasty"],
+      "evidence_level": "HIGH"
+    }
+  ],
+  "entity_bridges": [
+    {
+      "entity": "allen_dulles",
+      "bridges_clusters": ["cia_cold_war", "wall_street_intel"],
+      "bridge_function": "BBH Counsel → CIA Director"
+    },
+    {
+      "entity": "hal_puthoff",
+      "bridges_clusters": ["stargate_rv", "uap_disclosure"],
+      "bridge_function": "SRI Director → AAWSAP Science Advisor"
+    },
+    {
+      "entity": "george_hw_bush",
+      "bridges_clusters": ["wall_street_intel", "cia_cold_war"],
+      "bridge_function": "BBH family → CIA Director → President"
+    }
+  ],
+  "research_gaps": {
+    "priority_1": ["john_trump", "pat_price", "s-force"],
+    "priority_2": ["angleton_joannides_connection", "bbh_client_list", "aawsap_full_report"],
+    "priority_3": ["richard_helms", "robert_bigelow", "kit_green"]
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "source_id": "weaponized_borland_part2",
+  "episode_id": "borland_part2",
+  "title": "Douglas Borland Interview - Part 2",
+  "entities": {
+    "people": [
+      {
+        "name": "David  Grush",
+        "entity_type": "people",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "verse engineered.  We now know through our, that it's likely not just our tech, that it might prove David  Grush's ideas about reverse engineering.  That we've been told all the way back from Lazar.  He saw an op"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "David Grush",
+        "entity_type": "people",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "ng about?  At that time, I did.  But I came to find out I wasn't.  Yeah, but you never testified to David Grush prior to that.  100%.  You did not.  I did not.  Right.  So you would not be one of those four.  An",
+          "e out on your own.  Everybody's offering you these whistleblower protections.  What good are they?  David Grush had whistleblower protections through the ICIG and still yet they were unable.  And I saw the press"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "marco rubio",
+        "entity_type": "people",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "rt bashing the ufo community and i post a response in there and i  say look my man you really think marco rubio who wants to be president is going to put his name  the same way i'm going to put his name the same"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Bob Lazar",
+        "entity_type": "people",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          " quickly became a problem of he is a danger.  Right.  We need to deal with this guy.  Yeah.  Yeah.  Bob Lazar kind of a hundred percent.  And that's the thing that, you know, that, that I noticed a lot is that",
+          "your line of work.  Mimic.  The same tactics all the way back to 1989, when George was reporting on Bob Lazar.  It's like just a ways to discredit you and, and put you in.  And look, I I've seen all the eviden"
+        ],
+        "confidence": 0.8
+      }
+    ],
+    "organizations": [
+      {
+        "name": "dod",
+        "entity_type": "organization",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "es back to when i was discharged from the air force after i'll process with the v in the air  force the dod mandated i go to the knee and i'm like oh my god i'm going to die i'm going to die  i'm not innate "
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "DOD",
+        "entity_type": "organization",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "I went to Arrow and went through that whole process with them.  The gentleman I met with, one was a DOD officer, the other was an FBI agent.  They were pleasant.  I think they were quite shocked of the i",
+          " and there's a joke amongst all  the military guys, which is the JAG isn't for you.  The JAG is for the DOD.  The IG isn't for us.  The IG is for the government.  And that's the way I feel now.  Did you shar"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "cia",
+        "entity_type": "organization",
+        "mention_count": 30,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "rking for BAE and for somebody else.  Yep.  For somebody else in the structure of.  Multi-agency special access program.  Yes, sir.  And it's under the umbrella of a private company.  The private company",
+          "eve that because I was having the clearance issues  and the VA issues and everything else, the financial, what they did to me,  they were experiencing it too.  And there were multiple people who I was.  ",
+          "IG and what was conveyed to me by my attorney to this day,  technically I have never gone in an official Dylan.  Here's what's happening.  Do not do this.  Here's why it has been the subliminal pot shots",
+          "ligence.  You to even people that we're not talking about, you've testified to a lot of people  officially ICIG.  You, you wanted them to know that this craft you saw, which you're thinking maybe, look, ",
+          " it was, it was definitely that, but it was also, this is such an isolating  lonely experience, especially for young people to ex to be exposed to the reality.  Of this, if you, if you already don't have",
+          " on planet earth.  And I go to his boss.  And I walk in there.  I say, here's my name.  Here's my social look me up in J pass and scattered castles.  Cause I guarantee I'm not in there.  And verbatim, he",
+          "'s doing the same stuff.  Yup.  It's called redacted.  I mean, you have covered positions and unofficial coverage.  You have covered positions.  And even then I'm starting to float down a river of classi",
+          "hat all of this was happening and considering with what the VA was doing to me,  what was on my official record, it is my opinion that it would have been very easy to discredit me  publicly by saying.  T",
+          "ecords.  He's a disgruntled employee, a liar, all of that.  And then the problem became though, especially when I came to Aero and spilled the beans.  And then people found out I kept police reports and ",
+          "credit is exactly what, why they probably chose Bob.  Compared to him.  I mean, he's working at official capacity with clearances and all that stuff, but it's the same tactics.  Yeah.  I mean, it's calle",
+          "y, that works.  Um, for example, I witnessed a suicide.  The police showed up, uh, there was an official police report.  I was with other people.  veterans the veterans affairs administration was contact",
+          "d to me is they accused me of faking a police report  faking being a police officer wrote in my official medical records which have hindered me to this day  it's still ongoing that i am a liar i am prone",
+          " still ongoing that i am a liar i am prone to delusions i make everything up and that is in my  official medical records you guys have the police report number you guys have the voicemail i played  it fo",
+          "ted the va i went to the va on the police's again all documented and the va  psychologist who was a cia employee of all things or was was you know uh said oh this is common you  need to increase your dos",
+          "about this  um and there's it's some sort of psychological program that has really deep ties within the cia  mk ultra it's it's like a continuation of that is what i understand that so there's something  els",
+          " never work with them i i train navy guys but i'm not navy i never work for the  navy other than special ops which is under redacted i had out process with the navy when i went down  out process with the",
+          "had the same thing happen to me when  i was filing for ptsd with the va the va doctors and the clinician that did it the psychiatrist who  did my va eval started asking me oh do you believe in god do you",
+          "ng about going and people are reaching out to me i'm like i'm not going anywhere near that  that is cia ci and cia central you guys are crazy doing it and you know people had known my  background knew i ",
+          "ing and people are reaching out to me i'm like i'm not going anywhere near that  that is cia ci and cia central you guys are crazy doing it and you know people had known my  background knew i had my mast",
+          " and immediately i start getting private messages  from people high ranking people overseas like special ops officers like point on my man like  you know exactly what's up and we form this small little g",
+          "ome problems that have developed.  What's the next step for you?  The decision to share it with official agencies?  Yeah, here we go.  So that same individual, the gentleman,  he makes a claim that peopl",
+          "r  from him.  He'd be my first pick with you for a hearing if I wanted real whistleblowers.  I appreciate it.  I tend to agree if you're not going to bring home or bring out legacy guys, but knowing  wha",
+          "y're just trying to do or guide their client in what's best for their  wellbeing.  Yeah.  Well, especially somebody who has been around and knows, knows what could happen.  This stuff.  Yeah.  That's unf",
+          "r doctor?  I want somebody's name next to it.  What do I need to do?  No help.  You see what's on social media, uh, the UFO world and their experts who are very, very  brave on X and giving advice to peo",
+          " about these documents and investigations and  UAP task force gets created even before Congress officially did it, it, you could, you could  be encouraged.  That sounds like it's heading in the right dir",
+          "en proven  in classified is 100% true.  I'm coming at this now and I'm hoping that veterans, the special forces community, I'm  hoping that other whistleblower attorneys, I'm hoping that average Joe down",
+          "at, right? Theoretically, that's a possibility,  100%. I think on Joe Rogan, he mentions like artificial intelligence influencing humans who  continue to create artificial intelligence and just round and",
+          "oe Rogan, he mentions like artificial intelligence influencing humans who  continue to create artificial intelligence and just round and round. Yeah, the metamorphosis  philosophy that Rogan mentioned. Y",
+          " them out of jail to come work for the FBI.  I have grave concerns that in the day and age of artificial intelligence and academia, we no longer teach critical thinking.  And if you really want to unders",
+          " like you, that would help them survive economically, give them a safe, a soft landing spot of financial support that encourages them to tell what they know, give them legal protections.  There are some "
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "CIA",
+        "entity_type": "organization",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "do a full legislative hearing, House and  Senate, both chambers.  Let's hammer this out, like 1970s CIA style.  We're reeling you guys back in.  Do you assume you're one of the four?  40 witnesses he's t"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "dia",
+        "entity_type": "organization",
+        "mention_count": 13,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "  I provided three rudimentary drawings, one of which was unclassified,  and the other two were immediately thrown into a sap.  And the two that were thrown into a sap prove we are not alone.  In this ep",
+          "alling New York times or raising hell.  No, I.  To be honest with you, George, uh, talking to the media was so ingrained into me and  other people in the work we did that it was like persona non grata, l",
+          "ou what they did to you was wrong i'm going to  send you paperwork and get your clearance fixed immediately you have to promise me though that  when you get your clearance fixed you're gonna go work back",
+          "n reporting i can read i'm paying attention to you guys i'm paying  attention to what's on public media lose names out there a tip all sap i'm looking at everybody  like i don't trust anyone um and then ",
+          " your name under my  name yep and i'm paying attention to the chat rooms and that'll target you immediately we know  that that our space was infiltrated yeah so and it's the same with chat surfer i'm in ",
+          "y i'm going to put his name the same way i'm  something unless he knows there's truth there and immediately i start getting private messages  from people high ranking people overseas like special ops off",
+          "at's coming.  He did all pre-vetting.  He went through the whole process.  I'm just curious why immediately, if you want whistleblowers to talk, this is their chance.  Dylan would be a great chance, just",
+          " who you know and are friends with.  It's nice to hear about Immaculate Constellation and have that dialogue.  It's a document put on congressional record, but it's different than if they get to hear  fr",
+          "r?  I want somebody's name next to it.  What do I need to do?  No help.  You see what's on social media, uh, the UFO world and their experts who are very, very  brave on X and giving advice to people lik",
+          "  has been set, you can then start to disclose the other things, but what needs to be disclosed immediately is the crimes.  I think there's a there's a point where you couldn't say to much about them, an",
+          "hat that could mean.  And I have a very bad feeling we are not doing that.  No, I mean, it's like media, you know, so that was my start.  I was trying to get, I never figured I could figure out the myste",
+          "ause when you went in to do the right thing and you went to Aero and you went to the ICIG, they immediately classified and put into a SAP a lot of that UAP non-human intelligence information.  So our aud",
+          "r. I provided three rudimentary drawings, one of which was unclassified, and the other two were immediately thrown into a SAP. And the two that were thrown into a SAP prove we are not alone.  Can you rep"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "FBI",
+        "entity_type": "organization",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "gh that whole process with them.  The gentleman I met with, one was a DOD officer, the other was an FBI agent.  They were pleasant.  I think they were quite shocked of the information I gave them and thi",
+          "ut of jail to come work.  I mean, we would hire criminals and get them out of jail to come work for the FBI.  I have grave concerns that in the day and age of artificial intelligence and academia, we no long"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "nsa",
+        "entity_type": "organization",
+        "mention_count": 4,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "een here for three and a half years.  I cannot do this anymore.  This work is killing me.  This is insane.  This is the worst place on planet earth.  And I go to his boss.  And I walk in there.  I say, h",
+          "re's no way you're making that claim,  and there's no way what their assessment is is valid.  It's insane.  Long story short, everything got kaput because of,  I don't know the true reason why.  I know t",
+          "?  And I did not want to tell them about everything else I'm telling you now because it sounds  so insane.  I don't want to come across as insane, but it's all true.  Is this in a skiff?  It was.  It was",
+          " everything else I'm telling you now because it sounds  so insane.  I don't want to come across as insane, but it's all true.  Is this in a skiff?  It was.  It was in a skiff.  No.  That's all my underst"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Senate",
+        "entity_type": "organization",
+        "mention_count": 9,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "e done it.  No, I mean, even whenever I felt that I had to, I was shaking.  Um, even when I went to Senate, when I went to Congress, I was shaking.  Is this why your, uh, clearance was sort of put in limbo?",
+          "oom.  You see something at Langley air force base that you have testified to arrow to Congress  and Senate intelligence.  You to even people that we're not talking about, you've testified to a lot of people",
+          "hem to die.  So I come forward and I go to Congress.  First thing I do is I call I get connected to Senate staffers  and they are asking me questions and I tell them I have witnessed a triangle  at Langley ",
+          "ot ask that yet because you could technically be leading me like I'm doing that  while I'm briefing Senate staff.  And then I go over to House and I expose a hell of a lot more in House staff, which was  no",
+          "xpose a hell of a lot more in House staff, which was  not UFO related, but serious crimes.  I go to Senate.  I drop the information on them.  They, in my impression, quickly realize I know a heck of a lot o",
+          "have concerns with Arrow knowing that they are not representing  this issue fully.  So I go through the Senate staff.  They have the conversation about bringing me to House.  There is a gentleman in the House t",
+          "o into everything and am I protected?  Yes.  And I said, all right, let's do it.  So I testified to Senate and House staff members.  I was told I shouldn't use testify.  I informed Senate and House staffers",
+          " So I testified to Senate and House staff members.  I was told I shouldn't use testify.  I informed Senate and House staffers on March 3rd.  I went to Arrow either March 27th or March 28th of 2023.  And I w",
+          " do it.  Maybe you're going to call all of us in here and do a full legislative hearing, House and  Senate, both chambers.  Let's hammer this out, like 1970s CIA style.  We're reeling you guys back in.  Do "
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "house",
+        "entity_type": "organization",
+        "mention_count": 14,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "ng so because they were genuinely concerned for their life because  their careers were taken, their houses were broken into, I mean, computers taken mailboxes  gone through that.  And again, they knew what",
+          " aware of it.  Even they would not say, um, one of those being biologics.  You think there's a storehouse of that information that anybody would have put something away  in case something bad happened to h",
+          "  um i had to pull my 401k because i didn't have a clearance i couldn't get a job i almost lost my  house i had to fight bae and the agencies i work for for unemployment which was 270 dollars a week  in no",
+          "f  america it is not feasible to even get groceries off of that basically i lost everything but my  house and at one point in time because i was concerned i was going to go to the hospital and i  was going",
+          "point in time because i was concerned i was going to go to the hospital and i  was going to lose my house because i am a 10 disabled vet the va is denying i ever did the  jobs i did denying i have the issu",
+          "d denying i have the issues i have the whole nine i was genuinely concerned i was going  to lose my house and i began to honestly consider and look at non-violent offenses in order to have  three hots in a",
+          "d I understand that you put 18, 20 years in the government,  you want your pension, you have a good house, you have kids,  and you know how dangerous the outside is,  but they're not doing the job the Amer",
+          "ngs.  Did they say, Hey, we're going to have you come back.  They're talking about nobody to go see the house.  They brought me in.  They said, did you go to Arrow?  I said, I have no way to contact Arrow and ",
+          "he didn't really necessarily believe.  In all this, but he took safety seriously.  I was brought to the house side where I briefed a house staffer.  And then we got into a heck of a lot of other non UFO things",
+          "eve.  In all this, but he took safety seriously.  I was brought to the house side where I briefed a house staffer.  And then we got into a heck of a lot of other non UFO things that are serious crimes that",
+          "spect of what you came to understand about the legacy program, the reverse engineering,  where it's housed, the power source, what it looks like.  Including redacted.  I would testify to anything and every",
+          "not doing it  again.  So is this the actual inspector general or ICIG?  Yes.  I have his card on my house.  You went through the whole thing.  I went through the whole thing.  Who else is there?  Redacted.",
+          "it's like, you guys have no idea.  Most of us are struggling to get by right now.  One guy's lost a house.  Another one's not going to make rent next month.  I pulled my 401k to keep a roof over my head.  ",
+          "tions.  There are some things that are legal protections. Don't stop people from breaking into your house or cutting your brake lines or distributing health records that embarrass you. But there has to be "
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "House",
+        "entity_type": "organization",
+        "mention_count": 8,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "hnically be leading me like I'm doing that  while I'm briefing Senate staff.  And then I go over to House and I expose a hell of a lot more in House staff, which was  not UFO related, but serious crimes.  ",
+          " while I'm briefing Senate staff.  And then I go over to House and I expose a hell of a lot more in House staff, which was  not UFO related, but serious crimes.  I go to Senate.  I drop the information on ",
+          "re was a conversation that I overheard where they were talking about  whether or not to bring me to House side due to safety concerns.  That was literally it.  And they were worried for you.  They were.  Y",
+          "is issue fully.  So I go through the Senate staff.  They have the conversation about bringing me to House.  There is a gentleman in the House that they decided to bring me to who.  What I was informed of w",
+          " the Senate staff.  They have the conversation about bringing me to House.  There is a gentleman in the House that they decided to bring me to who.  What I was informed of was he didn't really necessarily beli",
+          "ything and am I protected?  Yes.  And I said, all right, let's do it.  So I testified to Senate and House staff members.  I was told I shouldn't use testify.  I informed Senate and House staffers on March ",
+          "fied to Senate and House staff members.  I was told I shouldn't use testify.  I informed Senate and House staffers on March 3rd.  I went to Arrow either March 27th or March 28th of 2023.  And I went to Arr",
+          "to actually do it.  Maybe you're going to call all of us in here and do a full legislative hearing, House and  Senate, both chambers.  Let's hammer this out, like 1970s CIA style.  We're reeling you guys b"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "New York times",
+        "entity_type": "organization",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "t.  So towards the later.  And I would bet.  So at that point, you're not filing reports or calling New York times or raising hell.  No, I.  To be honest with you, George, uh, talking to the media was so ingrained ",
+          "points in the last few years that you were really encouraged?  Man, at last something's happening.  New York times story, December, 2017.  There's this program called a tip, which I'm sure you hadn't heard about an"
+        ],
+        "confidence": 0.8
+      }
+    ],
+    "programs": [
+      {
+        "name": "Immaculate Constellation",
+        "entity_type": "program",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          " great chance, just like Matthew Brown, who you know and are friends with.  It's nice to hear about Immaculate Constellation and have that dialogue.  It's a document put on congressional record, but it's different than if th"
+        ],
+        "confidence": 0.8
+      }
+    ],
+    "locations": [
+      {
+        "name": "Nevada",
+        "entity_type": "location",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "ter.  So basically, hypothetically speaking, let's say that I claim I saw a Bigfoot running around  Nevada Test Range and I saw a Bigfoot outside the Starbucks and Bigfoot was wearing a  U.S. Air Force unif"
+        ],
+        "confidence": 0.8
+      }
+    ],
+    "technologies": [
+      {
+        "name": "UAP",
+        "entity_type": "technologie",
+        "mention_count": 14,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "ou will notice that we chose to censor certain  details within Dylan's testimony, most unrelated to UAP.  This is to avoid unauthorized disclosures and is subject to an ongoing clearance review.  Dylan w",
+          "y people create.  So look, um, we're kind of glossing over this idea.  We're here to talk about the UAP reality.  Boom.  You see something at Langley air force base that you have testified to arrow to Co",
+          "ss, the people  that should have oversight.  So you've got that big one UFO experience, right?  The UAP experience.  Then you have this accidental exposure, but to such a high degree, I don't want to ask",
+          "the job the American Constitution demands of them.  Would you say there are differences between the UAP task force and Arrow?  I mean, that the UAP task force had different motivations.  In my limited in",
+          " them.  Would you say there are differences between the UAP task force and Arrow?  I mean, that the UAP task force had different motivations.  In my limited interaction with the task force since it's bee",
+          "ut to put themselves in grave danger.  Like, grave danger.  Anyway, his name was discussed on a UFO UAP small-time podcast,  and that individual you talk about threw a shit fit.  Excuse my language.  And",
+          "'m sure.  And I can.  I'm positive of this as well.  There are people in there that are so anti-UFO UAP  that come from very interesting agencies and very interesting locations  and the comments that the",
+          "right?  So, yeah, they had an agenda for listening to your testimony.  It wasn't really about UFOs, UAP, it was to, what can we use this for?  Probably both.  You know, this is my opinion.  I think that ",
+          "th on this.  And I said, without hesitation, yes, like 100%, yes.  You testified to the operational UAP that you had direct close proximity to as well  as the other aspect of what you came to understand ",
+          "  Yeah.  And then all SAP pops up in 2018 and we know about these documents and investigations and  UAP task force gets created even before Congress officially did it, it, you could, you could  be encour",
+          "re like, what comes out?  Like, what are you talking about?  You're talking about disclosure, about UAP, the reality of extraterrestrials or-  I'm talking about what Carl Nell would describe as catastrop",
+          "you are highlighted.  You are highly restricted on certain elements of your knowledge of the legacy UAP stuff, because when you went in to do the right thing and you went to Aero and you went to the ICIG",
+          "went to Aero and you went to the ICIG, they immediately classified and put into a SAP a lot of that UAP non-human intelligence information.  So our audience only gets to hear you say, I saw something. Th",
+          "erspective, that you have a message for anybody that's stuck in this kind of situation dealing with UAP stuff?  Yeah, give me a second, because I just choked up again. I'm sorry. I'm so no, I'm sorry to "
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "uap",
+        "entity_type": "technologie",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          " for answers and i get that with what with what he's  experienced it appears to be connected to the uap thing i mean i i'm almost certain it is because  this goes back to when i was discharged from the a",
+          "'ve been part of some like current day mk ultra type experimentation on you based on  or related to uap or not and is it punishment for what you've seen or is it part of the whole  process you were meant"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "UFOs",
+        "entity_type": "technologie",
+        "mention_count": 3,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          " fourth day in the row, you're  just doing anything to stay awake.  I remember you're talking about UFOs and you talk about everything from football,  to baseball, to movies, to music.  It's just, you're ",
+          "rying to stay awake.  You're trying to get through the night or the day.  And we were talking about UFOs and.  Bazaar come up and you're just talking normal talk.  Yeah.  And I remember I had talked about",
+          "ward, right?  So, yeah, they had an agenda for listening to your testimony.  It wasn't really about UFOs, UAP, it was to, what can we use this for?  Probably both.  You know, this is my opinion.  I think "
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "UFO",
+        "entity_type": "technologie",
+        "mention_count": 10,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "ed, that there were a number of people  that were well aware of the reality of this situation.  The UFO subject had been a part of quote unquote legacy programs had gone to TD wise had done it,  but most",
+          " acknowledged even to Congress, the people  that should have oversight.  So you've got that big one UFO experience, right?  The UAP experience.  Then you have this accidental exposure, but to such a high",
+          " about to put themselves in grave danger.  Like, grave danger.  Anyway, his name was discussed on a UFO UAP small-time podcast,  and that individual you talk about threw a shit fit.  Excuse my language. ",
+          "h, I'm sure.  And I can.  I'm positive of this as well.  There are people in there that are so anti-UFO UAP  that come from very interesting agencies and very interesting locations  and the comments that",
+          "taff.  And then I go over to House and I expose a hell of a lot more in House staff, which was  not UFO related, but serious crimes.  I go to Senate.  I drop the information on them.  They, in my impress",
+          " the house side where I briefed a house staffer.  And then we got into a heck of a lot of other non UFO things that are serious crimes that  I was witness to people that American citizens would be furiou",
+          "asked if I would testify under oath.  I say yes.  And all of a sudden, I hear there's going to be a UFO hearing.  I have no idea who's going to be there.  And all of a sudden, Dave Grush is on my compute",
+          "mebody's name next to it.  What do I need to do?  No help.  You see what's on social media, uh, the UFO world and their experts who are very, very  brave on X and giving advice to people like you just go",
+          " true.  People have been victimized.  People have committed suicide over this because of the legacy UFO thing.  100%.  And more importantly, because I know what I testify to.  It dramatically changes, no",
+          " you crazy. They're going to do X, Y, and Z  and you have to set a foundation. And I understand the UFO fanatics are not going to like this  opinion, but this isn't for you. This is for the public. If yo"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "ufo",
+        "entity_type": "technologie",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "g to shot my resume get a better job but uh i don't go  to it and a couple people start bashing the ufo community and i post a response in there and i  say look my man you really think marco rubio who wa"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "non-human intelligence",
+        "entity_type": "technologie",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          ".  So clearly a technology like, like Matthew Brown has kind of thought that either it's  like it's non-human intelligence technology, or it's something that we've figured out how  to operate.  And it's like a breakaway ci",
+          " to Aero and you went to the ICIG, they immediately classified and put into a SAP a lot of that UAP non-human intelligence information.  So our audience only gets to hear you say, I saw something. These are the reprisals a"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "non-human  intelligence",
+        "entity_type": "technologie",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "ying I  believe.  them, but it's clear there's something to this. Like thoughts as intruders from a non-human  intelligence having humanity do the bidding that they want without direct knowledge that it's being  asked by so"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "reverse engineering",
+        "entity_type": "technologie",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "now through our, that it's likely not just our tech, that it might prove David  Grush's ideas about reverse engineering.  That we've been told all the way back from Lazar.  He saw an operational craft over a military in",
+          "ximity to as well  as the other aspect of what you came to understand about the legacy program, the reverse engineering,  where it's housed, the power source, what it looks like.  Including redacted.  I would testify to"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "engineering",
+        "entity_type": "technologie",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "can  go. I think you can go all the way up to the line of what our current capabilities are in the  engineering program and integration program. I think you can go all the way up to the line of what our  current",
+          "program. I think you can go all the way up to the line of what our  current capabilities are in the engineering program and integration program. I think you can go all the  way up to that line. I think that that"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "craft",
+        "entity_type": "technologie",
+        "mention_count": 9,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "Gold, lava, plasma, some type of fluid going over and around the craft.  What is it that you saw and found out and can tell us about?  I only came for them because I sinc",
+          "bout, you've testified to a lot of people  officially ICIG.  You, you wanted them to know that this craft you saw, which you're thinking maybe, look,  maybe it's something we reverse engineered.  We now kn",
+          "bout reverse engineering.  That we've been told all the way back from Lazar.  He saw an operational craft over a military installation that is far beyond.  There's no fingerprint for, we don't have that te",
+          "ching out a lava lamp and seeing that flow.  Place a yellow semi-transparent lava lamp flow on this craft, making 90 degree turns  and all over the craft.  And it's just this yellow transparent, almost lik",
+          "ce a yellow semi-transparent lava lamp flow on this craft, making 90 degree turns  and all over the craft.  And it's just this yellow transparent, almost like smoke cloud pulsating all around the  craft.  ",
+          "he craft.  And it's just this yellow transparent, almost like smoke cloud pulsating all around the  craft.  So clearly a technology like, like Matthew Brown has kind of thought that either it's  like it's ",
+          "s all.  And considering.  You know.  Humanity has the same stories across many cultures, a flood of crafts that are in the  sky, things that are coming and helping humans.  And I'm at an advantage and a di",
+          " sure, could be that level.  They might as well be gods or so far advanced. I don't think they need craft to get here. That's  some kind of a bauble. That's something to get us interested. Hey, look at thi",
+          "r at hiding it, but if somebody's able to put a thought in your head, George, until  you build this craft, yeah, you're the one who built it, but the thought came from somebody else,  and now you start to "
+        ],
+        "confidence": 0.8
+      }
+    ]
+  },
+  "total_entities": 27,
+  "timestamp": "2026-01-07T14:41:31.106584"
+}

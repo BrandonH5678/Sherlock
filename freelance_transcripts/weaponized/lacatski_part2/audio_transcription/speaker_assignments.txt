@@ -1,0 +1,25 @@
+=== SPEAKER ASSIGNMENTS (Claude API Enhancement) ===
+
+Speaker ID: Speaker 0
+  Assigned Name: Host/Narrator
+  Role: Instructor
+  Confidence: 0.85
+  Reasoning: Introduces the interview subject and provides framing context. Acts as moderator/interviewer, similar to instructor role in guiding discussion. References 'part two of our interview' and introduces Dr. Lukatsky.
+
+Speaker ID: Speaker 1
+  Assigned Name: Student 1
+  Role: Student
+  Confidence: 0.70
+  Reasoning: Provides a single comment about the Georgia case involving a black triangle UAP incident. Appears to be contributing information or asking for clarification on a specific case study.
+
+Speaker ID: Speaker 2
+  Assigned Name: Student 2
+  Role: Student
+  Confidence: 0.75
+  Reasoning: Asks investigative questions about legacy UAP programs and introduces the show title 'This is weaponized.' Acts as interviewer/questioner role similar to student participation.
+
+Speaker ID: Unknown
+  Assigned Name: Dr. James Lukatsky (Guest Lecturer)
+  Role: Guest Lecturer
+  Confidence: 0.95
+  Reasoning: Identified as 'Dr. James Lukatsky' in introduction. Responds to questions, discusses classified information restrictions, and references 'your other book' suggesting he is the subject matter expert being interviewed. Described as 'creator and head of the U.S. government's largest acknowledged UAP study program.'

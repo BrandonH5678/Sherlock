@@ -1,0 +1,25 @@
+=== SPEAKER ASSIGNMENTS (Claude API Enhancement) ===
+
+Speaker ID: Speaker 0
+  Assigned Name: Host/Co-Host
+  Role: Host
+  Confidence: 0.75
+  Reasoning: Opens the episode with 'Last episode of Weaponized' indicating show continuity knowledge and host role. Discusses previous episode content, suggesting hosting duties. No explicit name given in this segment.
+
+Speaker ID: Speaker 1
+  Assigned Name: Co-Host/Guest
+  Role: Co-Host
+  Confidence: 0.65
+  Reasoning: Provides commentary on David Grush testimony and political developments. Uses 'our friend David' suggesting insider knowledge. Speaking pattern suggests co-host or regular contributor rather than interviewed guest.
+
+Speaker ID: Speaker 2
+  Assigned Name: George Knapp
+  Role: Host
+  Confidence: 0.95
+  Reasoning: Explicit self-introduction at end: 'My name is George Knapp.' Delivers show opening/teaser about 'Secrets, cover ups and strange phenomena.' This is the primary host identification.
+
+Speaker ID: Unknown
+  Assigned Name: Multiple Speakers/Unclear
+  Role: Guest
+  Confidence: 0.40
+  Reasoning: Multiple [Unknown] tags suggest either audio quality issues, overlapping speakers, or guest segments. Content discusses UFO skepticism, government transparency, and includes what appears to be news clips or guest commentary. Cannot definitively assign to single speaker.

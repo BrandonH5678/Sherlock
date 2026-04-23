@@ -1,0 +1,23 @@
+{
+  "domain_tags": [],
+  "client_id": null,
+  "whitelist_terms": [
+    "Jesse Michels",
+    "Tero Isokauppila",
+    "Foursigmatic",
+    "stoned ape theory",
+    "ancient mystery rituals"
+  ],
+  "alias_map": {},
+  "acronym_expansions": {},
+  "do_not_introduce": [],
+  "uncertainty_policy": {
+    "unknown_token": "preserve_or_tag",
+    "tag_format": "[unclear:{token}]"
+  },
+  "style": {
+    "spelling": "US",
+    "punctuation": "standard",
+    "speaker_labels": "Name:"
+  }
+}

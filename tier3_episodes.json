@@ -1,0 +1,82 @@
+[
+  {
+    "id": "T3-01",
+    "title": "Danny Sheehan - UFOs & JFK: He Knew Too Much",
+    "url": "https://www.youtube.com/watch?v=C4rSj5Aum7w",
+    "priority": "P3",
+    "podcast": "American Alchemy",
+    "output_dir": "sheehan_jfk"
+  },
+  {
+    "id": "T3-02",
+    "title": "Ross Coulthart - I Located A UFO Base In Arizona",
+    "url": "https://www.youtube.com/watch?v=V00WcEiKRAY",
+    "priority": "P3",
+    "podcast": "American Alchemy",
+    "output_dir": "coulthart_arizona"
+  },
+  {
+    "id": "T3-03",
+    "title": "Richard Dolan - Defense Secretary Killed Over UFOs",
+    "url": "https://www.youtube.com/watch?v=GQlWf54K_7Y",
+    "priority": "P3",
+    "podcast": "American Alchemy",
+    "output_dir": "dolan_defsec"
+  },
+  {
+    "id": "T3-04",
+    "title": "Harald Malmgren - Presidential Advisor Handled UFO Material",
+    "url": "https://www.youtube.com/watch?v=09KP8XVf5nY",
+    "priority": "P3",
+    "podcast": "American Alchemy",
+    "output_dir": "malmgren_advisor"
+  },
+  {
+    "id": "T3-05",
+    "title": "Did Henry Kissinger Oversee UFO Crash Retrieval?",
+    "url": "https://www.youtube.com/watch?v=Jpf0ZGY87c0",
+    "priority": "P3",
+    "podcast": "American Alchemy",
+    "output_dir": "kissinger_crash"
+  },
+  {
+    "id": "T3-06",
+    "title": "Tom O'Neill - CIA's Mind Control Program",
+    "url": "https://www.youtube.com/watch?v=75Je_0hZovQ",
+    "priority": "P3",
+    "podcast": "American Alchemy",
+    "output_dir": "oneill_mkultra"
+  },
+  {
+    "id": "T3-07",
+    "title": "Michael Shellenberger - Immaculate Constellation UFO Program",
+    "url": "https://www.youtube.com/watch?v=DPmO-2E7Ayg",
+    "priority": "P3",
+    "podcast": "American Alchemy",
+    "output_dir": "shellenberger_ic"
+  },
+  {
+    "id": "T3-08",
+    "title": "Richard Dolan - Centuries Of USO Cases",
+    "url": "https://www.youtube.com/watch?v=ABDlCbumob0",
+    "priority": "P3",
+    "podcast": "Weaponized",
+    "output_dir": "dolan_uso"
+  },
+  {
+    "id": "T3-09",
+    "title": "The Wall Street Journal Is Lying About UFOs",
+    "url": "https://www.youtube.com/watch?v=h0hAit-KH9A",
+    "priority": "P3",
+    "podcast": "American Alchemy",
+    "output_dir": "wsj_lying"
+  },
+  {
+    "id": "T3-10",
+    "title": "Smearing the Brave - WSJ's War on UFO Truth",
+    "url": "https://www.youtube.com/watch?v=1xApIOjVgvU",
+    "priority": "P3",
+    "podcast": "Weaponized",
+    "output_dir": "wsj_war"
+  }
+]

@@ -1,0 +1,264 @@
+{
+  "source_id": "weaponized_borland_part1",
+  "episode_id": "borland_part1",
+  "title": "Douglas Borland Interview - Part 1",
+  "entities": {
+    "people": [],
+    "organizations": [
+      {
+        "name": "DOD",
+        "entity_type": "organization",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "I did a great job.  I think that's a great mission.  I think that everything should be done through the DOD and that gets into places that we really can't go.  But yeah, uh, there's always lingering question",
+          "staff, House staff, ARO, and the ICIG.  Under oath. Under oath. FBI was there. The ICIG was there.  The DOD was there at points in time. Staff members from armed services, intelligence.  Basically, I went th"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "dod",
+        "entity_type": "organization",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "  can't taste teeth destroyed why was that required why was that because from my understanding and  the dod the way they explained it to me is the number one reason for people coming back from  overseas is d"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "cia",
+        "entity_type": "organization",
+        "mention_count": 21,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "My name is Dylan Borland, a former 1N1 geospatial intelligence specialist for the United States Air Force in an active duty enlisted capacity from 2010 to 2013.  I did t",
+          "ll.  Things that people that you worked for, don't want you to tell.  100%.  100%.  Yes.  And a official whistleblower in the, you went through the same process as David Gresh with a full ICIG complaint.",
+          "der the 480th and 497th, uh, wing.  And while there I got attached to Redacted.  So every single special forces unit, I probably worked with MARSOC, Pararescue, Redacted, SEALS, which is Redacted.  Whate",
+          "n the air force, it was about bringing our buddies home and that I worked for five.  I, so I did special forces for great Britain, special forces for Australia.  Sorry, getting choked up a little bit.  U",
+          "ging our buddies home and that I worked for five.  I, so I did special forces for great Britain, special forces for Australia.  Sorry, getting choked up a little bit.  Um, there's a major difference betw",
+          "rselves and this gets into other information.  I did end up doing it for an agency, multi-agency special access program under BAE systems, which you guys have a copy of my resume that is cleared.  And yo",
+          "ry all the time.  And at first you and I are kind of stumped because we're not imagery analysts, specialists, but we got one right.  Right here.  So if, you know, something goes out into public and I sho",
+          "tuff and more as public after it's public, just what you think about it.  But so you've got that specialty as a trained observer on all these systems.  I understand.  You did a lot of work with the drone",
+          "ith poly, right?  Which means I've been polygraphed, right?  Which means top secret, top secret, special compartment information with polygraph polygraph.  So you have to do that regularly and make sure ",
+          "at that cover the U S maybe terrorist suspects floating around?  No.  So I, I would have to have special authorities depending on the agency.  And now you're getting into a gang, going back to the UFO su",
+          "outlet in the wall you know that spark electricity it does that and that thing  shoots off to commercial air jet level in my arrow testimony I said twenty to thirty thousand feet  I estimate commercial a",
+          "mercial air jet level in my arrow testimony I said twenty to thirty thousand feet  I estimate commercial aircraft level because I've seen commercial aircraft flying around the base  that's usually what t",
+          "I said twenty to thirty thousand feet  I estimate commercial aircraft level because I've seen commercial aircraft flying around the base  that's usually what they cruise at um and as it goes off it gets ",
+          "that that information is classified it's not  allowed out there um I can say it's a multi-agency special access program under BAE uh British  Aerospace engineering systems so you don't want to cross ther",
+          "t SEC whistleblower payments which is 10 to anybody who  comes forward with any information of financial abuse and wrongship should receive that um there's  a number of reasons but ultimately I believe i",
+          " so you have direct knowledge  UAP being actual craft of unknown or non-human origin? From your official capacity of work,  you have some direct knowledge of that? 100%. Not only do I have it, I testifie",
+          " in my back so slip my disc l5s1  and long story  short i went up to med board um i had to go to specialists in richmond i had to go to the navy  i went all over southern virginia trying to figure out wh",
+          " uh triangle that leads to uh complications for you  because you said you didn't really file an official report you just told two people about it  to my no i never filed any official statement not until ",
+          "'t really file an official report you just told two people about it  to my no i never filed any official statement not until much later  so i'm not going to lie to you i'm not going to lie to you i'm not",
+          "something else that had happened that night that i'm unaware of  there should have been nothing official bae is you know we talk about lockheed and north  rope and the big companies aerospace companies t",
+          " is reality you're but you were exposed specifically to proof about  uap reverse engineering in official capacity meaning while you're at work and really when you're  And with those individuals, can you,"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "dia",
+        "entity_type": "organization",
+        "mention_count": 4,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          ", and my guidance counselor really wanted me to go to UPenn and I refused to go there.  I went to Indiana university of Pennsylvania, little small state college in PA.  They had a national guard ROTC pro",
+          "s  like three seconds easy and at that moment I feel static electricity all over my body and I  immediately immediately smell a rainstorm lightning storm like a strong lightning thunderstorm that  you sm",
+          "e seconds easy and at that moment I feel static electricity all over my body and I  immediately immediately smell a rainstorm lightning storm like a strong lightning thunderstorm that  you smell after th",
+          "e does what bae is uk's uh version of lockheed and northrop grumman and they have an  american subsidiary branch that's allowed to operate in america since you know technically  you're not foreign govern"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "FBI",
+        "entity_type": "organization",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "grandmother's basement, but my guidance counselor wanted me to go to UPenn and I wanted to work for the FBI.  Um, and my guidance counselor really wanted me to go to UPenn and I refused to go there.  I went ",
+          "u testify to? List them out. Senate staff, House staff, ARO, and the ICIG.  Under oath. Under oath. FBI was there. The ICIG was there.  The DOD was there at points in time. Staff members from armed servi"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "nsa",
+        "entity_type": "organization",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "g at redacted did you like your work for bae uh early on i did um and then things took a  dramatic insane turn and at that point i became very disgusted and it got insane what was the  term what did you ",
+          " and then things took a  dramatic insane turn and at that point i became very disgusted and it got insane what was the  term what did you do i found out that i was working illegally the entire time i was"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Senate",
+        "entity_type": "organization",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          " it was proven to me that what I provided was in fact true.  Who did you testify to? List them out. Senate staff, House staff, ARO, and the ICIG.  Under oath. Under oath. FBI was there. The ICIG was there. "
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "house",
+        "entity_type": "organization",
+        "mention_count": 4,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "pension there.  It's a job security.  So I did fairly well in high school.  Um, my mom had lost her house while I was in high school.  So kind of bouncing couches, staying in my grandmother's basement, but",
+          " something, I could come into work and have to do  something with it.  Do you ever look at Jeremy's house and, uh, no Intel oversight, which gets funny is because that goes back to all of this stuff with U",
+          "here is no doubt in my mind it was at that hangar meaning it came out of the  hangar meaning it was housed there or it had been hovering there could have been hovering there it  could have been on the grou",
+          "he entire time i was there  um so  there is a process that you are supposed to have your clearances housed in called scattered castle  or jpass that has changed since then and i ended up working over there"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "House",
+        "entity_type": "organization",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          " to me that what I provided was in fact true.  Who did you testify to? List them out. Senate staff, House staff, ARO, and the ICIG.  Under oath. Under oath. FBI was there. The ICIG was there.  The DOD was "
+        ],
+        "confidence": 0.8
+      }
+    ],
+    "programs": [],
+    "locations": [],
+    "technologies": [
+      {
+        "name": "UAP",
+        "entity_type": "technologie",
+        "mention_count": 6,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "d.  In 2023, patriots provided this committee and the executive branch with undeniable proof of the UAP reality.  People violate the Constitution or go against the law or treat people who are living up t",
+          "saults I'm aware of, stalking I'm aware of, brake lines being cut.  So you have direct knowledge of UAP being actual craft of unknown or non-human origin?  I have direct, first-hand knowledge and exposur",
+          "you will notice that we chose to censor certain details within Dylan's testimony, most unrelated to UAP.  This is to avoid unauthorized disclosures and is subject to an ongoing clearance review.  Dylan w",
+          "they said they wouldn't do it again, but yes, that is the way I understand it.  We're talking about UAP related disclosures.  We're talking about NHI, non-human intelligence.  These are the primary thing",
+          "robably right.  So I just want to contextualize why maybe, um, that's harder to talk about than the UAP stuff.  We're going to talk about, you know, my friends have committed suicide.  Um, the drone prog",
+          " not a part of it this is going to be a lot worse than it already is  so you have direct knowledge  UAP being actual craft of unknown or non-human origin? From your official capacity of work,  you have s"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "UAPs",
+        "entity_type": "technologie",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "e and, uh, no Intel oversight, which gets funny is because that goes back to all of this stuff with UAPs over America.  Um, you know, it's fun watching the imagery, uh, classify under Intel oversight as y"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "uap",
+        "entity_type": "technologie",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "why would  you be put into this restricted category unless you had accidental exposure about direct uap and  information including reverse engineering that is the best guess i have and the reason why i h",
+          "t's not this big deal like this is reality you're but you were exposed specifically to proof about  uap reverse engineering in official capacity meaning while you're at work and really when you're  And w"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "UFO",
+        "entity_type": "technologie",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "special authorities depending on the agency.  And now you're getting into a gang, going back to the UFO subject and how things qualify and department of justice and the IC.  Um, I know those programs exi"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "non-human origin",
+        "entity_type": "technologie",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "re of, brake lines being cut.  So you have direct knowledge of UAP being actual craft of unknown or non-human origin?  I have direct, first-hand knowledge and exposure to crash recovery, reverse engineering, as well ",
+          " a lot worse than it already is  so you have direct knowledge  UAP being actual craft of unknown or non-human origin? From your official capacity of work,  you have some direct knowledge of that? 100%. Not only do I "
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "non-human intelligence",
+        "entity_type": "technologie",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "is the way I understand it.  We're talking about UAP related disclosures.  We're talking about NHI, non-human intelligence.  These are the primary things that you were, um, kind of stuck in the position that you had to rai"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "reverse engineering",
+        "entity_type": "technologie",
+        "mention_count": 4,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "f unknown or non-human origin?  I have direct, first-hand knowledge and exposure to crash recovery, reverse engineering, as well as the most important piece of technology on the planet.  And it's not the craft themselve",
+          " time,  what I will say is this. I have direct firsthand knowledge and exposure to crash recovery,  reverse engineering, integration of technology into redacted as well as the most important  piece of technology on the ",
+          " restricted category unless you had accidental exposure about direct uap and  information including reverse engineering that is the best guess i have and the reason why i have  that opinion is because i know people who ",
+          "not this big deal like this is reality you're but you were exposed specifically to proof about  uap reverse engineering in official capacity meaning while you're at work and really when you're  And with those individual"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "engineering",
+        "entity_type": "technologie",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "d out there um I can say it's a multi-agency special access program under BAE uh British  Aerospace engineering systems so you don't want to cross there's a line you don't want to cross  because of legal uh rami",
+          " lot of work for the us government yep and the british government five eyes intelligence  aerospace engineering i mean it is the british version of lockheed northrop you get hired by  them to do what what's your"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "craft",
+        "entity_type": "technologie",
+        "mention_count": 11,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "of, stalking I'm aware of, brake lines being cut.  So you have direct knowledge of UAP being actual craft of unknown or non-human origin?  I have direct, first-hand knowledge and exposure to crash recovery",
+          "rse engineering, as well as the most important piece of technology on the planet.  And it's not the craft themselves.  This is weapons.  In this episode of Weaponized, you will notice that we chose to cens",
+          "alyst, a one-on-one, uh, they look at maps like these, uh, photography, satellite, drone, manned aircraft, ISR, the whole kit and caboodle, IR, MSI.  HSI, EO, you name it.  If it's a picture coming from so",
+          "I had to go through imagery analysis, tech school.  So MSI, HSI, EO, IR, satellite drone, manned aircraft, you name it.  If it is in the world of imagery for our government, I had to go through that tax sc",
+          " of galaxies are out there.  Imagine those colors make them yellow gold.  Put them on top of the aircraft and make it a lava lamp because the whole outside had this yellow transparent glow coming all aroun",
+          "ake it a lava lamp because the whole outside had this yellow transparent glow coming all around the craft.  And it was pulsating.  So this thing flies to me.  It's a light.  All of a sudden, while it's fly",
+          "air jet level in my arrow testimony I said twenty to thirty thousand feet  I estimate commercial aircraft level because I've seen commercial aircraft flying around the base  that's usually what they cruise",
+          "wenty to thirty thousand feet  I estimate commercial aircraft level because I've seen commercial aircraft flying around the base  that's usually what they cruise at um and as it goes off it gets to that fl",
+          "st me don't talk about it I thought it was a joke like I'm like you're  not going to go and test aircraft in the middle of the night on Langley Air Force Base you're  what what like apparently he was right",
+          " this is going to be a lot worse than it already is  so you have direct knowledge  UAP being actual craft of unknown or non-human origin? From your official capacity of work,  you have some direct knowledg",
+          "gy into redacted as well as the most important  piece of technology on the planet. And it's not the craft themselves. It would be the power source.  You can make that assessment yourself. So you saw these "
+        ],
+        "confidence": 0.8
+      }
+    ]
+  },
+  "total_entities": 18,
+  "timestamp": "2026-01-07T14:41:30.832498"
+}

@@ -1,0 +1,18 @@
+QUESTIONS FOR CLIENT REVIEW
+==================================================
+
+The following items were unclear in the audio.
+Please provide corrections or clarifications.
+
+[01:11] Jesse Michels:
+  Context: "[unclear: Four Sigmatic]"
+  Question: At 01:11, ' Four Sigmatic' was unclear. Could you clarify?
+
+[08:49] Jesse Michels:
+  Context: "We know that it lowers activity in the DNA. We know that it lowers activity in the brain We know that it lowers activity in the [unclear: brain] [unclear: We know that it lowers activity in the brain]"
+  Question: At 08:49, ' We know that it lowers activity in the brain' was unclear. Could you clarify?
+
+[08:49] Jesse Michels:
+  Context: "We know that it lowers activity in the DNA. We know that it lowers activity in the brain We know that it lowers activity in the [unclear: brain] [unclear: We know that it lowers activity in the brain]"
+  Question: At 08:49, ' brain' was unclear. Could you clarify?
+

@@ -1,0 +1,197 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "FreeCAD Site Inputs — Butte Hill / Woodland",
+  "type": "object",
+  "required": [
+    "meta",
+    "site",
+    "crs",
+    "aoi",
+    "terrain",
+    "subsurface",
+    "recommendations",
+    "freecad_params"
+  ],
+  "properties": {
+    "meta": {
+      "type": "object",
+      "required": ["project", "date_generated", "data_sources"],
+      "properties": {
+        "project": { "type": "string" },
+        "date_generated": { "type": "string" },
+        "data_sources": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "site": {
+      "type": "object",
+      "required": ["address", "latlon_wgs84"],
+      "properties": {
+        "address": { "type": "string" },
+        "latlon_wgs84": {
+          "type": "object",
+          "required": ["lat", "lon"],
+          "properties": {
+            "lat": { "type": "number" },
+            "lon": { "type": "number" }
+          }
+        }
+      }
+    },
+    "crs": {
+      "type": "object",
+      "required": ["working_epsg", "storage_epsg"],
+      "properties": {
+        "working_epsg": { "type": "string" },
+        "storage_epsg": { "type": "string" }
+      }
+    },
+    "aoi": {
+      "type": "object",
+      "required": ["radius_miles", "terrain_radius_miles"],
+      "properties": {
+        "radius_miles": { "type": "number" },
+        "terrain_radius_miles": { "type": "number" }
+      }
+    },
+    "terrain": {
+      "type": "object",
+      "required": ["dtm_resolution_m", "slope_stats_deg", "portal_candidates", "avoid_zones"],
+      "properties": {
+        "dtm_resolution_m": { "type": "number" },
+        "slope_stats_deg": {
+          "type": "object",
+          "required": ["min", "p50", "p90", "max"],
+          "properties": {
+            "min": { "type": "number" },
+            "p50": { "type": "number" },
+            "p90": { "type": "number" },
+            "max": { "type": "number" }
+          }
+        },
+        "portal_candidates": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "centroid_xy", "elev_ft", "slope_deg", "notes"],
+            "properties": {
+              "id": { "type": "string" },
+              "centroid_xy": {
+                "type": "object",
+                "required": ["x_m", "y_m"],
+                "properties": { "x_m": { "type": "number" }, "y_m": { "type": "number" } }
+              },
+              "elev_ft": { "type": "number" },
+              "slope_deg": { "type": "number" },
+              "notes": { "type": "string" }
+            }
+          }
+        },
+        "avoid_zones": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "reason", "notes"],
+            "properties": {
+              "id": { "type": "string" },
+              "reason": { "type": "string" },
+              "notes": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "subsurface": {
+      "type": "object",
+      "required": ["wells_count", "bedrock_depth_ft", "water_table_ft", "confidence_0to1"],
+      "properties": {
+        "wells_count": { "type": "integer" },
+        "bedrock_depth_ft": {
+          "type": "object",
+          "required": ["min", "likely", "max"],
+          "properties": {
+            "min": { "type": "number" },
+            "likely": { "type": "number" },
+            "max": { "type": "number" }
+          }
+        },
+        "water_table_ft": {
+          "type": "object",
+          "required": ["min", "likely", "max"],
+          "properties": {
+            "min": { "type": "number" },
+            "likely": { "type": "number" },
+            "max": { "type": "number" }
+          }
+        },
+        "confidence_0to1": { "type": "number" },
+        "notes": { "type": "string" }
+      }
+    },
+    "recommendations": {
+      "type": "object",
+      "required": ["recommended_portal_id", "adit_axis", "needs_geophysics"],
+      "properties": {
+        "recommended_portal_id": { "type": "string" },
+        "adit_axis": {
+          "type": "object",
+          "required": ["bearing_deg", "grade_pct", "target_station_bedrock_ft"],
+          "properties": {
+            "bearing_deg": { "type": "number" },
+            "grade_pct": { "type": "number" },
+            "target_station_bedrock_ft": { "type": "number" }
+          }
+        },
+        "needs_geophysics": { "type": "boolean" },
+        "geophysics_recommendation": { "type": "string" }
+      }
+    },
+    "freecad_params": {
+      "type": "object",
+      "required": ["units", "adit", "collar", "chambers"],
+      "properties": {
+        "units": {
+          "type": "object",
+          "required": ["length", "angle"],
+          "properties": {
+            "length": { "type": "string", "enum": ["ft", "m"] },
+            "angle": { "type": "string", "enum": ["deg"] }
+          }
+        },
+        "adit": {
+          "type": "object",
+          "required": ["length_ft", "excavation_w_ft", "excavation_h_ft", "clear_w_ft", "clear_h_ft", "set_spacing_ft"],
+          "properties": {
+            "length_ft": { "type": "number" },
+            "excavation_w_ft": { "type": "number" },
+            "excavation_h_ft": { "type": "number" },
+            "clear_w_ft": { "type": "number" },
+            "clear_h_ft": { "type": "number" },
+            "set_spacing_ft": { "type": "number" }
+          }
+        },
+        "collar": {
+          "type": "object",
+          "required": ["thickness_ft", "key_into_rock_ft"],
+          "properties": {
+            "thickness_ft": { "type": "number" },
+            "key_into_rock_ft": { "type": "number" }
+          }
+        },
+        "chambers": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "length_ft", "width_ft", "height_ft", "role"],
+            "properties": {
+              "id": { "type": "string" },
+              "length_ft": { "type": "number" },
+              "width_ft": { "type": "number" },
+              "height_ft": { "type": "number" },
+              "role": { "type": "string" }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "timestamp": "2026-02-03T20:30:53.430757+00:00",
+  "input_file": "/home/johnny5/Sherlock/freelance_transcripts/american_alchemy/mushrooms_aliens/audio_transcription/audio_flagged.json",
+  "enhanced_file": "/home/johnny5/Sherlock/freelance_transcripts/american_alchemy/mushrooms_aliens/audio_transcription/audio_enhanced.json",
+  "episode_title": "EXECUTION_WARMUP",
+  "model_used": "claude-sonnet-4-20250514",
+  "summary": {
+    "total_flagged": 14,
+    "salvaged": 1,
+    "marked_inaudible": 10,
+    "marked_unclear": 3,
+    "estimated_cost": 0.14
+  },
+  "edits": [
+    {
+      "segment_id": 12,
+      "timestamp": "70.9s",
+      "start": 70.94,
+      "end": 71.02,
+      "original": "CEO of Taro, the founder and CEO of Taro, the founder and CEO of Taro, the founder and CEO of",
+      "suggested": "[inaudible]",
+      "reasoning": "This is a clear case of Whisper's repetitive looping hallucination. The context shows the speaker was introducing someone, but the flagged segment contains only artificial repetition with no discernible real speech content. The surrounding segments provide coherent context about introducing Taro from Four Sigmatic, making the looping anomaly obvious.",
+      "confidence": 0.95,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 13,
+      "timestamp": "71.0s",
+      "start": 71.02,
+      "end": 72.86,
+      "original": "Taro, the founder and CEO of Taro, the founder and CEO of Taro, the founder and CEO of Four Sigmatic, maybe",
+      "suggested": "[unclear: Four Sigmatic]",
+      "reasoning": "While the repetitive 'founder and CEO of Taro' portion is clearly hallucinated looping, 'Four Sigmatic' appears to be real content that fits contextually with the surrounding discussion about mushroom brands. However, using unclear format since it's embedded in hallucinated content",
+      "confidence": 0.7,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 153,
+      "timestamp": "530.6s",
+      "start": 530.61,
+      "end": 531.61,
+      "original": "We know that it lowers activity in the DNA.",
+      "suggested": "[unclear: We know that it lowers activity in the brain]",
+      "reasoning": "The structure and most content match the surrounding context, but 'DNA' appears to be a misrecognition of 'brain' given the repeated correct versions that follow. The speech pattern is consistent, suggesting real speech content with a transcription error rather than pure hallucination.",
+      "confidence": 0.7,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 154,
+      "timestamp": "531.6s",
+      "start": 531.61,
+      "end": 532.61,
+      "original": "We know that it lowers activity in the brain.",
+      "suggested": "We know that it lowers activity in the [unclear: brain]",
+      "reasoning": "The segment follows the same syntactic structure as surrounding segments and contains coherent speech content. The uncertainty appears to be between 'brain' and 'DNA' rather than complete fabrication, so the core content is salvageable with uncertainty notation",
+      "confidence": 0.7,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 155,
+      "timestamp": "532.6s",
+      "start": 532.61,
+      "end": 533.61,
+      "original": "We know that it lowers activity in the brain.",
+      "suggested": "[inaudible]",
+      "reasoning": "The exact repetition of 'We know that it lowers activity in the brain' three times in succession is a classic Whisper hallucination pattern where the model gets stuck repeating the same phrase. Real speech rarely contains such precise repetitions, especially given the surrounding context already established this phrase twice.",
+      "confidence": 0.85,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 156,
+      "timestamp": "533.6s",
+      "start": 533.61,
+      "end": 534.61,
+      "original": "We know that it lowers activity in a brain.",
+      "suggested": "We know that it lowers activity in the brain",
+      "reasoning": "This appears to be real speech content with a minor transcription variation rather than a hallucination. The article difference ('a' vs 'the') is likely a transcription artifact, and the core content matches the established pattern. Correcting to match the consistent surrounding segments is appropriate.",
+      "confidence": 0.85,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 157,
+      "timestamp": "534.6s",
+      "start": 534.61,
+      "end": 535.61,
+      "original": "We know that it lowers activity in the brain.",
+      "suggested": "[inaudible]",
+      "reasoning": "The identical repetition of 'We know that it lowers activity in the brain' from multiple preceding segments, combined with the hallucination flag, strongly suggests this is duplicated content rather than genuine speech. The following segment transitions to different content about default mode network, indicating a likely gap or unclear audio at this timestamp.",
+      "confidence": 0.85,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 158,
+      "timestamp": "535.6s",
+      "start": 535.61,
+      "end": 536.61,
+      "original": "We know that it lowers activity in the brain.",
+      "suggested": "[inaudible]",
+      "reasoning": "This appears to be a repetition hallucination where Whisper generated the same phrase three times in a row. The identical repetition pattern is a classic sign of hallucination, and the flagged segment likely contains no actual speech content that wasn't already captured in the previous segments.",
+      "confidence": 0.85,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 186,
+      "timestamp": "672.6s",
+      "start": 672.62,
+      "end": 674.54,
+      "original": "or i'll be honest i had not been doing any of my research on this as a kid for years but the answers",
+      "suggested": "[inaudible]",
+      "reasoning": "The segment exhibits classic hallucination markers: unnatural speech patterns, self-referential commentary about research, and complete contextual disconnect from the surrounding discussion about prediction and ergot fungus. No coherent real speech fragments are detectable.",
+      "confidence": 0.85,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 213,
+      "timestamp": "818.1s",
+      "start": 818.08,
+      "end": 819.52,
+      "original": "other figures, eat mushrooms when they'reoney, having some fun. Yeah. And joy in Los Angeles.",
+      "suggested": "[inaudible]",
+      "reasoning": "The segment shows classic hallucination patterns with word fragments ('they'reoney'), random location reference ('Los Angeles'), and disconnected phrases that don't form coherent speech. No reliable content can be extracted.",
+      "confidence": 0.9,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 228,
+      "timestamp": "885.3s",
+      "start": 885.33,
+      "end": 885.65,
+      "original": "great great great great great great great great great great great great great great great great",
+      "suggested": "[inaudible]",
+      "reasoning": "The repetitive pattern of 16+ identical 'great' words is characteristic of Whisper hallucinations when processing silence, noise, or unclear audio. The surrounding context flows logically without this segment, and there's no detectable real speech content within the repetition.",
+      "confidence": 0.95,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 235,
+      "timestamp": "915.5s",
+      "start": 915.49,
+      "end": 915.59,
+      "original": "one and that's why we're here today we're here because we're here because we're here because we're",
+      "suggested": "[inaudible]",
+      "reasoning": "The repetitive 'because we're here' pattern is a well-known Whisper hallucination signature. The fact that this exact repetition continues in the following segments confirms this is not real speech but a transcription error. No meaningful speech content can be reliably extracted from this loop.",
+      "confidence": 0.95,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 236,
+      "timestamp": "915.6s",
+      "start": 915.59,
+      "end": 915.63,
+      "original": "here because we're here because we're here because we're here because we're here because we're here",
+      "suggested": "[inaudible]",
+      "reasoning": "The identical repetitive phrase 'because we're here' repeating in an unnatural loop across multiple segments is a clear hallucination pattern. No meaningful speech content can be distinguished from this artificial repetition, and it disrupts the natural flow of conversation about mushrooms and technological progress.",
+      "confidence": 0.95,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 237,
+      "timestamp": "915.6s",
+      "start": 915.63,
+      "end": 915.83,
+      "original": "because we're here because we're here because we're here because we're here because we're here",
+      "suggested": "[inaudible]",
+      "reasoning": "The repetitive 'because we're here' pattern extends across multiple segments and creates an impossible loop with no semantic meaning. The dramatic topic shift to aliens and technology in the following segment suggests this is likely dead air, background noise, or technical issues that Whisper interpreted as repeated speech",
+      "confidence": 0.95,
+      "status": "applied",
+      "human_override": null
+    }
+  ],
+  "instructions": {
+    "to_reverse": "Change 'status' from 'applied' to 'reversed'",
+    "to_override": "Add 'human_override' with your corrected text",
+    "apply_changes": "Run apply_review_overrides.py after editing"
+  }
+}

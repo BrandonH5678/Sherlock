@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-01-08T21:02:04.204232+00:00",
+  "input_file": "/home/johnny5/Sherlock/freelance_transcripts/american_alchemy/pasulka_nell/audio_transcription/audio_flagged.json",
+  "enhanced_file": "/home/johnny5/Sherlock/freelance_transcripts/american_alchemy/pasulka_nell/audio_transcription/audio_enhanced.json",
+  "episode_title": "American Alchemy - Pasulka Nell",
+  "model_used": "claude-sonnet-4-20250514",
+  "summary": {
+    "total_flagged": 7,
+    "salvaged": 2,
+    "marked_inaudible": 3,
+    "marked_unclear": 2,
+    "estimated_cost": 0.07
+  },
+  "edits": [
+    {
+      "segment_id": 209,
+      "timestamp": "1333.1s",
+      "start": 1333.07,
+      "end": 1333.19,
+      "original": "beings and there's a hierarchy of being with non-human beings and so i think that's a really",
+      "suggested": "[inaudible]",
+      "reasoning": "While the content itself is coherent and matches the discussion context, it's flagged as hallucination and appears to be a direct repetition from the preceding segment. Given the hallucination flag and repetitive nature, it's safer to mark as inaudible rather than preserve potentially duplicated content.",
+      "confidence": 0.7,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 572,
+      "timestamp": "2703.9s",
+      "start": 2703.93,
+      "end": 2703.99,
+      "original": "Yeah.",
+      "suggested": "Yeah.",
+      "reasoning": "While brief affirmations like 'Yeah' are sometimes hallucinated by Whisper, this instance appears contextually appropriate as a natural conversational transition. The content is simple, fits the flow, and represents typical speech patterns. Without additional evidence of distortion, the content appears salvageable.",
+      "confidence": 0.7,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 776,
+      "timestamp": "3291.4s",
+      "start": 3291.38,
+      "end": 3291.42,
+      "original": "Yeah.",
+      "suggested": "[unclear: Yeah]",
+      "reasoning": "While 'Yeah.' fits the conversational pattern of surrounding segments, the hallucination flag suggests uncertainty about this content. Given the conservative approach required and the flag, I'm treating this as unclear rather than confirmed speech, though the content appears plausible in context",
+      "confidence": 0.3,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 1003,
+      "timestamp": "4280.4s",
+      "start": 4280.44,
+      "end": 4280.86,
+      "original": "And I was right.",
+      "suggested": "And I was right.",
+      "reasoning": "While flagged as a hallucination, this brief statement is grammatically correct, contextually appropriate as a response to the previous prediction about conversion, and flows naturally into the subsequent narrative about leaving the Vatican. The content seems plausible rather than nonsensical.",
+      "confidence": 0.8,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 1084,
+      "timestamp": "4597.6s",
+      "start": 4597.56,
+      "end": 4597.88,
+      "original": "That's just like an humiliation.",
+      "suggested": "[unclear: that's just like a humiliation]",
+      "reasoning": "While the phrase seems contextually disconnected and has minor grammatical issues ('an humiliation'), it contains recognizable words that could represent actual speech. The disconnect with surrounding context and awkward grammar suggest it's likely distorted, so marking as unclear rather than completely inaudible",
+      "confidence": 0.3,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 1100,
+      "timestamp": "4674.8s",
+      "start": 4674.84,
+      "end": 4674.9,
+      "original": "is going to be a mess and they're going to be a mess and they're going to be a mess and they're",
+      "suggested": "[inaudible]",
+      "reasoning": "This is a classic Whisper hallucination pattern where the model gets stuck repeating the same phrase. The before and after context shows this repetitive pattern continues, suggesting the audio was unclear or contained stuttering/hesitation that caused the model to loop. No unique content can be salvaged from this repetitive sequence.",
+      "confidence": 0.9,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 1101,
+      "timestamp": "4674.9s",
+      "start": 4674.9,
+      "end": 4675.14,
+      "original": "going to be a mess and they're going to be a mess and they're going to be a mess and the world's not",
+      "suggested": "[inaudible]",
+      "reasoning": "The repetitive looping pattern 'they're going to be a mess and they're going to be a mess and they're going to be a mess and the world's not' is characteristic of Whisper hallucinations where the model gets stuck repeating phrases. Given the context flows coherently from 'the world' in the before segment to meaningful content in the after segment, this appears to be pure hallucination with no recoverable speech content.",
+      "confidence": 0.9,
+      "status": "applied",
+      "human_override": null
+    }
+  ],
+  "instructions": {
+    "to_reverse": "Change 'status' from 'applied' to 'reversed'",
+    "to_override": "Add 'human_override' with your corrected text",
+    "apply_changes": "Run apply_review_overrides.py after editing"
+  }
+}

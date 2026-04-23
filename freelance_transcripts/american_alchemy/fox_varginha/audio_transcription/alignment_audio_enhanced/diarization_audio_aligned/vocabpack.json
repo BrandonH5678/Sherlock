@@ -1,0 +1,47 @@
+{
+  "domain_tags": [],
+  "client_id": null,
+  "whitelist_terms": [
+    "James Fox",
+    "Varginha UFO case",
+    "head neurosurgeon of the hospital",
+    "Chris Ramsay",
+    "Area52Investigations",
+    "crashed craft",
+    "non-human three fingered and toed beings",
+    "surgery on an alien",
+    "autopsy",
+    "neurosurgeon's testimony",
+    "alien communication",
+    "military whistleblower",
+    "national security",
+    "air traffic controller",
+    "Shopify",
+    "American Alchemy Magazine",
+    "American Alchemy Merch",
+    "WHOP",
+    "Discord",
+    "Instagram",
+    "TikTok",
+    "X (Twitter)",
+    "Spotify",
+    "Clips Channel",
+    "Jesse Michels Media",
+    "UFO",
+    "NASA",
+    "DOD",
+    "NHI"
+  ],
+  "alias_map": {},
+  "acronym_expansions": {},
+  "do_not_introduce": [],
+  "uncertainty_policy": {
+    "unknown_token": "preserve_or_tag",
+    "tag_format": "[unclear:{token}]"
+  },
+  "style": {
+    "spelling": "US",
+    "punctuation": "standard",
+    "speaker_labels": "Name:"
+  }
+}

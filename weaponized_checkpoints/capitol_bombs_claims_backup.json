@@ -1,0 +1,2568 @@
+{
+  "source_id": "weaponized_capitol_bombs",
+  "episode_id": "capitol_bombs",
+  "title": "UFO Bombs Dropped On Capitol Hill",
+  "claims": [
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0003",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[00:10 - 00:12] July 26th, we'll have a hearing.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[00:04 - 00:07] There was a lot that he said, but there was a lot that we could not say. [00:07 - 00:09] Now, some of that was put out. [00:10 - 00:12] July 26th, we'll have a hearing. [00:12 - 00:15] We'll hear directly from firsthand witnesses. [00:15 - 00:18] Senator Schumer is a pretty crafty politician.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.257221"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0005",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[00:15 - 00:18] Senator Schumer is a pretty crafty politician.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[00:10 - 00:12] July 26th, we'll have a hearing. [00:12 - 00:15] We'll hear directly from firsthand witnesses. [00:15 - 00:18] Senator Schumer is a pretty crafty politician. \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n**Multiple Speakers/Unclear**\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n[00:18 - 00:22] He's not going to stick his neck out if he doesn't have some kind of a support\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n**Co-Host/Guest**\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n[00:22 - 00:24] for taking this sort of a position. [00:24 - 00:29] We all have to believe that the testimony of David Grush that came out a few weeks ago,\n[00:29 - 00:34] our friend David, has played a major role in the steps that have been taken\n[00:34 - 00:36] both in the Senate and in the House.",
+      "entities": [
+        "craft",
+        "Senator Schumer",
+        "cia"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.258907"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0008",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n**Multiple Speakers/Unclear**\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n[00:37 - 00:40] You said you've been in contact with, say, the Lockheeds of the world.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n**Multiple Speakers/Unclear**\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n[00:18 - 00:22] He's not going to stick his neck out if he doesn't have some kind of a support\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n**Co-Host/Guest**\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n[00:22 - 00:24] for taking this sort of a position. [00:24 - 00:29] We all have to believe that the testimony of David Grush that came out a few weeks ago,\n[00:29 - 00:34] our friend David, has played a major role in the steps that have been taken\n[00:34 - 00:36] both in the Senate and in the House. \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n**Multiple Speakers/Unclear**\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n[00:37 - 00:40] You said you've been in contact with, say, the Lockheeds of the world. \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n**George Knapp**\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n[00:40 - 00:45] You know, we're talking about technologies that could eradicate some of the damage\n[00:45 - 00:51] caused by climate change, for example, which is a huge, huge political issue right now. [00:52 - 00:55] Now, this news tonight from Senator Schumer introducing new legislation.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.260639"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0010",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[00:52 - 00:55] Now, this news tonight from Senator Schumer introducing new legislation.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n**Multiple Speakers/Unclear**\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n[00:37 - 00:40] You said you've been in contact with, say, the Lockheeds of the world. \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n**George Knapp**\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n[00:40 - 00:45] You know, we're talking about technologies that could eradicate some of the damage\n[00:45 - 00:51] caused by climate change, for example, which is a huge, huge political issue right now. [00:52 - 00:55] Now, this news tonight from Senator Schumer introducing new legislation. [00:55 - 00:56] Things are happening fast. [00:56 - 00:58] Again, if you're a skeptic or a believer,\n[00:58 - 00:59] it really doesn't matter.",
+      "entities": [
+        "Senator Schumer"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.262121"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0043",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[02:20 - 02:26] Let's start with Chuck Schumer and this big drop a few days ago about an amendment to the defense bill.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[02:16 - 02:18] Bless their little hearts. [02:18 - 02:20] Jeremy, there's so much to talk about. [02:20 - 02:26] Let's start with Chuck Schumer and this big drop a few days ago about an amendment to the defense bill. [02:27 - 02:28] Yeah, man. [02:28 - 02:31] This is awesome, powerful, new language.",
+      "entities": [
+        "Chuck Schumer"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.263641"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0046",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[02:31 - 02:40] That really it puts the screws on, you know, some of these holding companies that allegedly have off-world craft not made here on Earth.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[02:27 - 02:28] Yeah, man. [02:28 - 02:31] This is awesome, powerful, new language. [02:31 - 02:40] That really it puts the screws on, you know, some of these holding companies that allegedly have off-world craft not made here on Earth. [02:40 - 02:46] And if that's the case, man, they are putting the screws to these companies being like, you best be telling us. [02:47 - 02:48] And hopefully this becomes law.",
+      "entities": [
+        "craft"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.265170"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0087",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[05:37 - 05:45] And reluctantly, even the New York Times had to report on this bombshell dropped by Senator Schumer within the last two days.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[05:31 - 05:33] We've known a lot of this stuff was coming. [05:33 - 05:36] But even we were surprised by some of the things that have happened. [05:37 - 05:45] And reluctantly, even the New York Times had to report on this bombshell dropped by Senator Schumer within the last two days. [05:45 - 05:49] Can you give us a recap, your take on that story, what it means to this topic? [05:50 - 05:55] It is a huge story, an absolute mammoth of a story.",
+      "entities": [
+        "the New York Times",
+        "Senator Schumer"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.266804"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0092",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[06:16 - 06:25] And what it is, it's a new amendment to the National Defense Authorization Act by, you know, it's by the most powerful person in the Senate.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[05:55 - 06:01] Because what was previously relegated to the Office of the Undersecretary of Defense,\n[06:02 - 06:12] or Security and Intelligence, is now at the desk of the highest office in the land, that of the President of the United States. [06:12 - 06:16] So this is an absolutely huge story. [06:16 - 06:25] And what it is, it's a new amendment to the National Defense Authorization Act by, you know, it's by the most powerful person in the Senate. [06:26 - 06:32] It's by Chuck Schumer, who's the leader of the Senate from the Democrats. [06:32 - 06:40] And he's inserted this huge amendment, basically, which provides a UAP review board,\n[06:40 - 06:48] which will basically look to release UAP reports going back decades.",
+      "entities": [
+        "the Senate",
+        "National Defense Authorization Act"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.268244"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0093",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[06:26 - 06:32] It's by Chuck Schumer, who's the leader of the Senate from the Democrats.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[06:12 - 06:16] So this is an absolutely huge story. [06:16 - 06:25] And what it is, it's a new amendment to the National Defense Authorization Act by, you know, it's by the most powerful person in the Senate. [06:26 - 06:32] It's by Chuck Schumer, who's the leader of the Senate from the Democrats. [06:32 - 06:40] And he's inserted this huge amendment, basically, which provides a UAP review board,\n[06:40 - 06:48] which will basically look to release UAP reports going back decades. [06:48 - 06:57] But not only that, it would also look to potentially, potentially release UAP materials,\n[06:58 - 06:59] which could also mean craft.",
+      "entities": [
+        "the Senate",
+        "Chuck Schumer"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.269669"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0094",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "prediction",
+      "text": "[06:32 - 06:40] And he's inserted this huge amendment, basically, which provides a UAP review board,\n[06:40 - 06:48] which will basically look to release UAP reports going back decades.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[06:16 - 06:25] And what it is, it's a new amendment to the National Defense Authorization Act by, you know, it's by the most powerful person in the Senate. [06:26 - 06:32] It's by Chuck Schumer, who's the leader of the Senate from the Democrats. [06:32 - 06:40] And he's inserted this huge amendment, basically, which provides a UAP review board,\n[06:40 - 06:48] which will basically look to release UAP reports going back decades. [06:48 - 06:57] But not only that, it would also look to potentially, potentially release UAP materials,\n[06:58 - 06:59] which could also mean craft. [07:00 - 07:02] And let's say biochemicals.",
+      "entities": [
+        "UAP",
+        "UAP review board"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation",
+        "transparency"
+      ],
+      "created_at": "2026-01-07T14:41:30.271184"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0095",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[06:48 - 06:57] But not only that, it would also look to potentially, potentially release UAP materials,\n[06:58 - 06:59] which could also mean craft.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[06:26 - 06:32] It's by Chuck Schumer, who's the leader of the Senate from the Democrats. [06:32 - 06:40] And he's inserted this huge amendment, basically, which provides a UAP review board,\n[06:40 - 06:48] which will basically look to release UAP reports going back decades. [06:48 - 06:57] But not only that, it would also look to potentially, potentially release UAP materials,\n[06:58 - 06:59] which could also mean craft. [07:00 - 07:02] And let's say biochemicals. [07:02 - 07:07] Biological specimens as well, relating to UAP, which are non-human in nature.",
+      "entities": [
+        "UAP",
+        "craft"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "transparency",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.273541"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0097",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[07:02 - 07:07] Biological specimens as well, relating to UAP, which are non-human in nature.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[06:48 - 06:57] But not only that, it would also look to potentially, potentially release UAP materials,\n[06:58 - 06:59] which could also mean craft. [07:00 - 07:02] And let's say biochemicals. [07:02 - 07:07] Biological specimens as well, relating to UAP, which are non-human in nature. [07:07 - 07:16] And that is just explosive because we know there is already a version of the Intelligence Authorization Act\n[07:16 - 07:22] and the National Defense Authorization Act, which provides an amnesty period of 60 days\n[07:22 - 07:27] for basically the likes of Lockheed Martin to actually come clean about what they have. [07:28 - 07:31] Now, this new amendment by Chuck Schumer,\n[07:32 - 07:38] is a follow on in a way from that because it says that if any UAP materials,\n[07:38 - 07:42] you know, or biological specimens are discovered,\n[07:43 - 07:47] then the U.S.",
+      "entities": [
+        "UAP"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.275045"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0098",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[07:07 - 07:16] And that is just explosive because we know there is already a version of the Intelligence Authorization Act\n[07:16 - 07:22] and the National Defense Authorization Act, which provides an amnesty period of 60 days\n[07:22 - 07:27] for basically the likes of Lockheed Martin to actually come clean about what they have.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[07:00 - 07:02] And let's say biochemicals. [07:02 - 07:07] Biological specimens as well, relating to UAP, which are non-human in nature. [07:07 - 07:16] And that is just explosive because we know there is already a version of the Intelligence Authorization Act\n[07:16 - 07:22] and the National Defense Authorization Act, which provides an amnesty period of 60 days\n[07:22 - 07:27] for basically the likes of Lockheed Martin to actually come clean about what they have. [07:28 - 07:31] Now, this new amendment by Chuck Schumer,\n[07:32 - 07:38] is a follow on in a way from that because it says that if any UAP materials,\n[07:38 - 07:42] you know, or biological specimens are discovered,\n[07:43 - 07:47] then the U.S. government will possess those materials.",
+      "entities": [
+        "Authorization Act",
+        "Intelligence Authorization Act",
+        "Lockheed Martin",
+        "National Defense Authorization Act"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.276664"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0099",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[07:28 - 07:31] Now, this new amendment by Chuck Schumer,\n[07:32 - 07:38] is a follow on in a way from that because it says that if any UAP materials,\n[07:38 - 07:42] you know, or biological specimens are discovered,\n[07:43 - 07:47] then the U.S.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[07:02 - 07:07] Biological specimens as well, relating to UAP, which are non-human in nature. [07:07 - 07:16] And that is just explosive because we know there is already a version of the Intelligence Authorization Act\n[07:16 - 07:22] and the National Defense Authorization Act, which provides an amnesty period of 60 days\n[07:22 - 07:27] for basically the likes of Lockheed Martin to actually come clean about what they have. [07:28 - 07:31] Now, this new amendment by Chuck Schumer,\n[07:32 - 07:38] is a follow on in a way from that because it says that if any UAP materials,\n[07:38 - 07:42] you know, or biological specimens are discovered,\n[07:43 - 07:47] then the U.S. government will possess those materials. [07:47 - 07:52] So Lockheed Martin, look, if they have these materials, they'll have to surrender them to the U.S.",
+      "entities": [
+        "UAP",
+        "Chuck Schumer"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.278495"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0101",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[07:47 - 07:52] So Lockheed Martin, look, if they have these materials, they'll have to surrender them to the U.S.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[07:28 - 07:31] Now, this new amendment by Chuck Schumer,\n[07:32 - 07:38] is a follow on in a way from that because it says that if any UAP materials,\n[07:38 - 07:42] you know, or biological specimens are discovered,\n[07:43 - 07:47] then the U.S. government will possess those materials. [07:47 - 07:52] So Lockheed Martin, look, if they have these materials, they'll have to surrender them to the U.S. government. [07:53 - 08:00] And it looks like there's a real plan coming together now about how we get this stuff out and release it to the U.S.",
+      "entities": [
+        "Lockheed Martin"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.280307"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0114",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[08:35 - 08:44] Look, this new legislation is making a powerful move to expose the issue of illegal UAP technological holdings.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[08:26 - 08:33] So you actually are breaking news in this last story you wrote that people I don't think have really admired yet. [08:34 - 08:35] But I think they will. [08:35 - 08:44] Look, this new legislation is making a powerful move to expose the issue of illegal UAP technological holdings. [08:44 - 08:46] Like, that's what this legislation is doing. [08:47 - 08:49] George and I got a preview of it.",
+      "entities": [
+        "UAP"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.282402"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0115",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[08:44 - 08:46] Like, that's what this legislation is doing.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[08:34 - 08:35] But I think they will. [08:35 - 08:44] Look, this new legislation is making a powerful move to expose the issue of illegal UAP technological holdings. [08:44 - 08:46] Like, that's what this legislation is doing. [08:47 - 08:49] George and I got a preview of it. [08:49 - 08:50] Just put it that way.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.284327"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0120",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "opinion",
+      "text": "[08:54 - 09:01] So we should be asking ourselves, in my opinion, we should be asking ourselves what the authors of this amendment know.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[08:51 - 08:52] But it has to be put into law. [08:52 - 08:54] But that's what it's trying to do. [08:54 - 09:01] So we should be asking ourselves, in my opinion, we should be asking ourselves what the authors of this amendment know. [09:02 - 09:03] I mean, this is like, what do they know? [09:03 - 09:05] What do they know to try to put this into law?",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.286285"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0138",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "opinion",
+      "text": "[10:31 - 10:47] I feel that UAP potentially being of either unknown origin, albeit of a non-prosaic origin, let's say, or non-human origin that they're able to determine.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[10:21 - 10:25] There is such a weight of responsibility that I feel when I'm reporting on these articles. [10:25 - 10:31] And yes, I feel that there is some smoking gun evidence of UAP. [10:31 - 10:47] I feel that UAP potentially being of either unknown origin, albeit of a non-prosaic origin, let's say, or non-human origin that they're able to determine. [10:47 - 10:49] And I would just put this out there. [10:49 - 10:51] I would love to know your opinion.",
+      "entities": [
+        "UAP",
+        "non-human origin"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.288408"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0142",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[10:53 - 11:00] But we know that there has been some coordination in terms of getting this new amendment out there.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[10:49 - 10:51] I would love to know your opinion. [10:51 - 10:53] I've not asked you about this before, Jeremy. [10:53 - 11:00] But we know that there has been some coordination in terms of getting this new amendment out there. [11:00 - 11:06] With the White House and National Security Council as well. [11:07 - 11:29] So following the February shoot downs that occurred over North America, there was a rumor which was going around about a very, very senior member of, let's say, the U.S.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.291584"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0146",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[11:29 - 11:37] About legacy programs and stated that the U.S.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[11:07 - 11:29] So following the February shoot downs that occurred over North America, there was a rumor which was going around about a very, very senior member of, let's say, the U.S. Armed Forces who approached a White House staff member, let's say, and spilled the beans. [11:29 - 11:37] About legacy programs and stated that the U.S. Air Force is lying when it comes down to the topic of UAP. [11:37 - 11:44] And then we had the White House set up its own kind of task force all of a sudden to look into UAP.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.293660"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0150",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[11:45 - 11:59] And now we know that this bombshell language, which basically asserts, asserts that there are non-human entities, or implies that at least, that now that's come from, in part, from the White House.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[11:37 - 11:44] And then we had the White House set up its own kind of task force all of a sudden to look into UAP. [11:44 - 11:45] And that kind of disappeared. [11:45 - 11:59] And now we know that this bombshell language, which basically asserts, asserts that there are non-human entities, or implies that at least, that now that's come from, in part, from the White House. [11:59 - 12:00] The National Security Council. [12:01 - 12:04] And like you said, I just don't think that came from nowhere.",
+      "entities": [
+        "House"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.296349"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0168",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[13:02 - 13:12] And so this is where people's hubris and egos are very helpful to the disclosure efforts about this topic, whatever it might be.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[12:56 - 13:00] And as George will tell you, after, you know, almost 40 years of reporting on this. [13:01 - 13:02] We've been lied to. [13:02 - 13:12] And so this is where people's hubris and egos are very helpful to the disclosure efforts about this topic, whatever it might be. [13:13 - 13:14] So that's all I can. [13:14 - 13:16] That's all I really want to say about that.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "transparency"
+      ],
+      "created_at": "2026-01-07T14:41:30.299171"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0172",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[13:17 - 13:20] Senator Schumer is a pretty crafty politician.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[13:14 - 13:16] That's all I really want to say about that. [13:16 - 13:17] I would jump in this way. [13:17 - 13:20] Senator Schumer is a pretty crafty politician. [13:20 - 13:27] He's not going to stick his neck out if he doesn't have some kind of support for taking this sort of a position. [13:27 - 13:30] We all have to believe that the testimony of David Grush.",
+      "entities": [
+        "craft",
+        "Senator Schumer",
+        "cia"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.302073"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0177",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[13:41 - 13:46] Grush is not alone, however, in the statements that was released by Schumer's office.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[13:30 - 13:32] That came out a few weeks ago. [13:32 - 13:41] Our friend David has played a major role in the steps that have been taken both in the Senate and in the House in pushing this ball down the field. [13:41 - 13:46] Grush is not alone, however, in the statements that was released by Schumer's office. [13:46 - 13:55] He made it clear that they have heard from a bunch of people, not just Grush, but a whole bunch of people who've come out offering information about these legacy UFO programs. [13:56 - 13:59] And I will tell you this, that it's not the first time that Senator.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "transparency"
+      ],
+      "created_at": "2026-01-07T14:41:30.304606"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0181",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[14:01 - 14:06] My friend, the late Senator Harry Reid, talked to Schumer, who was his protege.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[13:56 - 13:59] And I will tell you this, that it's not the first time that Senator. [13:59 - 14:00] The senator has heard this. [14:01 - 14:06] My friend, the late Senator Harry Reid, talked to Schumer, who was his protege. [14:06 - 14:11] You might have seen one of the tweets that Schumer put out after he dropped this bombshell amendment. [14:11 - 14:17] He paid homage to the legacy of his friend, Senator Reid, who died more than a year ago.",
+      "entities": [
+        "Harry Reid",
+        "Senator Harry"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.307245"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0182",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[14:06 - 14:11] You might have seen one of the tweets that Schumer put out after he dropped this bombshell amendment.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[13:59 - 14:00] The senator has heard this. [14:01 - 14:06] My friend, the late Senator Harry Reid, talked to Schumer, who was his protege. [14:06 - 14:11] You might have seen one of the tweets that Schumer put out after he dropped this bombshell amendment. [14:11 - 14:17] He paid homage to the legacy of his friend, Senator Reid, who died more than a year ago. [14:17 - 14:28] What we're seeing unfolding here now, all these different elements in different places can largely be tracked back to the work that Senator Reid started here in Las Vegas.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.310277"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0189",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[14:45 - 14:46] And Schumer was one of them.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[14:37 - 14:39] And I helped fan those flames for a long time. [14:39 - 14:45] And I asked him flat out who among the Senate colleagues he had talked to about this issue. [14:45 - 14:46] And Schumer was one of them. [14:46 - 14:48] Schumer was his right hand man. [14:48 - 14:53] Schumer learned the job of being how to be a majority leader from his mentor, Harry Reid.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.312725"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0190",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[14:46 - 14:48] Schumer was his right hand man.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[14:39 - 14:45] And I asked him flat out who among the Senate colleagues he had talked to about this issue. [14:45 - 14:46] And Schumer was one of them. [14:46 - 14:48] Schumer was his right hand man. [14:48 - 14:53] Schumer learned the job of being how to be a majority leader from his mentor, Harry Reid. [14:53 - 14:55] And they did talk about UFOs.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.314579"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0191",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[14:48 - 14:53] Schumer learned the job of being how to be a majority leader from his mentor, Harry Reid.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[14:45 - 14:46] And Schumer was one of them. [14:46 - 14:48] Schumer was his right hand man. [14:48 - 14:53] Schumer learned the job of being how to be a majority leader from his mentor, Harry Reid. [14:53 - 14:55] And they did talk about UFOs. [14:55 - 14:56] I would also say there are others.",
+      "entities": [
+        "Harry Reid"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.316482"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0200",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "opinion",
+      "text": "[15:20 - 15:23] And I think they are lending this support to this legislation.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[15:15 - 15:18] Senator Gillibrand, Senator Rubio have been out in front on it. [15:18 - 15:20] But there are other members who have an interest in it. [15:20 - 15:23] And I think they are lending this support to this legislation. [15:23 - 15:26] But you can bet that Senator Schumer has his ducks in a row. [15:26 - 15:32] Before he makes an amendment that he knew would make as big a bombshell impact as this one did.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.318346"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0201",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[15:23 - 15:26] But you can bet that Senator Schumer has his ducks in a row.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[15:18 - 15:20] But there are other members who have an interest in it. [15:20 - 15:23] And I think they are lending this support to this legislation. [15:23 - 15:26] But you can bet that Senator Schumer has his ducks in a row. [15:26 - 15:32] Before he makes an amendment that he knew would make as big a bombshell impact as this one did. [15:34 - 15:35] Yeah.",
+      "entities": [
+        "Senator Schumer"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.320137"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0202",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[15:26 - 15:32] Before he makes an amendment that he knew would make as big a bombshell impact as this one did.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[15:20 - 15:23] And I think they are lending this support to this legislation. [15:23 - 15:26] But you can bet that Senator Schumer has his ducks in a row. [15:26 - 15:32] Before he makes an amendment that he knew would make as big a bombshell impact as this one did. [15:34 - 15:35] Yeah. [15:35 - 15:39] I think he's extremely well informed at this point.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.321957"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0209",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[15:58 - 16:02] They're interested in the UAP topic and which may hold hearings.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[15:46 - 15:47] Yes. [15:47 - 15:58] So earlier this year, I was informed that there's a whole host of committees both in the Senate and in the House that are interested. [15:58 - 16:02] They're interested in the UAP topic and which may hold hearings. [16:02 - 16:08] So not just the Intel and Armed Services Committees, other committees. [16:08 - 16:15] And one of the committees that was mentioned to me was the Homeland Security Committee in the Senate.",
+      "entities": [
+        "UAP"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.323855"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0212",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "prediction",
+      "text": "[16:16 - 16:25] And it just so happens in this new legislation that that committee is going to pay a major role in terms of oversight in this new UAP review board.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[16:02 - 16:08] So not just the Intel and Armed Services Committees, other committees. [16:08 - 16:15] And one of the committees that was mentioned to me was the Homeland Security Committee in the Senate. [16:16 - 16:25] And it just so happens in this new legislation that that committee is going to pay a major role in terms of oversight in this new UAP review board. [16:25 - 16:28] So I think we can expect a whole lot more. [16:28 - 16:35] There are a bunch of other senators and representatives who are bursting to speak about this.",
+      "entities": [
+        "UAP",
+        "UAP review board"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.325910"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0215",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "opinion",
+      "text": "[16:35 - 16:47] And I think that our friend Chuck Schumer has just set the bar now and provided cover for those other politicians to actually start talking about this publicly.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[16:25 - 16:28] So I think we can expect a whole lot more. [16:28 - 16:35] There are a bunch of other senators and representatives who are bursting to speak about this. [16:35 - 16:47] And I think that our friend Chuck Schumer has just set the bar now and provided cover for those other politicians to actually start talking about this publicly. [16:48 - 16:51] There's some specific things we should probably touch on. [16:51 - 16:56] The creation of a UFO panel is similar to the JFK assassination record.",
+      "entities": [
+        "Chuck Schumer",
+        "cia"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation",
+        "transparency"
+      ],
+      "created_at": "2026-01-07T14:41:30.327998"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0222",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "opinion",
+      "text": "[17:16 - 17:24] And I can see UFO people who are inclined to believe in conspiracies worried that a panel on UFO disclosure might do the same thing.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[17:01 - 17:15] And, of course, that raises a lot of eyebrows because the JFK panel, you know, to the hardcore JFA conspiracy folks, they're not happy with it because after 60-plus years, 60 or so years, we still don't have all those records. [17:15 - 17:16] They still have not been released. [17:16 - 17:24] And I can see UFO people who are inclined to believe in conspiracies worried that a panel on UFO disclosure might do the same thing. [17:24 - 17:28] And still classify things that the public has a right to know. [17:28 - 17:29] What do you think?",
+      "entities": [
+        "UFO"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "transparency"
+      ],
+      "created_at": "2026-01-07T14:41:30.329970"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0225",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[17:30 - 17:35] Well, I would say that this new amendment is a major push forward.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[17:24 - 17:28] And still classify things that the public has a right to know. [17:28 - 17:29] What do you think? [17:30 - 17:35] Well, I would say that this new amendment is a major push forward. [17:35 - 17:48] And look, for the last three or four years now, we've had multiple UAP, you know, amendments and language added to both the Intelligence Authorization Act and the National Defense Authorization Act. [17:48 - 17:55] So I don't, you know, yeah, I think this is a major step in the right direction.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.331854"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0226",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[17:35 - 17:48] And look, for the last three or four years now, we've had multiple UAP, you know, amendments and language added to both the Intelligence Authorization Act and the National Defense Authorization Act.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[17:28 - 17:29] What do you think? [17:30 - 17:35] Well, I would say that this new amendment is a major push forward. [17:35 - 17:48] And look, for the last three or four years now, we've had multiple UAP, you know, amendments and language added to both the Intelligence Authorization Act and the National Defense Authorization Act. [17:48 - 17:55] So I don't, you know, yeah, I think this is a major step in the right direction. [17:55 - 17:59] But I would also say that I would also expect more to follow as well.",
+      "entities": [
+        "Authorization Act",
+        "UAP",
+        "Intelligence Authorization Act",
+        "National Defense Authorization Act"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.333996"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0229",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[17:59 - 18:10] And we also know that this is in conjunction with the other language out there which provides amnesty to basically defense contractors like Lockheed Martin.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[17:48 - 17:55] So I don't, you know, yeah, I think this is a major step in the right direction. [17:55 - 17:59] But I would also say that I would also expect more to follow as well. [17:59 - 18:10] And we also know that this is in conjunction with the other language out there which provides amnesty to basically defense contractors like Lockheed Martin. [18:10 - 18:15] So I think it works in tandem with other legislation that can come forward. [18:16 - 18:24] And I think that we can expect more legislation to come forward, whether it be in this National Defense Authorization Act or perhaps next year.",
+      "entities": [
+        "Lockheed Martin"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.336313"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0230",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "opinion",
+      "text": "[18:10 - 18:15] So I think it works in tandem with other legislation that can come forward.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[17:55 - 17:59] But I would also say that I would also expect more to follow as well. [17:59 - 18:10] And we also know that this is in conjunction with the other language out there which provides amnesty to basically defense contractors like Lockheed Martin. [18:10 - 18:15] So I think it works in tandem with other legislation that can come forward. [18:16 - 18:24] And I think that we can expect more legislation to come forward, whether it be in this National Defense Authorization Act or perhaps next year. [18:24 - 18:28] I think they've really, really, they smell something's not up now.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.338612"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0231",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "opinion",
+      "text": "[18:16 - 18:24] And I think that we can expect more legislation to come forward, whether it be in this National Defense Authorization Act or perhaps next year.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[17:59 - 18:10] And we also know that this is in conjunction with the other language out there which provides amnesty to basically defense contractors like Lockheed Martin. [18:10 - 18:15] So I think it works in tandem with other legislation that can come forward. [18:16 - 18:24] And I think that we can expect more legislation to come forward, whether it be in this National Defense Authorization Act or perhaps next year. [18:24 - 18:28] I think they've really, really, they smell something's not up now. [18:29 - 18:37] And they feel that I think being a US politician at the moment, I feel that they feel that they're being lied to.",
+      "entities": [
+        "National Defense Authorization Act"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.341215"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0248",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[20:06 - 20:15] Use of eminent domain to claim government ownership of any non-human tech, ET tech, saucers, craft, materials, bodies.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[19:56 - 20:03] Here's the other part of it that jumps out at me is the use of eminent domain concept in American law. [20:03 - 20:05] I don't know if you have something similar in the UK. [20:06 - 20:15] Use of eminent domain to claim government ownership of any non-human tech, ET tech, saucers, craft, materials, bodies. [20:16 - 20:18] It belongs to the government if this becomes law. [20:19 - 20:21] And say, let's just pull a name out of a hat.",
+      "entities": [
+        "saucers",
+        "craft"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.346907"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0252",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[20:21 - 20:25] Lockheed has saucers stashed in a hangar somewhere.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[20:19 - 20:21] And say, let's just pull a name out of a hat. [20:21 - 20:21] Yeah. [20:21 - 20:25] Lockheed has saucers stashed in a hangar somewhere. [20:25 - 20:26] They have to give them up. [20:26 - 20:28] They have to give them to the US government.",
+      "entities": [
+        "saucers"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.349791"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0261",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[21:03 - 21:05] So, I mean, the legislation just uses the term persons.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[20:54 - 21:01] It presents some interesting questions for people and companies who may have this material. [21:02 - 21:02] Yes. [21:03 - 21:05] So, I mean, the legislation just uses the term persons. [21:06 - 21:09] So, that could refer to individuals and organizations. [21:10 - 21:13] So, I think it may do.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.352781"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0267",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[21:32 - 21:36] I'd say that if Lockheed Martin does...",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[21:19 - 21:29] Or seek legal counsel, basically, to see what the repercussions could be if they do hold on to such material after the amnesty period. [21:30 - 21:32] And also, I'd say this as well. [21:32 - 21:36] I'd say that if Lockheed Martin does... [21:36 - 21:41] And I've been liaising with the Lockheed Martin spokesperson for the last two weeks or so. [21:41 - 21:48] Because if they do have an illegal UAP program, then that would be a material risk.",
+      "entities": [
+        "Lockheed Martin"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.355499"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0268",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[21:36 - 21:41] And I've been liaising with the Lockheed Martin spokesperson for the last two weeks or so.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[21:30 - 21:32] And also, I'd say this as well. [21:32 - 21:36] I'd say that if Lockheed Martin does... [21:36 - 21:41] And I've been liaising with the Lockheed Martin spokesperson for the last two weeks or so. [21:41 - 21:48] Because if they do have an illegal UAP program, then that would be a material risk. [21:48 - 21:55] And if there are material risks that you can disclose, you have to disclose that under SEC law.",
+      "entities": [
+        "Lockheed Martin"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.358545"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0273",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[22:08 - 22:14] So, there's lots of repercussions around this for the likes of Lockheed and also in terms of competitors as well.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[21:55 - 21:58] You have to disclose that to your shareholders. [21:58 - 22:07] Because your shareholders need to know if you've got a really huge material risk that could mean that your shares sink, basically, and you lose a lot of money. [22:08 - 22:14] So, there's lots of repercussions around this for the likes of Lockheed and also in terms of competitors as well. [22:14 - 22:17] If they have an unfair advantage, that's huge as well. [22:17 - 22:22] So, I think there's a lot of fine detail that needs to go over, that we need to go over as well.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.361543"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0276",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "opinion",
+      "text": "[22:22 - 22:27] And I think that needs to be included within the legislation, such as compensation.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[22:14 - 22:17] If they have an unfair advantage, that's huge as well. [22:17 - 22:22] So, I think there's a lot of fine detail that needs to go over, that we need to go over as well. [22:22 - 22:27] And I think that needs to be included within the legislation, such as compensation. [22:28 - 22:33] I mean, a lot of people like to throw Lockheed under the bus, and maybe rightfully so. [22:33 - 22:40] But it's also a fundamental pillar of the Western defenses, basically.",
+      "entities": [
+        "nsa"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.366563"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0277",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[22:28 - 22:33] I mean, a lot of people like to throw Lockheed under the bus, and maybe rightfully so.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[22:17 - 22:22] So, I think there's a lot of fine detail that needs to go over, that we need to go over as well. [22:22 - 22:27] And I think that needs to be included within the legislation, such as compensation. [22:28 - 22:33] I mean, a lot of people like to throw Lockheed under the bus, and maybe rightfully so. [22:33 - 22:40] But it's also a fundamental pillar of the Western defenses, basically. [22:40 - 22:44] Not just for the United States, but for the United Kingdom as well.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.369638"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0280",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[22:44 - 22:46] If Lockheed Martin were to fall down...",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[22:33 - 22:40] But it's also a fundamental pillar of the Western defenses, basically. [22:40 - 22:44] Not just for the United States, but for the United Kingdom as well. [22:44 - 22:46] If Lockheed Martin were to fall down... [22:46 - 22:54] And cease to become a functioning organization, that has major defense repercussions that will harm a lot of us. [22:54 - 23:03] So, I feel that there needs to be a way to do this so that you don't sink aerospace corporations.",
+      "entities": [
+        "Lockheed Martin"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.372579"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0283",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "opinion",
+      "text": "[23:04 - 23:10] And also, I think as well, if the US government is going to take possession of such craft, what do they do then?",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[22:46 - 22:54] And cease to become a functioning organization, that has major defense repercussions that will harm a lot of us. [22:54 - 23:03] So, I feel that there needs to be a way to do this so that you don't sink aerospace corporations. [23:04 - 23:10] And also, I think as well, if the US government is going to take possession of such craft, what do they do then? [23:10 - 23:13] Is there then like a tender process or something? [23:13 - 23:16] Whereby other defense contractors get in on it?",
+      "entities": [
+        "craft"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.375563"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0285",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "question",
+      "text": "[23:13 - 23:16] Whereby other defense contractors get in on it?",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[23:04 - 23:10] And also, I think as well, if the US government is going to take possession of such craft, what do they do then? [23:10 - 23:13] Is there then like a tender process or something? [23:13 - 23:16] Whereby other defense contractors get in on it? [23:16 - 23:20] Is there an opportunity to gain access to such craft? [23:20 - 23:26] Does Elon Musk get an opportunity to study it under SpaceX or something like that?",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.378216"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0286",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "question",
+      "text": "[23:16 - 23:20] Is there an opportunity to gain access to such craft?",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[23:10 - 23:13] Is there then like a tender process or something? [23:13 - 23:16] Whereby other defense contractors get in on it? [23:16 - 23:20] Is there an opportunity to gain access to such craft? [23:20 - 23:26] Does Elon Musk get an opportunity to study it under SpaceX or something like that? [23:26 - 23:29] I think that would be really, really interesting to know what the government does from there.",
+      "entities": [
+        "craft"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.380822"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0290",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[23:32 - 23:37] You would have to ensure that there's a huge push to actually study these crafts.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[23:26 - 23:29] I think that would be really, really interesting to know what the government does from there. [23:29 - 23:32] Because you can't just leave it locked away in government. [23:32 - 23:37] You would have to ensure that there's a huge push to actually study these crafts. [23:38 - 23:43] Yeah, I mean, clearly this legislation is focused on defense contractors. [23:43 - 23:45] I mean, clearly there's something that's known.",
+      "entities": [
+        "craft"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.383859"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0291",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[23:38 - 23:43] Yeah, I mean, clearly this legislation is focused on defense contractors.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[23:29 - 23:32] Because you can't just leave it locked away in government. [23:32 - 23:37] You would have to ensure that there's a huge push to actually study these crafts. [23:38 - 23:43] Yeah, I mean, clearly this legislation is focused on defense contractors. [23:43 - 23:45] I mean, clearly there's something that's known. [23:45 - 23:47] And they're trying to force it out.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.386428"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0298",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[24:00 - 24:04] And Chris, you've really, really digested the information that once the legislation is passed,\n[24:04 - 24:13] there'll be a financial incentive for insiders to kind of blow the whistle because they're entitled to like 10% of the recovered fraudulent sum.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[23:54 - 23:57] Because there's really no way out of that other than straight up fraud. [23:58 - 23:59] And I think it's true too. [24:00 - 24:04] And Chris, you've really, really digested the information that once the legislation is passed,\n[24:04 - 24:13] there'll be a financial incentive for insiders to kind of blow the whistle because they're entitled to like 10% of the recovered fraudulent sum. [24:13 - 24:14] Is that correct? [24:14 - 24:15] Is that in the legislation?",
+      "entities": [
+        "cia"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.389328"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0300",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "question",
+      "text": "[24:14 - 24:15] Is that in the legislation?",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[24:00 - 24:04] And Chris, you've really, really digested the information that once the legislation is passed,\n[24:04 - 24:13] there'll be a financial incentive for insiders to kind of blow the whistle because they're entitled to like 10% of the recovered fraudulent sum. [24:13 - 24:14] Is that correct? [24:14 - 24:15] Is that in the legislation? [24:15 - 24:20] I need to have a look at that again, just to confirm. [24:20 - 24:23] It has been said to me that there is a financial incentive.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.391447"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0305",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[24:33 - 24:41] You can imagine shareholders discovering that Lockheed had craft of non-human origin, breakthrough technologies.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[24:23 - 24:25] I need to have a look at that again. [24:27 - 24:33] Would 10% even be enough in terms of this, especially if it got taken away from them? [24:33 - 24:41] You can imagine shareholders discovering that Lockheed had craft of non-human origin, breakthrough technologies. [24:41 - 24:45] The shares would go up by such an amount. [24:45 - 24:47] It would be amazing for Lockheed, you know.",
+      "entities": [
+        "breakthrough technologies",
+        "craft",
+        "non-human origin"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.394470"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0307",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[24:45 - 24:47] It would be amazing for Lockheed, you know.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[24:33 - 24:41] You can imagine shareholders discovering that Lockheed had craft of non-human origin, breakthrough technologies. [24:41 - 24:45] The shares would go up by such an amount. [24:45 - 24:47] It would be amazing for Lockheed, you know. [24:47 - 24:52] But then all of a sudden you find out that Lockheed lose the craft and then the stock sinks. [24:52 - 24:54] They could lose a lot of money for Lockheed.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.396466"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0308",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[24:47 - 24:52] But then all of a sudden you find out that Lockheed lose the craft and then the stock sinks.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[24:41 - 24:45] The shares would go up by such an amount. [24:45 - 24:47] It would be amazing for Lockheed, you know. [24:47 - 24:52] But then all of a sudden you find out that Lockheed lose the craft and then the stock sinks. [24:52 - 24:54] They could lose a lot of money for Lockheed. [24:54 - 25:02] I noticed something in the legislation too that was extremely powerful to me, which was they were creating definitions.",
+      "entities": [
+        "craft"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.399468"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0309",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[24:52 - 24:54] They could lose a lot of money for Lockheed.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[24:45 - 24:47] It would be amazing for Lockheed, you know. [24:47 - 24:52] But then all of a sudden you find out that Lockheed lose the craft and then the stock sinks. [24:52 - 24:54] They could lose a lot of money for Lockheed. [24:54 - 25:02] I noticed something in the legislation too that was extremely powerful to me, which was they were creating definitions. [25:02 - 25:06] And this is something I know you've been personally on the hunt for for a long time.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.401633"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0310",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[24:54 - 25:02] I noticed something in the legislation too that was extremely powerful to me, which was they were creating definitions.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[24:47 - 24:52] But then all of a sudden you find out that Lockheed lose the craft and then the stock sinks. [24:52 - 24:54] They could lose a lot of money for Lockheed. [24:54 - 25:02] I noticed something in the legislation too that was extremely powerful to me, which was they were creating definitions. [25:02 - 25:06] And this is something I know you've been personally on the hunt for for a long time. [25:06 - 25:09] You're trying to use the war of the words here.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.403894"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0315",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[25:15 - 25:18] And it's like as if they had to define that in the legislation.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[25:10 - 25:12] And can you explain to us what you've been on the hunt for? [25:12 - 25:15] Because I noticed they said, you know, unknown origin. [25:15 - 25:18] And it's like as if they had to define that in the legislation. [25:18 - 25:20] Why do you think that is? [25:20 - 25:25] And what have you been on to when you have been speaking with, I know, I think you've been writing to Susan Goh.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.406106"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0320",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[25:30 - 25:41] So what happened was that when the David Grush story broke, the DOD's line was that the Arrow hasn't found any programs, let's say,\n[25:43 - 25:44] which whistleblowers have brought forward.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[25:26 - 25:28] So tell me that little battle, would you? [25:29 - 25:30] Yes. [25:30 - 25:41] So what happened was that when the David Grush story broke, the DOD's line was that the Arrow hasn't found any programs, let's say,\n[25:43 - 25:44] which whistleblowers have brought forward. [25:45 - 25:51] To it that found any materials of extraterrestrial nature. [25:53 - 25:58] So I went back to Susan Goh because David Grush specifically mentioned non-human intelligence.",
+      "entities": [
+        "the DOD",
+        "David Grush"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "whistleblower"
+      ],
+      "created_at": "2026-01-07T14:41:30.408319"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0321",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[25:45 - 25:51] To it that found any materials of extraterrestrial nature.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[25:29 - 25:30] Yes. [25:30 - 25:41] So what happened was that when the David Grush story broke, the DOD's line was that the Arrow hasn't found any programs, let's say,\n[25:43 - 25:44] which whistleblowers have brought forward. [25:45 - 25:51] To it that found any materials of extraterrestrial nature. [25:53 - 25:58] So I went back to Susan Goh because David Grush specifically mentioned non-human intelligence. [25:59 - 26:01] So I said, what about non-human intelligence?",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.410293"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0322",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[25:53 - 25:58] So I went back to Susan Goh because David Grush specifically mentioned non-human intelligence.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[25:30 - 25:41] So what happened was that when the David Grush story broke, the DOD's line was that the Arrow hasn't found any programs, let's say,\n[25:43 - 25:44] which whistleblowers have brought forward. [25:45 - 25:51] To it that found any materials of extraterrestrial nature. [25:53 - 25:58] So I went back to Susan Goh because David Grush specifically mentioned non-human intelligence. [25:59 - 26:01] So I said, what about non-human intelligence? [26:01 - 26:03] She said extraterrestrial.",
+      "entities": [
+        "non-human intelligence",
+        "Susan Goh",
+        "David Grush"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.412724"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0323",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "question",
+      "text": "[25:59 - 26:01] So I said, what about non-human intelligence?",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[25:45 - 25:51] To it that found any materials of extraterrestrial nature. [25:53 - 25:58] So I went back to Susan Goh because David Grush specifically mentioned non-human intelligence. [25:59 - 26:01] So I said, what about non-human intelligence? [26:01 - 26:03] She said extraterrestrial. [26:03 - 26:04] But do you also mean non-human intelligence?",
+      "entities": [
+        "non-human intelligence"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.415283"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0324",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[26:01 - 26:03] She said extraterrestrial.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[25:53 - 25:58] So I went back to Susan Goh because David Grush specifically mentioned non-human intelligence. [25:59 - 26:01] So I said, what about non-human intelligence? [26:01 - 26:03] She said extraterrestrial. [26:03 - 26:04] But do you also mean non-human intelligence? [26:05 - 26:07] And she failed to get back to me.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.417304"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0325",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "question",
+      "text": "[26:03 - 26:04] But do you also mean non-human intelligence?",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[25:59 - 26:01] So I said, what about non-human intelligence? [26:01 - 26:03] She said extraterrestrial. [26:03 - 26:04] But do you also mean non-human intelligence? [26:05 - 26:07] And she failed to get back to me. [26:07 - 26:11] And I said, look, if you can't get back to me, I'm just going to say you can't deny it.",
+      "entities": [
+        "non-human intelligence"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.419222"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0330",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[26:13 - 26:16] Then the Pentagon had a panic.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[26:11 - 26:13] She didn't get back to me. [26:13 - 26:13] So I reported it. [26:13 - 26:16] Then the Pentagon had a panic. [26:16 - 26:21] And then they came back to me and said, extraterrestrial also means non-human as well. [26:22 - 26:22] So I was like, OK.",
+      "entities": [
+        "Pentagon",
+        "the Pentagon"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.421185"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0331",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[26:16 - 26:21] And then they came back to me and said, extraterrestrial also means non-human as well.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[26:13 - 26:13] So I reported it. [26:13 - 26:16] Then the Pentagon had a panic. [26:16 - 26:21] And then they came back to me and said, extraterrestrial also means non-human as well. [26:22 - 26:22] So I was like, OK. [26:23 - 26:27] Because they also said that it was verifiable information.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.423641"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0334",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[26:27 - 26:36] So the Arrow had found no information and verified zero information relating to materials of extraterrestrial origin.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[26:22 - 26:22] So I was like, OK. [26:23 - 26:27] Because they also said that it was verifiable information. [26:27 - 26:36] So the Arrow had found no information and verified zero information relating to materials of extraterrestrial origin. [26:37 - 26:42] So that could mean that the Arrow found non-prosaic materials. [26:43 - 26:45] That may have suspected being non-human.",
+      "entities": [
+        "extraterrestrial origin"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.426258"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0336",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[26:43 - 26:45] That may have suspected being non-human.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[26:27 - 26:36] So the Arrow had found no information and verified zero information relating to materials of extraterrestrial origin. [26:37 - 26:42] So that could mean that the Arrow found non-prosaic materials. [26:43 - 26:45] That may have suspected being non-human. [26:46 - 26:54] However, they haven't verified it yet to actually independently say, yes, it is extraterrestrial or non-human in nature. [26:54 - 26:58] So I instead posed the question, have you found anything of unknown origin?",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.428706"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0337",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[26:46 - 26:54] However, they haven't verified it yet to actually independently say, yes, it is extraterrestrial or non-human in nature.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[26:37 - 26:42] So that could mean that the Arrow found non-prosaic materials. [26:43 - 26:45] That may have suspected being non-human. [26:46 - 26:54] However, they haven't verified it yet to actually independently say, yes, it is extraterrestrial or non-human in nature. [26:54 - 26:58] So I instead posed the question, have you found anything of unknown origin? [26:58 - 27:04] Because that means that you may be going through the process of verifying whether it is non-human intelligence.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.434984"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0339",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[26:58 - 27:04] Because that means that you may be going through the process of verifying whether it is non-human intelligence.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[26:46 - 26:54] However, they haven't verified it yet to actually independently say, yes, it is extraterrestrial or non-human in nature. [26:54 - 26:58] So I instead posed the question, have you found anything of unknown origin? [26:58 - 27:04] Because that means that you may be going through the process of verifying whether it is non-human intelligence. [27:05 - 27:07] So I'm yet to get an answer yet. [27:07 - 27:10] But hopefully me and Sue can work something out on that one.",
+      "entities": [
+        "non-human intelligence"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.438159"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0343",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[27:12 - 27:14] It was in that legislation, definitions.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[27:07 - 27:10] But hopefully me and Sue can work something out on that one. [27:11 - 27:12] It was just great. [27:12 - 27:14] It was in that legislation, definitions. [27:15 - 27:16] It was. [27:16 - 27:17] It was in that legislation.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.440937"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0345",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[27:16 - 27:17] It was in that legislation.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[27:12 - 27:14] It was in that legislation, definitions. [27:15 - 27:16] It was. [27:16 - 27:17] It was in that legislation. [27:18 - 27:21] And it was a surprise to see it there. [27:21 - 27:26] But I think they were right on the money there as well, including that definition.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.443322"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0349",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "question",
+      "text": "[27:29 - 27:34] Like, how do you prove that it's definitively extraterrestrial, for example, you know?",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[27:21 - 27:26] But I think they were right on the money there as well, including that definition. [27:26 - 27:29] Because, I mean, this is the thing. [27:29 - 27:34] Like, how do you prove that it's definitively extraterrestrial, for example, you know? [27:35 - 27:38] You'd have to prove that it came from X planet. [27:38 - 27:41] And you don't know what the composition of that planet is and the materials and stuff like that.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.445661"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0353",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[27:44 - 27:51] Or, you know, they would probably find loopholes as well for non-human origin of how you could definitively prove it was non-human origin.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[27:38 - 27:41] And you don't know what the composition of that planet is and the materials and stuff like that. [27:41 - 27:44] So how would you, could you ever determine it 100%? [27:44 - 27:51] Or, you know, they would probably find loopholes as well for non-human origin of how you could definitively prove it was non-human origin. [27:51 - 27:55] So I feel that unknown origin is a really, really important term. [27:56 - 28:12] I can imagine what a tough time it is for the debunkers who have been saying for a long time now, this whole momentum, seeming momentum for UFO disclosure is really the creation of a small group of UFO believers who somehow convinced Congress,\n[28:12 - 28:15] and congressional staff about this nonsense.",
+      "entities": [
+        "non-human origin"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.448161"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0355",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "opinion",
+      "text": "[27:56 - 28:12] I can imagine what a tough time it is for the debunkers who have been saying for a long time now, this whole momentum, seeming momentum for UFO disclosure is really the creation of a small group of UFO believers who somehow convinced Congress,\n[28:12 - 28:15] and congressional staff about this nonsense.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[27:44 - 27:51] Or, you know, they would probably find loopholes as well for non-human origin of how you could definitively prove it was non-human origin. [27:51 - 27:55] So I feel that unknown origin is a really, really important term. [27:56 - 28:12] I can imagine what a tough time it is for the debunkers who have been saying for a long time now, this whole momentum, seeming momentum for UFO disclosure is really the creation of a small group of UFO believers who somehow convinced Congress,\n[28:12 - 28:15] and congressional staff about this nonsense. [28:15 - 28:16] It's all made up. [28:16 - 28:21] It's going to be a little bit tougher for those folks to maintain that position, I think, going forward.",
+      "entities": [
+        "UFO"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "transparency"
+      ],
+      "created_at": "2026-01-07T14:41:30.450998"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0361",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[28:39 - 28:42] You said you've been in contact with, say, the Lockheeds.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[28:29 - 28:31] They're working completely the opposite of that. [28:31 - 28:38] And then I wonder about the position of these, those companies that may have possession of this material. [28:39 - 28:42] You said you've been in contact with, say, the Lockheeds. [28:42 - 28:42] You said you've been in contact with them for decades. [28:42 - 28:56] I can imagine they feel they've done their country a favor by taking this stuff, storing it, trying to study it and figure it out for decades, keeping it off the books, keeping the public uninformed.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.452784"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0365",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[28:59 - 29:05] If I were Lockheed and I had flying saucers and this amazing technology, I wouldn't want to give it up.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[28:42 - 28:56] I can imagine they feel they've done their country a favor by taking this stuff, storing it, trying to study it and figure it out for decades, keeping it off the books, keeping the public uninformed. [28:56 - 28:59] And now they're being called to task to cough it up. [28:59 - 29:05] If I were Lockheed and I had flying saucers and this amazing technology, I wouldn't want to give it up. [29:05 - 29:08] And I wonder, do you get any sense that they are fighting back? [29:08 - 29:12] That they will use their considerable influence to do that?",
+      "entities": [
+        "flying saucers"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "coverup",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.454470"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0368",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "question",
+      "text": "[29:12 - 29:14] Or do they try to derail this legislation before it becomes law?",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[29:05 - 29:08] And I wonder, do you get any sense that they are fighting back? [29:08 - 29:12] That they will use their considerable influence to do that? [29:12 - 29:14] Or do they try to derail this legislation before it becomes law? [29:16 - 29:17] Yeah, absolutely. [29:17 - 29:18] Very, very good points made there.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.463114"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0371",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[29:19 - 29:32] And I'd point out that the Senate Democrats put out a statement saying senators, congressmen, committees and staff began to pursue the issue and uncovered a vast web of individuals and groups of ideas and stories to share.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[29:16 - 29:17] Yeah, absolutely. [29:17 - 29:18] Very, very good points made there. [29:19 - 29:32] And I'd point out that the Senate Democrats put out a statement saying senators, congressmen, committees and staff began to pursue the issue and uncovered a vast web of individuals and groups of ideas and stories to share. [29:32 - 29:43] While these stories have varying levels of credibility, the sheer number of varieties led to some in Congress to believe that the executive branch was concealing important information. [29:43 - 29:46] And they also said that the Senate Democrats were trying to get information regarding UAPs over broad periods of time.",
+      "entities": [
+        "the Senate"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.466663"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0372",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "opinion",
+      "text": "[29:32 - 29:43] While these stories have varying levels of credibility, the sheer number of varieties led to some in Congress to believe that the executive branch was concealing important information.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[29:17 - 29:18] Very, very good points made there. [29:19 - 29:32] And I'd point out that the Senate Democrats put out a statement saying senators, congressmen, committees and staff began to pursue the issue and uncovered a vast web of individuals and groups of ideas and stories to share. [29:32 - 29:43] While these stories have varying levels of credibility, the sheer number of varieties led to some in Congress to believe that the executive branch was concealing important information. [29:43 - 29:46] And they also said that the Senate Democrats were trying to get information regarding UAPs over broad periods of time. [29:46 - 29:50] So this was not a small group that some people like to suggest.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.469206"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0377",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[29:56 - 29:58] And you pointed out Lockheed, absolutely correct.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[29:50 - 29:54] It's a vast number of people who are all saying broadly the same thing. [29:54 - 29:56] So that's very important. [29:56 - 29:58] And you pointed out Lockheed, absolutely correct. [29:58 - 30:03] And Michael Shellenberg, a great journalist, he was reporting that a major defense contractor. [30:03 - 30:05] I think that is Lockheed.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.471190"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0378",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[29:58 - 30:03] And Michael Shellenberg, a great journalist, he was reporting that a major defense contractor.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[29:54 - 29:56] So that's very important. [29:56 - 29:58] And you pointed out Lockheed, absolutely correct. [29:58 - 30:03] And Michael Shellenberg, a great journalist, he was reporting that a major defense contractor. [30:03 - 30:05] I think that is Lockheed. [30:05 - 30:12] A vice president was basically saying to the US military, look, we need to open up these programs because we're not making a lot of effort.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.473475"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0379",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "opinion",
+      "text": "[30:03 - 30:05] I think that is Lockheed.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[29:56 - 29:58] And you pointed out Lockheed, absolutely correct. [29:58 - 30:03] And Michael Shellenberg, a great journalist, he was reporting that a major defense contractor. [30:03 - 30:05] I think that is Lockheed. [30:05 - 30:12] A vice president was basically saying to the US military, look, we need to open up these programs because we're not making a lot of effort. [30:12 - 30:16] In terms of discovering how these craft work.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.475686"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0381",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[30:12 - 30:16] In terms of discovering how these craft work.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[30:03 - 30:05] I think that is Lockheed. [30:05 - 30:12] A vice president was basically saying to the US military, look, we need to open up these programs because we're not making a lot of effort. [30:12 - 30:16] In terms of discovering how these craft work. [30:16 - 30:20] We need to open these up to a broader range of like engineers and scientists. [30:21 - 30:29] And that vice president who asked that question of the US military was greeted hostily from my understanding.",
+      "entities": [
+        "craft"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.477972"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0385",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "opinion",
+      "text": "[30:32 - 30:38] So I think to some extent it is in Lockheed's interest to get this opened up to certain extent.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[30:21 - 30:29] And that vice president who asked that question of the US military was greeted hostily from my understanding. [30:29 - 30:32] And he was told, no, you can't do that. [30:32 - 30:38] So I think to some extent it is in Lockheed's interest to get this opened up to certain extent. [30:39 - 30:42] Because at the moment, you know, there's not a lot of scientists and engineers out there. [30:42 - 30:43] There's not a lot of engineers working on this.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.481739"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0395",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[31:13 - 31:19] There may be some within defense contractors that want to get this information out and others that are not so sure.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[31:09 - 31:12] But I think like the US government, you know, it's not a simple answer. [31:12 - 31:13] There may be varying degrees to this. [31:13 - 31:19] There may be some within defense contractors that want to get this information out and others that are not so sure. [31:19 - 31:21] So I think it might be a mixed bag. [31:21 - 31:27] And I don't really have enough of an understanding of how the internal dynamics are working in relation to this.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.484011"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0402",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[31:41 - 31:43] This is the 26th is the date for the hearings.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "It's been leaked, not by me. [31:38 - 31:41] The 26th, not by me or George, but it's been leaked. [31:41 - 31:43] This is the 26th is the date for the hearings. [31:44 - 31:46] Are you guys excited about what's going to happen? [31:46 - 31:47] What is going to happen?",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.486130"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0417",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[32:20 - 32:24] All the best hearings throughout U.S.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[32:17 - 32:20] And I think we can expect some fireworks. [32:20 - 32:20] I really do. [32:20 - 32:24] All the best hearings throughout U.S. history have been spectacles. [32:25 - 32:28] And I think we deserve one on UAP, don't you?",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.488666"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0425",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "Marines who were witnesses to an event,\n[32:43 - 32:45] who told us that they saw a craft.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[32:35 - 32:37] So Jeremy and I broke out this story. [32:38 - 32:43] We pursued it because of these U.S. Marines who were witnesses to an event,\n[32:43 - 32:45] who told us that they saw a craft. [32:45 - 32:50] And we know that this happened at a base where flares are regularly used in training. [32:50 - 32:55] Some of our witnesses, these U.S.",
+      "entities": [
+        "craft"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "whistleblower",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.490950"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0430",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[33:00 - 33:05] We've now seen a release from the Pentagon, 126 photos.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "Marines, work extensively with flares themselves. [32:55 - 33:00] And they told us that they thought what they saw in the sky was not from flares. [33:00 - 33:05] We've now seen a release from the Pentagon, 126 photos. [33:07 - 33:09] Presumably they're all of this one flare episode. [33:10 - 33:13] And it's sort of been generally described as debunked.",
+      "entities": [
+        "Pentagon",
+        "the Pentagon"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "transparency"
+      ],
+      "created_at": "2026-01-07T14:41:30.492832"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0434",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "opinion",
+      "text": "[33:14 - 33:18] You tell us what you learned, what information you were able to get out of the Pentagon,\n[33:18 - 33:20] and what you think about where this has gone.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[33:10 - 33:13] And it's sort of been generally described as debunked. [33:13 - 33:14] This case. [33:14 - 33:18] You tell us what you learned, what information you were able to get out of the Pentagon,\n[33:18 - 33:20] and what you think about where this has gone. [33:21 - 33:22] Yeah, absolutely. [33:22 - 33:27] So, I mean, at the time, we reported the information that we were aware of.",
+      "entities": [
+        "Pentagon",
+        "the Pentagon"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.494543"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0446",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[34:02 - 34:07] And also, I'd point out as well that a lot of the Marines did say they saw a craft.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[33:58 - 34:00] And I can't report that either. [34:00 - 34:02] And it's never straightforward with these cases. [34:02 - 34:07] And also, I'd point out as well that a lot of the Marines did say they saw a craft. [34:07 - 34:10] They didn't say, oh, we just saw lights in the sky, could have been flares. [34:10 - 34:11] No.",
+      "entities": [
+        "craft"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.496178"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0449",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[34:11 - 34:14] They actually say that they saw the outline of a craft.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[34:07 - 34:10] They didn't say, oh, we just saw lights in the sky, could have been flares. [34:10 - 34:11] No. [34:11 - 34:14] They actually say that they saw the outline of a craft. [34:14 - 34:19] So when you see an outline of a craft, of a potential craft, let's say, in one of the photos,\n[34:20 - 34:22] that's not just captured in the photo. [34:22 - 34:23] It was seen by Marines as well.",
+      "entities": [
+        "craft"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.497632"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0450",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[34:14 - 34:19] So when you see an outline of a craft, of a potential craft, let's say, in one of the photos,\n[34:20 - 34:22] that's not just captured in the photo.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[34:10 - 34:11] No. [34:11 - 34:14] They actually say that they saw the outline of a craft. [34:14 - 34:19] So when you see an outline of a craft, of a potential craft, let's say, in one of the photos,\n[34:20 - 34:22] that's not just captured in the photo. [34:22 - 34:23] It was seen by Marines as well. [34:24 - 34:27] And I don't really think that's been sufficiently explained,\n[34:28 - 34:32] how the Marines saw the outline of what they think was a craft.",
+      "entities": [
+        "craft"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.499110"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0452",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "opinion",
+      "text": "[34:24 - 34:27] And I don't really think that's been sufficiently explained,\n[34:28 - 34:32] how the Marines saw the outline of what they think was a craft.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[34:14 - 34:19] So when you see an outline of a craft, of a potential craft, let's say, in one of the photos,\n[34:20 - 34:22] that's not just captured in the photo. [34:22 - 34:23] It was seen by Marines as well. [34:24 - 34:27] And I don't really think that's been sufficiently explained,\n[34:28 - 34:32] how the Marines saw the outline of what they think was a craft. [34:33 - 34:36] And all I would say is I just welcome more information. [34:36 - 34:40] If anyone else is able to look further into this and find out why that might be,\n[34:41 - 34:43] I think that'd be fantastic, especially for the Marines.",
+      "entities": [
+        "craft"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.500616"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0562",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[40:30 - 40:31] I want to talk about hearings.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[40:26 - 40:27] That's happened to a bunch of friends of mine. [40:27 - 40:29] So I really appreciate that he talked to us today. [40:30 - 40:31] I want to talk about hearings. [40:31 - 40:32] I am so excited. [40:32 - 40:34] The behind the scenes stuff that's been going on.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.502385"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0569",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[40:40 - 40:46] We heard directly from Tim Burchett, a congressman from Tennessee who's been directly involved\n[40:46 - 40:46] in this.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[40:38 - 40:39] So, you know, last episode. [40:39 - 40:40] Weaponized. [40:40 - 40:46] We heard directly from Tim Burchett, a congressman from Tennessee who's been directly involved\n[40:46 - 40:46] in this. [40:46 - 40:51] There was a lot that he said, but there was a lot that we could not say about when the\n[40:51 - 40:53] hearing was going to happen, who the witnesses might be. [40:53 - 40:56] Now, some of that was put out, was leaked.",
+      "entities": [
+        "Tim Burchett"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.503987"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0570",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "prediction",
+      "text": "[40:46 - 40:51] There was a lot that he said, but there was a lot that we could not say about when the\n[40:51 - 40:53] hearing was going to happen, who the witnesses might be.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[40:39 - 40:40] Weaponized. [40:40 - 40:46] We heard directly from Tim Burchett, a congressman from Tennessee who's been directly involved\n[40:46 - 40:46] in this. [40:46 - 40:51] There was a lot that he said, but there was a lot that we could not say about when the\n[40:51 - 40:53] hearing was going to happen, who the witnesses might be. [40:53 - 40:56] Now, some of that was put out, was leaked. [40:56 - 40:57] Not by us.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation",
+        "whistleblower"
+      ],
+      "created_at": "2026-01-07T14:41:30.505712"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0573",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "prediction",
+      "text": "[40:57 - 41:04] July 26th, this House subcommittee, a subcommittee of the Oversight Committee, will have a hearing.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[40:53 - 40:56] Now, some of that was put out, was leaked. [40:56 - 40:57] Not by us. [40:57 - 41:04] July 26th, this House subcommittee, a subcommittee of the Oversight Committee, will have a hearing. [41:04 - 41:06] We'll hear directly from firsthand witnesses. [41:07 - 41:09] Congressman Burchett represented us.",
+      "entities": [
+        "House"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.507467"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0575",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[41:07 - 41:09] Congressman Burchett represented us.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[40:57 - 41:04] July 26th, this House subcommittee, a subcommittee of the Oversight Committee, will have a hearing. [41:04 - 41:06] We'll hear directly from firsthand witnesses. [41:07 - 41:09] Congressman Burchett represented us. [41:09 - 41:12] Representative Luna of Florida, I think, will be co-chair of the subcommittee. [41:12 - 41:16] But we were told that it would be bipartisan, that there'll be a Democrat on the committee\n[41:16 - 41:17] to ask questions.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.509223"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0578",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "question",
+      "text": "[41:18 - 41:21] How much do we want to say about what we know about that hearing?",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[41:09 - 41:12] Representative Luna of Florida, I think, will be co-chair of the subcommittee. [41:12 - 41:16] But we were told that it would be bipartisan, that there'll be a Democrat on the committee\n[41:16 - 41:17] to ask questions. [41:18 - 41:21] How much do we want to say about what we know about that hearing? [41:21 - 41:21] What's going to happen? [41:22 - 41:24] Yeah, it's still a little bit of a dance.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.511670"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0584",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[41:32 - 41:37] You know, unless there's some atomic, you know, nondisclosure bomb that goes off like\n[41:37 - 41:38] we're set for that.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[41:29 - 41:31] But the exact date is out. [41:31 - 41:32] It's the 26th. [41:32 - 41:37] You know, unless there's some atomic, you know, nondisclosure bomb that goes off like\n[41:37 - 41:38] we're set for that. [41:38 - 41:39] I mean, I can tell you. [41:39 - 41:47] I can tell you that we have we have a few witnesses that are really important to go\n[41:47 - 41:47] on record.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "transparency"
+      ],
+      "created_at": "2026-01-07T14:41:30.514572"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0613",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "prediction",
+      "text": "[43:31 - 43:34] And we know that this is the first of what's going to be a lot of hearing.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[43:27 - 43:28] It changed this week. [43:29 - 43:31] But we're happy to help the committee as it moves forward. [43:31 - 43:34] And we know that this is the first of what's going to be a lot of hearing. [43:34 - 43:38] So, yeah, Dave Grush would be at the top of the list of people that I'd like to hear from. [43:40 - 43:44] Aviators like Dave Fravor, Alex Dietrich, Ryan Graves, folks like that would be great.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.517697"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0622",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "opinion",
+      "text": "[44:00 - 44:03] We revealed him to the world in, I think, our third episode.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "Jim Lekatsky. [43:57 - 44:00] And, of course, Jay Stratton, we had him on Weaponize. [44:00 - 44:03] We revealed him to the world in, I think, our third episode. [44:04 - 44:08] He's the only person we know of that was involved at every step of the way since OSAP,\n[44:08 - 44:12] since that program created in 2007 at the Defense Intelligence Agency. [44:13 - 44:19] He is the person who single-handedly did the first investigation of the Tic Tac case for OSAP.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "whistleblower"
+      ],
+      "created_at": "2026-01-07T14:41:30.520045"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0631",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[44:38 - 44:42] That eventually became formalized by Congress, became the UAP Task Force.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "Navy. [44:35 - 44:37] He put together an unofficial team. [44:38 - 44:42] That eventually became formalized by Congress, became the UAP Task Force. [44:42 - 44:48] I think a lot of the work that he and Travis Taylor did on that task force went into AIMSOG and Arrow,\n[44:48 - 44:49] and then he left government. [44:49 - 44:55] He's still working on UFO-related issues, but he'd be a great witness if they could ever talk him into it.",
+      "entities": [
+        "UAP"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.522227"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0647",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[45:46 - 45:51] There's even a clip where I was talking about it on the Joe Rogan podcast way back in the day, George,\n[45:51 - 45:54] before it was really accepted and put into congressional record.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[45:39 - 45:39] Yeah, yeah. [45:39 - 45:43] Our audience should go listen to one of our past episodes, or the last episode,\n[45:43 - 45:46] to hear about the Wilson-Davis memo, as it's called. [45:46 - 45:51] There's even a clip where I was talking about it on the Joe Rogan podcast way back in the day, George,\n[45:51 - 45:54] before it was really accepted and put into congressional record. [45:54 - 45:56] So they can look that up. [45:56 - 45:57] Yeah, all these names, man.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.524686"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0660",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[46:40 - 46:46] This is our first set of hearings in history where you have people like this under oath.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[46:34 - 46:35] I'm excited. [46:35 - 46:40] I'm excited to kind of see and help this process kind of get louder. [46:40 - 46:46] This is our first set of hearings in history where you have people like this under oath. [46:46 - 46:47] I think they put you under oath, right? [46:47 - 46:49] You're under oath in the congressional setting.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.526910"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0662",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[46:47 - 46:49] You're under oath in the congressional setting.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[46:40 - 46:46] This is our first set of hearings in history where you have people like this under oath. [46:46 - 46:47] I think they put you under oath, right? [46:47 - 46:49] You're under oath in the congressional setting. [46:50 - 46:51] I mean, it's going to be awesome. [46:51 - 46:55] And I think some of the people I know, they're ready to throw some grenades.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.529307"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0670",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "prediction",
+      "text": "[47:03 - 47:08] I just say, as you touched on there briefly, is what's going to happen at this hearing is important.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[47:01 - 47:01] Go ahead. [47:01 - 47:03] Before we leave this. [47:03 - 47:08] I just say, as you touched on there briefly, is what's going to happen at this hearing is important. [47:09 - 47:11] What is not going to happen at the hearing is also important. [47:12 - 47:13] And that is we're not going to hear excuses.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.531681"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0671",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "prediction",
+      "text": "[47:09 - 47:11] What is not going to happen at the hearing is also important.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[47:01 - 47:03] Before we leave this. [47:03 - 47:08] I just say, as you touched on there briefly, is what's going to happen at this hearing is important. [47:09 - 47:11] What is not going to happen at the hearing is also important. [47:12 - 47:13] And that is we're not going to hear excuses. [47:14 - 47:17] We're not going to hear bureaucrats or people who want to dismiss this\n[47:17 - 47:22] or folks who claim they have no knowledge of nukes, UFOs over our nuke bases.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.533723"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0676",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[47:26 - 47:33] Or they claim they've heard no credible evidence that there's non-human technology or sightings or cases.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[47:22 - 47:24] They've never heard of the Wilson Davis documents. [47:25 - 47:26] They don't know the history of this. [47:26 - 47:33] Or they claim they've heard no credible evidence that there's non-human technology or sightings or cases. [47:33 - 47:34] Or things of that sort. [47:34 - 47:40] The excuse makers that have sat on this stuff for so long are not going to be the witnesses we're going to hear from.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.535890"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0682",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "prediction",
+      "text": "[47:45 - 47:48] I mean, this is not going to be some ultimate disclosure.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[47:42 - 47:42] Yeah. [47:43 - 47:44] And also, I've seen some crazy stuff online. [47:45 - 47:48] I mean, this is not going to be some ultimate disclosure. [47:48 - 47:50] They're going to walk an alien in as a witness. [47:51 - 47:53] However, that would be really cool if they did.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "transparency"
+      ],
+      "created_at": "2026-01-07T14:41:30.537939"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0697",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[48:31 - 48:37] But then there's time for very smart people in Congress to ask the right questions.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[48:26 - 48:30] Especially if they're asked good questions. [48:30 - 48:31] Because everybody makes a statement. [48:31 - 48:37] But then there's time for very smart people in Congress to ask the right questions. [48:38 - 48:41] And I think that's going to be very essential to how this goes. [48:41 - 48:46] But like you told me, George, maybe this time we're actually going to learn something compared to the other hearings.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.540032"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0699",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "prediction",
+      "text": "[48:41 - 48:46] But like you told me, George, maybe this time we're actually going to learn something compared to the other hearings.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[48:31 - 48:37] But then there's time for very smart people in Congress to ask the right questions. [48:38 - 48:41] And I think that's going to be very essential to how this goes. [48:41 - 48:46] But like you told me, George, maybe this time we're actually going to learn something compared to the other hearings. [48:47 - 48:47] Yeah, I hope so. [48:48 - 48:49] I really do hope so.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.542183"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0733",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "prediction",
+      "text": "[50:14 - 50:22] How different the climate is now about going to Congress and talking about UAP or UFOs than what Bob said back in 1989.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[50:07 - 50:09] And kind of mentions Lazar a few times. [50:09 - 50:14] And it was really interesting to hear Commander Fravor talk about Bob Lazar and how different it is now. [50:14 - 50:22] How different the climate is now about going to Congress and talking about UAP or UFOs than what Bob said back in 1989. [50:22 - 50:24] But why don't you hear from him himself. [50:25 - 50:29] Some of the folks that are physics minded that say, well, that's against the law of physics.",
+      "entities": [
+        "UAP",
+        "UFOs"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.544479"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0748",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[51:06 - 51:09] He said in 1989, because he says he got to go inside the craft.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[51:00 - 51:01] But now we do. [51:01 - 51:06] So I was talking to him one day and I said, I said, hey, how would you describe it? [51:06 - 51:09] He said in 1989, because he says he got to go inside the craft. [51:10 - 51:12] And this is obviously to the audience if you're assuming that you believe Bob. [51:13 - 51:16] I'll just say Bob's a very legitimate guy and he's very smart.",
+      "entities": [
+        "craft"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.547241"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0781",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[52:19 - 52:26] In 1989, if you just said UFO, UAP, whatever in Washington, D.C., you'd have been allowed\n[52:26 - 52:28] laughed out of your seat in Congress.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[52:16 - 52:17] And this guy's coming out now. [52:17 - 52:19] It's like, because it's accepted. [52:19 - 52:26] In 1989, if you just said UFO, UAP, whatever in Washington, D.C., you'd have been allowed\n[52:26 - 52:28] laughed out of your seat in Congress. [52:28 - 52:34] Well, now you've got active congressmen and women that are pushing policy, you know. [52:34 - 52:39] And I think it was Senator Rubio and Senator Gillibrand who were literally diametrically opposed politically.",
+      "entities": [
+        "UFO",
+        "UAP",
+        "Washington"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.550646"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0782",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[52:28 - 52:34] Well, now you've got active congressmen and women that are pushing policy, you know.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[52:17 - 52:19] It's like, because it's accepted. [52:19 - 52:26] In 1989, if you just said UFO, UAP, whatever in Washington, D.C., you'd have been allowed\n[52:26 - 52:28] laughed out of your seat in Congress. [52:28 - 52:34] Well, now you've got active congressmen and women that are pushing policy, you know. [52:34 - 52:39] And I think it was Senator Rubio and Senator Gillibrand who were literally diametrically opposed politically. [52:39 - 52:41] But on this thing, they're not diametrically opposed.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.553379"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0810",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[54:03 - 54:14] So it happened was I'm on video on FaceTime with Commander Fravor and just kind of walking him through kind of what's going on with hearings, why it's important, what the steps would be, who's holding it.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[53:58 - 54:01] Just that he's told you everything that he has to say. [54:01 - 54:03] But he did say the funniest shit the other day. [54:03 - 54:14] So it happened was I'm on video on FaceTime with Commander Fravor and just kind of walking him through kind of what's going on with hearings, why it's important, what the steps would be, who's holding it. [54:14 - 54:23] And I go, look, man, it's just going to be a handful, very small handful of people that have a kind of a direct experience, you know. [54:23 - 54:28] And also I want you guys to kind of shine that, you know, I don't think we're going to have Lazar come up this time.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.556780"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0836",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[55:37 - 55:42] He told his story before there were whistleblower protections and he got dumped on for it.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[55:32 - 55:35] I think he gave it the office. [55:35 - 55:37] It's like what the saying used to be. [55:37 - 55:42] He told his story before there were whistleblower protections and he got dumped on for it. [55:42 - 55:44] And he continues to get dumped on pretty much every day. [55:45 - 55:48] I don't think he has any sense of loyalty to UFO world at all.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "whistleblower"
+      ],
+      "created_at": "2026-01-07T14:41:30.559427"
+    },
+    {
+      "claim_id": "weaponized_capitol_bombs_claim_0856",
+      "source_id": "weaponized_capitol_bombs",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "[56:32 - 56:38] We'll also see if I'm able to get to Washington for this July 26th hearing without some airplane disaster happening.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "[56:21 - 56:31] I think having your story told again, if you can give the account in different settings, it touches people in different ways to come to conclusion on what you're saying. [56:31 - 56:32] Well, we'll see. [56:32 - 56:38] We'll also see if I'm able to get to Washington for this July 26th hearing without some airplane disaster happening. [56:39 - 56:40] You know what the curse is like. [56:40 - 56:42] The travel curse is real with George Knapp.",
+      "entities": [
+        "Washington"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.562655"
+    }
+  ],
+  "total_claims": 127,
+  "timestamp": "2026-01-07T14:41:30.565445"
+}

@@ -1,0 +1,78 @@
+{
+  "harvested": {
+    "proper_nouns": [
+      "And",
+      "You",
+      "Yeah",
+      "We",
+      "It",
+      "There",
+      "But",
+      "So",
+      "This",
+      "Why",
+      "What",
+      "They",
+      "Is",
+      "Well",
+      "That",
+      "Yes",
+      "Do",
+      "Password",
+      "Mm",
+      "The",
+      "Right",
+      "Correct",
+      "No",
+      "Who",
+      "More",
+      "Are",
+      "Okay",
+      "Describe",
+      "Even",
+      "Or",
+      "Those",
+      "Somebody",
+      "Like",
+      "Possibly",
+      "Then",
+      "West",
+      "Russia",
+      "China",
+      "George",
+      "Oh",
+      "Just",
+      "At",
+      "Band",
+      "Aid",
+      "Among",
+      "Multiple",
+      "Never",
+      "Us"
+    ],
+    "acronyms": [
+      "IMAX",
+      "ARV",
+      "RV",
+      "WSF",
+      "UAP"
+    ],
+    "technical_terms": [],
+    "unclear_tokens": []
+  },
+  "risk_assessment": {
+    "novel_proper_nouns": [],
+    "acronym_collapses": [],
+    "risk_score": 0.0
+  },
+  "risk_gates": {
+    "novel_noun_rate": 0.0,
+    "collapse_count": 0,
+    "failed": false,
+    "failed_gates": []
+  },
+  "statistics": {
+    "total_edits": 853,
+    "risky_edits": 0
+  }
+}

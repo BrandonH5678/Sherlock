@@ -1,0 +1,14 @@
+{
+  "source_id": "weaponized_lacatski_part1",
+  "episode_id": "lacatski_part1",
+  "title": "Dr. James Lacatski Interview - Part 1",
+  "entities_extracted": {
+    "people": 14,
+    "organizations": 12,
+    "programs": 2,
+    "locations": 5,
+    "technologies": 10
+  },
+  "claims_extracted": 44,
+  "timestamp": "2026-01-07T14:41:30.707219"
+}

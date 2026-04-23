@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-01-12T03:55:23.736052+00:00",
+  "input_file": "/home/johnny5/Sherlock/freelance_transcripts/weaponized/immaculate_part2/audio_transcription/audio_flagged.json",
+  "enhanced_file": "/home/johnny5/Sherlock/freelance_transcripts/weaponized/immaculate_part2/audio_transcription/audio_enhanced.json",
+  "episode_title": "SHERLOCK - Weaponized - Immaculate Constellation Part 2",
+  "model_used": "claude-sonnet-4-20250514",
+  "summary": {
+    "total_flagged": 5,
+    "salvaged": 0,
+    "marked_inaudible": 0,
+    "marked_unclear": 0,
+    "estimated_cost": 0.0
+  },
+  "edits": [],
+  "instructions": {
+    "to_reverse": "Change 'status' from 'applied' to 'reversed'",
+    "to_override": "Add 'human_override' with your corrected text",
+    "apply_changes": "Run apply_review_overrides.py after editing"
+  }
+}

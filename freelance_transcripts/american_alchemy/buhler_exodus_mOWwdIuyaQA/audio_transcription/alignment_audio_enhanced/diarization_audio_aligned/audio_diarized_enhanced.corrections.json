@@ -1,0 +1,2815 @@
+{
+  "episode": "buhler_exodus_mOWwdIuyaQA",
+  "method": "manual_context_classification",
+  "total_corrections": 351,
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "start": 5.89,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " There just had to be.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3,
+      "start": 11.9,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " You do think you've discovered a propulsion mechanism that can get us interstel",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 5,
+      "start": 20.2,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " You turn it on, the thing lifts up, and the weight flatlines.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 7,
+      "start": 24.3,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " There's still about 200 micronewtons of force still inside.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 8,
+      "start": 29.68,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " How many variations of this experiment do you think you've tried?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 12,
+      "start": 38.72,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Holy shit.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 13,
+      "start": 39.62,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Two test articles.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 14,
+      "start": 40.52,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Each one is tested multiple times.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 15,
+      "start": 42.86,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " If you were to apply that to a satellite in space in a zero-gravity environment",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 19,
+      "start": 53.64,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " The idea that you could just charge it up and leave it there and it gets thrust",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 24,
+      "start": 68.64,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Maybe I am.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 25,
+      "start": 71.92,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " For over a century, humanity's journey to the stars has been held hostage by a ",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 26,
+      "start": 79.69,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Newton's third law.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 27,
+      "start": 81.35,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " For every action, there's an equal and opposite reaction.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 28,
+      "start": 86.4,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " It's the law that powers every rocket, every satellite, every probe we've ever ",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 29,
+      "start": 92.97,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " And it's also the law that keeps us trapped here.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 30,
+      "start": 96.17,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " On Earth.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 31,
+      "start": 97.27,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " In order to get to the closest habitable planet in our very own Milky Way galax",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 32,
+      "start": 102.49,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " a place called Proxima Centauri b,",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 33,
+      "start": 104.59,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " it would take you 50,000 to 80,000 years in a chemical combustion rocket.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 34,
+      "start": 108.97,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " You would die before even getting 1% of the way there.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 35,
+      "start": 112.55,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " And if you somehow figured out a way to live for thousands of years,",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 36,
+      "start": 116.35,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " by the time you came back to Earth after a trip like that, it would be totally ",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 37,
+      "start": 122.15,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " You'd be playing out the ending of the Planet of the Apes.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 38,
+      "start": 124.95,
+      "original": "SPEAKER_01",
+      "assigned": "Elon Musk (clip)",
+      "text": " Yo, man.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 39,
+      "start": 127.9,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " To go anywhere in space, you have to carry fuel.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 40,
+      "start": 130.7,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Massive amounts of it.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 41,
+      "start": 132.02,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Over 90% of any rocket's mass at launch is just propellant.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 42,
+      "start": 136.9,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Pure fuel.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 43,
+      "start": 137.92,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Burned and ejected out of the back to push the remaining 10% forward.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 44,
+      "start": 142.48,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Launching a rocket to get a satellite into space is like flying a fully loaded ",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 45,
+      "start": 150.84,
+      "original": "SPEAKER_01",
+      "assigned": "Elon Musk (clip)",
+      "text": " One of the challenges we have to solve is orbital refilling, where we dock on o",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 46,
+      "start": 156.48,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " The modern king of rocketry.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 47,
+      "start": 158.14,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " And Mr.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 48,
+      "start": 159.025,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": "Occupy Mars himself, Elon Musk, has publicly stated that Newton's laws are the e",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 49,
+      "start": 166.14,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " For some reason, he's quite adamant about that.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 50,
+      "start": 168.94,
+      "original": "SPEAKER_01",
+      "assigned": "Elon Musk (clip)",
+      "text": " There's no way around Newton's third law, really.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 51,
+      "start": 171.92,
+      "original": "SPEAKER_01",
+      "assigned": "Elon Musk (clip)",
+      "text": " You basically have to expel mass.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 52,
+      "start": 175.79,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " The original godfather of American rocketry, Jack Parsons, believed this as wel",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 53,
+      "start": 181.19,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " In 1936, he and some colleagues at Caltech began launching the first rocket tes",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 54,
+      "start": 188.81,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " But what most people don't know is that a decade before Jack Parsons, in the 19",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 55,
+      "start": 200.31,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " Townsend Brown.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 56,
+      "start": 201.21,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " Townsend Brown.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 57,
+      "start": 202.13,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Townsend Brown.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 58,
+      "start": 202.85,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Townsend Brown.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 59,
+      "start": 203.47,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " There's a guy named Townsend Brown.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 60,
+      "start": 204.75,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Okay, okay, Townsend Brown.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 61,
+      "start": 206.69,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Brown had stumbled onto something that mainstream science still refuses to ackn",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 91,
+      "start": 340.62,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " So that was a positive result.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 116,
+      "start": 459.35,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " How do you get an object from here to here?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 121,
+      "start": 483.84,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " And you're also, I believe, about to be the president of the Electrostatics Soc",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 125,
+      "start": 500.5,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " The question is, where could this lead humanity?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 126,
+      "start": 503.62,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " How can we scale this up?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 127,
+      "start": 505.5,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " And what is the theoretical physics behind it?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 130,
+      "start": 517.64,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " And I brought in my friend, a brilliant MIT-trained physicist named David Chest",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 132,
+      "start": 527.82,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " What happens when propulsion no longer requires fuel?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 133,
+      "start": 531.34,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " When the tyranny of rocket equations finally breaks?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 176,
+      "start": 704.17,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Most seafood?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 178,
+      "start": 711.01,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " But this fish?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 198,
+      "start": 775.84,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " And as you know and my audience knows, I'm obsessed with this mid-century inven",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 213,
+      "start": 829.64,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " You're going to be the president of the Electrostatic Society too?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 217,
+      "start": 842.22,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Is that right?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 219,
+      "start": 844.88,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " It's not for me to say.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 221,
+      "start": 852.4,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " What's your current job title?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 230,
+      "start": 882.77,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " Well, they do.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 233,
+      "start": 889.19,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " But you are, is it safe to say you're the lead electrostatics scientist at all ",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 241,
+      "start": 913.24,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Sure.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 244,
+      "start": 918.58,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " What does somebody who leads electrostatics at NASA do?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 257,
+      "start": 988.8,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Aren't there also issues with lunar dust, you know, getting attracted to the lu",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 258,
+      "start": 1000.86,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Is that a thing?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 281,
+      "start": 1090.47,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Wow.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 285,
+      "start": 1098.11,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " And wasn't there recently like a lunar dust mission?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 304,
+      "start": 1154.35,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Is that right?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 314,
+      "start": 1194.61,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Why doesn't that happen in high vacuum when we were able to show that you canno",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 324,
+      "start": 1228.66,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Clearly.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 340,
+      "start": 1302.25,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " What are the practical implications of both of those kind of more conventional ",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 354,
+      "start": 1372.42,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " What's the, how, what's your journey there?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 355,
+      "start": 1374.64,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " How did, how did you get hooked up with NASA?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 356,
+      "start": 1376.84,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " You know?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 364,
+      "start": 1397.87,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Right.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 373,
+      "start": 1428.8,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " You know, what was there to learn on electrostatics?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 380,
+      "start": 1448.73,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " How does that even happen?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 423,
+      "start": 1612.08,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " might not be, you know, the frontier of space travel?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 474,
+      "start": 1786.68,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Yes.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 563,
+      "start": 2009.61,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " Yeah, wow.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 564,
+      "start": 2010.61,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " It was like, what is happening here?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 572,
+      "start": 2024.3,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " It was actually like, wow, what happened here?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 580,
+      "start": 2038.6,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " And what's his background?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 584,
+      "start": 2045.08,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " And what's his name?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 598,
+      "start": 2061.84,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " and what do you think is the next step at that point?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 601,
+      "start": 2070.68,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Do you design a new experiment right after that?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 656,
+      "start": 2176.95,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " What was Andrew's background?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 657,
+      "start": 2178.57,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Andrew?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 668,
+      "start": 2193.71,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " what exactly was he doing?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 694,
+      "start": 2220.83,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " okay,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 697,
+      "start": 2225.12,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " So you meet Drew and then what happens?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 732,
+      "start": 2279.48,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " isn't that the same force you're working on?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 739,
+      "start": 2288.36,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Is she at NASA as well?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 742,
+      "start": 2290.76,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " What does she do there?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 755,
+      "start": 2305.88,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " Help me with this integral.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 824,
+      "start": 2401.02,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " when do we hit unity?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 837,
+      "start": 2421.04,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " You could,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 861,
+      "start": 2455.92,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " And then what about like replacing rockets?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 862,
+      "start": 2459.56,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Could we ever do that with this?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 866,
+      "start": 2462.72,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " right?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 871,
+      "start": 2467.52,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " could the 10 million Newton's of thrust turn into Newton's of thrust?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 882,
+      "start": 2484.33,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Do you have blueprints around this self launcher?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 883,
+      "start": 2486.87,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Do you have a sense of the energy requirements or anything like that?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 890,
+      "start": 2496.61,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Have you gone up in over the 2000 iterations?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 891,
+      "start": 2499.33,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Have you gone up in million Newton's of thrust?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 898,
+      "start": 2511.39,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " And what are the primary levers?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 910,
+      "start": 2527.56,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " What are the ideal materials for this sort of experiment?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 930,
+      "start": 2556.74,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " So,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 938,
+      "start": 2567.46,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " Yeah.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 947,
+      "start": 2577.0,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Are either of those relevant to your experience as well?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 962,
+      "start": 2594.1,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " What was the other one you said?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 995,
+      "start": 2631.84,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " did you have access to a vacuum chamber?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1006,
+      "start": 2644.48,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " why has nobody done it yet?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1024,
+      "start": 2673.86,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " based on your kind of NASA background?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1128,
+      "start": 2869.53,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Is that right?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1159,
+      "start": 2922.41,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Sure.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1160,
+      "start": 2922.79,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " I do.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 1168,
+      "start": 2936.17,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Wow.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1215,
+      "start": 3022.89,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Yes.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1246,
+      "start": 3090.59,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " do we have it inside of a Faraday cage?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1247,
+      "start": 3092.23,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Is it all completely housed?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1248,
+      "start": 3093.51,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Is it feels trapped within the system?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1249,
+      "start": 3095.79,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Do we spin it the other way?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1258,
+      "start": 3108.59,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " And then you also need vacuum chamber because is that right?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1363,
+      "start": 3292.0,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Okay,",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1495,
+      "start": 3573.67,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " to deny the empirical effect that you're seeing?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1506,
+      "start": 3600.97,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " you'd have weird magnetic field effects?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1514,
+      "start": 3613.76,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " that eliminates a lot of that, right?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1516,
+      "start": 3619.16,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " what is happening here?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1518,
+      "start": 3621.76,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Like, what is happening here?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1522,
+      "start": 3630.9,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " through prosaic physics forces that are known?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1530,
+      "start": 3645.12,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " What about this?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1533,
+      "start": 3649.5,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " I don't think so.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 1534,
+      "start": 3649.78,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Like, if you had to stress test your own?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1540,
+      "start": 3663.87,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " do you think you've tried sequentially from 2010 till today?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1546,
+      "start": 3673.88,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " 2,000 instances of the experiment?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1547,
+      "start": 3675.68,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " No.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 1548,
+      "start": 3675.88,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Or 2,000 variations?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1557,
+      "start": 3689.87,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " and come out skeptical?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1559,
+      "start": 3695.59,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " come out saying there's something here?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1568,
+      "start": 3714.9,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " Or with some conventional force.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 1584,
+      "start": 3746.73,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " I said, what do you mean?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1623,
+      "start": 3822.04,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " When is it?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1624,
+      "start": 3822.88,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " There.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 1626,
+      "start": 3824.04,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Can I come and film?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1644,
+      "start": 3849.88,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " and try to get it kind of academically checked off?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1650,
+      "start": 3856.24,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " You're busy,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 1652,
+      "start": 3858.38,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " I know.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 1653,
+      "start": 3858.62,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " I do too.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 1667,
+      "start": 3875.52,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " What?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1674,
+      "start": 3879.98,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " because of the antibodies.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 1675,
+      "start": 3881.3,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " Yeah.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 1681,
+      "start": 3892.6,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Are you familiar with Sonny White?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1754,
+      "start": 4000.3,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " And these short flashes and not streaks,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 1755,
+      "start": 4002.82,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " they're associated with things that are extremely flat and extremely reflective",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 1756,
+      "start": 4008.42,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " Wow.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 1757,
+      "start": 4008.86,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " Like mirrors.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 1758,
+      "start": 4009.82,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " And that makes it more fun.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 1766,
+      "start": 4026.62,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " if there's no nuclear test,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 1767,
+      "start": 4028.6,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " there's a transient on 11% of those days.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 1768,
+      "start": 4031.52,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " But if there's been a,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 1769,
+      "start": 4032.68,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " a nuclear test the day before,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 1770,
+      "start": 4035.46,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " then it's,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 1771,
+      "start": 4036.16,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " uh,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 1772,
+      "start": 4036.46,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " almost 19% of those days have a transient.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 1819,
+      "start": 4098.52,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " and where are these videos?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1824,
+      "start": 4101.32,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " where is that?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1825,
+      "start": 4102.14,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Is that exodus space.com or what?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1836,
+      "start": 4126.88,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " lifting objects?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1872,
+      "start": 4180.23,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Is that right?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1882,
+      "start": 4188.15,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " yeah,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 1883,
+      "start": 4188.29,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " no,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 1889,
+      "start": 4191.77,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " you're reducing the mass of the thing?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1909,
+      "start": 4208.87,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " Amazing.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 1935,
+      "start": 4232.25,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " What inspired you to pursue kind of more exotic propulsion to begin with?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1936,
+      "start": 4236.49,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Did you have any childhood experiences around this sort of stuff?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1953,
+      "start": 4261.39,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " What does that even mean?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 1954,
+      "start": 4262.61,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Make haunted houses in your garage?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2009,
+      "start": 4334.27,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Was this like a famous UFO wave or flap or something?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2027,
+      "start": 4362.66,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " were they part of a formation or do you think they were part of the same craft?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2058,
+      "start": 4411.06,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Do you guys know what the heck that means?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2062,
+      "start": 4415.26,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " where are these guys?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2067,
+      "start": 4421.66,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " I knew the phenomena.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2074,
+      "start": 4431.88,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " So I thought,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2076,
+      "start": 4433.16,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " How can we learn more about this UFO flap?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2078,
+      "start": 4439.86,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " or is there a way to search it or?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2088,
+      "start": 4454.96,
+      "original": "SPEAKER_01",
+      "assigned": "Elon Musk (clip)",
+      "text": " From different places throughout the area,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2089,
+      "start": 4457.76,
+      "original": "SPEAKER_01",
+      "assigned": "Elon Musk (clip)",
+      "text": " eyewitnesses all reported seeing the same thing.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2090,
+      "start": 4461.35,
+      "original": "SPEAKER_01",
+      "assigned": "Elon Musk (clip)",
+      "text": " I looked up and right over my head,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2091,
+      "start": 4463.41,
+      "original": "SPEAKER_01",
+      "assigned": "Elon Musk (clip)",
+      "text": " virtually.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2092,
+      "start": 4464.17,
+      "original": "SPEAKER_01",
+      "assigned": "Elon Musk (clip)",
+      "text": " It wasn't far off.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2093,
+      "start": 4465.29,
+      "original": "SPEAKER_01",
+      "assigned": "Elon Musk (clip)",
+      "text": " It was right over my head and very still.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2094,
+      "start": 4467.41,
+      "original": "SPEAKER_01",
+      "assigned": "Elon Musk (clip)",
+      "text": " It was a room of lights in the shape of a triangle.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2095,
+      "start": 4470.71,
+      "original": "SPEAKER_01",
+      "assigned": "Elon Musk (clip)",
+      "text": " It was just a tremendous object.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2096,
+      "start": 4472.61,
+      "original": "SPEAKER_01",
+      "assigned": "Elon Musk (clip)",
+      "text": " It was anywhere from wingtip to wingtip,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2097,
+      "start": 4474.65,
+      "original": "SPEAKER_01",
+      "assigned": "Elon Musk (clip)",
+      "text": " about 50 or 60 yards.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2098,
+      "start": 4477.87,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " These were very,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2099,
+      "start": 4479.27,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " very unusual lights.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2105,
+      "start": 4493.29,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " Yeah.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2154,
+      "start": 4572.78,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " What is that?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2174,
+      "start": 4598.31,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " what the heck happened there?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2184,
+      "start": 4609.48,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " what the heck is that?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2208,
+      "start": 4637.2,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " are they going to help the people?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2210,
+      "start": 4639.4,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " or are they going to do any of that?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2226,
+      "start": 4661.74,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " So is that three miles?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2227,
+      "start": 4662.98,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Is that two miles?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2267,
+      "start": 4717.96,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " What?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2288,
+      "start": 4752.71,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " What year was this?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2293,
+      "start": 4760.22,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " on the more exotic propulsion stuff?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2306,
+      "start": 4781.37,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Could you make out?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2307,
+      "start": 4781.87,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " Beyond the waves,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2312,
+      "start": 4787.19,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " or could you make out the structure?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2313,
+      "start": 4788.65,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " There's no,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2339,
+      "start": 4819.14,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " or anything like that?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2378,
+      "start": 4862.87,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " helicopter was doing?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2380,
+      "start": 4865.37,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " on this UFO or?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2411,
+      "start": 4901.52,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " why did this happen to me?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2414,
+      "start": 4905.42,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " that I'm pursuing?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2439,
+      "start": 4930.06,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " had a very similar experience?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2440,
+      "start": 4932.74,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Oh, really?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2449,
+      "start": 4943.86,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Is that right?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2451,
+      "start": 4945.02,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " Yes,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2452,
+      "start": 4945.56,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " and I know the exact spot",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2453,
+      "start": 4947.98,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " where he was standing.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2466,
+      "start": 4965.63,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " which at the time",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2467,
+      "start": 4967.65,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " was,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2468,
+      "start": 4968.35,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " he had a lab",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2469,
+      "start": 4969.11,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " in Pasadena",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2470,
+      "start": 4970.91,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " that was funded",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2471,
+      "start": 4972.03,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " by his parents.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2472,
+      "start": 4973.27,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " So he had his own",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2473,
+      "start": 4974.45,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " private lab",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2474,
+      "start": 4975.35,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " and he said",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2475,
+      "start": 4976.87,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " he went to work",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2476,
+      "start": 4977.61,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " immediately",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2477,
+      "start": 4978.13,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " and he worked,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2478,
+      "start": 4979.67,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " that was,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2479,
+      "start": 4980.69,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " that was the beginning",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2480,
+      "start": 4981.79,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " of his life's work.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2481,
+      "start": 4983.23,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " And he said",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2482,
+      "start": 4983.95,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " that everything",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2483,
+      "start": 4985.73,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " that he ever learned",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2484,
+      "start": 4987.45,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " and I think",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2485,
+      "start": 4987.73,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " that as his work,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2486,
+      "start": 4988.63,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " he learned",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2487,
+      "start": 4990.87,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " instantly",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2488,
+      "start": 4993.3,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " everything.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2499,
+      "start": 5001.46,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " a lot of downloads",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2501,
+      "start": 5003.3,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " you know?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2550,
+      "start": 5048.74,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " I would say,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2803,
+      "start": 5296.63,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " to here?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2832,
+      "start": 5326.97,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Is that right?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2837,
+      "start": 5331.69,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " does that even mean?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2847,
+      "start": 5343.46,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " right?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2850,
+      "start": 5346.04,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " Yeah,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 2905,
+      "start": 5391.44,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " going on?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 2907,
+      "start": 5393.0,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " am I wrong to say this?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3077,
+      "start": 5587.41,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " it's not a classical effect?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3136,
+      "start": 5654.79,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " of your experiment?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3142,
+      "start": 5660.65,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " right?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3203,
+      "start": 5722.31,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " with your theory or?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3241,
+      "start": 5763.76,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " or?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3284,
+      "start": 5805.2,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " I think I am,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 3332,
+      "start": 5856.28,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " and then vanished?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3341,
+      "start": 5864.7,
+      "original": "SPEAKER_01",
+      "assigned": "Elon Musk (clip)",
+      "text": " superconductivity.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 3342,
+      "start": 5865.32,
+      "original": "SPEAKER_01",
+      "assigned": "Elon Musk (clip)",
+      "text": " I was going to say.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 3421,
+      "start": 5941.19,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " It's a great book, right?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3467,
+      "start": 5987.09,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " some of this stuff?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3478,
+      "start": 6000.49,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " reached out to you?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3486,
+      "start": 6008.09,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " in the basement.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 3508,
+      "start": 6031.34,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " Yeah.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 3550,
+      "start": 6069.86,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " What?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3552,
+      "start": 6070.84,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " there's no physicists?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3554,
+      "start": 6072.28,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " the only physicist?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3563,
+      "start": 6087.82,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " no physicists here?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3576,
+      "start": 6100.22,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " are you serious?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3580,
+      "start": 6102.78,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " any physicists?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3617,
+      "start": 6138.1,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " did you?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3628,
+      "start": 6149.12,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Do you know who that is?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3667,
+      "start": 6186.96,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " over there?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3757,
+      "start": 6272.26,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " right?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3772,
+      "start": 6286.08,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " right?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3791,
+      "start": 6305.68,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " molybdenum?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3848,
+      "start": 6359.87,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " like we're doing now?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3867,
+      "start": 6374.81,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " like covert setting?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3939,
+      "start": 6439.15,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " hoax people?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3958,
+      "start": 6459.02,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " theoretically.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 3969,
+      "start": 6469.12,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Do you have some moon rocks?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 3973,
+      "start": 6472.24,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " okay.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 3974,
+      "start": 6472.26,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " The rocks were given out",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 4059,
+      "start": 6730.14,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " So I asked you if I could bring a friend of mine David Chester who is quantum e",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4063,
+      "start": 6746.981,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": "So we have David Chester here.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4066,
+      "start": 6751.16,
+      "original": "SPEAKER_02",
+      "assigned": "David Chester",
+      "text": " Got his undergrad at MIT",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4067,
+      "start": 6753.38,
+      "original": "SPEAKER_02",
+      "assigned": "David Chester",
+      "text": " PhD from UCLA both in physics and is kind of specializes in general relativity ",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4078,
+      "start": 6813.23,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " What the theory is and then you guys can kind of go back and forth?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4091,
+      "start": 6849.15,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Can it be done within conventional physics that we know just maybe one other st",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4100,
+      "start": 6878.1,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " But are there the tools available to understand the forces in just knowing what",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4119,
+      "start": 6942.58,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Can you describe it very basically?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4126,
+      "start": 6970.803,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": "Sure.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4128,
+      "start": 6974.54,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " QCD?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4135,
+      "start": 6994.552,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": "How is it normally explained?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4288,
+      "start": 7817.43,
+      "original": "SPEAKER_02",
+      "assigned": "David Chester",
+      "text": " order so on and so forth however i mean in quantum mechanics before getting int",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4303,
+      "start": 7898.009,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": "I understand these particles don't, they're not real, right?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4306,
+      "start": 7907.93,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " charge, right?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4307,
+      "start": 7909.581,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": "Have you now field line?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4315,
+      "start": 7926.162,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": "Yeah.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4316,
+      "start": 7926.685,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": "Yeah.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 4332,
+      "start": 7955.89,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " did that change anything as far as the viability in your mind with QED?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4334,
+      "start": 7960.53,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " is that something you have to kind of think about offline?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4338,
+      "start": 7976.06,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " with the five diagrams that you have, would there be any loops in the diagrams?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4339,
+      "start": 7981.84,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " That you've been studying?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4340,
+      "start": 7983.18,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Well, the zero sorters are there, right?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4343,
+      "start": 7988.46,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Also, the self energy you're talking about?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4366,
+      "start": 8038.137,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": "Are they still attracting?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4368,
+      "start": 8041.332,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": "For how long?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4373,
+      "start": 8052.54,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " conserving energy?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4375,
+      "start": 8055.548,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": "Is it conserving energy?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4378,
+      "start": 8060.278,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": "Why is it still there?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4391,
+      "start": 8087.511,
+      "original": "SPEAKER_02",
+      "assigned": "David Chester",
+      "text": "And Noether was actually studying quantum field theory and discovered",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4421,
+      "start": 8176.551,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": "What, what do you think?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4433,
+      "start": 8211.18,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " experiment and they're measuring Picot-Newton forces, right?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4436,
+      "start": 8218.011,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": "Oh, is it some experimental error?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4455,
+      "start": 8309.49,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " if you've checked all these things that you say you've checked, right?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4462,
+      "start": 8325.4,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " There's a lot of electrostatics, right?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4478,
+      "start": 8363.62,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " it's hard to imagine how, how could that be?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4480,
+      "start": 8370.68,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " well, wouldn't it require energy to get that thrust?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4481,
+      "start": 8373.98,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Wouldn't that quickly drain the capacitor?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4491,
+      "start": 8405.41,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Uh, what was your take on that experiment?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4529,
+      "start": 8495.92,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " right?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4543,
+      "start": 8533.94,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " right?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4546,
+      "start": 8535.24,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " but what if there's ions or electrons literally flying off the thruster itself?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4549,
+      "start": 8546.48,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " So what if you're spraying out these ions?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4550,
+      "start": 8551.36,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " What if that's causing the force?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4562,
+      "start": 8581.26,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Why do you have a ground there?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4570,
+      "start": 8594.3,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " Yeah.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 4590,
+      "start": 8624.76,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " I think,",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 4610,
+      "start": 8643.48,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " what would it be?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4653,
+      "start": 8717.75,
+      "original": "SPEAKER_02",
+      "assigned": "David Chester",
+      "text": " but it's subtle because it's a quantum field theory,",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4667,
+      "start": 8741.93,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " Sure.",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4689,
+      "start": 8777.16,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " Quantum.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 4690,
+      "start": 8777.78,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " Yeah.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 4695,
+      "start": 8783.92,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " constant is showing up point towards a quantum mechanical effect?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4698,
+      "start": 8793.71,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " Okay.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 4699,
+      "start": 8794.25,
+      "original": "SPEAKER_00",
+      "assigned": "Archival Audio",
+      "text": " Okay.",
+      "reason": "known_mapping"
+    },
+    {
+      "segment_idx": 4763,
+      "start": 8968.6,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " right?",
+      "reason": "context_classification"
+    },
+    {
+      "segment_idx": 4767,
+      "start": 8978.92,
+      "original": "SPEAKER_02",
+      "assigned": "Jesse Michels",
+      "text": " right?",
+      "reason": "context_classification"
+    }
+  ]
+}

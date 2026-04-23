@@ -1,0 +1,511 @@
+{
+  "total_episodes": 50,
+  "tier1_count": 15,
+  "tier2_count": 12,
+  "tier3_count": 10,
+  "tier4_count": 13,
+  "transcribed_count": 5,
+  "pending_count": 45,
+  "episodes": [
+    {
+      "id": "T1-01",
+      "title": "Dr. James Lacatski - Pentagon UFO Program (PART 1)",
+      "url": "https://www.youtube.com/watch?v=Qu8pudJk_-A",
+      "priority": "P1",
+      "podcast": "Weaponized",
+      "output_dir": "lacatski_part1",
+      "transcribed": true,
+      "evidence_extracted": true
+    },
+    {
+      "id": "T1-02",
+      "title": "Dr. James Lacatski - Government UFO Boss (PART 2)",
+      "url": "https://www.youtube.com/watch?v=cggMuAjFJcI",
+      "priority": "P1",
+      "podcast": "Weaponized",
+      "output_dir": "lacatski_part2",
+      "transcribed": true,
+      "evidence_extracted": true
+    },
+    {
+      "id": "T1-03",
+      "title": "Dylan Borland - UFO Whistleblower (PART 1)",
+      "url": "https://www.youtube.com/watch?v=4H51UT2gs2g",
+      "priority": "P1",
+      "podcast": "Weaponized",
+      "output_dir": "borland_part1",
+      "transcribed": true,
+      "evidence_extracted": true
+    },
+    {
+      "id": "T1-04",
+      "title": "Dylan Borland - Legacy UFO Programs (PART 2)",
+      "url": "https://www.youtube.com/watch?v=-U2u43Vdt_g",
+      "priority": "P1",
+      "podcast": "Weaponized",
+      "output_dir": "borland_part2",
+      "transcribed": true,
+      "evidence_extracted": true
+    },
+    {
+      "id": "T1-05",
+      "title": "Immaculate Constellation Whistleblower (PART 1)",
+      "url": "https://www.youtube.com/watch?v=ZAxI-LDrDqA",
+      "priority": "P1",
+      "podcast": "Weaponized",
+      "output_dir": "immaculate_part1",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T1-06",
+      "title": "Immaculate Constellation (PART 2)",
+      "url": "https://www.youtube.com/watch?v=4n_bRtnIP14",
+      "priority": "P1",
+      "podcast": "Weaponized",
+      "output_dir": "immaculate_part2",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T1-07",
+      "title": "Immaculate Constellation (PART 3)",
+      "url": "https://www.youtube.com/watch?v=PtBVAxoHeaY",
+      "priority": "P1",
+      "podcast": "Weaponized",
+      "output_dir": "immaculate_part3",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T1-08",
+      "title": "Jay Stratton - Most Important Government UFO Investigator",
+      "url": "https://www.youtube.com/watch?v=HB5e4mgJX2Q",
+      "priority": "P1",
+      "podcast": "Weaponized",
+      "output_dir": "jay_stratton",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T1-09",
+      "title": "CDR David Fravor - Best UFO Witness Ever",
+      "url": "https://www.youtube.com/watch?v=zRkh3xh5_yU",
+      "priority": "P1",
+      "podcast": "Weaponized",
+      "output_dir": "fravor_tictac",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T1-10",
+      "title": "The Man Who Filmed The TIC TAC UFO",
+      "url": "https://www.youtube.com/watch?v=4opsdH4hY3s",
+      "priority": "P1",
+      "podcast": "Weaponized",
+      "output_dir": "tictac_filmer",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T1-11",
+      "title": "Firsthand Military Witness - Four TIC TAC UAPs",
+      "url": "https://www.youtube.com/watch?v=YKFmK-NSnKI",
+      "priority": "P1",
+      "podcast": "Weaponized",
+      "output_dir": "four_tictacs",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T1-12",
+      "title": "Navy Warship Encounters Multiple TIC TAC Craft",
+      "url": "https://www.youtube.com/watch?v=Vum9ny7yytg",
+      "priority": "P1",
+      "podcast": "Weaponized",
+      "output_dir": "navy_tictacs",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T1-13",
+      "title": "Mike Gold NASA Testimony - UAP Mysteries",
+      "url": "https://www.youtube.com/watch?v=znisWF5qHnA",
+      "priority": "P1",
+      "podcast": "Weaponized",
+      "output_dir": "mike_gold_nasa",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T1-14",
+      "title": "Dave Foley - Fight for UAP Transparency",
+      "url": "https://www.youtube.com/watch?v=SOzth5nQorw",
+      "priority": "P1",
+      "podcast": "Weaponized",
+      "output_dir": "dave_foley",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T1-15",
+      "title": "UFO Bombs Dropped On Capitol Hill",
+      "url": "https://www.youtube.com/watch?v=nfchje15k00",
+      "priority": "P1",
+      "podcast": "Weaponized",
+      "output_dir": "capitol_bombs",
+      "transcribed": true,
+      "evidence_extracted": true
+    },
+    {
+      "id": "T2-01",
+      "title": "Diana Pasulka & Karl Nell - Biblical Truth of UFOs & Angels",
+      "url": "https://www.youtube.com/watch?v=aa9Xx5wI8Rw",
+      "priority": "P2",
+      "podcast": "American Alchemy",
+      "output_dir": "pasulka_nell",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T2-02",
+      "title": "Andrew Gallimore - DMT Opens The Alien Realm",
+      "url": "https://www.youtube.com/watch?v=8XD1ZiuhXoY",
+      "priority": "P2",
+      "podcast": "American Alchemy",
+      "output_dir": "gallimore_dmt",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T2-03",
+      "title": "Dr. John Brandenburg - Life on Mars Destroyed by Nuclear War",
+      "url": "https://www.youtube.com/watch?v=p0S0BfoZy0w",
+      "priority": "P2",
+      "podcast": "American Alchemy",
+      "output_dir": "brandenburg_mars",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T2-04",
+      "title": "Joe McMoneagle - Mars Had Alien Life",
+      "url": "https://www.youtube.com/watch?v=JpLThEF2dTM",
+      "priority": "P2",
+      "podcast": "American Alchemy",
+      "output_dir": "mcmoneagle_mars",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T2-05",
+      "title": "MIT Scientist - Aliens Are Simulating Our Reality",
+      "url": "https://www.youtube.com/watch?v=aKZ_MUbuk_Q",
+      "priority": "P2",
+      "podcast": "American Alchemy",
+      "output_dir": "mit_simulation",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T2-06",
+      "title": "Eric Wargo - UFOs, Synchronicities & Prophetic Dreams",
+      "url": "https://www.youtube.com/watch?v=hXYdkcv5TtY",
+      "priority": "P2",
+      "podcast": "American Alchemy",
+      "output_dir": "wargo_dreams",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T2-07",
+      "title": "Your Brain Is A Quantum Time Machine",
+      "url": "https://www.youtube.com/watch?v=RofQnByLwOo",
+      "priority": "P2",
+      "podcast": "American Alchemy",
+      "output_dir": "quantum_brain",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T2-08",
+      "title": "Salvatore Pais - Navy Scientist With UFO Patents",
+      "url": "https://www.youtube.com/watch?v=8TYMQOUDQBo",
+      "priority": "P2",
+      "podcast": "American Alchemy",
+      "output_dir": "pais_patents",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T2-09",
+      "title": "Matthew Pines - Age of Psionics",
+      "url": "https://www.youtube.com/watch?v=9QMrhcpJq8I",
+      "priority": "P2",
+      "podcast": "American Alchemy",
+      "output_dir": "pines_psionics",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T2-10",
+      "title": "Matthew Pines - UFO Physics & Disclosure Under Trump",
+      "url": "https://www.youtube.com/watch?v=LpLFWdsIU7M",
+      "priority": "P2",
+      "podcast": "American Alchemy",
+      "output_dir": "pines_physics",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T2-11",
+      "title": "Psychic Spies & Alien Civilizations - Connection",
+      "url": "https://www.youtube.com/watch?v=H9Yr_bflXec",
+      "priority": "P2",
+      "podcast": "Weaponized",
+      "output_dir": "puthoff_psychic",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T2-12",
+      "title": "John Blitch - DARPA Scientist Injured By An Alien",
+      "url": "https://www.youtube.com/watch?v=yAvD5UTziTo",
+      "priority": "P2",
+      "podcast": "American Alchemy",
+      "output_dir": "blitch_darpa",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T3-01",
+      "title": "Danny Sheehan - UFOs & JFK: He Knew Too Much",
+      "url": "https://www.youtube.com/watch?v=C4rSj5Aum7w",
+      "priority": "P3",
+      "podcast": "American Alchemy",
+      "output_dir": "sheehan_jfk",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T3-02",
+      "title": "Ross Coulthart - I Located A UFO Base In Arizona",
+      "url": "https://www.youtube.com/watch?v=V00WcEiKRAY",
+      "priority": "P3",
+      "podcast": "American Alchemy",
+      "output_dir": "coulthart_arizona",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T3-03",
+      "title": "Richard Dolan - Defense Secretary Killed Over UFOs",
+      "url": "https://www.youtube.com/watch?v=GQlWf54K_7Y",
+      "priority": "P3",
+      "podcast": "American Alchemy",
+      "output_dir": "dolan_defsec",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T3-04",
+      "title": "Harald Malmgren - Presidential Advisor Handled UFO Material",
+      "url": "https://www.youtube.com/watch?v=09KP8XVf5nY",
+      "priority": "P3",
+      "podcast": "American Alchemy",
+      "output_dir": "malmgren_advisor",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T3-05",
+      "title": "Did Henry Kissinger Oversee UFO Crash Retrieval?",
+      "url": "https://www.youtube.com/watch?v=Jpf0ZGY87c0",
+      "priority": "P3",
+      "podcast": "American Alchemy",
+      "output_dir": "kissinger_crash",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T3-06",
+      "title": "Tom O'Neill - CIA's Mind Control Program",
+      "url": "https://www.youtube.com/watch?v=75Je_0hZovQ",
+      "priority": "P3",
+      "podcast": "American Alchemy",
+      "output_dir": "oneill_mkultra",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T3-07",
+      "title": "Michael Shellenberger - Immaculate Constellation UFO Program",
+      "url": "https://www.youtube.com/watch?v=DPmO-2E7Ayg",
+      "priority": "P3",
+      "podcast": "American Alchemy",
+      "output_dir": "shellenberger_ic",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T3-08",
+      "title": "Richard Dolan - Centuries Of USO Cases",
+      "url": "https://www.youtube.com/watch?v=ABDlCbumob0",
+      "priority": "P3",
+      "podcast": "Weaponized",
+      "output_dir": "dolan_uso",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T3-09",
+      "title": "The Wall Street Journal Is Lying About UFOs",
+      "url": "https://www.youtube.com/watch?v=h0hAit-KH9A",
+      "priority": "P3",
+      "podcast": "American Alchemy",
+      "output_dir": "wsj_lying",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T3-10",
+      "title": "Smearing the Brave - WSJ's War on UFO Truth",
+      "url": "https://www.youtube.com/watch?v=1xApIOjVgvU",
+      "priority": "P3",
+      "podcast": "Weaponized",
+      "output_dir": "wsj_war",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T4-01",
+      "title": "Charles Hall - I Spent 3 Years With Tall White Aliens At Area 51",
+      "url": "https://www.youtube.com/watch?v=QgxjtDS2sIQ",
+      "priority": "P4",
+      "podcast": "American Alchemy",
+      "output_dir": "hall_area51",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T4-02",
+      "title": "Greg Rogers - NASA Doctor: I Saw UFO In Secret Hangar",
+      "url": "https://www.youtube.com/watch?v=TNtlzEnl8rA",
+      "priority": "P4",
+      "podcast": "American Alchemy",
+      "output_dir": "rogers_nasa",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T4-03",
+      "title": "Whitley Strieber - Aliens Live Among Us...I've Met Them",
+      "url": "https://www.youtube.com/watch?v=ABOP8ZJsyIk",
+      "priority": "P4",
+      "podcast": "American Alchemy",
+      "output_dir": "strieber_aliens",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T4-04",
+      "title": "Michael Herrera - I Saw A 300ft UFO In Indonesian Jungle",
+      "url": "https://www.youtube.com/watch?v=D2tKCFmJjks",
+      "priority": "P4",
+      "podcast": "American Alchemy",
+      "output_dir": "herrera_jungle",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T4-05",
+      "title": "Eric Davis - A US President Was Briefed on UFOs",
+      "url": "https://www.youtube.com/watch?v=LnAiNChnuEQ",
+      "priority": "P4",
+      "podcast": "American Alchemy",
+      "output_dir": "davis_potus",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T4-06",
+      "title": "Ryan Graves - US Fighter Pilots Witness UFO",
+      "url": "https://www.youtube.com/watch?v=6WC4o2yY9Ws",
+      "priority": "P4",
+      "podcast": "American Alchemy",
+      "output_dir": "graves_pilot",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T4-07",
+      "title": "Sergeant Dan Sherman - NSA Hired Me To Speak To Aliens",
+      "url": "https://www.youtube.com/watch?v=Rfmy5oW_r9c",
+      "priority": "P4",
+      "podcast": "American Alchemy",
+      "output_dir": "sherman_nsa",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T4-08",
+      "title": "Robert Salas - UFO Shut Down 10 Nukes",
+      "url": "https://www.youtube.com/watch?v=-0g3lLGxNfc",
+      "priority": "P4",
+      "podcast": "American Alchemy",
+      "output_dir": "salas_nukes",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T4-09",
+      "title": "Robert Hastings - UFOs Monitoring Nuclear Bases Globally",
+      "url": "https://www.youtube.com/watch?v=fzvwBBSmWYA",
+      "priority": "P4",
+      "podcast": "American Alchemy",
+      "output_dir": "hastings_nukes",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T4-10",
+      "title": "Col. Corso - Alien Bodies & Technology (Lost Tapes)",
+      "url": "https://www.youtube.com/watch?v=US4BNwU3q8Q",
+      "priority": "P4",
+      "podcast": "Weaponized",
+      "output_dir": "corso_tapes",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T4-11",
+      "title": "Thiago Ticchetti - UFOs Attacked 2,000 Humans",
+      "url": "https://www.youtube.com/watch?v=QQqVs4t_D-A",
+      "priority": "P4",
+      "podcast": "Weaponized",
+      "output_dir": "colares_attacks",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T4-12",
+      "title": "Massive Mystery Cubes Invade Vandenberg Base",
+      "url": "https://www.youtube.com/watch?v=a-YuYaG3Lqc",
+      "priority": "P4",
+      "podcast": "Weaponized",
+      "output_dir": "vandenberg_cubes",
+      "transcribed": false,
+      "evidence_extracted": false
+    },
+    {
+      "id": "T4-13",
+      "title": "Jake Barber - I Carried A UFO With My Helicopter",
+      "url": "https://www.youtube.com/watch?v=dnnpyNuPdXs",
+      "priority": "P4",
+      "podcast": "American Alchemy",
+      "output_dir": "barber_helicopter",
+      "transcribed": false,
+      "evidence_extracted": false
+    }
+  ]
+}

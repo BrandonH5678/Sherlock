@@ -1,0 +1,19 @@
+=== SPEAKER ASSIGNMENTS (Claude API Enhancement) ===
+
+Speaker ID: Speaker 0
+  Assigned Name: Jesse
+  Role: Host/Narrator
+  Confidence: 0.88
+  Reasoning: Referenced by name in Unknown speaker's segment: 'So I make Jesse a very simple smoothie'. Speaker 0 opens the discussion and sets the topic about mushrooms and fungi, indicating host/narrator role.
+
+Speaker ID: Speaker 1
+  Assigned Name: Unknown Guest
+  Role: Co-host/Contributor
+  Confidence: 0.65
+  Reasoning: Continues the educational narrative about fungi history and evolution. Could potentially be Terra (mentioned later) but no explicit confirmation. Provides detailed scientific information suggesting expertise or prepared content.
+
+Speaker ID: Unknown
+  Assigned Name: Terra (Founder/CEO of Borsignmatic)
+  Role: Guest Expert - Mushroom Industry CEO
+  Confidence: 0.75
+  Reasoning: Most likely Terra based on context: discusses making Jesse a smoothie (personal relationship), introduces Terra as 'founder and CEO of Borsignmatic', describes their friendship origin story. The speaker discusses Terra in third person initially but the intimate knowledge and personal anecdotes suggest this could be Terra speaking, or possibly Jesse continuing as narrator.

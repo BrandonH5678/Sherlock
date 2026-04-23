@@ -1,0 +1,382 @@
+================================================================================
+HALLUCINATION DETECTION REPORT
+================================================================================
+
+Timestamp: 2026-01-08T20:09:58.287895+00:00
+Input File: /home/johnny5/Sherlock/freelance_transcripts/american_alchemy/hall_area51/audio_transcription/audio.json
+Output File: /home/johnny5/Sherlock/freelance_transcripts/american_alchemy/hall_area51/audio_transcription/audio_flagged.json
+
+SUMMARY:
+----------------------------------------
+  Total Segments: 3359
+  Flagged Count: 49
+  Flagged Percentage: 1.5%
+
+SIGNAL BREAKDOWN:
+----------------------------------------
+  impossible_speech_rate: 46
+  low_confidence: 16
+  known_hallucination_phrase: 3
+  segment_repetition: 33
+  short_duration_many_words: 11
+
+FLAGGED SEGMENTS:
+================================================================================
+
+[1] Segment 29 at 123.5s
+    Score: 0.60 (2 signals)
+    Original: "He flew to the American Air Force Base in 2006 to fly to Los Angeles."
+    Signals:
+      - impossible_speech_rate: 15.0 wps > 8.0 threshold
+      - low_confidence: avg_logprob -2.04 < -1.0
+
+[2] Segment 30 at 124.5s
+    Score: 0.90 (4 signals)
+    Original: "TheFNDC.com has the story of Charles Hall."
+    Signals:
+      - impossible_speech_rate: 58.3 wps > 8.0 threshold
+      - low_confidence: avg_logprob -2.04 < -1.0
+      - known_hallucination_phrase: Matched patterns: ['\\.com\\s+has the story']
+      - short_duration_many_words: 0.12s with 7 words
+
+[3] Segment 31 at 124.6s
+    Score: 0.60 (2 signals)
+    Original: "I'm Charles Hall and this is the Italian host from the American Air Force."
+    Signals:
+      - impossible_speech_rate: 13.2 wps > 8.0 threshold
+      - low_confidence: avg_logprob -2.04 < -1.0
+
+[4] Segment 32 at 126.0s
+    Score: 0.60 (2 signals)
+    Original: "Thanks for joining us on In This Minute."
+    Signals:
+      - impossible_speech_rate: 14.3 wps > 8.0 threshold
+      - low_confidence: avg_logprob -2.04 < -1.0
+
+[5] Segment 33 at 126.5s
+    Score: 0.80 (3 signals)
+    Original: "If you're watching this video, be sure to subscribe, like, and turn on the bell."
+    Signals:
+      - impossible_speech_rate: 10.1 wps > 8.0 threshold
+      - low_confidence: avg_logprob -2.04 < -1.0
+      - known_hallucination_phrase: Matched patterns: ['subscribe.*like.*bell']
+
+[6] Segment 34 at 128.0s
+    Score: 0.60 (2 signals)
+    Original: "And like this video, give it a thumbs up and make sure that you join our Discord group."
+    Signals:
+      - impossible_speech_rate: 19.6 wps > 8.0 threshold
+      - low_confidence: avg_logprob -2.04 < -1.0
+
+[7] Segment 35 at 128.9s
+    Score: 0.45 (2 signals)
+    Original: "Share this video with a friend in your community."
+    Signals:
+      - low_confidence: avg_logprob -2.04 < -1.0
+      - known_hallucination_phrase: Matched patterns: ['share this video']
+
+[8] Segment 36 at 130.4s
+    Score: 0.60 (2 signals)
+    Original: "We can't wait to hear your feedback and see some of your favorites."
+    Signals:
+      - impossible_speech_rate: 14.1 wps > 8.0 threshold
+      - low_confidence: avg_logprob -2.04 < -1.0
+
+[9] Segment 38 at 134.2s
+    Score: 0.60 (2 signals)
+    Original: "are based around the American Air Force."
+    Signals:
+      - impossible_speech_rate: 9.7 wps > 8.0 threshold
+      - low_confidence: avg_logprob -2.04 < -1.0
+
+[10] Segment 78 at 311.9s
+    Score: 0.55 (3 signals)
+    Original: "This is a service that I use to make all of my personal information available."
+    Signals:
+      - impossible_speech_rate: 62.5 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'This is a service that I use to make all of my per...'
+      - short_duration_many_words: 0.24s with 15 words
+
+[11] Segment 79 at 312.2s
+    Score: 0.45 (2 signals)
+    Original: "A service that I use to make all of my personal information available."
+    Signals:
+      - impossible_speech_rate: 26.0 wps > 8.0 threshold
+      - segment_repetition: 95% similar to 'This is a service that I use to make all of my per...'
+
+[12] Segment 169 at 608.6s
+    Score: 0.45 (2 signals)
+    Original: "I was stationed at Nellis Air Force Base from March of 1965 until May of 1970."
+    Signals:
+      - impossible_speech_rate: 16.0 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'I was stationed at Nellis Air Force Base from Marc...'
+
+[13] Segment 171 at 610.6s
+    Score: 0.45 (2 signals)
+    Original: "I was stationed at Nellis Air Force Base from March of 1967."
+    Signals:
+      - impossible_speech_rate: 12.0 wps > 8.0 threshold
+      - segment_repetition: 87% similar to 'I was stationed at Nellis Air Force Base from Marc...'
+
+[14] Segment 196 at 727.6s
+    Score: 0.45 (2 signals)
+    Original: "So I would guess that 90% of the time, you see an actual extraterrestrial craft, it's"
+    Signals:
+      - impossible_speech_rate: 16.0 wps > 8.0 threshold
+      - segment_repetition: 93% similar to 'So I would guess that 90% of the time that you see...'
+
+[15] Segment 1626 at 3971.8s
+    Score: 0.45 (2 signals)
+    Original: "everything about the... They thought they knew everything about the... They thought they knew"
+    Signals:
+      - impossible_speech_rate: 175.0 wps > 8.0 threshold
+      - short_duration_many_words: 0.08s with 14 words
+
+[16] Segment 1638 at 4031.7s
+    Score: 0.45 (2 signals)
+    Original: "But I think..."
+    Signals:
+      - impossible_speech_rate: 50.0 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'But I think......'
+
+[17] Segment 1736 at 4625.7s
+    Score: 0.70 (3 signals)
+    Original: "theory of relativity because this is aывer , this is an unit of relativity and we are used to we would get"
+    Signals:
+      - impossible_speech_rate: 110.0 wps > 8.0 threshold
+      - low_confidence: avg_logprob -2.99 < -1.0
+      - short_duration_many_words: 0.20s with 22 words
+
+[18] Segment 1737 at 4625.9s
+    Score: 0.70 (3 signals)
+    Original: "that incredible amount of 1944 degrees Celsius and that the force field is almost too much right in our"
+    Signals:
+      - impossible_speech_rate: 43.2 wps > 8.0 threshold
+      - low_confidence: avg_logprob -2.99 < -1.0
+      - short_duration_many_words: 0.44s with 19 words
+
+[19] Segment 1738 at 4626.3s
+    Score: 0.70 (3 signals)
+    Original: "body or just the way that you look at it 20% ofopheles here as oppose dealt with this."
+    Signals:
+      - impossible_speech_rate: 45.0 wps > 8.0 threshold
+      - low_confidence: avg_logprob -2.99 < -1.0
+      - short_duration_many_words: 0.40s with 18 words
+
+[20] Segment 1739 at 4626.7s
+    Score: 0.60 (2 signals)
+    Original: "On the other hand shunderson knows had a very complex field of relativity that's that was interested in"
+    Signals:
+      - impossible_speech_rate: 32.1 wps > 8.0 threshold
+      - low_confidence: avg_logprob -2.99 < -1.0
+
+[21] Segment 1740 at 4627.3s
+    Score: 0.60 (2 signals)
+    Original: "galaxy poppedering or varsity ... it was definitely the only one student that i saw in our"
+    Signals:
+      - impossible_speech_rate: 20.2 wps > 8.0 threshold
+      - low_confidence: avg_logprob -2.99 < -1.0
+
+[22] Segment 3040 at 7329.4s
+    Score: 0.35 (2 signals)
+    Original: "and our"
+    Signals:
+      - low_confidence: avg_logprob -2.23 < -1.0
+      - segment_repetition: 100% similar to 'and our...'
+
+[23] Segment 3042 at 7331.4s
+    Score: 0.35 (2 signals)
+    Original: "and our"
+    Signals:
+      - low_confidence: avg_logprob -2.23 < -1.0
+      - segment_repetition: 100% similar to 'and our...'
+
+[24] Segment 3179 at 7765.3s
+    Score: 0.45 (2 signals)
+    Original: "what do you think?"
+    Signals:
+      - impossible_speech_rate: 8.7 wps > 8.0 threshold
+      - short_duration_many_words: 0.46s with 4 words
+
+[25] Segment 3239 at 7977.4s
+    Score: 0.45 (2 signals)
+    Original: "No idea."
+    Signals:
+      - impossible_speech_rate: 25.0 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'No idea....'
+
+[26] Segment 3240 at 7977.5s
+    Score: 0.45 (2 signals)
+    Original: "No idea."
+    Signals:
+      - impossible_speech_rate: 50.0 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'No idea....'
+
+[27] Segment 3241 at 7977.6s
+    Score: 0.45 (2 signals)
+    Original: "No idea."
+    Signals:
+      - impossible_speech_rate: 100.0 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'No idea....'
+
+[28] Segment 3242 at 7977.6s
+    Score: 0.45 (2 signals)
+    Original: "No idea."
+    Signals:
+      - impossible_speech_rate: 100.0 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'No idea....'
+
+[29] Segment 3243 at 7977.6s
+    Score: 0.45 (2 signals)
+    Original: "No idea."
+    Signals:
+      - impossible_speech_rate: 50.0 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'No idea....'
+
+[30] Segment 3245 at 7977.6s
+    Score: 0.45 (2 signals)
+    Original: "No idea."
+    Signals:
+      - impossible_speech_rate: 100.0 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'No idea....'
+
+[31] Segment 3246 at 7977.7s
+    Score: 0.45 (2 signals)
+    Original: "No idea."
+    Signals:
+      - impossible_speech_rate: 33.3 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'No idea....'
+
+[32] Segment 3247 at 7977.7s
+    Score: 0.45 (2 signals)
+    Original: "No idea."
+    Signals:
+      - impossible_speech_rate: 100.0 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'No idea....'
+
+[33] Segment 3248 at 7977.8s
+    Score: 0.45 (2 signals)
+    Original: "No idea."
+    Signals:
+      - impossible_speech_rate: 100.0 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'No idea....'
+
+[34] Segment 3249 at 7977.8s
+    Score: 0.45 (2 signals)
+    Original: "No idea."
+    Signals:
+      - impossible_speech_rate: 50.0 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'No idea....'
+
+[35] Segment 3251 at 7977.9s
+    Score: 0.45 (2 signals)
+    Original: "No idea."
+    Signals:
+      - impossible_speech_rate: 100.0 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'No idea....'
+
+[36] Segment 3252 at 7977.9s
+    Score: 0.45 (2 signals)
+    Original: "No idea."
+    Signals:
+      - impossible_speech_rate: 50.0 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'No idea....'
+
+[37] Segment 3253 at 7977.9s
+    Score: 0.45 (2 signals)
+    Original: "No idea."
+    Signals:
+      - impossible_speech_rate: 14.3 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'No idea....'
+
+[38] Segment 3254 at 7978.1s
+    Score: 0.45 (2 signals)
+    Original: "No idea."
+    Signals:
+      - impossible_speech_rate: 50.0 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'No idea....'
+
+[39] Segment 3255 at 7978.1s
+    Score: 0.45 (2 signals)
+    Original: "No idea."
+    Signals:
+      - impossible_speech_rate: 50.0 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'No idea....'
+
+[40] Segment 3257 at 7978.2s
+    Score: 0.45 (2 signals)
+    Original: "No idea."
+    Signals:
+      - impossible_speech_rate: 20.0 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'No idea....'
+
+[41] Segment 3259 at 8007.7s
+    Score: 0.45 (2 signals)
+    Original: "No idea."
+    Signals:
+      - impossible_speech_rate: 20.0 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'No idea....'
+
+[42] Segment 3260 at 8007.8s
+    Score: 0.45 (2 signals)
+    Original: "No idea."
+    Signals:
+      - impossible_speech_rate: 100.0 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'No idea....'
+
+[43] Segment 3335 at 8367.7s
+    Score: 0.45 (2 signals)
+    Original: "Yeah."
+    Signals:
+      - impossible_speech_rate: 10.0 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'Yeah....'
+
+[44] Segment 3336 at 8367.8s
+    Score: 0.45 (2 signals)
+    Original: "Yeah."
+    Signals:
+      - impossible_speech_rate: 50.0 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'Yeah....'
+
+[45] Segment 3337 at 8367.8s
+    Score: 0.45 (2 signals)
+    Original: "Yeah."
+    Signals:
+      - impossible_speech_rate: 10.0 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'Yeah....'
+
+[46] Segment 3349 at 8428.7s
+    Score: 0.55 (3 signals)
+    Original: "And if you had a magnifying glass and you went into a very dark room and waited like 45 or 50 minutes for your eyes to perfectly adjust to the darkness, you could still get radium paint and put it on your watch or your toys."
+    Signals:
+      - impossible_speech_rate: 766.7 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'And if you had a magnifying glass and you went int...'
+      - short_duration_many_words: 0.06s with 46 words
+
+[47] Segment 3350 at 8428.8s
+    Score: 0.55 (3 signals)
+    Original: "And if you had a magnifying glass and you went into a very dark room and waited like 45 or 50 minutes for your eyes to perfectly adjust to the darkness, you could still get radium paint and put it on your watch or your toys."
+    Signals:
+      - impossible_speech_rate: 2300.0 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'And if you had a magnifying glass and you went int...'
+      - short_duration_many_words: 0.02s with 46 words
+
+[48] Segment 3351 at 8428.8s
+    Score: 0.55 (3 signals)
+    Original: "And if you had a magnifying glass and you went into a very dark room and waited like 45 or 50 minutes for your eyes to perfectly adjust to the darkness, you could still get radium paint and put it on your watch or your toys."
+    Signals:
+      - impossible_speech_rate: 2300.0 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'And if you had a magnifying glass and you went int...'
+      - short_duration_many_words: 0.02s with 46 words
+
+[49] Segment 3352 at 8428.8s
+    Score: 0.55 (3 signals)
+    Original: "And if you had a magnifying glass and you went into a very dark room and waited like 45 or 50 minutes for your eyes to perfectly adjust to the darkness, you could still get radium paint and put it on your watch or your toys."
+    Signals:
+      - impossible_speech_rate: 2300.0 wps > 8.0 threshold
+      - segment_repetition: 100% similar to 'And if you had a magnifying glass and you went int...'
+      - short_duration_many_words: 0.02s with 46 words
+
+================================================================================
+END OF REPORT
+================================================================================

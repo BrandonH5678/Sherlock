@@ -1,0 +1,55 @@
+{
+  "entity_id": "a_peoples_history_howard_zinn",
+  "entity_type": "document",
+  "title": "A People's History of the United States",
+  "author": "Howard Zinn",
+  "publication_year": 1980,
+  "updated_year": 2003,
+  "research_date": "2025-12-07",
+  "priority": "LOW",
+  "summary": "Seminal revisionist history text presenting American history from the perspective of marginalized groups including Native Americans, African Americans, women, and working class. Challenges traditional nationalist narratives by emphasizing exploitation, resistance, and grassroots movements for social justice.",
+  "central_thesis": {
+    "main_argument": "America was built on the blood and suffering of the poor",
+    "historiographical_critique": "Traditional history writing is never neutral but shaped by ideological choices that reinforce power structures",
+    "perspective_shift": "History should emphasize experiences of ordinary people rather than elite figures"
+  },
+  "key_themes": [
+    "Exploitation of lower classes by economic and political elites",
+    "Grassroots movements as drivers of social progress",
+    "Critique of 'national interest' as cover for corporate interests",
+    "Class conflict as underlying dynamic of American history",
+    "Resistance and agency of marginalized peoples"
+  ],
+  "impact": {
+    "sales": "4+ million copies in English",
+    "translations": "Translated into 12+ languages",
+    "educational_adoption": "Widely assigned in high schools and colleges across US",
+    "historiographical_influence": "Changed focus of historical work to include previously ignored stories"
+  },
+  "relevance_to_sherlock": {
+    "intelligence_value": "HIGH",
+    "connections": [
+      "Critique of government-corporate nexus aligns with Sherlock research on intelligence community",
+      "Documentation of elite manipulation patterns applicable to understanding hidden power structures",
+      "Framework for analyzing how official narratives obscure uncomfortable truths"
+    ],
+    "research_applications": [
+      "Methodology for examining history from alternative perspectives",
+      "Framework for understanding grassroots resistance to institutional power",
+      "Critical analysis of 'national interest' claims"
+    ]
+  },
+  "critical_assessment": {
+    "strengths": [
+      "Pioneering bottom-up historical perspective",
+      "Extensive documentation of marginalized voices",
+      "Challenges uncritical acceptance of official narratives"
+    ],
+    "criticisms": [
+      "Selective use of evidence",
+      "Ideological bias affects credibility in some areas",
+      "May oversimplify complex historical dynamics"
+    ]
+  },
+  "research_quality": "HIGH - Well-documented, influential text with extensive scholarly engagement"
+}

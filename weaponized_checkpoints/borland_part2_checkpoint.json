@@ -1,0 +1,14 @@
+{
+  "source_id": "weaponized_borland_part2",
+  "episode_id": "borland_part2",
+  "title": "Douglas Borland Interview - Part 2",
+  "entities_extracted": {
+    "people": 4,
+    "organizations": 11,
+    "programs": 1,
+    "locations": 1,
+    "technologies": 10
+  },
+  "claims_extracted": 87,
+  "timestamp": "2026-01-07T14:41:31.106987"
+}

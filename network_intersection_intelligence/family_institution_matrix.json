@@ -1,0 +1,143 @@
+{
+  "Russell & Old China Trade Clans": {},
+  "Roosevelt-Delano": {},
+  "Harriman": {
+    "Manhattan Project": {
+      "total_claims": 1,
+      "direct_connections": 1,
+      "indirect_plausible": 0,
+      "highest_confidence": 0.95,
+      "claims": [
+        "netint_harriman_manhattan__017"
+      ]
+    },
+    "Operation Gladio": {
+      "total_claims": 1,
+      "direct_connections": 0,
+      "indirect_plausible": 1,
+      "highest_confidence": 0.8,
+      "claims": [
+        "netint_harriman_operation__019"
+      ]
+    }
+  },
+  "Bush-Walker": {},
+  "Rockefeller": {
+    "Manhattan Project": {
+      "total_claims": 1,
+      "direct_connections": 1,
+      "indirect_plausible": 0,
+      "highest_confidence": 0.95,
+      "claims": [
+        "netint_rockefeller_manhattan__032"
+      ]
+    },
+    "Operation Condor": {
+      "total_claims": 2,
+      "direct_connections": 2,
+      "indirect_plausible": 0,
+      "highest_confidence": 0.95,
+      "claims": [
+        "netint_rockefeller_operation__037",
+        "netint_rockefeller_operation__038"
+      ]
+    },
+    "MK-Ultra": {
+      "total_claims": 2,
+      "direct_connections": 1,
+      "indirect_plausible": 1,
+      "highest_confidence": 0.85,
+      "claims": [
+        "netint_rockefeller_mk-ultra_042",
+        "netint_rockefeller_mk-ultra_043"
+      ]
+    },
+    "AT&T/Bell Labs": {
+      "total_claims": 1,
+      "direct_connections": 0,
+      "indirect_plausible": 1,
+      "highest_confidence": 0.8,
+      "claims": [
+        "netint_rockefeller_at&t_bell__040"
+      ]
+    }
+  },
+  "Dulles-Foster": {},
+  "Mellon-Carnegie": {},
+  "Bundy": {
+    "Manhattan Project": {
+      "total_claims": 1,
+      "direct_connections": 1,
+      "indirect_plausible": 0,
+      "highest_confidence": 0.95,
+      "claims": [
+        "netint_bundy_manhattan__061"
+      ]
+    },
+    "Operation Gladio": {
+      "total_claims": 1,
+      "direct_connections": 0,
+      "indirect_plausible": 1,
+      "highest_confidence": 0.7,
+      "claims": [
+        "netint_bundy_operation__062"
+      ]
+    },
+    "Operation Condor": {
+      "total_claims": 1,
+      "direct_connections": 0,
+      "indirect_plausible": 1,
+      "highest_confidence": 0.7,
+      "claims": [
+        "netint_bundy_operation__063"
+      ]
+    },
+    "MK-Ultra": {
+      "total_claims": 1,
+      "direct_connections": 0,
+      "indirect_plausible": 1,
+      "highest_confidence": 0.65,
+      "claims": [
+        "netint_bundy_mk-ultra_065"
+      ]
+    },
+    "AT&T/Bell Labs": {
+      "total_claims": 1,
+      "direct_connections": 0,
+      "indirect_plausible": 1,
+      "highest_confidence": 0.75,
+      "claims": [
+        "netint_bundy_at&t_bell__066"
+      ]
+    }
+  },
+  "du Pont": {
+    "Manhattan Project": {
+      "total_claims": 1,
+      "direct_connections": 1,
+      "indirect_plausible": 0,
+      "highest_confidence": 0.95,
+      "claims": [
+        "netint_du_pont_manhattan__067"
+      ]
+    },
+    "Operation Gladio": {
+      "total_claims": 1,
+      "direct_connections": 0,
+      "indirect_plausible": 1,
+      "highest_confidence": 0.6,
+      "claims": [
+        "netint_du_pont_operation__072"
+      ]
+    },
+    "MK-Ultra": {
+      "total_claims": 1,
+      "direct_connections": 1,
+      "indirect_plausible": 0,
+      "highest_confidence": 0.8,
+      "claims": [
+        "netint_du_pont_mk-ultra_069"
+      ]
+    }
+  }
+}

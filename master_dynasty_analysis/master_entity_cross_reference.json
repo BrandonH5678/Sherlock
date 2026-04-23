@@ -1,0 +1,818 @@
+{
+  "opium": {
+    "opium": [
+      "opium_hv_001",
+      "opium_hv_002",
+      "opium_hv_004",
+      "opium_hv_005",
+      "opium_hv_007",
+      "opium_hv_008",
+      "opium_hv_012"
+    ],
+    "forbes": [
+      "forbes_china_004"
+    ],
+    "dynastic": [],
+    "network_int": []
+  },
+  "Warren Delano Jr.": {
+    "opium": [
+      "opium_hv_002",
+      "opium_hv_003",
+      "opium_hv_004",
+      "opium_hv_010",
+      "opium_forbes_003"
+    ],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_sb_003",
+      "dynastic_xref_056"
+    ],
+    "network_int": [
+      "netint_russell/delano_opium_trad_002"
+    ]
+  },
+  "Russell & Co.": {
+    "opium": [
+      "opium_hv_002",
+      "opium_hv_003",
+      "opium_hv_006",
+      "opium_hv_013",
+      "opium_forbes_001"
+    ],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_sb_001",
+      "dynastic_sb_002",
+      "dynastic_sb_003",
+      "dynastic_xref_056"
+    ],
+    "network_int": [
+      "netint_russell_yale_skull_001",
+      "netint_russell/delano_opium_trad_002",
+      "netint_russell/forbes/_opium_trad_003"
+    ]
+  },
+  "FDR": {
+    "opium": [
+      "opium_hv_002",
+      "opium_hv_010"
+    ],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_sb_003",
+      "dynastic_xref_056"
+    ],
+    "network_int": [
+      "netint_russell/delano_opium_trad_002",
+      "netint_delano/roosevel_oss_007",
+      "netint_roosevelt_oss_manhat_009",
+      "netint_roosevelt/astor_pre-oss_in_013",
+      "netint_roosevelt_cia_manhat_015"
+    ]
+  },
+  "Forbes family": {
+    "opium": [
+      "opium_hv_010",
+      "opium_forbes_003",
+      "opium_forbes_004"
+    ],
+    "forbes": [
+      "forbes_sw_012",
+      "forbes_kerry_002"
+    ],
+    "dynastic": [
+      "dynastic_sb_003",
+      "dynastic_sb_006",
+      "dynastic_xref_056",
+      "dynastic_xref_057"
+    ],
+    "network_int": [
+      "netint_russell/forbes/_opium_trad_003"
+    ]
+  },
+  "John Murray Forbes": {
+    "opium": [
+      "opium_forbes_001",
+      "opium_forbes_002"
+    ],
+    "forbes": [
+      "forbes_china_001",
+      "forbes_rail_001",
+      "forbes_telecom_001"
+    ],
+    "dynastic": [],
+    "network_int": []
+  },
+  "Stone & Webster": {
+    "opium": [],
+    "forbes": [
+      "forbes_sw_001",
+      "forbes_sw_005",
+      "forbes_sw_006",
+      "forbes_sw_007",
+      "forbes_sw_008",
+      "forbes_sw_009",
+      "forbes_sw_010",
+      "forbes_sw_011",
+      "forbes_sw_012",
+      "forbes_sw_013",
+      "forbes_state_002"
+    ],
+    "dynastic": [],
+    "network_int": [
+      "netint_rockefeller_manhattan__041",
+      "netint_dulles_stone_&_we_051",
+      "netint_bundy_manhattan__061"
+    ]
+  },
+  "United Fruit": {
+    "opium": [],
+    "forbes": [
+      "forbes_sw_004"
+    ],
+    "dynastic": [
+      "dynastic_sb_006",
+      "dynastic_xref_057"
+    ],
+    "network_int": [
+      "netint_dulles_stone_&_we_051"
+    ]
+  },
+  "Manhattan Project": {
+    "opium": [],
+    "forbes": [
+      "forbes_sw_006",
+      "forbes_sw_007"
+    ],
+    "dynastic": [
+      "dynastic_bundy_036"
+    ],
+    "network_int": [
+      "netint_roosevelt_oss_manhat_009",
+      "netint_harriman_manhattan__017",
+      "netint_bush_manhattan__029",
+      "netint_rockefeller_manhattan__032",
+      "netint_rockefeller_manhattan__041",
+      "netint_mellon_manhattan__057",
+      "netint_bundy_manhattan__061",
+      "netint_du_pont_manhattan__067"
+    ]
+  },
+  "Oak Ridge": {
+    "opium": [],
+    "forbes": [
+      "forbes_sw_007",
+      "forbes_sw_008"
+    ],
+    "dynastic": [],
+    "network_int": [
+      "netint_rockefeller_manhattan__041"
+    ]
+  },
+  "opium trade": {
+    "opium": [],
+    "forbes": [
+      "forbes_china_001",
+      "forbes_china_005"
+    ],
+    "dynastic": [
+      "dynastic_sb_002",
+      "dynastic_xref_058"
+    ],
+    "network_int": [
+      "netint_russell_yale_skull_001",
+      "netint_russell/delano_opium_trad_002",
+      "netint_china_trade_cla_universiti_006"
+    ]
+  },
+  "China trade": {
+    "opium": [],
+    "forbes": [
+      "forbes_china_002",
+      "forbes_china_004"
+    ],
+    "dynastic": [],
+    "network_int": [
+      "netint_roosevelt/astor_intelligen_014"
+    ]
+  },
+  "AT&T": {
+    "opium": [],
+    "forbes": [
+      "forbes_telecom_003",
+      "forbes_state_002"
+    ],
+    "dynastic": [
+      "dynastic_carnegie_mellon_043",
+      "dynastic_carnegie_mellon_047"
+    ],
+    "network_int": [
+      "netint_bush_at&t_bell__026",
+      "netint_bush_at&t_028",
+      "netint_rockefeller_at&t_039",
+      "netint_dulles_at&t_found_047",
+      "netint_dulles_at&t_bell__050",
+      "netint_bundy_at&t_bell__066"
+    ]
+  },
+  "Brown Brothers Harriman": {
+    "opium": [],
+    "forbes": [
+      "forbes_bbh_001",
+      "forbes_bbh_002"
+    ],
+    "dynastic": [
+      "dynastic_bush_harriman_007",
+      "dynastic_bush_harriman_008",
+      "dynastic_bush_harriman_009",
+      "dynastic_bbh_014",
+      "dynastic_rockefeller_022"
+    ],
+    "network_int": [
+      "netint_harriman_bbh_016"
+    ]
+  },
+  "John Kerry": {
+    "opium": [],
+    "forbes": [
+      "forbes_kerry_001",
+      "forbes_kerry_002"
+    ],
+    "dynastic": [],
+    "network_int": [
+      "netint_forbes/kerry_wef_008"
+    ]
+  },
+  "William H. Russell": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_sb_001",
+      "dynastic_xref_058"
+    ],
+    "network_int": [
+      "netint_russell_yale_skull_001"
+    ]
+  },
+  "Samuel Russell": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_sb_001",
+      "dynastic_sb_002",
+      "dynastic_xref_058"
+    ],
+    "network_int": [
+      "netint_russell_yale_skull_001"
+    ]
+  },
+  "Skull & Bones": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_sb_001",
+      "dynastic_sb_004",
+      "dynastic_sb_005",
+      "dynastic_bush_harriman_007",
+      "dynastic_bush_harriman_008",
+      "dynastic_bush_harriman_011",
+      "dynastic_bush_harriman_012",
+      "dynastic_bbh_014",
+      "dynastic_cia_018",
+      "dynastic_cia_019",
+      "dynastic_cia_020",
+      "dynastic_cia_021",
+      "dynastic_rockefeller_022",
+      "dynastic_bundy_031",
+      "dynastic_bundy_033",
+      "dynastic_bundy_035",
+      "dynastic_lovett_039",
+      "dynastic_lovett_040",
+      "dynastic_lovett_041",
+      "dynastic_xref_058",
+      "dynastic_xref_059"
+    ],
+    "network_int": [
+      "netint_russell_yale_skull_001",
+      "netint_forbes/kerry_yale_skull_005",
+      "netint_roosevelt_cia_manhat_015",
+      "netint_harriman_bbh_016",
+      "netint_harriman_manhattan__017",
+      "netint_harriman_cia_018",
+      "netint_dulles_skull_&_bo_048"
+    ]
+  },
+  "Yale": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_sb_001",
+      "dynastic_sb_004",
+      "dynastic_bush_harriman_007",
+      "dynastic_bush_harriman_012",
+      "dynastic_bbh_014",
+      "dynastic_bbh_015",
+      "dynastic_xref_059"
+    ],
+    "network_int": [
+      "netint_forbes/kerry_yale_skull_005"
+    ]
+  },
+  "Coolidge family": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_sb_003",
+      "dynastic_xref_056"
+    ],
+    "network_int": [
+      "netint_russell/forbes/_opium_trad_003",
+      "netint_coolidge_cfr_004"
+    ]
+  },
+  "Princeton": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_sb_006",
+      "dynastic_xref_057"
+    ],
+    "network_int": [
+      "netint_china_trade_cla_universiti_006"
+    ]
+  },
+  "Columbia": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_sb_006",
+      "dynastic_xref_057"
+    ],
+    "network_int": [
+      "netint_china_trade_cla_universiti_006",
+      "netint_rockefeller_manhattan__032"
+    ]
+  },
+  "Prescott Bush": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_bush_harriman_007",
+      "dynastic_bush_harriman_008",
+      "dynastic_bush_harriman_010",
+      "dynastic_bush_harriman_012",
+      "dynastic_bush_harriman_013",
+      "dynastic_cia_017",
+      "dynastic_cia_021",
+      "dynastic_rockefeller_025",
+      "dynastic_lovett_040"
+    ],
+    "network_int": [
+      "netint_harriman_bbh_016",
+      "netint_bush_mic_027",
+      "netint_bush_manhattan__029"
+    ]
+  },
+  "W. Averell Harriman": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_bush_harriman_008",
+      "dynastic_cia_018",
+      "dynastic_cia_020",
+      "dynastic_lovett_039"
+    ],
+    "network_int": [
+      "netint_harriman_bbh_016",
+      "netint_harriman_operation__019",
+      "netint_harriman_cia_020"
+    ]
+  },
+  "Brown Brothers": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_bush_harriman_009",
+      "dynastic_bbh_015",
+      "dynastic_xref_060"
+    ],
+    "network_int": [
+      "netint_dulles_sullivan_&_044"
+    ]
+  },
+  "WWI": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_bush_harriman_010"
+    ],
+    "network_int": [
+      "netint_roosevelt_intelligen_011"
+    ]
+  },
+  "George H.W. Bush": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_bush_harriman_011",
+      "dynastic_cia_016",
+      "dynastic_globalist_049",
+      "dynastic_globalist_053"
+    ],
+    "network_int": [
+      "netint_bush_operation__021",
+      "netint_bush_operation__022",
+      "netint_bush_operation__023",
+      "netint_bush_operation__024",
+      "netint_bush_mk-ultra_025",
+      "netint_bush_at&t_028"
+    ]
+  },
+  "George W. Bush": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_bush_harriman_011"
+    ],
+    "network_int": [
+      "netint_bush_at&t_bell__026"
+    ]
+  },
+  "CIA": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_cia_016",
+      "dynastic_cia_017",
+      "dynastic_cia_018",
+      "dynastic_cia_019",
+      "dynastic_cia_021",
+      "dynastic_bundy_031",
+      "dynastic_bundy_035",
+      "dynastic_bundy_037",
+      "dynastic_lovett_040"
+    ],
+    "network_int": [
+      "netint_roosevelt_cia_010",
+      "netint_roosevelt_cia_manhat_015",
+      "netint_harriman_cia_018",
+      "netint_harriman_cia_020",
+      "netint_bush_operation__021",
+      "netint_bush_operation__022",
+      "netint_bush_mk-ultra_025",
+      "netint_rockefeller_cia_034",
+      "netint_rockefeller_mk-ultra_c_035",
+      "netint_rockefeller_cia_036",
+      "netint_rockefeller_mk-ultra_043",
+      "netint_dulles_mk-ultra_045",
+      "netint_dulles_at&t_found_047",
+      "netint_dulles_skull_&_bo_048",
+      "netint_mellon_oss_cia_053",
+      "netint_mellon_cia_055",
+      "netint_carnegie_cia_056",
+      "netint_mellon/carnegie_mk-ultra_058",
+      "netint_mellon/carnegie_cia_059",
+      "netint_bundy_mk-ultra_065",
+      "netint_du_pont_mk-ultra_069",
+      "netint_du_pont_cia_070"
+    ]
+  },
+  "OSS": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_cia_017",
+      "dynastic_cia_018",
+      "dynastic_bundy_035"
+    ],
+    "network_int": [
+      "netint_delano/roosevel_oss_007",
+      "netint_roosevelt_oss_manhat_009",
+      "netint_rockefeller_cia_034",
+      "netint_mellon_oss_052",
+      "netint_mellon_oss_cia_053",
+      "netint_mellon/du_pont_oss_054",
+      "netint_du_pont_oss_068"
+    ]
+  },
+  "Robert Lovett": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_cia_018",
+      "dynastic_cia_020",
+      "dynastic_lovett_039"
+    ],
+    "network_int": [
+      "netint_roosevelt_cia_manhat_015",
+      "netint_harriman_bbh_016",
+      "netint_harriman_manhattan__017",
+      "netint_harriman_cia_018"
+    ]
+  },
+  "Cold War": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_cia_018"
+    ],
+    "network_int": [
+      "netint_mellon_cia_055"
+    ]
+  },
+  "intelligence": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_cia_020",
+      "dynastic_lovett_041"
+    ],
+    "network_int": [
+      "netint_roosevelt/astor_intelligen_014"
+    ]
+  },
+  "Dresser Industries": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_cia_021",
+      "dynastic_lovett_040"
+    ],
+    "network_int": [
+      "netint_bush_mic_027"
+    ]
+  },
+  "Standard Oil": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_rockefeller_022",
+      "dynastic_rockefeller_023",
+      "dynastic_rockefeller_030"
+    ],
+    "network_int": [
+      "netint_rockefeller_sullivan_&_030",
+      "netint_rockefeller_at&t_039",
+      "netint_dulles_sullivan_&_044"
+    ]
+  },
+  "Rockefeller family": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_rockefeller_023",
+      "dynastic_rockefeller_030",
+      "dynastic_globalist_050"
+    ],
+    "network_int": [
+      "netint_rockefeller_sullivan_&_030"
+    ]
+  },
+  "DuPont": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_rockefeller_024"
+    ],
+    "network_int": [
+      "netint_bundy_manhattan__061"
+    ]
+  },
+  "David Rockefeller": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_rockefeller_026",
+      "dynastic_rockefeller_027",
+      "dynastic_rockefeller_028",
+      "dynastic_rockefeller_029",
+      "dynastic_globalist_050",
+      "dynastic_globalist_052",
+      "dynastic_globalist_054",
+      "dynastic_globalist_055"
+    ],
+    "network_int": [
+      "netint_bush_operation__024",
+      "netint_rockefeller_cia_036",
+      "netint_rockefeller_operation__037",
+      "netint_rockefeller_operation__038",
+      "netint_rockefeller_at&t_bell__040"
+    ]
+  },
+  "Council on Foreign Relations": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_rockefeller_026"
+    ],
+    "network_int": [
+      "netint_coolidge_cfr_004"
+    ]
+  },
+  "CFR": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_rockefeller_026",
+      "dynastic_rockefeller_027",
+      "dynastic_rockefeller_028",
+      "dynastic_rockefeller_030",
+      "dynastic_globalist_050",
+      "dynastic_globalist_052",
+      "dynastic_globalist_054"
+    ],
+    "network_int": [
+      "netint_coolidge_cfr_004",
+      "netint_rockefeller_sullivan_&_031"
+    ]
+  },
+  "Henry Kissinger": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_rockefeller_028",
+      "dynastic_rockefeller_029",
+      "dynastic_bundy_038",
+      "dynastic_globalist_051"
+    ],
+    "network_int": [
+      "netint_bush_operation__023",
+      "netint_carnegie_cia_056"
+    ]
+  },
+  "WEF": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_rockefeller_030",
+      "dynastic_globalist_051",
+      "dynastic_globalist_052"
+    ],
+    "network_int": [
+      "netint_forbes/kerry_wef_008"
+    ]
+  },
+  "William P. Bundy": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_bundy_031",
+      "dynastic_bundy_032",
+      "dynastic_bundy_034",
+      "dynastic_bundy_035",
+      "dynastic_bundy_036",
+      "dynastic_bundy_037"
+    ],
+    "network_int": [
+      "netint_bundy_operation__063"
+    ]
+  },
+  "State Department": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_bundy_031",
+      "dynastic_bundy_035"
+    ],
+    "network_int": [
+      "netint_bundy_operation__063"
+    ]
+  },
+  "McGeorge Bundy": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_bundy_033",
+      "dynastic_bundy_035",
+      "dynastic_bundy_038"
+    ],
+    "network_int": [
+      "netint_bundy_operation__062",
+      "netint_bundy_cia_nsc_064",
+      "netint_bundy_mk-ultra_065",
+      "netint_bundy_at&t_bell__066"
+    ]
+  },
+  "Henry Stimson": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_bundy_036"
+    ],
+    "network_int": [
+      "netint_bundy_manhattan__061"
+    ]
+  },
+  "Secretary of State": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_bundy_037"
+    ],
+    "network_int": [
+      "netint_forbes/kerry_yale_skull_005"
+    ]
+  },
+  "Operation Condor": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_bundy_038"
+    ],
+    "network_int": [
+      "netint_bush_operation__022",
+      "netint_bush_operation__023",
+      "netint_bush_operation__024",
+      "netint_rockefeller_operation__037",
+      "netint_rockefeller_operation__038",
+      "netint_mellon_operation__060",
+      "netint_bundy_operation__063"
+    ]
+  },
+  "Latin America": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_bundy_038"
+    ],
+    "network_int": [
+      "netint_rockefeller_cia_034"
+    ]
+  },
+  "Mellon family": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_carnegie_mellon_043",
+      "dynastic_carnegie_mellon_044",
+      "dynastic_carnegie_mellon_048"
+    ],
+    "network_int": [
+      "netint_mellon/du_pont_oss_054",
+      "netint_mellon/carnegie_cia_059"
+    ]
+  },
+  "Bell Labs": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_carnegie_mellon_043",
+      "dynastic_carnegie_mellon_046",
+      "dynastic_carnegie_mellon_047"
+    ],
+    "network_int": [
+      "netint_rockefeller_at&t_bell__040",
+      "netint_dulles_at&t_bell__050",
+      "netint_bundy_at&t_bell__066"
+    ]
+  },
+  "MIC": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_carnegie_mellon_045",
+      "dynastic_carnegie_mellon_048"
+    ],
+    "network_int": [
+      "netint_du_pont_mic_071"
+    ]
+  },
+  "World Economic Forum": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_globalist_050"
+    ],
+    "network_int": [
+      "netint_forbes/kerry_wef_008"
+    ]
+  },
+  "NATO": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_globalist_053"
+    ],
+    "network_int": [
+      "netint_harriman_operation__019",
+      "netint_bush_operation__021",
+      "netint_dulles_operation__046",
+      "netint_bundy_operation__062",
+      "netint_du_pont_operation__072"
+    ]
+  },
+  "BBH": {
+    "opium": [],
+    "forbes": [],
+    "dynastic": [
+      "dynastic_xref_060"
+    ],
+    "network_int": [
+      "netint_roosevelt_cia_manhat_015",
+      "netint_harriman_manhattan__017",
+      "netint_harriman_cia_018",
+      "netint_bush_manhattan__029"
+    ]
+  }
+}

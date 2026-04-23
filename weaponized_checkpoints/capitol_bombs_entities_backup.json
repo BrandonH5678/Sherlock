@@ -1,0 +1,830 @@
+{
+  "source_id": "weaponized_capitol_bombs",
+  "episode_id": "capitol_bombs",
+  "title": "UFO Bombs Dropped On Capitol Hill",
+  "entities": {
+    "people": [
+      {
+        "name": "David Grush",
+        "entity_type": "people",
+        "mention_count": 6,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "4] for taking this sort of a position.\n[00:24 - 00:29] We all have to believe that the testimony of David Grush that came out a few weeks ago,\n[00:29 - 00:34] our friend David, has played a major role in the ste",
+          "rt for taking this sort of a position.\n[13:27 - 13:30] We all have to believe that the testimony of David Grush.\n[13:30 - 13:32] That came out a few weeks ago.\n[13:32 - 13:41] Our friend David has played a major",
+          "t little battle, would you?\n[25:29 - 25:30] Yes.\n[25:30 - 25:41] So what happened was that when the David Grush story broke, the DOD's line was that the Arrow hasn't found any programs, let's say,\n[25:43 - 25:44",
+          "found any materials of extraterrestrial nature.\n[25:53 - 25:58] So I went back to Susan Goh because David Grush specifically mentioned non-human intelligence.\n[25:59 - 26:01] So I said, what about non-human inte",
+          " to hear from.\n[42:29 - 42:30] So let's just go this way.\n[42:31 - 42:35] I would love to hear from David Grush, unhinged, unchained.\n[42:35 - 42:38] Ask David Grush some really interesting questions.\n[42:38 - 4",
+          "ay.\n[42:31 - 42:35] I would love to hear from David Grush, unhinged, unchained.\n[42:35 - 42:38] Ask David Grush some really interesting questions.\n[42:38 - 42:43] You know, I'd love to hear directly from a coupl"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "George Knapp",
+        "entity_type": "people",
+        "mention_count": 4,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "s of the world.\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n**George Knapp**\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n[00:40 - 00:45] ",
+          "s time.\n[01:31 - 01:32] Are we ever going to get to the bottom of these?\n[01:33 - 01:34] My name is George Knapp.\n[01:34 - 01:38] I dig into news stories that others can't or won't.\n[01:38 - 01:39] I'm Jeremy Cor",
+          "ing.\n[56:39 - 56:40] You know what the curse is like.\n[56:40 - 56:42] The travel curse is real with George Knapp.\n[56:42 - 56:43] I can testify to that.\n[56:44 - 56:48] Anyway, man, look, I'm really excited for w",
+          " could say so little.\n[57:23 - 57:29] Following this new weaponized presentation of Jeremy Corbell, George Knapp, Dark Horse Entertainment and Cadence 13 Studios.\n[57:29 - 57:32] Available now for free on the Ody"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Jeremy Corbell",
+        "entity_type": "people",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "orge Knapp.\n[01:34 - 01:38] I dig into news stories that others can't or won't.\n[01:38 - 01:39] I'm Jeremy Corbell.\n[01:39 - 01:42] And for some reason, people tell me things they probably shouldn't.\n[01:43 - 01:45",
+          "much to tell but could say so little.\n[57:23 - 57:29] Following this new weaponized presentation of Jeremy Corbell, George Knapp, Dark Horse Entertainment and Cadence 13 Studios.\n[57:29 - 57:32] Available now for f"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Chuck Schumer",
+        "entity_type": "people",
+        "mention_count": 4,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "tle hearts.\n[02:18 - 02:20] Jeremy, there's so much to talk about.\n[02:20 - 02:26] Let's start with Chuck Schumer and this big drop a few days ago about an amendment to the defense bill.\n[02:27 - 02:28] Yeah, man.",
+          "orization Act by, you know, it's by the most powerful person in the Senate.\n[06:26 - 06:32] It's by Chuck Schumer, who's the leader of the Senate from the Democrats.\n[06:32 - 06:40] And he's inserted this huge ame",
+          "heed Martin to actually come clean about what they have.\n[07:28 - 07:31] Now, this new amendment by Chuck Schumer,\n[07:32 - 07:38] is a follow on in a way from that because it says that if any UAP materials,\n[07:3",
+          "d representatives who are bursting to speak about this.\n[16:35 - 16:47] And I think that our friend Chuck Schumer has just set the bar now and provided cover for those other politicians to actually start talking a"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Harry Reid",
+        "entity_type": "people",
+        "mention_count": 3,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "at Senator.\n[13:59 - 14:00] The senator has heard this.\n[14:01 - 14:06] My friend, the late Senator Harry Reid, talked to Schumer, who was his protege.\n[14:06 - 14:11] You might have seen one of the tweets that",
+          " man.\n[14:48 - 14:53] Schumer learned the job of being how to be a majority leader from his mentor, Harry Reid.\n[14:53 - 14:55] And they did talk about UFOs.\n[14:55 - 14:56] I would also say there are others.\n[",
+          "y was the brain behind OSAP.\n[44:58 - 45:00] He's the guy who started it.\n[45:00 - 45:04] He talked Harry Reid and Robert Bigelow into creating it and funding it.\n[45:05 - 45:06] He oversaw it.\n[45:06 - 45:10] "
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Tim Burchett",
+        "entity_type": "people",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n[00:00 - 00:04] Last episode of Weaponized, we heard directly from Tim Burchett.\n[00:04 - 00:07] There was a lot that he said, but there was a lot that we could not say.\n[00:07 - ",
+          ":39] So, you know, last episode.\n[40:39 - 40:40] Weaponized.\n[40:40 - 40:46] We heard directly from Tim Burchett, a congressman from Tennessee who's been directly involved\n[40:46 - 40:46] in this.\n[40:46 - 40:51]"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Cory Booker",
+        "entity_type": "people",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "imes story came out in December of 2017.\n[15:05 - 15:09] One of those was a presidential candidate, Cory Booker.\n[15:09 - 15:15] So there are a lot of members of the Senate who have not come forward on this yet."
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Chris Sharp",
+        "entity_type": "people",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "eally great voices that have kind of, you know, piped up about this.\n[02:53 - 02:55] One of them is Chris Sharp.\n[02:55 - 02:56] He dropped this great article.\n[02:56 - 02:58] Super informed.\n[02:58 - 03:00] I d",
+          "[03:13 - 03:15] And he's a great resource.\n[03:15 - 03:16] Let's get him right now.\n[03:16 - 03:21] Chris Sharp is the editor, publisher, writer of Liberation Times.\n[03:21 - 03:30] He's been covering the UFO is"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Bob Lazar",
+        "entity_type": "people",
+        "mention_count": 4,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          " say they've been testing.\n[20:48 - 20:49] Then they all have to cough it up.\n[20:49 - 20:54] Would Bob Lazar have to find the non-existent pieces of 115 and turn them in?\n[20:54 - 21:01] It presents some inte",
+          "] And what was of real interest to me was funny because I know Commander Fravor has spent time with Bob Lazar.\n[49:55 - 49:58] And that they, you know, become friends through understanding each other.\n[49:58 -",
+          "azar a few times.\n[50:09 - 50:14] And it was really interesting to hear Commander Fravor talk about Bob Lazar and how different it is now.\n[50:14 - 50:22] How different the climate is now about going to Congre",
+          "\n[52:08 - 52:09] Crush.\n[52:09 - 52:09] Crush.\n[52:09 - 52:13] Literally saying the same thing that Bob Lazar said in 1989.\n[52:13 - 52:15] And, you know, Bob got chastised for it.\n[52:16 - 52:17] And this guy"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Jacques Vallee",
+        "entity_type": "people",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "nd pieces of strange material.\n[20:41 - 20:48] Or some of the metamaterial samples that people like Jacques Vallee and Gary Nolan say they've been testing.\n[20:48 - 20:49] Then they all have to cough it up.\n[20:49 "
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Gary Nolan",
+        "entity_type": "people",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "e material.\n[20:41 - 20:48] Or some of the metamaterial samples that people like Jacques Vallee and Gary Nolan say they've been testing.\n[20:48 - 20:49] Then they all have to cough it up.\n[20:49 - 20:54] Would "
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Robert Bigelow",
+        "entity_type": "people",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          " behind OSAP.\n[44:58 - 45:00] He's the guy who started it.\n[45:00 - 45:04] He talked Harry Reid and Robert Bigelow into creating it and funding it.\n[45:05 - 45:06] He oversaw it.\n[45:06 - 45:10] He was courageous i"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Susan Goh",
+        "entity_type": "people",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "d what have you been on to when you have been speaking with, I know, I think you've been writing to Susan Goh.\n[25:26 - 25:28] So tell me that little battle, would you?\n[25:29 - 25:30] Yes.\n[25:30 - 25:41] So ",
+          "25:51] To it that found any materials of extraterrestrial nature.\n[25:53 - 25:58] So I went back to Susan Goh because David Grush specifically mentioned non-human intelligence.\n[25:59 - 26:01] So I said, what "
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Dr. Jim Lekatsky",
+        "entity_type": "people",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          " these guys, but they'd be great.\n[43:53 - 43:54] One is Jay Stratton.\n[43:55 - 43:57] The other is Dr. Jim Lekatsky.\n[43:57 - 44:00] And, of course, Jay Stratton, we had him on Weaponize.\n[44:00 - 44:03] We revealed"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Dr. Lekatsky was",
+        "entity_type": "people",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "s, but he'd be a great witness if they could ever talk him into it.\n[44:55 - 44:58] And, of course, Dr. Lekatsky was the brain behind OSAP.\n[44:58 - 45:00] He's the guy who started it.\n[45:00 - 45:04] He talked Harry"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Senator Schumer",
+        "entity_type": "people",
+        "mention_count": 5,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "we'll have a hearing.\n[00:12 - 00:15] We'll hear directly from firsthand witnesses.\n[00:15 - 00:18] Senator Schumer is a pretty crafty politician.\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
+          "ample, which is a huge, huge political issue right now.\n[00:52 - 00:55] Now, this news tonight from Senator Schumer introducing new legislation.\n[00:55 - 00:56] Things are happening fast.\n[00:56 - 00:58] Again, if y",
+          "[05:37 - 05:45] And reluctantly, even the New York Times had to report on this bombshell dropped by Senator Schumer within the last two days.\n[05:45 - 05:49] Can you give us a recap, your take on that story, what it",
+          "at's all I really want to say about that.\n[13:16 - 13:17] I would jump in this way.\n[13:17 - 13:20] Senator Schumer is a pretty crafty politician.\n[13:20 - 13:27] He's not going to stick his neck out if he doesn't h",
+          "And I think they are lending this support to this legislation.\n[15:23 - 15:26] But you can bet that Senator Schumer has his ducks in a row.\n[15:26 - 15:32] Before he makes an amendment that he knew would make as big"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "senator has",
+        "entity_type": "people",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "6 - 13:59] And I will tell you this, that it's not the first time that Senator.\n[13:59 - 14:00] The senator has heard this.\n[14:01 - 14:06] My friend, the late Senator Harry Reid, talked to Schumer, who was his "
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Senator Harry",
+        "entity_type": "people",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          " time that Senator.\n[13:59 - 14:00] The senator has heard this.\n[14:01 - 14:06] My friend, the late Senator Harry Reid, talked to Schumer, who was his protege.\n[14:06 - 14:11] You might have seen one of the tweets"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Senator Reid",
+        "entity_type": "people",
+        "mention_count": 3,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "er he dropped this bombshell amendment.\n[14:11 - 14:17] He paid homage to the legacy of his friend, Senator Reid, who died more than a year ago.\n[14:17 - 14:28] What we're seeing unfolding here now, all these dif",
+          " now, all these different elements in different places can largely be tracked back to the work that Senator Reid started here in Las Vegas.\n[14:28 - 14:30] More than two decades ago.\n[14:30 - 14:37] You know, I h",
+          ".\n[14:56 - 14:57] Current sitting members.\n[14:58 - 15:05] Members of the Senate who also talked to Senator Reid before he died and after that New York Times story came out in December of 2017.\n[15:05 - 15:09] On"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Senator Gillibrand",
+        "entity_type": "people",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          " So there are a lot of members of the Senate who have not come forward on this yet.\n[15:15 - 15:18] Senator Gillibrand, Senator Rubio have been out in front on it.\n[15:18 - 15:20] But there are other members who have a",
+          "n and women that are pushing policy, you know.\n[52:34 - 52:39] And I think it was Senator Rubio and Senator Gillibrand who were literally diametrically opposed politically.\n[52:39 - 52:41] But on this thing, they're no"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Senator Rubio",
+        "entity_type": "people",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "of members of the Senate who have not come forward on this yet.\n[15:15 - 15:18] Senator Gillibrand, Senator Rubio have been out in front on it.\n[15:18 - 15:20] But there are other members who have an interest in i",
+          " active congressmen and women that are pushing policy, you know.\n[52:34 - 52:39] And I think it was Senator Rubio and Senator Gillibrand who were literally diametrically opposed politically.\n[52:39 - 52:41] But on"
+        ],
+        "confidence": 0.8
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Pentagon",
+        "entity_type": "organization",
+        "mention_count": 3,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          ".\n[26:11 - 26:13] She didn't get back to me.\n[26:13 - 26:13] So I reported it.\n[26:13 - 26:16] Then the Pentagon had a panic.\n[26:16 - 26:21] And then they came back to me and said, extraterrestrial also means no",
+          "thought what they saw in the sky was not from flares.\n[33:00 - 33:05] We've now seen a release from the Pentagon, 126 photos.\n[33:07 - 33:09] Presumably they're all of this one flare episode.\n[33:10 - 33:13] And ",
+          "is case.\n[33:14 - 33:18] You tell us what you learned, what information you were able to get out of the Pentagon,\n[33:18 - 33:20] and what you think about where this has gone.\n[33:21 - 33:22] Yeah, absolutely.\n[3"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "DOD",
+        "entity_type": "organization",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "u?\n[25:29 - 25:30] Yes.\n[25:30 - 25:41] So what happened was that when the David Grush story broke, the DOD's line was that the Arrow hasn't found any programs, let's say,\n[25:43 - 25:44] which whistleblower"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Lockheed Martin",
+        "entity_type": "organization",
+        "mention_count": 6,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "ization Act, which provides an amnesty period of 60 days\n[07:22 - 07:27] for basically the likes of Lockheed Martin to actually come clean about what they have.\n[07:28 - 07:31] Now, this new amendment by Chuck Schum",
+          "scovered,\n[07:43 - 07:47] then the U.S. government will possess those materials.\n[07:47 - 07:52] So Lockheed Martin, look, if they have these materials, they'll have to surrender them to the U.S. government.\n[07:53 ",
+          "tion with the other language out there which provides amnesty to basically defense contractors like Lockheed Martin.\n[18:10 - 18:15] So I think it works in tandem with other legislation that can come forward.\n[18:16",
+          "the amnesty period.\n[21:30 - 21:32] And also, I'd say this as well.\n[21:32 - 21:36] I'd say that if Lockheed Martin does...\n[21:36 - 21:41] And I've been liaising with the Lockheed Martin spokesperson for the last t",
+          "32 - 21:36] I'd say that if Lockheed Martin does...\n[21:36 - 21:41] And I've been liaising with the Lockheed Martin spokesperson for the last two weeks or so.\n[21:41 - 21:48] Because if they do have an illegal UAP p",
+          ":40 - 22:44] Not just for the United States, but for the United Kingdom as well.\n[22:44 - 22:46] If Lockheed Martin were to fall down...\n[22:46 - 22:54] And cease to become a functioning organization, that has major"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "cia",
+        "entity_type": "organization",
+        "mention_count": 20,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "ll hear directly from firsthand witnesses.\n[00:15 - 00:18] Senator Schumer is a pretty crafty politician.\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n**Multiple Spea",
+          "\n[13:16 - 13:17] I would jump in this way.\n[13:17 - 13:20] Senator Schumer is a pretty crafty politician.\n[13:20 - 13:27] He's not going to stick his neck out if he doesn't have some kind of support for ",
+          "ink that our friend Chuck Schumer has just set the bar now and provided cover for those other politicians to actually start talking about this publicly.\n[16:48 - 16:51] There's some specific things we sh",
+          "lly, they smell something's not up now.\n[18:29 - 18:37] And they feel that I think being a US politician at the moment, I feel that they feel that they're being lied to.\n[18:37 - 18:41] This is something",
+          "eally have the same momentum regarding transparency in that case.\n[19:23 - 19:35] Amongst key politicians, as you do with the UAP topic, there is a broad bipartisan coalition in both the House and the Se",
+          "d they're trying to force it out.\n[23:48 - 23:52] The eminent domain clause, my buddy said, was especially deadly.\n[23:53 - 23:54] And I'm like, why?\n[23:54 - 23:57] Because there's really no way out of ",
+          "ly digested the information that once the legislation is passed,\n[24:04 - 24:13] there'll be a financial incentive for insiders to kind of blow the whistle because they're entitled to like 10% of the rec",
+          " a look at that again, just to confirm.\n[24:20 - 24:23] It has been said to me that there is a financial incentive.\n[24:23 - 24:25] I need to have a look at that again.\n[24:27 - 24:33] Would 10% even be ",
+          "I need to have a look at that again.\n[24:27 - 24:33] Would 10% even be enough in terms of this, especially if it got taken away from them?\n[24:33 - 24:41] You can imagine shareholders discovering that Lo",
+          " further into this and find out why that might be,\n[34:41 - 34:43] I think that'd be fantastic, especially for the Marines.\n[34:43 - 34:45] And they've done a really brave thing.\n[34:45 - 34:47] And so a",
+          "how life works sometimes.\n[35:37 - 35:39] I mean, in terms of an investigation,\n[35:40 - 35:45] especially when you don't have full access to the files and records\n[35:45 - 35:48] and anything else relat",
+          "pinion into the stories.\n[36:48 - 36:49] And that's where I find myself.\n[36:50 - 36:55] And I appreciated the way that you covered it because a lot of people,\n[36:55 - 36:59] they just fold like cheap s",
+          "y from the 20th,\n[37:33 - 37:35] was also on the 16th, was put up.\n[37:36 - 37:39] Michael, the magician behind the recordings here,\n[37:39 - 37:40] was able to find that on the 20th.\n[37:40 - 37:40] It'",
+          "es.\n[40:26 - 40:27] That's happened to a bunch of friends of mine.\n[40:27 - 40:29] So I really appreciate that he talked to us today.\n[40:30 - 40:31] I want to talk about hearings.\n[40:31 - 40:32] I am s",
+          " When that ended, he was brought back in by the U.S. Navy.\n[44:35 - 44:37] He put together an unofficial team.\n[44:38 - 44:42] That eventually became formalized by Congress, became the UAP Task Force.\n[4",
+          "they got their legs chopped off.\n[45:25 - 45:30] Of course, Lou Elizondo, we'd all love to hear official on-the-record testimony from him\n[45:30 - 45:33] because he's been so key to this whole process.\n[",
+          "hink people are going to go just a little bit beyond where they've gone before.\n[48:26 - 48:30] Especially if they're asked good questions.\n[48:30 - 48:31] Because everybody makes a statement.\n[48:31 - 4",
+          "53:16 - 53:16] How do they work?\n[53:17 - 53:18] Can we use that technology?\n[53:18 - 53:24] With social media and now the support of elected officials that want to know.\n[53:25 - 53:28] You know, if the",
+          "8] Can we use that technology?\n[53:18 - 53:24] With social media and now the support of elected officials that want to know.\n[53:25 - 53:28] You know, if there is stuff, it's only a matter of time.\n[53:2",
+          "like, everything you said, man, everything you said.\n[54:46 - 54:50] He goes, I work in a really special job.\n[54:50 - 54:53] And I can't tell you what it is, but I'll tell you everything you said, man.\n"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Dia",
+        "entity_type": "organization",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "===\nWEAPONIZED PODCAST - UFO Bombs Dropped On Capitol Hill\nTranscribed with Whisper large-v3 + NeMo Diarization + Claude API Enhancement\n=================================================================="
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "dia",
+        "entity_type": "organization",
+        "mention_count": 6,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "ering the UFO issue, UFO transparency action in Washington in ways that major mainstream American media just have never seen before.\n[03:30 - 03:34] So, Chris, we have Chris.\n[03:34 - 03:36] Chris, great",
+          "the world?\n[04:00 - 04:01] And what do you want about UAP?\n[04:01 - 04:07] Because our mainstream media, even after all that has happened, still don't really cover it.\n[04:07 - 04:09] Or when they do, th",
+          "ou know.\n[52:34 - 52:39] And I think it was Senator Rubio and Senator Gillibrand who were literally diametrically opposed politically.\n[52:39 - 52:41] But on this thing, they're not diametrically opposed",
+          "ho were literally diametrically opposed politically.\n[52:39 - 52:41] But on this thing, they're not diametrically opposed.\n[52:41 - 52:46] And I've sat in rooms with both Republicans and Democrats who ar",
+          "trically opposed.\n[52:41 - 52:46] And I've sat in rooms with both Republicans and Democrats who are diametrically opposed.\n[52:48 - 52:53] And, but on this topic, it's bipartisan.\n[52:53 - 52:55] There i",
+          " 53:16] How do they work?\n[53:17 - 53:18] Can we use that technology?\n[53:18 - 53:24] With social media and now the support of elected officials that want to know.\n[53:25 - 53:28] You know, if there is s"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Defense Intelligence Agency",
+        "entity_type": "organization",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "lved at every step of the way since OSAP,\n[44:08 - 44:12] since that program created in 2007 at the Defense Intelligence Agency.\n[44:13 - 44:19] He is the person who single-handedly did the first investigation of the Tic Tac ca"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "nsa",
+        "entity_type": "organization",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "as well.\n[22:22 - 22:27] And I think that needs to be included within the legislation, such as compensation.\n[22:28 - 22:33] I mean, a lot of people like to throw Lockheed under the bus, and maybe rightf"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Senate",
+        "entity_type": "organization",
+        "mention_count": 12,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "our friend David, has played a major role in the steps that have been taken\n[00:34 - 00:36] both in the Senate and in the House.\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
+          "endment to the National Defense Authorization Act by, you know, it's by the most powerful person in the Senate.\n[06:26 - 06:32] It's by Chuck Schumer, who's the leader of the Senate from the Democrats.\n[06:32 -",
+          " the most powerful person in the Senate.\n[06:26 - 06:32] It's by Chuck Schumer, who's the leader of the Senate from the Democrats.\n[06:32 - 06:40] And he's inserted this huge amendment, basically, which provide",
+          "\n[13:32 - 13:41] Our friend David has played a major role in the steps that have been taken both in the Senate and in the House in pushing this ball down the field.\n[13:41 - 13:46] Grush is not alone, however, ",
+          "] And I helped fan those flames for a long time.\n[14:39 - 14:45] And I asked him flat out who among the Senate colleagues he had talked to about this issue.\n[14:45 - 14:46] And Schumer was one of them.\n[14:46 -",
+          "ould also say there are others.\n[14:56 - 14:57] Current sitting members.\n[14:58 - 15:05] Members of the Senate who also talked to Senator Reid before he died and after that New York Times story came out in Dece",
+          "f those was a presidential candidate, Cory Booker.\n[15:09 - 15:15] So there are a lot of members of the Senate who have not come forward on this yet.\n[15:15 - 15:18] Senator Gillibrand, Senator Rubio have been ",
+          "15:47 - 15:58] So earlier this year, I was informed that there's a whole host of committees both in the Senate and in the House that are interested.\n[15:58 - 16:02] They're interested in the UAP topic and which",
+          " - 16:15] And one of the committees that was mentioned to me was the Homeland Security Committee in the Senate.\n[16:16 - 16:25] And it just so happens in this new legislation that that committee is going to pay",
+          "iticians, as you do with the UAP topic, there is a broad bipartisan coalition in both the House and the Senate to get this through.\n[19:35 - 19:45] So I feel that the UAP topic has a lot more momentum, has a lo",
+          "solutely.\n[29:17 - 29:18] Very, very good points made there.\n[29:19 - 29:32] And I'd point out that the Senate Democrats put out a statement saying senators, congressmen, committees and staff began to pursue th",
+          " the executive branch was concealing important information.\n[29:43 - 29:46] And they also said that the Senate Democrats were trying to get information regarding UAPs over broad periods of time.\n[29:46 - 29:50]"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "House",
+        "entity_type": "organization",
+        "mention_count": 10,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "has played a major role in the steps that have been taken\n[00:34 - 00:36] both in the Senate and in the House.\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n**Multiple Speak",
+          " some coordination in terms of getting this new amendment out there.\n[11:00 - 11:06] With the White House and National Security Council as well.\n[11:07 - 11:29] So following the February shoot downs that o",
+          "around about a very, very senior member of, let's say, the U.S. Armed Forces who approached a White House staff member, let's say, and spilled the beans.\n[11:29 - 11:37] About legacy programs and stated th",
+          "ir Force is lying when it comes down to the topic of UAP.\n[11:37 - 11:44] And then we had the White House set up its own kind of task force all of a sudden to look into UAP.\n[11:44 - 11:45] And that kind o",
+          "re non-human entities, or implies that at least, that now that's come from, in part, from the White House.\n[11:59 - 12:00] The National Security Council.\n[12:01 - 12:04] And like you said, I just don't thi",
+          "exposed to information, footage, documents inside of government, even all the way up into the White House, that they haven't seen before.\n[12:51 - 12:54] And so, you know, look, what do people hate more th",
+          "ur friend David has played a major role in the steps that have been taken both in the Senate and in the House in pushing this ball down the field.\n[13:41 - 13:46] Grush is not alone, however, in the statements",
+          "earlier this year, I was informed that there's a whole host of committees both in the Senate and in the House that are interested.\n[15:58 - 16:02] They're interested in the UAP topic and which may hold hearing",
+          "mongst key politicians, as you do with the UAP topic, there is a broad bipartisan coalition in both the House and the Senate to get this through.\n[19:35 - 19:45] So I feel that the UAP topic has a lot more mom",
+          "w, some of that was put out, was leaked.\n[40:56 - 40:57] Not by us.\n[40:57 - 41:04] July 26th, this House subcommittee, a subcommittee of the Oversight Committee, will have a hearing.\n[41:04 - 41:06] We'll"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Armed Services Committee",
+        "entity_type": "organization",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          " interested in the UAP topic and which may hold hearings.\n[16:02 - 16:08] So not just the Intel and Armed Services Committees, other committees.\n[16:08 - 16:15] And one of the committees that was mentioned to me was the Home"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Homeland Security Committee",
+        "entity_type": "organization",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "ttees, other committees.\n[16:08 - 16:15] And one of the committees that was mentioned to me was the Homeland Security Committee in the Senate.\n[16:16 - 16:25] And it just so happens in this new legislation that that committee i"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "AATIP",
+        "entity_type": "organization",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "hat first investigation after OSAP ended.\n[44:27 - 44:30] He was a key part of with Lou Elizondo on AATIP.\n[44:30 - 44:34] When that ended, he was brought back in by the U.S. Navy.\n[44:35 - 44:37] He put t"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "New York Times",
+        "entity_type": "organization",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "n we were surprised by some of the things that have happened.\n[05:37 - 05:45] And reluctantly, even the New York Times had to report on this bombshell dropped by Senator Schumer within the last two days.\n[05:45 - 05:49",
+          "[14:58 - 15:05] Members of the Senate who also talked to Senator Reid before he died and after that New York Times story came out in December of 2017.\n[15:05 - 15:09] One of those was a presidential candidate, Cory"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Liberation Times",
+        "entity_type": "organization",
+        "mention_count": 5,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "5 - 03:16] Let's get him right now.\n[03:16 - 03:21] Chris Sharp is the editor, publisher, writer of Liberation Times.\n[03:21 - 03:30] He's been covering the UFO issue, UFO transparency action in Washington in ways th",
+          "auty of now, today, the world that we live in, is that we can have independent publications such as Liberation Times, independent journalists, you know, such as what you guys are doing on Webinize, for instance.\n[05:",
+          "also, thank you so much for your contribution, Jeremy.\n[09:46 - 09:58] I mean, anything reported in Liberation Times, we ensure that we are correct as possible because the topic of UAP, there is so much stigma surrou",
+          "'s find out the truth, you know?\n[39:37 - 39:39] Chris, thanks so much.\n[39:39 - 39:40] We love the Liberation Times.\n[39:40 - 39:44] Can't wait to talk to you again and are so glad that you're on top of this story.\n",
+          "] He wants to know the truth.\n[40:08 - 40:09] He really digs deep.\n[40:09 - 40:16] When he does his Liberation Times articles, I honestly, anybody who is interested in kind\n[40:16 - 40:19] of learning that, support w"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "SpaceX",
+        "entity_type": "organization",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "y to gain access to such craft?\n[23:20 - 23:26] Does Elon Musk get an opportunity to study it under SpaceX or something like that?\n[23:26 - 23:29] I think that would be really, really interesting to know wh"
+        ],
+        "confidence": 0.8
+      }
+    ],
+    "programs": [
+      {
+        "name": "AATIP",
+        "entity_type": "program",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "hat first investigation after OSAP ended.\n[44:27 - 44:30] He was a key part of with Lou Elizondo on AATIP.\n[44:30 - 44:34] When that ended, he was brought back in by the U.S. Navy.\n[44:35 - 44:37] He put t"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "National Defense Authorization Act",
+        "entity_type": "program",
+        "mention_count": 4,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "6] So this is an absolutely huge story.\n[06:16 - 06:25] And what it is, it's a new amendment to the National Defense Authorization Act by, you know, it's by the most powerful person in the Senate.\n[06:26 - 06:32] It's by Chuck Schumer",
+          "se we know there is already a version of the Intelligence Authorization Act\n[07:16 - 07:22] and the National Defense Authorization Act, which provides an amnesty period of 60 days\n[07:22 - 07:27] for basically the likes of Lockheed Ma",
+          "ple UAP, you know, amendments and language added to both the Intelligence Authorization Act and the National Defense Authorization Act.\n[17:48 - 17:55] So I don't, you know, yeah, I think this is a major step in the right direction.\n[",
+          ":16 - 18:24] And I think that we can expect more legislation to come forward, whether it be in this National Defense Authorization Act or perhaps next year.\n[18:24 - 18:28] I think they've really, really, they smell something's not up"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Authorization Act",
+        "entity_type": "program",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          " - 07:16] And that is just explosive because we know there is already a version of the Intelligence Authorization Act\n[07:16 - 07:22] and the National Defense Authorization Act, which provides an amnesty period of 60 ",
+          "years now, we've had multiple UAP, you know, amendments and language added to both the Intelligence Authorization Act and the National Defense Authorization Act.\n[17:48 - 17:55] So I don't, you know, yeah, I think thi"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Intelligence Authorization Act",
+        "entity_type": "program",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "ature.\n[07:07 - 07:16] And that is just explosive because we know there is already a version of the Intelligence Authorization Act\n[07:16 - 07:22] and the National Defense Authorization Act, which provides an amnesty period of 60 ",
+          "hree or four years now, we've had multiple UAP, you know, amendments and language added to both the Intelligence Authorization Act and the National Defense Authorization Act.\n[17:48 - 17:55] So I don't, you know, yeah, I think thi"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "UAP review board",
+        "entity_type": "program",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "m the Democrats.\n[06:32 - 06:40] And he's inserted this huge amendment, basically, which provides a UAP review board,\n[06:40 - 06:48] which will basically look to release UAP reports going back decades.\n[06:48 - 06:5",
+          " new legislation that that committee is going to pay a major role in terms of oversight in this new UAP review board.\n[16:25 - 16:28] So I think we can expect a whole lot more.\n[16:28 - 16:35] There are a bunch of ot"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "JFK assassination records board",
+        "entity_type": "program",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "of a UFO panel is similar to the JFK assassination record.\n[16:56 - 16:56] Yes.\n[16:56 - 17:00] The JFK assassination records board, nine-member panel to be named by the president and others.\n[17:01 - 17:15] And, of course, that ra"
+        ],
+        "confidence": 0.8
+      }
+    ],
+    "locations": [
+      {
+        "name": "Pentagon",
+        "entity_type": "location",
+        "mention_count": 3,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "6:11 - 26:13] She didn't get back to me.\n[26:13 - 26:13] So I reported it.\n[26:13 - 26:16] Then the Pentagon had a panic.\n[26:16 - 26:21] And then they came back to me and said, extraterrestrial also means no",
+          "ght what they saw in the sky was not from flares.\n[33:00 - 33:05] We've now seen a release from the Pentagon, 126 photos.\n[33:07 - 33:09] Presumably they're all of this one flare episode.\n[33:10 - 33:13] And ",
+          "ase.\n[33:14 - 33:18] You tell us what you learned, what information you were able to get out of the Pentagon,\n[33:18 - 33:20] and what you think about where this has gone.\n[33:21 - 33:22] Yeah, absolutely.\n[3"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Capitol Hill",
+        "entity_type": "location",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "=========================================================\nWEAPONIZED PODCAST - UFO Bombs Dropped On Capitol Hill\nTranscribed with Whisper large-v3 + NeMo Diarization + Claude API Enhancement\n====================="
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Washington",
+        "entity_type": "location",
+        "mention_count": 3,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "r of Liberation Times.\n[03:21 - 03:30] He's been covering the UFO issue, UFO transparency action in Washington in ways that major mainstream American media just have never seen before.\n[03:30 - 03:34] So, Chris",
+          "] It's like, because it's accepted.\n[52:19 - 52:26] In 1989, if you just said UFO, UAP, whatever in Washington, D.C., you'd have been allowed\n[52:26 - 52:28] laughed out of your seat in Congress.\n[52:28 - 52:34",
+          "ou're saying.\n[56:31 - 56:32] Well, we'll see.\n[56:32 - 56:38] We'll also see if I'm able to get to Washington for this July 26th hearing without some airplane disaster happening.\n[56:39 - 56:40] You know what "
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Las Vegas",
+        "entity_type": "location",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "ments in different places can largely be tracked back to the work that Senator Reid started here in Las Vegas.\n[14:28 - 14:30] More than two decades ago.\n[14:30 - 14:37] You know, I had a secret private conver"
+        ],
+        "confidence": 0.8
+      }
+    ],
+    "technologies": [
+      {
+        "name": "UAP",
+        "entity_type": "technologie",
+        "mention_count": 25,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "u do for information about what's going on in the world?\n[04:00 - 04:01] And what do you want about UAP?\n[04:01 - 04:07] Because our mainstream media, even after all that has happened, still don't really",
+          "m the Democrats.\n[06:32 - 06:40] And he's inserted this huge amendment, basically, which provides a UAP review board,\n[06:40 - 06:48] which will basically look to release UAP reports going back decades.\n",
+          " basically, which provides a UAP review board,\n[06:40 - 06:48] which will basically look to release UAP reports going back decades.\n[06:48 - 06:57] But not only that, it would also look to potentially, p",
+          " decades.\n[06:48 - 06:57] But not only that, it would also look to potentially, potentially release UAP materials,\n[06:58 - 06:59] which could also mean craft.\n[07:00 - 07:02] And let's say biochemicals.",
+          "7:00 - 07:02] And let's say biochemicals.\n[07:02 - 07:07] Biological specimens as well, relating to UAP, which are non-human in nature.\n[07:07 - 07:16] And that is just explosive because we know there is",
+          "ent by Chuck Schumer,\n[07:32 - 07:38] is a follow on in a way from that because it says that if any UAP materials,\n[07:38 - 07:42] you know, or biological specimens are discovered,\n[07:43 - 07:47] then t",
+          "[08:35 - 08:44] Look, this new legislation is making a powerful move to expose the issue of illegal UAP technological holdings.\n[08:44 - 08:46] Like, that's what this legislation is doing.\n[08:47 - 08:49",
+          "5] You don't aim to push this kind of language into law unless you have direct knowledge of illegal UAP holding facilities and programs backed up by folks directly and currently working on these UAP prog",
+          "egal UAP holding facilities and programs backed up by folks directly and currently working on these UAP programs and technologies and projects.\n[09:25 - 09:31] So I happen to know that this language was ",
+          "ything reported in Liberation Times, we ensure that we are correct as possible because the topic of UAP, there is so much stigma surrounding it.\n[09:58 - 10:01] So when you're reporting information, you ",
+          "rting on these articles.\n[10:25 - 10:31] And yes, I feel that there is some smoking gun evidence of UAP.\n[10:31 - 10:47] I feel that UAP potentially being of either unknown origin, albeit of a non-prosai",
+          " 10:31] And yes, I feel that there is some smoking gun evidence of UAP.\n[10:31 - 10:47] I feel that UAP potentially being of either unknown origin, albeit of a non-prosaic origin, let's say, or non-human",
+          "bout legacy programs and stated that the U.S. Air Force is lying when it comes down to the topic of UAP.\n[11:37 - 11:44] And then we had the White House set up its own kind of task force all of a sudden ",
+          ":44] And then we had the White House set up its own kind of task force all of a sudden to look into UAP.\n[11:44 - 11:45] And that kind of disappeared.\n[11:45 - 11:59] And now we know that this bombshell ",
+          " both in the Senate and in the House that are interested.\n[15:58 - 16:02] They're interested in the UAP topic and which may hold hearings.\n[16:02 - 16:08] So not just the Intel and Armed Services Committ",
+          " new legislation that that committee is going to pay a major role in terms of oversight in this new UAP review board.\n[16:25 - 16:28] So I think we can expect a whole lot more.\n[16:28 - 16:35] There are ",
+          "or push forward.\n[17:35 - 17:48] And look, for the last three or four years now, we've had multiple UAP, you know, amendments and language added to both the Intelligence Authorization Act and the Nationa",
+          "um regarding transparency in that case.\n[19:23 - 19:35] Amongst key politicians, as you do with the UAP topic, there is a broad bipartisan coalition in both the House and the Senate to get this through.\n",
+          " coalition in both the House and the Senate to get this through.\n[19:35 - 19:45] So I feel that the UAP topic has a lot more momentum, has a lot more support and bipartisan support as well, you know, wit",
+          "artin spokesperson for the last two weeks or so.\n[21:41 - 21:48] Because if they do have an illegal UAP program, then that would be a material risk.\n[21:48 - 21:55] And if there are material risks that y",
+          "] We're going to have direct witnesses.\n[32:13 - 32:16] You can actually share what they know about UAP to the U.S. public.\n[32:17 - 32:20] And I think we can expect some fireworks.\n[32:20 - 32:20] I rea",
+          "earings throughout U.S. history have been spectacles.\n[32:25 - 32:28] And I think we deserve one on UAP, don't you?\n[32:29 - 32:30] Yeah.\n[32:30 - 32:33] One last point to raise with you, Chris, before y",
+          "ether an unofficial team.\n[44:38 - 44:42] That eventually became formalized by Congress, became the UAP Task Force.\n[44:42 - 44:48] I think a lot of the work that he and Travis Taylor did on that task fo",
+          " is now.\n[50:14 - 50:22] How different the climate is now about going to Congress and talking about UAP or UFOs than what Bob said back in 1989.\n[50:22 - 50:24] But why don't you hear from him himself.\n[",
+          "w.\n[52:17 - 52:19] It's like, because it's accepted.\n[52:19 - 52:26] In 1989, if you just said UFO, UAP, whatever in Washington, D.C., you'd have been allowed\n[52:26 - 52:28] laughed out of your seat in "
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "UAPs",
+        "entity_type": "technologie",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "9:43 - 29:46] And they also said that the Senate Democrats were trying to get information regarding UAPs over broad periods of time.\n[29:46 - 29:50] So this was not a small group that some people like to "
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "UFO",
+        "entity_type": "technologie",
+        "mention_count": 14,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "==============================================================================\nWEAPONIZED PODCAST - UFO Bombs Dropped On Capitol Hill\nTranscribed with Whisper large-v3 + NeMo Diarization + Claude API Enh",
+          " Sharp is the editor, publisher, writer of Liberation Times.\n[03:21 - 03:30] He's been covering the UFO issue, UFO transparency action in Washington in ways that major mainstream American media just have",
+          "he editor, publisher, writer of Liberation Times.\n[03:21 - 03:30] He's been covering the UFO issue, UFO transparency action in Washington in ways that major mainstream American media just have never seen",
+          "not just Grush, but a whole bunch of people who've come out offering information about these legacy UFO programs.\n[13:56 - 13:59] And I will tell you this, that it's not the first time that Senator.\n[13:",
+          " 16:51] There's some specific things we should probably touch on.\n[16:51 - 16:56] The creation of a UFO panel is similar to the JFK assassination record.\n[16:56 - 16:56] Yes.\n[16:56 - 17:00] The JFK assa",
+          "all those records.\n[17:15 - 17:16] They still have not been released.\n[17:16 - 17:24] And I can see UFO people who are inclined to believe in conspiracies worried that a panel on UFO disclosure might do ",
+          "17:24] And I can see UFO people who are inclined to believe in conspiracies worried that a panel on UFO disclosure might do the same thing.\n[17:24 - 17:28] And still classify things that the public has a",
+          "r the debunkers who have been saying for a long time now, this whole momentum, seeming momentum for UFO disclosure is really the creation of a small group of UFO believers who somehow convinced Congress,",
+          "this whole momentum, seeming momentum for UFO disclosure is really the creation of a small group of UFO believers who somehow convinced Congress,\n[28:12 - 28:15] and congressional staff about this nonsen",
+          " a couple of pilots, you know, people that\n[42:43 - 42:49] might have like, I don't know, engaged a UFO or been part of squadrons that saw these things\n[42:49 - 42:50] all the time.\n[42:50 - 42:51] That ",
+          "IMSOG and Arrow,\n[44:48 - 44:49] and then he left government.\n[44:49 - 44:55] He's still working on UFO-related issues, but he'd be a great witness if they could ever talk him into it.\n[44:55 - 44:58] An",
+          "ut now.\n[52:17 - 52:19] It's like, because it's accepted.\n[52:19 - 52:26] In 1989, if you just said UFO, UAP, whatever in Washington, D.C., you'd have been allowed\n[52:26 - 52:28] laughed out of your sea",
+          "ean, there's other factors that go into it, too.\n[55:21 - 55:32] Bob does not feel like he owes the UFO world any kind of debt or sense of gratitude for how he's been treated over the past 30 plus years.",
+          "o get dumped on pretty much every day.\n[55:45 - 55:48] I don't think he has any sense of loyalty to UFO world at all.\n[55:49 - 55:49] Yeah.\n[55:50 - 55:50] Yeah.\n[55:51 - 55:52] I mean, he wasn't trying "
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "UFOs",
+        "entity_type": "technologie",
+        "mention_count": 7,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "hat's actually known and what the government is up to,\n[01:05 - 01:07] even if you don't believe in UFOs.\n[01:07 - 01:08] So it's going to be interesting.\n[01:08 - 01:10] UFOs are not a matter of belief.\n",
+          "even if you don't believe in UFOs.\n[01:07 - 01:08] So it's going to be interesting.\n[01:08 - 01:10] UFOs are not a matter of belief.\n[01:10 - 01:11] We're past that.\n[01:11 - 01:12] We know it's true.\n[01",
+          " - 01:20] They're like, send me location.\n[01:22 - 01:28] Secrets, cover ups and strange phenomena, UFOs and ideas that challenge reality itself.\n[01:28 - 01:31] All these mysteries, all this time.\n[01:31",
+          "ow, I had a secret private conversation with him going for more than 30 years about his interest in UFOs.\n[14:37 - 14:39] And I helped fan those flames for a long time.\n[14:39 - 14:45] And I asked him fla",
+          "ng how to be a majority leader from his mentor, Harry Reid.\n[14:53 - 14:55] And they did talk about UFOs.\n[14:55 - 14:56] I would also say there are others.\n[14:56 - 14:57] Current sitting members.\n[14:58",
+          "people who want to dismiss this\n[47:17 - 47:22] or folks who claim they have no knowledge of nukes, UFOs over our nuke bases.\n[47:22 - 47:24] They've never heard of the Wilson Davis documents.\n[47:25 - 47",
+          ".\n[50:14 - 50:22] How different the climate is now about going to Congress and talking about UAP or UFOs than what Bob said back in 1989.\n[50:22 - 50:24] But why don't you hear from him himself.\n[50:25 - "
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "non-human origin",
+        "entity_type": "technologie",
+        "mention_count": 4,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          " that UAP potentially being of either unknown origin, albeit of a non-prosaic origin, let's say, or non-human origin that they're able to determine.\n[10:47 - 10:49] And I would just put this out there.\n[10:49 - 10:51",
+          "away from them?\n[24:33 - 24:41] You can imagine shareholders discovering that Lockheed had craft of non-human origin, breakthrough technologies.\n[24:41 - 24:45] The shares would go up by such an amount.\n[24:45 - 24:4",
+          "ver determine it 100%?\n[27:44 - 27:51] Or, you know, they would probably find loopholes as well for non-human origin of how you could definitively prove it was non-human origin.\n[27:51 - 27:55] So I feel that unknown",
+          "uld probably find loopholes as well for non-human origin of how you could definitively prove it was non-human origin.\n[27:51 - 27:55] So I feel that unknown origin is a really, really important term.\n[27:56 - 28:12] "
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "non-human intelligence",
+        "entity_type": "technologie",
+        "mention_count": 4,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "rial nature.\n[25:53 - 25:58] So I went back to Susan Goh because David Grush specifically mentioned non-human intelligence.\n[25:59 - 26:01] So I said, what about non-human intelligence?\n[26:01 - 26:03] She said extraterres",
+          "se David Grush specifically mentioned non-human intelligence.\n[25:59 - 26:01] So I said, what about non-human intelligence?\n[26:01 - 26:03] She said extraterrestrial.\n[26:03 - 26:04] But do you also mean non-human intellig",
+          "human intelligence?\n[26:01 - 26:03] She said extraterrestrial.\n[26:03 - 26:04] But do you also mean non-human intelligence?\n[26:05 - 26:07] And she failed to get back to me.\n[26:07 - 26:11] And I said, look, if you can't g",
+          "58 - 27:04] Because that means that you may be going through the process of verifying whether it is non-human intelligence.\n[27:05 - 27:07] So I'm yet to get an answer yet.\n[27:07 - 27:10] But hopefully me and Sue can work"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "extraterrestrial origin",
+        "entity_type": "technologie",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "26:36] So the Arrow had found no information and verified zero information relating to materials of extraterrestrial origin.\n[26:37 - 26:42] So that could mean that the Arrow found non-prosaic materials.\n[26:43 - 26:45] Tha"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "breakthrough technologies",
+        "entity_type": "technologie",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "world changing.\n[18:45 - 18:51] You know, not just only learning that we're not alone, but also the breakthrough technologies that we could learn of and we can develop.\n[18:51 - 18:54] If we open this up to a wide range of pe",
+          "4:33 - 24:41] You can imagine shareholders discovering that Lockheed had craft of non-human origin, breakthrough technologies.\n[24:41 - 24:45] The shares would go up by such an amount.\n[24:45 - 24:47] It would be amazing for "
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "metamaterial",
+        "entity_type": "technologie",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "he Roswell crash site and found bits and pieces of strange material.\n[20:41 - 20:48] Or some of the metamaterial samples that people like Jacques Vallee and Gary Nolan say they've been testing.\n[20:48 - 20:49] Th"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "saucers",
+        "entity_type": "technologie",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "[20:06 - 20:15] Use of eminent domain to claim government ownership of any non-human tech, ET tech, saucers, craft, materials, bodies.\n[20:16 - 20:18] It belongs to the government if this becomes law.\n[20:19",
+          "1] And say, let's just pull a name out of a hat.\n[20:21 - 20:21] Yeah.\n[20:21 - 20:25] Lockheed has saucers stashed in a hangar somewhere.\n[20:25 - 20:26] They have to give them up.\n[20:26 - 20:28] They have"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "flying saucers",
+        "entity_type": "technologie",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "] And now they're being called to task to cough it up.\n[28:59 - 29:05] If I were Lockheed and I had flying saucers and this amazing technology, I wouldn't want to give it up.\n[29:05 - 29:08] And I wonder, do you ge"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "craft",
+        "entity_type": "technologie",
+        "mention_count": 18,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          " - 00:15] We'll hear directly from firsthand witnesses.\n[00:15 - 00:18] Senator Schumer is a pretty crafty politician.\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n**Mu",
+          "ally it puts the screws on, you know, some of these holding companies that allegedly have off-world craft not made here on Earth.\n[02:40 - 02:46] And if that's the case, man, they are putting the screws to",
+          " also look to potentially, potentially release UAP materials,\n[06:58 - 06:59] which could also mean craft.\n[07:00 - 07:02] And let's say biochemicals.\n[07:02 - 07:07] Biological specimens as well, relating",
+          "y about that.\n[13:16 - 13:17] I would jump in this way.\n[13:17 - 13:20] Senator Schumer is a pretty crafty politician.\n[13:20 - 13:27] He's not going to stick his neck out if he doesn't have some kind of s",
+          "20:15] Use of eminent domain to claim government ownership of any non-human tech, ET tech, saucers, craft, materials, bodies.\n[20:16 - 20:18] It belongs to the government if this becomes law.\n[20:19 - 20:2",
+          "[23:04 - 23:10] And also, I think as well, if the US government is going to take possession of such craft, what do they do then?\n[23:10 - 23:13] Is there then like a tender process or something?\n[23:13 - 2",
+          "er defense contractors get in on it?\n[23:16 - 23:20] Is there an opportunity to gain access to such craft?\n[23:20 - 23:26] Does Elon Musk get an opportunity to study it under SpaceX or something like that?",
+          "vernment.\n[23:32 - 23:37] You would have to ensure that there's a huge push to actually study these crafts.\n[23:38 - 23:43] Yeah, I mean, clearly this legislation is focused on defense contractors.\n[23:43 ",
+          "ot taken away from them?\n[24:33 - 24:41] You can imagine shareholders discovering that Lockheed had craft of non-human origin, breakthrough technologies.\n[24:41 - 24:45] The shares would go up by such an a",
+          "or Lockheed, you know.\n[24:47 - 24:52] But then all of a sudden you find out that Lockheed lose the craft and then the stock sinks.\n[24:52 - 24:54] They could lose a lot of money for Lockheed.\n[24:54 - 25:",
+          "rograms because we're not making a lot of effort.\n[30:12 - 30:16] In terms of discovering how these craft work.\n[30:16 - 30:20] We need to open these up to a broader range of like engineers and scientists.",
+          "e of these U.S. Marines who were witnesses to an event,\n[32:43 - 32:45] who told us that they saw a craft.\n[32:45 - 32:50] And we know that this happened at a base where flares are regularly used in traini",
+          "cases.\n[34:02 - 34:07] And also, I'd point out as well that a lot of the Marines did say they saw a craft.\n[34:07 - 34:10] They didn't say, oh, we just saw lights in the sky, could have been flares.\n[34:10",
+          "e been flares.\n[34:10 - 34:11] No.\n[34:11 - 34:14] They actually say that they saw the outline of a craft.\n[34:14 - 34:19] So when you see an outline of a craft, of a potential craft, let's say, in one of ",
+          " actually say that they saw the outline of a craft.\n[34:14 - 34:19] So when you see an outline of a craft, of a potential craft, let's say, in one of the photos,\n[34:20 - 34:22] that's not just captured in",
+          "y saw the outline of a craft.\n[34:14 - 34:19] So when you see an outline of a craft, of a potential craft, let's say, in one of the photos,\n[34:20 - 34:22] that's not just captured in the photo.\n[34:22 - 3",
+          "en sufficiently explained,\n[34:28 - 34:32] how the Marines saw the outline of what they think was a craft.\n[34:33 - 34:36] And all I would say is I just welcome more information.\n[34:36 - 34:40] If anyone ",
+          "how would you describe it?\n[51:06 - 51:09] He said in 1989, because he says he got to go inside the craft.\n[51:10 - 51:12] And this is obviously to the audience if you're assuming that you believe Bob.\n[51"
+        ],
+        "confidence": 0.8
+      }
+    ]
+  },
+  "total_entities": 59,
+  "timestamp": "2026-01-07T14:41:30.572519"
+}

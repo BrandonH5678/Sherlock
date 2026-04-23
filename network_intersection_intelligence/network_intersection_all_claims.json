@@ -1,0 +1,1354 @@
+[
+  {
+    "claim_id": "netint_russell_yale_skull_001",
+    "text": "William H. Russell (Yale class 1832, co-founder of Skull & Bones) was cousin of Samuel Russell (opium magnate)",
+    "claim_type": "direct_connection",
+    "entities": [
+      "William H. Russell",
+      "Samuel Russell",
+      "Skull & Bones",
+      "Russell & Co.",
+      "opium trade"
+    ],
+    "family": "Russell",
+    "institution": "Yale/Skull & Bones",
+    "time_period": "1832-1833",
+    "evidence_source": "Network Intersection PDF p.1",
+    "significance": "Direct link between opium wealth and Ivy League secret society founding",
+    "confidence": 0.95,
+    "cross_references": [
+      "Dynastic Networks: Same claim",
+      "Opium Dynasties: Russell & Co. documentation"
+    ]
+  },
+  {
+    "claim_id": "netint_russell/delano_opium_trad_002",
+    "text": "Warren Delano Jr. (FDR's grandfather) was Russell & Co. chief in Canton",
+    "claim_type": "direct_connection",
+    "entities": [
+      "Warren Delano Jr.",
+      "FDR",
+      "Russell & Co.",
+      "Canton",
+      "opium trade"
+    ],
+    "family": "Russell/Delano",
+    "institution": "Opium Trade",
+    "time_period": "1830s-1850s",
+    "evidence_source": "Network Intersection PDF p.1",
+    "significance": "Presidential lineage directly tied to opium smuggling operations",
+    "confidence": 0.95,
+    "cross_references": [
+      "Opium Dynasties: Warren Delano Jr. head of Canton office"
+    ]
+  },
+  {
+    "claim_id": "netint_russell/forbes/_opium_trad_003",
+    "text": "Forbes family (related to John Forbes Kerry) and Coolidge family were Russell & Co. partners",
+    "claim_type": "direct_connection",
+    "entities": [
+      "Forbes family",
+      "Coolidge family",
+      "John Forbes Kerry",
+      "Russell & Co."
+    ],
+    "family": "Russell/Forbes/Coolidge",
+    "institution": "Opium Trade",
+    "time_period": "1830s-1850s",
+    "evidence_source": "Network Intersection PDF p.1",
+    "significance": "Kerry lineage to opium trade partnerships",
+    "confidence": 0.9,
+    "cross_references": [
+      "Forbes family intelligence",
+      "Opium Dynasties: Coolidge family"
+    ]
+  },
+  {
+    "claim_id": "netint_coolidge_cfr_004",
+    "text": "Archibald Coolidge (grandson of opium trader) co-founded Council on Foreign Relations",
+    "claim_type": "direct_connection",
+    "entities": [
+      "Archibald Coolidge",
+      "Council on Foreign Relations",
+      "CFR",
+      "Coolidge family"
+    ],
+    "family": "Coolidge",
+    "institution": "CFR",
+    "time_period": "1921",
+    "evidence_source": "Network Intersection PDF p.1",
+    "significance": "Opium wealth \u2192 globalist policy establishment",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_forbes/kerry_yale_skull_005",
+    "text": "John Forbes Kerry (Skull & Bones class of 1966) became Yale graduate, Bonesman, and U.S. Secretary of State",
+    "claim_type": "direct_connection",
+    "entities": [
+      "John Forbes Kerry",
+      "Skull & Bones",
+      "Yale",
+      "Secretary of State"
+    ],
+    "family": "Forbes/Kerry",
+    "institution": "Yale/Skull & Bones",
+    "time_period": "1966-2013",
+    "evidence_source": "Network Intersection PDF p.1",
+    "significance": "Modern continuation of opium dynasty \u2192 S&B \u2192 high office pipeline",
+    "confidence": 0.95,
+    "cross_references": [
+      "Forbes family: John Kerry maternal lineage"
+    ]
+  },
+  {
+    "claim_id": "netint_china_trade_cla_universiti_006",
+    "text": "John Cleve Green's opium fortune financed Princeton, Abiel Low's opium wealth financed Columbia",
+    "claim_type": "direct_connection",
+    "entities": [
+      "John Cleve Green",
+      "Princeton",
+      "Abiel Low",
+      "Columbia",
+      "opium trade"
+    ],
+    "family": "China Trade Clans",
+    "institution": "Universities",
+    "time_period": "1850s-1870s",
+    "evidence_source": "Network Intersection PDF p.1",
+    "significance": "Opium profits directly funding major universities",
+    "confidence": 0.9,
+    "cross_references": [
+      "Opium Dynasties: institutional legacies"
+    ]
+  },
+  {
+    "claim_id": "netint_delano/roosevel_oss_007",
+    "text": "Delano wealth (from opium) helped elevate FDR who created OSS in WWII",
+    "claim_type": "indirect_plausible",
+    "entities": [
+      "Delano family",
+      "FDR",
+      "OSS",
+      "opium wealth"
+    ],
+    "family": "Delano/Roosevelt",
+    "institution": "OSS",
+    "time_period": "1942",
+    "evidence_source": "Network Intersection PDF p.1",
+    "significance": "Opium wealth \u2192 presidential power \u2192 creation of U.S. intelligence apparatus",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_forbes/kerry_wef_008",
+    "text": "John Kerry is fixture at WEF meetings in 2000s",
+    "claim_type": "direct_connection",
+    "entities": [
+      "John Kerry",
+      "World Economic Forum",
+      "WEF"
+    ],
+    "family": "Forbes/Kerry",
+    "institution": "WEF",
+    "time_period": "2000s",
+    "evidence_source": "Network Intersection PDF p.2",
+    "significance": "Opium dynasty descendant in modern globalist forum",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_roosevelt_oss_manhat_009",
+    "text": "FDR as President oversaw establishment of OSS during WWII and Manhattan Project",
+    "claim_type": "direct_connection",
+    "entities": [
+      "FDR",
+      "OSS",
+      "Manhattan Project",
+      "William Donovan"
+    ],
+    "family": "Roosevelt",
+    "institution": "OSS/Manhattan Project",
+    "time_period": "1942-1945",
+    "evidence_source": "Network Intersection PDF p.2",
+    "significance": "Direct presidential creation of intelligence apparatus and atomic weapons program",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_roosevelt_cia_010",
+    "text": "Kermit Roosevelt Jr. (FDR's distant cousin, grandson of Theodore Roosevelt) became prominent CIA officer who led 1953 Iran coup (Operation Ajax)",
+    "claim_type": "direct_connection",
+    "entities": [
+      "Kermit Roosevelt Jr.",
+      "CIA",
+      "Operation Ajax",
+      "Iran coup",
+      "Theodore Roosevelt"
+    ],
+    "family": "Roosevelt",
+    "institution": "CIA",
+    "time_period": "1953",
+    "evidence_source": "Network Intersection PDF p.2",
+    "significance": "Roosevelt dynasty direct role in CIA regime-change operations",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_roosevelt_intelligen_011",
+    "text": "Kermit Roosevelt Sr. served in British intelligence in WWI",
+    "claim_type": "direct_connection",
+    "entities": [
+      "Kermit Roosevelt Sr.",
+      "British intelligence",
+      "WWI"
+    ],
+    "family": "Roosevelt",
+    "institution": "Intelligence",
+    "time_period": "1917-1918",
+    "evidence_source": "Network Intersection PDF p.2",
+    "significance": "Multi-generational Roosevelt intelligence involvement",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_roosevelt_intelligen_012",
+    "text": "Theodore Roosevelt expanded Naval intelligence and established Round Table networks with Britain, laying groundwork for Anglo-American strategic cooperation",
+    "claim_type": "direct_connection",
+    "entities": [
+      "Theodore Roosevelt",
+      "Naval intelligence",
+      "Round Table",
+      "Anglo-American cooperation"
+    ],
+    "family": "Roosevelt",
+    "institution": "Intelligence",
+    "time_period": "1901-1909",
+    "evidence_source": "Network Intersection PDF p.2",
+    "significance": "Presidential establishment of intelligence infrastructure",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_roosevelt/astor_pre-oss_in_013",
+    "text": "FDR's Vice President William Donovan was close to Vincent Astor (Astor dynasty) who ran early spy rings for FDR",
+    "claim_type": "direct_connection",
+    "entities": [
+      "William Donovan",
+      "Vincent Astor",
+      "FDR",
+      "spy rings"
+    ],
+    "family": "Roosevelt/Astor",
+    "institution": "Pre-OSS Intelligence",
+    "time_period": "1940-1941",
+    "evidence_source": "Network Intersection PDF p.2",
+    "significance": "Pre-OSS covert operations using dynasty networks",
+    "confidence": 0.85,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_roosevelt/astor_intelligen_014",
+    "text": "Astor family (married into by Roosevelts) profited from China trade and involved in early intelligence",
+    "claim_type": "indirect_plausible",
+    "entities": [
+      "Astor family",
+      "Roosevelt family",
+      "China trade",
+      "intelligence"
+    ],
+    "family": "Roosevelt/Astor",
+    "institution": "Intelligence",
+    "time_period": "1930s-1940s",
+    "evidence_source": "Network Intersection PDF p.2",
+    "significance": "Dynasty marriage alliance spanning opium trade and intelligence",
+    "confidence": 0.85,
+    "cross_references": [
+      "Opium Dynasties: Astor opium fortune"
+    ]
+  },
+  {
+    "claim_id": "netint_roosevelt_cia_manhat_015",
+    "text": "FDR entrusted John J. McCloy (Rockefeller protege) and Robert Lovett (Skull & Bones, BBH partner) with high posts shaping CIA and atomic policy",
+    "claim_type": "direct_connection",
+    "entities": [
+      "FDR",
+      "John J. McCloy",
+      "Robert Lovett",
+      "Skull & Bones",
+      "BBH",
+      "CIA",
+      "atomic policy"
+    ],
+    "family": "Roosevelt",
+    "institution": "CIA/Manhattan Project",
+    "time_period": "1941-1945",
+    "evidence_source": "Network Intersection PDF p.2",
+    "significance": "FDR using Skull & Bones network for intelligence and atomic weapons oversight",
+    "confidence": 0.9,
+    "cross_references": [
+      "Dynastic Networks: Robert Lovett S&B 1918"
+    ]
+  },
+  {
+    "claim_id": "netint_harriman_bbh_016",
+    "text": "Averell Harriman merged banking house with Brown Brothers forming BBH in 1931, recruited fellow Bonesmen (Prescott Bush, Robert Lovett)",
+    "claim_type": "direct_connection",
+    "entities": [
+      "W. Averell Harriman",
+      "Brown Brothers Harriman",
+      "Prescott Bush",
+      "Robert Lovett",
+      "Skull & Bones"
+    ],
+    "family": "Harriman",
+    "institution": "BBH",
+    "time_period": "1931",
+    "evidence_source": "Network Intersection PDF p.3",
+    "significance": "BBH as Skull & Bones banking operation",
+    "confidence": 0.95,
+    "cross_references": [
+      "Dynastic Networks: BBH 50% S&B founding partners"
+    ]
+  },
+  {
+    "claim_id": "netint_harriman_manhattan__017",
+    "text": "Harriman's business partner Robert Lovett (Bones '18, BBH partner) served as Assistant Secretary of War for Air, integral to Manhattan Project oversight and creation of U.S. Air Force",
+    "claim_type": "direct_connection",
+    "entities": [
+      "Robert Lovett",
+      "Skull & Bones",
+      "BBH",
+      "Manhattan Project",
+      "U.S. Air Force"
+    ],
+    "family": "Harriman",
+    "institution": "Manhattan Project",
+    "time_period": "1941-1945",
+    "evidence_source": "Network Intersection PDF p.3",
+    "significance": "BBH/Bones network controlling atomic weapons program",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_harriman_cia_018",
+    "text": "Robert Lovett strongly recommended establishing CIA in 1947, directly linking BBH/Bones network to Agency's founding",
+    "claim_type": "direct_connection",
+    "entities": [
+      "Robert Lovett",
+      "CIA",
+      "BBH",
+      "Skull & Bones"
+    ],
+    "family": "Harriman",
+    "institution": "CIA",
+    "time_period": "1947",
+    "evidence_source": "Network Intersection PDF p.3",
+    "significance": "BBH/Bones architect of CIA creation",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_harriman_operation__019",
+    "text": "Former NATO sources stated stay-behind network (Gladio) concept 'was born in head of Allen Dulles' when he was in Switzerland at war's end, codified 1949-52 with help from Harriman-era officials",
+    "claim_type": "indirect_plausible",
+    "entities": [
+      "Operation Gladio",
+      "Allen Dulles",
+      "W. Averell Harriman",
+      "NATO",
+      "stay-behind networks"
+    ],
+    "family": "Harriman",
+    "institution": "Operation Gladio",
+    "time_period": "1949-1952",
+    "evidence_source": "Network Intersection PDF p.3",
+    "significance": "Harriman network involved in NATO secret armies",
+    "confidence": 0.8,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_harriman_cia_020",
+    "text": "Harriman reportedly endorsed CIA covert aid in Italy's 1948 election to thwart communists",
+    "claim_type": "indirect_plausible",
+    "entities": [
+      "W. Averell Harriman",
+      "CIA",
+      "Italy 1948 election",
+      "covert operations"
+    ],
+    "family": "Harriman",
+    "institution": "CIA",
+    "time_period": "1948",
+    "evidence_source": "Network Intersection PDF p.3",
+    "significance": "High-level diplomatic support for CIA election interference",
+    "confidence": 0.75,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_bush_operation__021",
+    "text": "George H.W. Bush as CIA Director (1976-77) inherited oversight of longstanding programs like NATO stay-behind networks (Gladio); plausible he was read in as Gladio was 'best kept secret' until 1990",
+    "claim_type": "indirect_plausible",
+    "entities": [
+      "George H.W. Bush",
+      "CIA",
+      "Operation Gladio",
+      "NATO",
+      "stay-behind networks"
+    ],
+    "family": "Bush",
+    "institution": "Operation Gladio",
+    "time_period": "1976-1977",
+    "evidence_source": "Network Intersection PDF p.4",
+    "significance": "CIA Director oversight of NATO secret armies",
+    "confidence": 0.7,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_bush_operation__022",
+    "text": "During Operation Condor's climax (mid-1970s), Bush was U.S. envoy to China then CIA chief; informed of assassination of Chilean exile Orlando Letelier in Washington D.C. 1976 (Condor-linked act)",
+    "claim_type": "direct_connection",
+    "entities": [
+      "George H.W. Bush",
+      "Operation Condor",
+      "CIA",
+      "Orlando Letelier",
+      "assassination"
+    ],
+    "family": "Bush",
+    "institution": "Operation Condor",
+    "time_period": "1976",
+    "evidence_source": "Network Intersection PDF p.4",
+    "significance": "CIA Director aware of Operation Condor assassination on U.S. soil",
+    "confidence": 0.85,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_bush_operation__023",
+    "text": "Secretary of State Kissinger (Bush family ally) earlier rescinded warnings to Condor regimes",
+    "claim_type": "indirect_plausible",
+    "entities": [
+      "Henry Kissinger",
+      "Operation Condor",
+      "George H.W. Bush"
+    ],
+    "family": "Bush",
+    "institution": "Operation Condor",
+    "time_period": "1975-1976",
+    "evidence_source": "Network Intersection PDF p.4",
+    "significance": "Bush network tacit support for Condor operations",
+    "confidence": 0.8,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_bush_operation__024",
+    "text": "Prescott Bush Jr.'s business links in Latin America and G.H.W. Bush's diplomatic rapport with Pinochet and Argentine generals (brokered via David Rockefeller, Bush ally)",
+    "claim_type": "indirect_plausible",
+    "entities": [
+      "Prescott Bush Jr.",
+      "George H.W. Bush",
+      "Pinochet",
+      "David Rockefeller",
+      "Operation Condor"
+    ],
+    "family": "Bush",
+    "institution": "Operation Condor",
+    "time_period": "1970s-1980s",
+    "evidence_source": "Network Intersection PDF p.4",
+    "significance": "Bush family ties to Condor dictatorships",
+    "confidence": 0.75,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_bush_mk-ultra_025",
+    "text": "G.H.W. Bush involved in 1975-76 investigations (Church Committee, Rockefeller Commission) that exposed MK-Ultra; as CIA Director helped implement reforms in MK-Ultra's wake",
+    "claim_type": "direct_connection",
+    "entities": [
+      "George H.W. Bush",
+      "MK-Ultra",
+      "CIA",
+      "Church Committee",
+      "Rockefeller Commission"
+    ],
+    "family": "Bush",
+    "institution": "MK-Ultra",
+    "time_period": "1975-1976",
+    "evidence_source": "Network Intersection PDF p.4",
+    "significance": "CIA Director managing MK-Ultra scandal aftermath",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_bush_at&t_bell__026",
+    "text": "Under President George W. Bush, telecom companies (like AT&T) cooperated with NSA on warrantless wiretapping (2000s) - modern MIC extension",
+    "claim_type": "direct_connection",
+    "entities": [
+      "George W. Bush",
+      "AT&T",
+      "NSA",
+      "warrantless wiretapping"
+    ],
+    "family": "Bush",
+    "institution": "AT&T/Bell Labs",
+    "time_period": "2000s",
+    "evidence_source": "Network Intersection PDF p.4",
+    "significance": "Bush presidency surveillance state expansion via telecom",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_bush_mic_027",
+    "text": "Prescott Bush had investment ties to tech firms, sat on boards (Dresser Industries) that intersected with defense technology",
+    "claim_type": "direct_connection",
+    "entities": [
+      "Prescott Bush",
+      "Dresser Industries",
+      "defense technology"
+    ],
+    "family": "Bush",
+    "institution": "MIC",
+    "time_period": "1940s-1950s",
+    "evidence_source": "Network Intersection PDF p.4",
+    "significance": "Bush family corporate-defense interlocks",
+    "confidence": 0.85,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_bush_at&t_028",
+    "text": "James A. Baker (Bush confidant) was on AT&T board in 1990s, suggests indirect influence in telecom policy",
+    "claim_type": "indirect_plausible",
+    "entities": [
+      "James A. Baker",
+      "AT&T",
+      "George H.W. Bush"
+    ],
+    "family": "Bush",
+    "institution": "AT&T",
+    "time_period": "1990s",
+    "evidence_source": "Network Intersection PDF p.4",
+    "significance": "Bush network AT&T governance",
+    "confidence": 0.8,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_bush_manhattan__029",
+    "text": "Harvey Hollister Bundy (Prescott's BBH colleague) was Stimson's aide on Manhattan Project; Bundy's sons (Bushes' peers) later served in CIA/NSC",
+    "claim_type": "indirect_plausible",
+    "entities": [
+      "Harvey Hollister Bundy",
+      "Prescott Bush",
+      "BBH",
+      "Manhattan Project",
+      "Stimson"
+    ],
+    "family": "Bush",
+    "institution": "Manhattan Project",
+    "time_period": "1942-1945",
+    "evidence_source": "Network Intersection PDF p.4",
+    "significance": "BBH network in Manhattan Project governance",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_rockefeller_sullivan_&_030",
+    "text": "Sullivan & Cromwell (S&C) represented Standard Oil in foreign negotiations (1930s agreements with IG Farben) and advised Rockefeller interests in Latin America",
+    "claim_type": "direct_connection",
+    "entities": [
+      "Sullivan & Cromwell",
+      "Standard Oil",
+      "Rockefeller family",
+      "IG Farben"
+    ],
+    "family": "Rockefeller",
+    "institution": "Sullivan & Cromwell",
+    "time_period": "1930s",
+    "evidence_source": "Network Intersection PDF p.5",
+    "significance": "Rockefeller use of Dulles law firm for international operations",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_rockefeller_sullivan_&_031",
+    "text": "John D. Rockefeller Jr. worked closely with Allen Dulles (S&C partner) on Council on Foreign Relations and during WWII on Office of Coordinator of Inter-American Affairs (run by Nelson Rockefeller)",
+    "claim_type": "direct_connection",
+    "entities": [
+      "John D. Rockefeller Jr.",
+      "Allen Dulles",
+      "Sullivan & Cromwell",
+      "CFR",
+      "Nelson Rockefeller"
+    ],
+    "family": "Rockefeller",
+    "institution": "Sullivan & Cromwell/CFR",
+    "time_period": "1940s",
+    "evidence_source": "Network Intersection PDF p.5",
+    "significance": "Rockefeller-Dulles collaboration on intelligence and policy",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_rockefeller_manhattan__032",
+    "text": "Rockefeller Foundation funded university physics programs (Columbia, Chicago, etc.) that developed nuclear science; Rockefeller-controlled Chicago University campus hosted Enrico Fermi's first nuclear reactor 1942",
+    "claim_type": "direct_connection",
+    "entities": [
+      "Rockefeller Foundation",
+      "Manhattan Project",
+      "Columbia",
+      "Chicago",
+      "Enrico Fermi"
+    ],
+    "family": "Rockefeller",
+    "institution": "Manhattan Project",
+    "time_period": "1930s-1942",
+    "evidence_source": "Network Intersection PDF p.5",
+    "significance": "Rockefeller funding critical to atomic bomb development",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_rockefeller_aec_033",
+    "text": "John D. Rockefeller III sat on General Advisory Committee of Atomic Energy Commission post-war (1950s), influencing nuclear policy",
+    "claim_type": "direct_connection",
+    "entities": [
+      "John D. Rockefeller III",
+      "Atomic Energy Commission",
+      "nuclear policy"
+    ],
+    "family": "Rockefeller",
+    "institution": "AEC",
+    "time_period": "1950s",
+    "evidence_source": "Network Intersection PDF p.5",
+    "significance": "Rockefeller governance of post-war nuclear infrastructure",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_rockefeller_cia_034",
+    "text": "Nelson Rockefeller directed U.S. intelligence in Latin America during WWII (office overlapped with OSS activities); served as Eisenhower's special advisor on Cold War strategy 1954-55, effectively overseeing CIA covert action planning",
+    "claim_type": "direct_connection",
+    "entities": [
+      "Nelson Rockefeller",
+      "OSS",
+      "CIA",
+      "Latin America",
+      "Eisenhower"
+    ],
+    "family": "Rockefeller",
+    "institution": "CIA",
+    "time_period": "1942-1955",
+    "evidence_source": "Network Intersection PDF p.5",
+    "significance": "Rockefeller direct oversight of CIA covert operations",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_rockefeller_mk-ultra_c_035",
+    "text": "President Ford appointed Nelson Rockefeller to chair Rockefeller Commission investigating CIA abuses like MK-Ultra in 1975 - case of family policing agency it helped midwife",
+    "claim_type": "direct_connection",
+    "entities": [
+      "Nelson Rockefeller",
+      "Rockefeller Commission",
+      "CIA",
+      "MK-Ultra",
+      "Gerald Ford"
+    ],
+    "family": "Rockefeller",
+    "institution": "MK-Ultra/CIA",
+    "time_period": "1975",
+    "evidence_source": "Network Intersection PDF p.5",
+    "significance": "Rockefeller investigating CIA programs while being CIA architect",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_rockefeller_cia_036",
+    "text": "David Rockefeller's Chase Manhattan Bank cooperated with U.S. intelligence in monitoring/sanctioning foreign governments; personal ties to CIA directors (Allen Dulles on Rockefeller Foundation board, Richard Helms joined Chase board after retiring from CIA)",
+    "claim_type": "direct_connection",
+    "entities": [
+      "David Rockefeller",
+      "Chase Manhattan Bank",
+      "CIA",
+      "Allen Dulles",
+      "Richard Helms"
+    ],
+    "family": "Rockefeller",
+    "institution": "CIA",
+    "time_period": "1950s-1970s",
+    "evidence_source": "Network Intersection PDF p.5",
+    "significance": "Chase Bank as CIA financial intelligence asset",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_rockefeller_operation__037",
+    "text": "David Rockefeller provided significant financial support to South American dictatorships central to Operation Condor in 1970s; personal friendship with Argentina's junta economic minister Jos\u00e9 A. Martinez de Hoz, praised his harsh policies as 'brilliant'",
+    "claim_type": "direct_connection",
+    "entities": [
+      "David Rockefeller",
+      "Operation Condor",
+      "Argentina",
+      "Jos\u00e9 A. Martinez de Hoz",
+      "junta"
+    ],
+    "family": "Rockefeller",
+    "institution": "Operation Condor",
+    "time_period": "1970s",
+    "evidence_source": "Network Intersection PDF p.5-6",
+    "significance": "Hard evidence of Rockefeller backing Condor government financially and socially",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_rockefeller_operation__038",
+    "text": "Chase Bank approved large loans to Argentine military regime during Dirty War under David Rockefeller's direction; when he visited Buenos Aires 1986, protesters violently demonstrated labeling him 'bloodsucker' of Latin America",
+    "claim_type": "direct_connection",
+    "entities": [
+      "David Rockefeller",
+      "Chase Bank",
+      "Argentina",
+      "Dirty War",
+      "Operation Condor"
+    ],
+    "family": "Rockefeller",
+    "institution": "Operation Condor",
+    "time_period": "1976-1986",
+    "evidence_source": "Network Intersection PDF p.6",
+    "significance": "Rockefeller financial support for Condor atrocities documented",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_rockefeller_at&t_039",
+    "text": "Chase Bank and Standard Oil sat on boards alongside AT&T executives in 1920s when J.P. Morgan's group (including Rockefeller allies) controlled AT&T",
+    "claim_type": "indirect_plausible",
+    "entities": [
+      "Chase Bank",
+      "Standard Oil",
+      "AT&T",
+      "J.P. Morgan",
+      "Rockefeller"
+    ],
+    "family": "Rockefeller",
+    "institution": "AT&T",
+    "time_period": "1920s",
+    "evidence_source": "Network Intersection PDF p.6",
+    "significance": "Rockefeller interlocking directorates with telecom monopoly",
+    "confidence": 0.85,
+    "cross_references": [
+      "Forbes family: William H. Forbes president American Bell"
+    ]
+  },
+  {
+    "claim_id": "netint_rockefeller_at&t_bell__040",
+    "text": "Rockefeller Foundation funded basic science at Bell Labs; David Rockefeller on President's Foreign Intelligence Advisory Board under Reagan, offering input on projects blending telecom and espionage (e.g. SOSUS submarine tracking)",
+    "claim_type": "indirect_plausible",
+    "entities": [
+      "Rockefeller Foundation",
+      "Bell Labs",
+      "David Rockefeller",
+      "SOSUS",
+      "Reagan"
+    ],
+    "family": "Rockefeller",
+    "institution": "AT&T/Bell Labs",
+    "time_period": "1950s-1980s",
+    "evidence_source": "Network Intersection PDF p.6",
+    "significance": "Rockefeller funding and oversight of telecom-intelligence fusion",
+    "confidence": 0.8,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_rockefeller_manhattan__041",
+    "text": "Chase Bank (Rockefeller) helped arrange federal bonds to fund Manhattan Project's Oak Ridge and Hanford plants built by Stone & Webster 1942",
+    "claim_type": "indirect_plausible",
+    "entities": [
+      "Chase Bank",
+      "Rockefeller",
+      "Manhattan Project",
+      "Stone & Webster",
+      "Oak Ridge",
+      "Hanford"
+    ],
+    "family": "Rockefeller",
+    "institution": "Manhattan Project/Stone & Webster",
+    "time_period": "1942",
+    "evidence_source": "Network Intersection PDF p.6",
+    "significance": "Rockefeller financial backing for atomic bomb infrastructure",
+    "confidence": 0.85,
+    "cross_references": [
+      "Forbes family: Stone & Webster partner"
+    ]
+  },
+  {
+    "claim_id": "netint_rockefeller_mk-ultra_042",
+    "text": "Rockefeller Foundation under John D. Rockefeller III funded psychiatric research institutes (NY State Psychiatric Institute, Harvard Dept of Social Relations) that some MK-Ultra subprojects tapped in 1950s",
+    "claim_type": "indirect_plausible",
+    "entities": [
+      "Rockefeller Foundation",
+      "John D. Rockefeller III",
+      "MK-Ultra",
+      "psychiatric research"
+    ],
+    "family": "Rockefeller",
+    "institution": "MK-Ultra",
+    "time_period": "1950s",
+    "evidence_source": "Network Intersection PDF p.6",
+    "significance": "Rockefeller Foundation funding facilitated CIA mind-control research",
+    "confidence": 0.8,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_rockefeller_mk-ultra_043",
+    "text": "CIA front organizations (Society for Investigation of Human Ecology) received cover grants from Rockefeller and Ford Foundations to mask CIA involvement in MK-Ultra",
+    "claim_type": "direct_connection",
+    "entities": [
+      "Rockefeller Foundation",
+      "Ford Foundation",
+      "CIA",
+      "MK-Ultra",
+      "Society for Investigation of Human Ecology"
+    ],
+    "family": "Rockefeller",
+    "institution": "MK-Ultra",
+    "time_period": "1950s",
+    "evidence_source": "Network Intersection PDF p.6",
+    "significance": "Foundation money masking CIA mind-control experiments",
+    "confidence": 0.85,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_dulles_sullivan_&_044",
+    "text": "Both Dulles brothers were partners at Sullivan & Cromwell law firm representing major U.S. corporations and banks abroad; brokered loans/deals for Brown Brothers, J.P. Morgan & Co., Standard Oil, and advised German cartels",
+    "claim_type": "direct_connection",
+    "entities": [
+      "John Foster Dulles",
+      "Allen Dulles",
+      "Sullivan & Cromwell",
+      "Brown Brothers",
+      "J.P. Morgan",
+      "Standard Oil"
+    ],
+    "family": "Dulles",
+    "institution": "Sullivan & Cromwell",
+    "time_period": "1920s-1950s",
+    "evidence_source": "Network Intersection PDF p.7",
+    "significance": "Wall Street law firm as nexus of elite finance and future intelligence leadership",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_dulles_mk-ultra_045",
+    "text": "Allen Dulles directly authorized Project MK-Ultra (mind-control experiments) in April 1953 as CIA Director",
+    "claim_type": "direct_connection",
+    "entities": [
+      "Allen Dulles",
+      "MK-Ultra",
+      "CIA"
+    ],
+    "family": "Dulles",
+    "institution": "MK-Ultra",
+    "time_period": "1953",
+    "evidence_source": "Network Intersection PDF p.7",
+    "significance": "DCI personal authorization of illegal mind-control program",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_dulles_operation__046",
+    "text": "Allen Dulles integral in establishing Operation Gladio - stay-behind networks in Europe; said Gladio 'was born in head of Allen Dulles' at WWII's end, codified secret deals with NATO allies by 1952",
+    "claim_type": "direct_connection",
+    "entities": [
+      "Allen Dulles",
+      "Operation Gladio",
+      "NATO",
+      "stay-behind networks"
+    ],
+    "family": "Dulles",
+    "institution": "Operation Gladio",
+    "time_period": "1945-1952",
+    "evidence_source": "Network Intersection PDF p.7",
+    "significance": "Dulles personal architect of NATO secret armies",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_dulles_at&t_found_047",
+    "text": "Under Dulles's watch, CIA formalized ties with AT&T for global communications surveillance and with Carnegie/Rockefeller foundations for funding fronts",
+    "claim_type": "direct_connection",
+    "entities": [
+      "Allen Dulles",
+      "CIA",
+      "AT&T",
+      "Carnegie Foundation",
+      "Rockefeller Foundation"
+    ],
+    "family": "Dulles",
+    "institution": "AT&T/Foundations",
+    "time_period": "1953-1961",
+    "evidence_source": "Network Intersection PDF p.7",
+    "significance": "CIA-AT&T surveillance partnership and foundation money laundering",
+    "confidence": 0.85,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_dulles_skull_&_bo_048",
+    "text": "Allen Dulles hired and worked with countless Yale Bonesmen in CIA (e.g. William F. Buckley in Mexico City, William Bundy in analysis), leveraging Bones network without being in it",
+    "claim_type": "direct_connection",
+    "entities": [
+      "Allen Dulles",
+      "CIA",
+      "Skull & Bones",
+      "William F. Buckley",
+      "William Bundy"
+    ],
+    "family": "Dulles",
+    "institution": "Skull & Bones/CIA",
+    "time_period": "1953-1961",
+    "evidence_source": "Network Intersection PDF p.7",
+    "significance": "Non-Bonesman DCI using S&B network for CIA staffing",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_dulles_manhattan__049",
+    "text": "John Foster Dulles was on board of Carnegie Institution which oversaw some early nuclear research before WWII",
+    "claim_type": "indirect_plausible",
+    "entities": [
+      "John Foster Dulles",
+      "Carnegie Institution",
+      "nuclear research"
+    ],
+    "family": "Dulles",
+    "institution": "Manhattan Project",
+    "time_period": "1930s",
+    "evidence_source": "Network Intersection PDF p.7-8",
+    "significance": "Dulles in governance of pre-Manhattan Project nuclear science",
+    "confidence": 0.8,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_dulles_at&t_bell__050",
+    "text": "Allen Dulles cultivated relationships with AT&T president Walter Gifford (U.S. Ambassador to UK 1950-53) about telephone surveillance and technology sharing; CIA-AT&T/Bell Labs alliance likely for communication gadgets and phone taps in 1950s",
+    "claim_type": "indirect_plausible",
+    "entities": [
+      "Allen Dulles",
+      "AT&T",
+      "Walter Gifford",
+      "Bell Labs",
+      "surveillance"
+    ],
+    "family": "Dulles",
+    "institution": "AT&T/Bell Labs",
+    "time_period": "1950s",
+    "evidence_source": "Network Intersection PDF p.8",
+    "significance": "CIA-telecom surveillance partnership",
+    "confidence": 0.75,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_dulles_stone_&_we_051",
+    "text": "Sullivan & Cromwell was counsel to United Fruit Company for which Stone & Webster built infrastructure in Latin America; John Foster Dulles helped orchestrate 1954 Guatemala coup on United Fruit's behalf - indirect link to Stone & Webster clients",
+    "claim_type": "indirect_plausible",
+    "entities": [
+      "John Foster Dulles",
+      "Sullivan & Cromwell",
+      "United Fruit",
+      "Stone & Webster",
+      "Guatemala coup"
+    ],
+    "family": "Dulles",
+    "institution": "Stone & Webster",
+    "time_period": "1954",
+    "evidence_source": "Network Intersection PDF p.8",
+    "significance": "S&C-Stone & Webster-CIA coup nexus",
+    "confidence": 0.85,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_mellon_oss_052",
+    "text": "Paul Mellon (Andrew's son) served as U.S. Army officer in London, recruited into OSS by William Donovan; involved in psychological warfare, received multiple Bronze Stars for OSS service",
+    "claim_type": "direct_connection",
+    "entities": [
+      "Paul Mellon",
+      "OSS",
+      "William Donovan",
+      "psychological warfare"
+    ],
+    "family": "Mellon",
+    "institution": "OSS",
+    "time_period": "1942-1945",
+    "evidence_source": "Network Intersection PDF p.8",
+    "significance": "Mellon family member in OSS operations",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_mellon_oss_cia_053",
+    "text": "David K.E. Bruce (married Ailsa Mellon, Andrew's daughter) became head of OSS London in late WWII, later ambassador and CIA observer; asked to oversee portions of Bay of Pigs inquiry",
+    "claim_type": "direct_connection",
+    "entities": [
+      "David K.E. Bruce",
+      "Ailsa Mellon",
+      "OSS",
+      "CIA",
+      "Bay of Pigs"
+    ],
+    "family": "Mellon",
+    "institution": "OSS/CIA",
+    "time_period": "1944-1961",
+    "evidence_source": "Network Intersection PDF p.8-9",
+    "significance": "Mellon family marriage into OSS/CIA leadership",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_mellon/du_pont_oss_054",
+    "text": "Alfred V. du Pont (related via marriage - du Ponts intermarried with Mellons) was OSS officer who tragically died during training jump",
+    "claim_type": "direct_connection",
+    "entities": [
+      "Alfred V. du Pont",
+      "Mellon family",
+      "OSS"
+    ],
+    "family": "Mellon/du Pont",
+    "institution": "OSS",
+    "time_period": "1943",
+    "evidence_source": "Network Intersection PDF p.9",
+    "significance": "Mellon-du Pont intermarriage in OSS",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_mellon_cia_055",
+    "text": "Richard Mellon Scaife (grandson of Andrew's brother) became notable CIA collaborator in Cold War cultural front; privately bankrolled organizations/journals echoing CIA anti-communist initiatives; funds went to Congress for Cultural Freedom and CIA-influenced projects in 1960s",
+    "claim_type": "direct_connection",
+    "entities": [
+      "Richard Mellon Scaife",
+      "CIA",
+      "Congress for Cultural Freedom",
+      "Cold War"
+    ],
+    "family": "Mellon",
+    "institution": "CIA",
+    "time_period": "1960s",
+    "evidence_source": "Network Intersection PDF p.9",
+    "significance": "Mellon private funding for CIA cultural operations",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_carnegie_cia_056",
+    "text": "Carnegie Endowment (CEIP) used as conduit for CIA funds to international exchange programs in 1950s; Carnegie Corporation grant in 1960 sustained Henry Kissinger's Harvard Defense Studies project when direct government funding was sensitive",
+    "claim_type": "direct_connection",
+    "entities": [
+      "Carnegie Endowment",
+      "CIA",
+      "Henry Kissinger",
+      "Harvard Defense Studies"
+    ],
+    "family": "Carnegie",
+    "institution": "CIA",
+    "time_period": "1950s-1960",
+    "evidence_source": "Network Intersection PDF p.9",
+    "significance": "Carnegie money laundering CIA programs and defense scholarship",
+    "confidence": 0.85,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_mellon_manhattan__057",
+    "text": "Mellon Institute did early research on materials later useful for atomic bomb (chemistry of uranium); Mellon's Koppers Co. built facilities critical to Manhattan Project",
+    "claim_type": "indirect_plausible",
+    "entities": [
+      "Mellon Institute",
+      "Manhattan Project",
+      "Koppers Co.",
+      "uranium"
+    ],
+    "family": "Mellon",
+    "institution": "Manhattan Project",
+    "time_period": "1930s-1942",
+    "evidence_source": "Network Intersection PDF p.9",
+    "significance": "Mellon companies in atomic bomb supply chain",
+    "confidence": 0.8,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_mellon/carnegie_mk-ultra_058",
+    "text": "Mellon and Carnegie foundations among those CIA quietly used to channel funds; 1963 Senate report revealed foundations unwittingly financed CIA programs like MK-Ultra subprojects on drug research; Carnegie grants for sociology studies in 50s redirected by CIA to influence foreign student leaders",
+    "claim_type": "direct_connection",
+    "entities": [
+      "Mellon Foundation",
+      "Carnegie Foundation",
+      "CIA",
+      "MK-Ultra",
+      "Senate report"
+    ],
+    "family": "Mellon/Carnegie",
+    "institution": "MK-Ultra",
+    "time_period": "1950s-1963",
+    "evidence_source": "Network Intersection PDF p.9",
+    "significance": "Foundation money used for CIA mind-control and influence operations",
+    "confidence": 0.85,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_mellon/carnegie_cia_059",
+    "text": "Gulf Oil (Mellon) and Carnegie influence in Latin America meshed with CIA operations, such as using Gulf Oil facilities in Venezuela as outposts for gathering intel on Cuba in 1960s",
+    "claim_type": "indirect_plausible",
+    "entities": [
+      "Gulf Oil",
+      "Mellon family",
+      "Carnegie",
+      "CIA",
+      "Venezuela",
+      "Cuba"
+    ],
+    "family": "Mellon/Carnegie",
+    "institution": "CIA",
+    "time_period": "1960s",
+    "evidence_source": "Network Intersection PDF p.9",
+    "significance": "Corporate facilities as CIA intelligence outposts",
+    "confidence": 0.7,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_mellon_operation__060",
+    "text": "Richard Mellon Scaife strongly supported Chile's Pinochet regime defenders in U.S.; funded media/policy groups portraying Condor-aligned dictators as pro-free-market allies",
+    "claim_type": "indirect_plausible",
+    "entities": [
+      "Richard Mellon Scaife",
+      "Pinochet",
+      "Operation Condor"
+    ],
+    "family": "Mellon",
+    "institution": "Operation Condor",
+    "time_period": "1970s-1980s",
+    "evidence_source": "Network Intersection PDF p.9",
+    "significance": "Mellon ideological/financial support for Condor regimes",
+    "confidence": 0.8,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_bundy_manhattan__061",
+    "text": "Harvey H. Bundy Sr. was point man for Secretary of War Stimson on Manhattan Project (project's Pentagon liaison); handled top-secret oversight, coordinating compartmentalized efforts of DuPont and Stone & Webster contractors",
+    "claim_type": "direct_connection",
+    "entities": [
+      "Harvey Hollister Bundy",
+      "Henry Stimson",
+      "Manhattan Project",
+      "DuPont",
+      "Stone & Webster"
+    ],
+    "family": "Bundy",
+    "institution": "Manhattan Project",
+    "time_period": "1942-1945",
+    "evidence_source": "Network Intersection PDF p.10",
+    "significance": "Bundy patriarch directly tied to atomic bomb program success",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_bundy_operation__062",
+    "text": "McGeorge Bundy as NSA was briefed on NATO stay-behind networks and psychological warfare in Europe; can infer he endorsed clandestine measures to keep Western Europe from communism, indirectly supporting Gladio's objectives",
+    "claim_type": "indirect_plausible",
+    "entities": [
+      "McGeorge Bundy",
+      "NSA",
+      "NATO",
+      "Operation Gladio",
+      "stay-behind networks"
+    ],
+    "family": "Bundy",
+    "institution": "Operation Gladio",
+    "time_period": "1961-1966",
+    "evidence_source": "Network Intersection PDF p.10",
+    "significance": "NSA awareness and tacit support for NATO secret armies",
+    "confidence": 0.7,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_bundy_operation__063",
+    "text": "William Bundy as Pentagon and State official surely knew of U.S. coordination with South American militaries during Operation Condor; stance supportive of strong anti-communist measures globally",
+    "claim_type": "indirect_plausible",
+    "entities": [
+      "William P. Bundy",
+      "Operation Condor",
+      "Pentagon",
+      "State Department"
+    ],
+    "family": "Bundy",
+    "institution": "Operation Condor",
+    "time_period": "1970s",
+    "evidence_source": "Network Intersection PDF p.10",
+    "significance": "Bundy knowledge of Condor operations",
+    "confidence": 0.7,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_bundy_cia_nsc_064",
+    "text": "McGeorge Bundy's earlier decisions (escalation in Vietnam, involvement in Indonesia's 1965 coup by providing lists of communists to Indonesian forces) mirrored anti-communist ruthlessness of Condor",
+    "claim_type": "direct_connection",
+    "entities": [
+      "McGeorge Bundy",
+      "Vietnam",
+      "Indonesia 1965 coup",
+      "anti-communist operations"
+    ],
+    "family": "Bundy",
+    "institution": "CIA/NSC",
+    "time_period": "1965",
+    "evidence_source": "Network Intersection PDF p.10",
+    "significance": "Bundy involvement in mass killings via intelligence sharing",
+    "confidence": 0.85,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_bundy_mk-ultra_065",
+    "text": "McGeorge Bundy position meant oversight of CIA budget and priorities under JFK/LBJ right after MK-Ultra's peak; plausible he was aware of or approved continued funding for behavior control research in early '60s",
+    "claim_type": "indirect_plausible",
+    "entities": [
+      "McGeorge Bundy",
+      "CIA",
+      "MK-Ultra",
+      "JFK",
+      "LBJ"
+    ],
+    "family": "Bundy",
+    "institution": "MK-Ultra",
+    "time_period": "1961-1966",
+    "evidence_source": "Network Intersection PDF p.10",
+    "significance": "NSA oversight of CIA mind-control programs",
+    "confidence": 0.65,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_bundy_at&t_bell__066",
+    "text": "McGeorge Bundy co-founded President's Science Advisory Committee under Kennedy that worked with Bell Labs on telecom security, linking him indirectly to AT&T",
+    "claim_type": "indirect_plausible",
+    "entities": [
+      "McGeorge Bundy",
+      "President's Science Advisory Committee",
+      "Kennedy",
+      "Bell Labs",
+      "AT&T"
+    ],
+    "family": "Bundy",
+    "institution": "AT&T/Bell Labs",
+    "time_period": "1961",
+    "evidence_source": "Network Intersection PDF p.11",
+    "significance": "Bundy in telecom-security policy coordination",
+    "confidence": 0.75,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_du_pont_manhattan__067",
+    "text": "DuPont Company was prime contractor to build and operate Hanford Engineer Works which produced plutonium for Nagasaki bomb; DuPont designed reactors and chemical separation plants at Hanford - arguably single biggest industrial task of Manhattan Project",
+    "claim_type": "direct_connection",
+    "entities": [
+      "DuPont Company",
+      "Manhattan Project",
+      "Hanford",
+      "plutonium",
+      "Nagasaki"
+    ],
+    "family": "du Pont",
+    "institution": "Manhattan Project",
+    "time_period": "1943-1945",
+    "evidence_source": "Network Intersection PDF p.11",
+    "significance": "du Pont dynasty directly enabling atomic bomb through plutonium production",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_du_pont_oss_068",
+    "text": "Alfred Victor du Pont (son of Alfred I. du Pont) served in OSS in WWII; died during training, but enlistment underscores blue-blood families sent operatives to OSS",
+    "claim_type": "direct_connection",
+    "entities": [
+      "Alfred Victor du Pont",
+      "OSS",
+      "Alfred I. du Pont"
+    ],
+    "family": "du Pont",
+    "institution": "OSS",
+    "time_period": "1943",
+    "evidence_source": "Network Intersection PDF p.11",
+    "significance": "du Pont family member in intelligence service",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_du_pont_mk-ultra_069",
+    "text": "DuPont Central Research Station worked on chemical agents and countermeasures of interest to CIA and military in programs like MK-Ultra and MK-SEARCH (psychoactive drug synthesis, defoliants); du Pont chemist Dr. Ray Treichler consulted on CIA's MK-NAOMI biochem program",
+    "claim_type": "direct_connection",
+    "entities": [
+      "DuPont Company",
+      "CIA",
+      "MK-Ultra",
+      "MK-SEARCH",
+      "MK-NAOMI",
+      "Dr. Ray Treichler"
+    ],
+    "family": "du Pont",
+    "institution": "MK-Ultra",
+    "time_period": "1950s-1960s",
+    "evidence_source": "Network Intersection PDF p.11",
+    "significance": "DuPont firm integration with CIA covert chemical/drug research",
+    "confidence": 0.8,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_du_pont_cia_070",
+    "text": "Pierre S. du Pont IV and other family scions involved in politics, pushing strong anti-communist, pro-business policies in 1970s-80s, aligning with CIA objectives abroad",
+    "claim_type": "indirect_plausible",
+    "entities": [
+      "Pierre S. du Pont IV",
+      "CIA",
+      "anti-communist"
+    ],
+    "family": "du Pont",
+    "institution": "CIA",
+    "time_period": "1970s-1980s",
+    "evidence_source": "Network Intersection PDF p.11",
+    "significance": "du Pont political alignment with CIA Cold War objectives",
+    "confidence": 0.7,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_du_pont_mic_071",
+    "text": "DuPont at heart of MIC - produced atomic bomb materials, rockets, plastics, Agent Orange chemical for Vietnam; du Pont family lobbying/philanthropy (funding American Security Council, hawkish groups) indirectly shaped Cold War military strategy",
+    "claim_type": "direct_connection",
+    "entities": [
+      "DuPont Company",
+      "MIC",
+      "Agent Orange",
+      "Vietnam",
+      "American Security Council"
+    ],
+    "family": "du Pont",
+    "institution": "MIC",
+    "time_period": "1940s-1970s",
+    "evidence_source": "Network Intersection PDF p.11",
+    "significance": "du Pont dynasty central to military-industrial production",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "netint_du_pont_operation__072",
+    "text": "DuPont extensive operations in Europe by 1950s; facilities in France and Italy seen as strategic assets; plausible DuPont European subsidiaries considered in planning Operation Gladio stay-behind sabotage; some Gladio arms caches in Benelux hidden on private lands of friendly businessmen including du Pont cousin in Luxembourg",
+    "claim_type": "indirect_plausible",
+    "entities": [
+      "DuPont Company",
+      "Operation Gladio",
+      "NATO",
+      "Europe",
+      "Luxembourg"
+    ],
+    "family": "du Pont",
+    "institution": "Operation Gladio",
+    "time_period": "1950s",
+    "evidence_source": "Network Intersection PDF p.11-12",
+    "significance": "DuPont European assets in NATO stay-behind network",
+    "confidence": 0.6,
+    "cross_references": null
+  }
+]

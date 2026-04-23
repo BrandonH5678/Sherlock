@@ -1,0 +1,52 @@
+{
+  "sweep_time": "2025-12-07T17:38:00.000000",
+  "report_type": "cross_reference_update",
+  "targets_scanned": 39,
+  "research_overviews_analyzed": 31,
+  "network_clusters_identified": 4,
+  "entity_bridges_found": 3,
+  "packages_in_queue": 38,
+  "packages_status": {
+    "sherlock_research": 35,
+    "test_summary": 3,
+    "heavy_class": 3,
+    "standard_class": 35
+  },
+  "cross_reference_findings": {
+    "cia_cold_war_cluster": {
+      "members": ["allen_dulles", "james_jesus_angleton", "richard_bissell", "george_joannides"],
+      "key_finding": "CIA institutional obstruction pattern - Joannides rewarded for obstructing Congressional investigation",
+      "evidence_level": "HIGH"
+    },
+    "stargate_rv_cluster": {
+      "members": ["hal_puthoff", "ingo_swann", "joseph_mcmoneagle", "albert_stubblebine", "us_army_inscom"],
+      "key_finding": "~20 years continuous military investment in psychic phenomena, terminated 1995",
+      "evidence_level": "HIGH"
+    },
+    "uap_disclosure_cluster": {
+      "members": ["luis_elizondo", "james_lacatski", "hal_puthoff", "bigelow_aerospace"],
+      "key_finding": "Direct institutional links to earlier paranormal research through Puthoff",
+      "evidence_level": "MIXED"
+    },
+    "wall_street_intel_cluster": {
+      "members": ["brown_brothers_harriman", "allen_dulles", "george_hw_bush"],
+      "key_finding": "Institutional pathways between Wall Street finance and intelligence/political power",
+      "evidence_level": "HIGH"
+    }
+  },
+  "research_gaps": {
+    "priority_1": ["john_trump", "pat_price_death", "s-force_content"],
+    "priority_2": ["angleton_joannides_connection", "bbh_client_list", "aawsap_full_report"],
+    "priority_3": ["richard_helms", "robert_bigelow", "kit_green"]
+  },
+  "queue_ready_for_nightshift": true,
+  "next_steps": [
+    "Night Shift should process heavy jobs (YouTube) sequentially",
+    "Standard jobs can run concurrently",
+    "Focus on priority_1 research gaps in next targeting cycle"
+  ],
+  "analysis_files_created": [
+    "/home/johnny5/Sherlock/analysis/cross_reference_analysis_20251207.md",
+    "/home/johnny5/Sherlock/analysis/network_connections.json"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "harvested": {
+    "proper_nouns": [
+      "You",
+      "It",
+      "And",
+      "This",
+      "Yeah",
+      "But",
+      "Pentagon",
+      "So",
+      "What",
+      "Is",
+      "How",
+      "Immaculate Constellation",
+      "No",
+      "We",
+      "Well",
+      "Right",
+      "There",
+      "The",
+      "That",
+      "American",
+      "Congress",
+      "The Immaculate Constellation",
+      "Let",
+      "Why",
+      "Or",
+      "Can",
+      "Uh",
+      "To",
+      "Absolutely",
+      "Do",
+      "When",
+      "Did"
+    ],
+    "acronyms": [
+      "UFO",
+      "UAP"
+    ],
+    "technical_terms": [
+      "Immaculate Constellation",
+      "The Immaculate Constellation"
+    ],
+    "unclear_tokens": [
+      "corrupted_audio",
+      "word",
+      "office_name"
+    ]
+  },
+  "risk_assessment": {
+    "novel_proper_nouns": [],
+    "acronym_collapses": [],
+    "risk_score": 0.0
+  },
+  "risk_gates": {
+    "novel_noun_rate": 0.0,
+    "collapse_count": 0,
+    "failed": false,
+    "failed_gates": []
+  },
+  "statistics": {
+    "total_edits": 10,
+    "risky_edits": 0
+  }
+}

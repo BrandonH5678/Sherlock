@@ -1,0 +1,77 @@
+{
+  "harvested": {
+    "proper_nouns": [
+      "The",
+      "We",
+      "But",
+      "So",
+      "And",
+      "They",
+      "It",
+      "This",
+      "In",
+      "Santa Claus",
+      "You",
+      "If",
+      "Four Sigmatic",
+      "Taro",
+      "That",
+      "Von Daniken",
+      "Earth",
+      "Number",
+      "Sami",
+      "These",
+      "For",
+      "One",
+      "Eric Von Daniken",
+      "When",
+      "What",
+      "Okay",
+      "Maybe",
+      "Do",
+      "Everyone",
+      "Japanese",
+      "Is",
+      "Gobekli Tepe",
+      "Saint Nicholas",
+      "Dutch",
+      "Turkish",
+      "Christmas",
+      "God",
+      "Mm"
+    ],
+    "acronyms": [
+      "DNA",
+      "US",
+      "OG"
+    ],
+    "technical_terms": [
+      "Santa Claus",
+      "Four Sigmatic",
+      "Von Daniken",
+      "Eric Von Daniken",
+      "Gobekli Tepe",
+      "Saint Nicholas"
+    ],
+    "unclear_tokens": [
+      " Four Sigmatic",
+      " We know that it lowers activity in the brain",
+      " brain"
+    ]
+  },
+  "risk_assessment": {
+    "novel_proper_nouns": [],
+    "acronym_collapses": [],
+    "risk_score": 0.0
+  },
+  "risk_gates": {
+    "novel_noun_rate": 0.0,
+    "collapse_count": 0,
+    "failed": false,
+    "failed_gates": []
+  },
+  "statistics": {
+    "total_edits": 280,
+    "risky_edits": 0
+  }
+}

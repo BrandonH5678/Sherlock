@@ -1,0 +1,25 @@
+=== SPEAKER ASSIGNMENTS (Claude API Enhancement) ===
+
+Speaker ID: Speaker 0
+  Assigned Name: Narrator/Host
+  Role: Host
+  Confidence: 0.95
+  Reasoning: Introduces the subject (Dr. James Lacatski) and provides context about OSAP. Functions as show narrator/introducer rather than instructor.
+
+Speaker ID: Speaker 1
+  Assigned Name: Dr. James Lacatski
+  Role: Guest Lecturer
+  Confidence: 0.98
+  Reasoning: Self-identifies as 'creator and DIA program manager of OSAP' and discusses UFO programs with first-hand authority. Referenced by name in introduction. Makes authoritative statements about government programs.
+
+Speaker ID: Speaker 2
+  Assigned Name: Co-Host/Interviewer
+  Role: Interviewer
+  Confidence: 0.95
+  Reasoning: Addresses Dr. Lacatski as 'Jim', references previous appearance on 'Weaponized', mentions calling him on behalf of Congress, and facilitates the interview. Acts as primary interviewer.
+
+Speaker ID: Unknown
+  Assigned Name: Multiple Speakers (Unassigned)
+  Role: Unclear
+  Confidence: 0.30
+  Reasoning: Multiple 'Unknown' tags suggest either transcription errors or additional speakers not yet identified. Some statements appear to be continuation of Speaker 2's interview questions.

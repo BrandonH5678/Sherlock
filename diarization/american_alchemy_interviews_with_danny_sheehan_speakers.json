@@ -1,0 +1,11 @@
+{
+  "status": "placeholder",
+  "message": "Sherlock research job received but not yet implemented",
+  "job_id": "SHERLOCK_PKG_2",
+  "target": "American Alchemy Interviews with Danny Sheehan",
+  "package_type": "youtube",
+  "collection_urls": [
+    "https://www.youtube.com/results?search_query=American+Alchemy+Interviews+with+Danny+Sheehan"
+  ],
+  "created_at": "2025-12-07T20:28:36.427970"
+}

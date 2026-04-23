@@ -1,0 +1,450 @@
+[
+  {
+    "claim_id": "forbes_sw_001",
+    "text": "Stone & Webster founded 1889 in Boston by MIT graduates Charles A. Stone and Edwin S. Webster",
+    "claim_type": "factual",
+    "entities": [
+      "Stone & Webster",
+      "Charles A. Stone",
+      "Edwin S. Webster",
+      "MIT",
+      "Boston"
+    ],
+    "time_period": "1889",
+    "evidence_source": "Stone & Webster PDF p.1",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "forbes_sw_002",
+    "text": "Charles Stone served on Federal Reserve Bank of New York board (1919-23)",
+    "claim_type": "factual",
+    "entities": [
+      "Charles A. Stone",
+      "Federal Reserve Bank of New York"
+    ],
+    "time_period": "1919-1923",
+    "evidence_source": "Stone & Webster PDF p.1",
+    "significance": "Forbes network access to monetary policy apparatus",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "forbes_sw_003",
+    "text": "Charles Stone was founding director of Research Corporation (major science foundation)",
+    "claim_type": "factual",
+    "entities": [
+      "Charles A. Stone",
+      "Research Corporation"
+    ],
+    "time_period": "1910s-1920s",
+    "evidence_source": "Stone & Webster PDF p.1",
+    "significance": "Research funding influence",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "forbes_sw_004",
+    "text": "Edwin Webster sat on boards of United Fruit, Pacific Mills, and other major firms",
+    "claim_type": "factual",
+    "entities": [
+      "Edwin S. Webster",
+      "United Fruit",
+      "Pacific Mills"
+    ],
+    "time_period": "Early 1900s",
+    "evidence_source": "Stone & Webster PDF p.1",
+    "significance": "Corporate board interlocks",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "forbes_sw_005",
+    "text": "Stone & Webster designed and built Hog Island shipyard in Philadelphia (35,000 workers, more berths than any British yard)",
+    "claim_type": "factual",
+    "entities": [
+      "Stone & Webster",
+      "Hog Island shipyard",
+      "War Department"
+    ],
+    "time_period": "WWI (1917-18)",
+    "evidence_source": "Stone & Webster PDF p.1, Table 1",
+    "significance": "Major U.S. war infrastructure; largest shipyard",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "forbes_sw_006",
+    "text": "Stone & Webster established separate division (~800 engineers) for uranium enrichment engineering in early 1942",
+    "claim_type": "factual",
+    "entities": [
+      "Stone & Webster",
+      "Manhattan Project",
+      "uranium enrichment"
+    ],
+    "time_period": "1942",
+    "evidence_source": "Stone & Webster PDF p.1",
+    "significance": "Atomic weapons program involvement",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "forbes_sw_007",
+    "text": "Stone & Webster was prime contractor for Oak Ridge Y-12 electromagnetic uranium separation plant",
+    "claim_type": "factual",
+    "entities": [
+      "Stone & Webster",
+      "Oak Ridge",
+      "Y-12",
+      "Manhattan Project",
+      "Army Corps"
+    ],
+    "time_period": "1942-1945",
+    "evidence_source": "Stone & Webster PDF p.1, Table 1",
+    "significance": "Built uranium enrichment facility for first atomic bomb",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "forbes_sw_008",
+    "text": "Stone & Webster designed and built Oak Ridge city (75,000 workers) and all four production plants",
+    "claim_type": "factual",
+    "entities": [
+      "Stone & Webster",
+      "Oak Ridge",
+      "Tennessee",
+      "Clinton Engineer Works"
+    ],
+    "time_period": "1942-1945",
+    "evidence_source": "Stone & Webster PDF p.1",
+    "significance": "Total city and nuclear complex construction",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "forbes_sw_009",
+    "text": "Stone & Webster built Shippingport, the nation's first civilian nuclear power plant (Atomic Energy Commission)",
+    "claim_type": "factual",
+    "entities": [
+      "Stone & Webster",
+      "Shippingport",
+      "AEC",
+      "nuclear power"
+    ],
+    "time_period": "1945-1960s",
+    "evidence_source": "Stone & Webster PDF p.1-2, Table 1",
+    "significance": "Pioneering civilian nuclear power",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "forbes_sw_010",
+    "text": "Stone & Webster built Brookhaven National Lab particle accelerator, NS Savannah nuclear merchant ship, and Army prototype reactors",
+    "claim_type": "factual",
+    "entities": [
+      "Stone & Webster",
+      "Brookhaven",
+      "NS Savannah",
+      "AEC"
+    ],
+    "time_period": "1950s-1960s",
+    "evidence_source": "Stone & Webster PDF p.1",
+    "significance": "Nuclear technology development across domains",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "forbes_sw_011",
+    "text": "By 1950s Stone & Webster had built ~16% of U.S. generating capacity (dozens of hydroelectric and steam power plants)",
+    "claim_type": "factual",
+    "entities": [
+      "Stone & Webster",
+      "electric power"
+    ],
+    "time_period": "1950s",
+    "evidence_source": "Stone & Webster PDF p.2",
+    "significance": "Dominant position in U.S. power infrastructure",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "forbes_sw_012",
+    "text": "William Cameron Forbes was partner at Stone & Webster",
+    "claim_type": "factual",
+    "entities": [
+      "William Cameron Forbes",
+      "Stone & Webster",
+      "Forbes family"
+    ],
+    "time_period": "Early-mid 1900s",
+    "evidence_source": "J.M. Forbes & Co. history (referenced in research docs)",
+    "significance": "Direct Forbes family operational involvement in utilities/engineering/defense firm",
+    "confidence": 0.85
+  },
+  {
+    "claim_id": "forbes_sw_013",
+    "text": "Stone & Webster absorbed into Westinghouse Electric (major DoD contractor) by 2016",
+    "claim_type": "factual",
+    "entities": [
+      "Stone & Webster",
+      "Westinghouse Electric",
+      "DoD"
+    ],
+    "time_period": "2016",
+    "evidence_source": "Stone & Webster PDF p.2, Table 2",
+    "significance": "Engineering lineage persists in modern MIC",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "forbes_china_001",
+    "text": "John Murray Forbes (1813-1898) described as opium merchant before becoming railroad/finance figure",
+    "claim_type": "factual",
+    "entities": [
+      "John Murray Forbes",
+      "opium trade",
+      "Russell & Company"
+    ],
+    "time_period": "Early-mid 1800s",
+    "evidence_source": "Wikipedia; Business History Review 1968",
+    "significance": "Core Forbes family wealth origin in opium commerce",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "forbes_china_002",
+    "text": "Forbes family papers at Massachusetts Historical Society \"primarily document commercial activities engaged in China trade\"",
+    "claim_type": "factual",
+    "entities": [
+      "Forbes Family",
+      "Massachusetts Historical Society",
+      "China trade"
+    ],
+    "time_period": "1732-1931",
+    "evidence_source": "MHS Forbes Family Papers finding aid",
+    "significance": "Institutional archival confirmation of China trade focus",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "forbes_china_003",
+    "text": "Robert Bennet Forbes and family networks documented in MHS archives connected to Perkins and Russell & Company in China",
+    "claim_type": "factual",
+    "entities": [
+      "Robert Bennet Forbes",
+      "Perkins",
+      "Russell & Company",
+      "Massachusetts Historical Society"
+    ],
+    "time_period": "1817-1967",
+    "evidence_source": "MHS Robert Bennet Forbes Papers",
+    "significance": "Primary archival evidence of opium-trade merchant house involvement",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "forbes_china_004",
+    "text": "Russell & Company described as leading U.S. China trading house specializing in tea/silk/opium",
+    "claim_type": "factual",
+    "entities": [
+      "Russell & Company",
+      "opium",
+      "China trade"
+    ],
+    "time_period": "1820s-1890s",
+    "evidence_source": "Wikipedia; Business History Review",
+    "significance": "Major American opium trading entity with Forbes family involvement",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "forbes_china_005",
+    "text": "Forbes House Museum maintains \"opium exhibit\" framing family opium trade history",
+    "claim_type": "factual",
+    "entities": [
+      "Forbes House Museum",
+      "opium trade"
+    ],
+    "evidence_source": "forbeshousemuseum.org",
+    "significance": "Family institution acknowledges opium commerce origins",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "forbes_china_006",
+    "text": "Perkins merged with Russell & Co. to become largest American merchant firm in China (in that era)",
+    "claim_type": "factual",
+    "entities": [
+      "Perkins",
+      "Russell & Company"
+    ],
+    "time_period": "Mid 1800s",
+    "evidence_source": "Massachusetts Historical Society archival notes",
+    "significance": "Consolidation of opium-trade merchant houses in Forbes network",
+    "confidence": 0.85
+  },
+  {
+    "claim_id": "forbes_rail_001",
+    "text": "John Murray Forbes founded/assembled Chicago, Burlington & Quincy Railroad (CB&Q)",
+    "claim_type": "factual",
+    "entities": [
+      "John Murray Forbes",
+      "Chicago Burlington & Quincy Railroad"
+    ],
+    "time_period": "Mid-late 1800s",
+    "evidence_source": "Encyclopedia Britannica",
+    "significance": "Major Midwestern railroad system - merchant capital to infrastructure platform",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "forbes_rail_002",
+    "text": "J.M. Forbes & Co. persists as Boston investment/trust operation; MHS holds Estate Papers (1777-1986) describing private investment and trust management",
+    "claim_type": "factual",
+    "entities": [
+      "J.M. Forbes & Co.",
+      "Massachusetts Historical Society"
+    ],
+    "time_period": "1777-1986",
+    "evidence_source": "MHS J.M. Forbes Estate Papers",
+    "significance": "Multi-generational family office managing Forbes estates",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "forbes_telecom_001",
+    "text": "William Hathaway Forbes (son of John Murray Forbes) was President of American Bell Telephone Company",
+    "claim_type": "factual",
+    "entities": [
+      "William Hathaway Forbes",
+      "American Bell Telephone Company",
+      "John Murray Forbes"
+    ],
+    "time_period": "Late 1800s",
+    "evidence_source": "Massachusetts Historical Society guide",
+    "significance": "Forbes executive control of entity that became AT&T - foundational platform governance",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "forbes_telecom_002",
+    "text": "William Hathaway Forbes entered J.M. Forbes & Co and invested in/became president of American Bell",
+    "claim_type": "factual",
+    "entities": [
+      "William Hathaway Forbes",
+      "J.M. Forbes & Co.",
+      "American Bell"
+    ],
+    "time_period": "Late 1800s",
+    "evidence_source": "MHS archival guides",
+    "significance": "Family capital office directly funding telecom platform monopoly",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "forbes_telecom_003",
+    "text": "American Bell was central holding/operating entity that consolidated Bell patents and became AT&T",
+    "claim_type": "factual",
+    "entities": [
+      "American Bell Telephone Company",
+      "AT&T",
+      "Bell System"
+    ],
+    "time_period": "Late 1800s-early 1900s",
+    "evidence_source": "Telecom corporate histories",
+    "significance": "Forbes presidency during consolidation phase shaped monopoly structure",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "forbes_bbh_001",
+    "text": "1939 Commercial & Financial Chronicle lists Brown Brothers Harriman & Co. (59 Wall Street) alongside Raymond Emerson, J.M. Forbes & Co.",
+    "claim_type": "factual",
+    "entities": [
+      "Brown Brothers Harriman",
+      "J.M. Forbes & Co.",
+      "Raymond Emerson"
+    ],
+    "time_period": "1939",
+    "evidence_source": "FRASER / Commercial & Financial Chronicle",
+    "significance": "Documentary evidence of co-presence in elite finance milieu; shared institutional circles",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "forbes_bbh_002",
+    "text": "BBH archival corpus exists at NY Historical Society/NYU; searchable for Forbes linkages",
+    "claim_type": "factual",
+    "entities": [
+      "Brown Brothers Harriman",
+      "NY Historical Society",
+      "NYU"
+    ],
+    "evidence_source": "Finding Aids at NYU",
+    "significance": "Primary archives available for deeper syndicate/trustee research",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "forbes_aero_001",
+    "text": "Arthur M. Young (helicopter pioneer; Bell helicopter design work) married Ruth Forbes (Boston Forbes family)",
+    "claim_type": "factual",
+    "entities": [
+      "Arthur M. Young",
+      "Ruth Forbes",
+      "Bell Helicopter"
+    ],
+    "time_period": "Mid 1900s",
+    "evidence_source": "Wikipedia",
+    "significance": "Forbes family marriage tie into foundational rotorcraft innovation (UH-1 Huey lineage)",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "forbes_aero_002",
+    "text": "Bell Helicopter designs became foundational to major U.S. military helicopter families (UH-1 Huey)",
+    "claim_type": "factual",
+    "entities": [
+      "Bell Helicopter",
+      "UH-1 Huey",
+      "U.S. military"
+    ],
+    "time_period": "1950s-1970s",
+    "evidence_source": "Wikipedia",
+    "significance": "Military aviation platform with Forbes family adjacency",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "forbes_state_001",
+    "text": "William Cameron Forbes served as Governor-General of Philippines",
+    "claim_type": "factual",
+    "entities": [
+      "William Cameron Forbes",
+      "Philippines",
+      "U.S. colonial administration"
+    ],
+    "time_period": "Early 1900s",
+    "evidence_source": "Wikipedia",
+    "significance": "Direct executive authority over U.S. imperial territory; infrastructure/utilities/military coordination",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "forbes_state_002",
+    "text": "William Cameron Forbes described as investment banker/diplomat with directorships including AT&T, Stone & Webster",
+    "claim_type": "factual",
+    "entities": [
+      "William Cameron Forbes",
+      "AT&T",
+      "Stone & Webster"
+    ],
+    "time_period": "Early-mid 1900s",
+    "evidence_source": "Wikipedia",
+    "significance": "State administration + corporate directorships in telecom and utilities/engineering",
+    "confidence": 0.85
+  },
+  {
+    "claim_id": "forbes_kerry_001",
+    "text": "John Kerry's mother was Rosemary Isabel Forbes Kerry (1913-2002), daughter of James Grant Forbes II",
+    "claim_type": "factual",
+    "entities": [
+      "John Kerry",
+      "Rosemary Forbes Kerry",
+      "James Grant Forbes II",
+      "Boston Forbes"
+    ],
+    "time_period": "1913-2002",
+    "evidence_source": "Wikipedia",
+    "significance": "Direct Kerry lineage to Boston Brahmin Forbes family",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "forbes_kerry_002",
+    "text": "John Kerry placed in Boston Brahmin Forbes line tied to Perkins/Old China Trade network and 19th-century merchant houses",
+    "claim_type": "factual",
+    "entities": [
+      "John Kerry",
+      "Boston Brahmin",
+      "Forbes family",
+      "Perkins",
+      "Old China Trade"
+    ],
+    "evidence_source": "Wikipedia",
+    "significance": "Kerry family wealth origins in opium-trade merchant networks",
+    "confidence": 0.9
+  }
+]

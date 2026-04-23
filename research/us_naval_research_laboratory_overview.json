@@ -1,0 +1,66 @@
+{
+  "entity_id": "us_naval_research_laboratory",
+  "entity_type": "organization",
+  "name": "U.S. Naval Research Laboratory (NRL)",
+  "status": "active",
+  "founded": "1923",
+  "research_date": "2025-12-06",
+  "priority": "MEDIUM",
+  "summary": "Navy research facility that pioneered practical radar development in 1930s, achieved first aircraft detection by radio (1930), developed first operational pulse radar (1934), installed first US radar on USS New York (1938)",
+  "early_radio_detection": {
+    "1922_discovery": {
+      "researchers": ["A. Hoyt Taylor", "Leo C. Young"],
+      "location": "US Navy Aircraft Radio Laboratory",
+      "observation": "Ship crossing transmission path of radio link produced slow fading in and out of signal",
+      "significance": "First observation of radio detection principle"
+    },
+    "1930_aircraft_detection": {
+      "researcher": "Lawrence A. Hyland",
+      "collaborators": ["A. Hoyt Taylor", "Leo C. Young"],
+      "location": "Naval Research Laboratory, Washington, D.C.",
+      "achievement": "Used radio equipment to detect passing aircraft",
+      "significance": "First practical demonstration of aircraft detection by radio"
+    }
+  },
+  "pulse_radar_development": {
+    "1934_breakthrough": {
+      "researcher": "Robert M. Page",
+      "collaborator": "Leo C. Young",
+      "achievement": "Worked out practical technology for pulse radar",
+      "significance": "Beginning of effective radar program in United States",
+      "december_1934": "Breadboard apparatus successfully detected aircraft at range of one mile"
+    }
+  },
+  "congressional_funding": {
+    "year": 1935,
+    "source": "Committee on Naval Appropriations, US House of Representatives",
+    "amount": "$100,000",
+    "purpose": "Development of radar",
+    "impact": "Enabled transition from experimental to operational radar systems"
+  },
+  "first_operational_radar": {
+    "designation": "XAF",
+    "installation": "USS New York (BB-34)",
+    "year": 1938,
+    "significance": "First US radar permanently installed on naval vessel",
+    "operational_status": "Functional radar system for naval operations"
+  },
+  "research_period_1930_1940": {
+    "focus": "Use of radio for ranging and detection",
+    "achievements": [
+      "1930 - Aircraft detection demonstration",
+      "1934 - Pulse radar technology development",
+      "1935 - Congressional funding secured",
+      "1938 - First operational deployment (XAF on USS New York)"
+    ],
+    "impact": "Established US as radar technology leader entering WWII"
+  },
+  "note_on_entity_name": {
+    "searched_term": "Naval Intelligence Radar Laboratory",
+    "actual_institution": "Naval Research Laboratory (NRL)",
+    "clarification": "Research was conducted at NRL, not a Naval Intelligence facility",
+    "intelligence_connection": "Radar intelligence applications developed, but institution was research-focused"
+  },
+  "significance": "Pioneered US radar development, critical technology advantage in WWII, established foundation for modern electronic warfare and detection systems",
+  "research_quality": "HIGH - Well-documented historical record, Engineering and Technology History Wiki, Naval History archives"
+}

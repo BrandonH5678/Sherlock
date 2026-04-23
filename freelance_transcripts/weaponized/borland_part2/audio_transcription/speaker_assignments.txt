@@ -1,0 +1,25 @@
+=== SPEAKER ASSIGNMENTS (Claude API Enhancement) ===
+
+Speaker ID: Speaker 0
+  Assigned Name: Host
+  Role: Host
+  Confidence: 0.80
+  Reasoning: Asks direct questions ('What is it that you saw and found out and can tell us about?', 'Okay, let's hear it and then we'll figure it out later.') and controls conversation flow. Pattern consistent with interviewer role.
+
+Speaker ID: Speaker 1
+  Assigned Name: Dylan Borland
+  Role: Guest
+  Confidence: 0.95
+  Reasoning: Title explicitly states 'Dylan Borland - Legacy UFO Programs (PART 2)'. Speaker 1 provides testimony about classified drawings ('I provided three rudimentary drawings, one of which was unclassified'). Speaker 2 refers to 'Dylan's testimony' and mentions he 'was given only six days to prepare his testimony for Congress', confirming this is the primary guest.
+
+Speaker ID: Speaker 2
+  Assigned Name: Co-Host or Producer
+  Role: Co-Host
+  Confidence: 0.75
+  Reasoning: Provides editorial context about the episode ('In this episode of Weaponized, you will notice that we chose to censor certain details'). Speaks about production decisions and Dylan's situation in third person, suggesting co-host or producer role rather than guest.
+
+Speaker ID: Unknown
+  Assigned Name: Multiple Speakers (Unassigned)
+  Role: Unclear
+  Confidence: 0.30
+  Reasoning: Multiple 'Unknown' speaker segments contain different speaking patterns - some appear to be Dylan continuing his testimony, others may be additional hosts or context. Requires more transcript data to definitively assign.

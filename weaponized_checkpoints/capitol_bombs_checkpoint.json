@@ -1,0 +1,14 @@
+{
+  "source_id": "weaponized_capitol_bombs",
+  "episode_id": "capitol_bombs",
+  "title": "UFO Bombs Dropped On Capitol Hill",
+  "entities_extracted": {
+    "people": 21,
+    "organizations": 16,
+    "programs": 6,
+    "locations": 4,
+    "technologies": 12
+  },
+  "claims_extracted": 127,
+  "timestamp": "2026-01-07T14:41:30.573633"
+}

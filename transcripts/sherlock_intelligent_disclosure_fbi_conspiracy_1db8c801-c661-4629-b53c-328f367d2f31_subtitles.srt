@@ -1,0 +1,4260 @@
+1
+00:00:00,050 --> 00:00:03,950
+My wife and better half Tracy is not here tonight.
+
+2
+00:00:03,950 --> 00:00:06,950
+As you can see, I'm sitting here all alone in the office.
+
+3
+00:00:06,950 --> 00:00:08,510
+She'll be back next week.
+
+4
+00:00:08,510 --> 00:00:10,610
+Word is she's probably gonna stop in the chat room
+
+5
+00:00:10,610 --> 00:00:11,930
+at some point tonight.
+
+6
+00:00:11,930 --> 00:00:14,750
+So hopefully we'll get to hear from her.
+
+7
+00:00:14,750 --> 00:00:16,150
+But she's out of town.
+
+8
+00:00:16,150 --> 00:00:19,290
+I miss her and I think we're all better off with her here.
+
+9
+00:00:19,290 --> 00:00:21,530
+But on the other side of it,
+
+10
+00:00:21,530 --> 00:00:23,110
+I've got a lot to talk about with you tonight
+
+11
+00:00:23,110 --> 00:00:24,090
+and it's important.
+
+12
+00:00:24,090 --> 00:00:27,420
+I spent a good portion of the day looking into this.
+
+13
+00:00:27,420 --> 00:00:30,860
+So I wanna spend some time on this and jump right in.
+
+14
+00:00:30,860 --> 00:00:33,860
+This is on a subject that came out in the news
+
+15
+00:00:33,860 --> 00:00:35,320
+about two weeks ago.
+
+16
+00:00:35,320 --> 00:00:38,300
+It was reported in Yahoo News on August 1st.
+
+17
+00:00:38,300 --> 00:00:40,140
+Yahoo News, go figure.
+
+18
+00:00:40,140 --> 00:00:42,200
+They actually came up with something this time.
+
+19
+00:00:42,200 --> 00:00:44,820
+And it's on a topic that got a little bit
+
+20
+00:00:44,820 --> 00:00:48,640
+of mainstream attention and a little bit of attention
+
+21
+00:00:48,640 --> 00:00:50,100
+in the alternative news media.
+
+22
+00:00:50,100 --> 00:00:51,740
+But in my opinion, not really enough.
+
+23
+00:00:51,740 --> 00:00:55,880
+And in my view also, not a whole lot of analysis.
+
+24
+00:00:55,880 --> 00:00:57,140
+So what I've decided to do
+
+25
+00:00:57,140 --> 00:00:59,160
+is really dig into this document
+
+26
+00:00:59,160 --> 00:01:02,680
+and give my go at it and go over this with you.
+
+27
+00:01:02,680 --> 00:01:06,980
+And I'm talking about a piece that was,
+
+28
+00:01:06,980 --> 00:01:09,120
+I'm gonna share the screen here with you.
+
+29
+00:01:09,120 --> 00:01:10,320
+I've got this right here.
+
+30
+00:01:11,760 --> 00:01:14,940
+I'm gonna be doing this all of this program,
+
+31
+00:01:14,940 --> 00:01:16,720
+sharing the screen with you.
+
+32
+00:01:16,720 --> 00:01:18,160
+By the way, you'll notice,
+
+33
+00:01:18,160 --> 00:01:20,820
+I'm not using the old Google Hangouts, that's gone.
+
+34
+00:01:20,820 --> 00:01:22,540
+I really wanna thank Mike Moriarty
+
+35
+00:01:22,540 --> 00:01:24,500
+for showing me StreamYard.
+
+36
+00:01:24,500 --> 00:01:26,840
+That's what the software I'm using here.
+
+37
+00:01:26,840 --> 00:01:29,520
+And this allows me to keep my little picture
+
+38
+00:01:29,520 --> 00:01:31,600
+within a picture while I show you the screen.
+
+39
+00:01:31,600 --> 00:01:34,140
+I'm not that tech savvy with a lot of this stuff.
+
+40
+00:01:34,140 --> 00:01:36,060
+So this for me is a big step up.
+
+41
+00:01:37,190 --> 00:01:38,850
+The other thing I just wanna say in preface
+
+42
+00:01:38,850 --> 00:01:41,250
+to everything that's going to follow is,
+
+43
+00:01:42,850 --> 00:01:45,350
+this subject is one of these borderline subjects
+
+44
+00:01:45,350 --> 00:01:47,210
+that I occasionally get taken
+
+45
+00:01:47,210 --> 00:01:50,330
+into the YouTube principal office for when I talk about it.
+
+46
+00:01:50,330 --> 00:01:53,570
+And I'm going to really work very hard
+
+47
+00:01:53,570 --> 00:01:54,090
+because I wanna treat this subject in a, in a, in a way,
+
+48
+00:01:54,090 --> 00:01:56,330
+I wanna treat this subject
+
+49
+00:01:56,330 --> 00:02:01,330
+in a balanced and non-incendiary way.
+
+50
+00:02:01,690 --> 00:02:03,890
+This is a very important piece of information
+
+51
+00:02:03,890 --> 00:02:07,950
+for any of us who believe in freedom of inquiry
+
+52
+00:02:07,950 --> 00:02:10,080
+within a free society.
+
+53
+00:02:10,080 --> 00:02:14,660
+So, you know, the rules for YouTube,
+
+54
+00:02:14,660 --> 00:02:16,360
+what they allow, what they don't allow
+
+55
+00:02:16,360 --> 00:02:17,800
+is an ever moving goalpost.
+
+56
+00:02:17,800 --> 00:02:20,360
+You never really know week to week,
+
+57
+00:02:20,360 --> 00:02:21,760
+what's on the good list
+
+58
+00:02:21,760 --> 00:02:23,420
+and what's on the bad list with YouTube.
+
+59
+00:02:24,320 --> 00:02:26,200
+So there's been a number of times in the past
+
+60
+00:02:26,200 --> 00:02:31,080
+where I've done programs that I felt were very,
+
+61
+00:02:31,080 --> 00:02:36,080
+very responsible dealing with topics that are important.
+
+62
+00:02:36,640 --> 00:02:40,720
+And yet many times YouTube has decided not to,
+
+63
+00:02:40,720 --> 00:02:42,060
+they've never taken my videos down,
+
+64
+00:02:42,060 --> 00:02:44,320
+but they, they love to demonetize.
+
+65
+00:02:44,320 --> 00:02:45,580
+And look, it's not the end of the world.
+
+66
+00:02:45,580 --> 00:02:47,820
+If they wanna demonetize, that's their,
+
+67
+00:02:47,820 --> 00:02:49,720
+that's their right, I suppose.
+
+68
+00:02:49,720 --> 00:02:52,260
+But it makes it very difficult for content creators
+
+69
+00:02:52,260 --> 00:02:53,620
+to keep doing this when YouTube continues, you know,
+
+70
+00:02:53,620 --> 00:02:53,920
+to keep doing this when YouTube continues, you know,
+
+71
+00:02:53,920 --> 00:02:54,720
+to keep doing this when YouTube continues, you know,
+
+72
+00:02:54,720 --> 00:02:56,620
+to change the rules of what they allow
+
+73
+00:02:56,620 --> 00:02:57,920
+and what they don't allow.
+
+74
+00:02:57,920 --> 00:03:01,980
+You know, they are the ultimate finger wagging schoolmarm
+
+75
+00:03:01,980 --> 00:03:03,760
+these days telling people what,
+
+76
+00:03:03,760 --> 00:03:04,820
+what's safe for them to believe
+
+77
+00:03:04,820 --> 00:03:07,010
+and what's not safe for them to believe and so forth.
+
+78
+00:03:07,010 --> 00:03:09,170
+So for this particular program,
+
+79
+00:03:09,170 --> 00:03:10,650
+I'm taking this as a kind of test.
+
+80
+00:03:10,650 --> 00:03:13,950
+I want to see actually how they respond to this.
+
+81
+00:03:13,950 --> 00:03:17,350
+And by the way, when, after this is done,
+
+82
+00:03:17,350 --> 00:03:19,190
+this video is done,
+
+83
+00:03:19,190 --> 00:03:21,930
+I'm going to put in the description,
+
+84
+00:03:21,930 --> 00:03:23,950
+the results of this, how YouTube has treated,
+
+85
+00:03:23,950 --> 00:03:24,790
+this video.
+
+86
+00:03:24,790 --> 00:03:25,610
+Do they demonetize?
+
+87
+00:03:25,610 --> 00:03:26,450
+Are they not?
+
+88
+00:03:26,450 --> 00:03:27,290
+And so forth.
+
+89
+00:03:27,290 --> 00:03:28,900
+So we'll see.
+
+90
+00:03:28,900 --> 00:03:29,740
+All right, so anyway,
+
+91
+00:03:29,740 --> 00:03:31,460
+the story that I want to talk about
+
+92
+00:03:31,460 --> 00:03:34,100
+and the analysis I want to do with you tonight is,
+
+93
+00:03:34,100 --> 00:03:36,100
+this is a headline right here.
+
+94
+00:03:36,100 --> 00:03:39,350
+So this is from Yahoo News, August 1st.
+
+95
+00:03:39,350 --> 00:03:41,170
+And it just says exclusive,
+
+96
+00:03:41,170 --> 00:03:44,230
+FBI document warns conspiracy theories
+
+97
+00:03:44,230 --> 00:03:48,470
+are a new domestic terrorism threat.
+
+98
+00:03:48,470 --> 00:03:49,690
+Sure a lot of you heard about this.
+
+99
+00:03:49,690 --> 00:03:51,490
+This has been out now for two weeks.
+
+100
+00:03:51,490 --> 00:03:53,410
+And I read the article when it first came out,
+
+101
+00:03:53,410 --> 00:03:54,110
+and I was like, oh, this is a big deal.
+
+102
+00:03:54,110 --> 00:03:54,950
+It came out.
+
+103
+00:03:54,950 --> 00:03:56,850
+It was very distressing to me.
+
+104
+00:03:56,850 --> 00:03:58,190
+I want to talk about this.
+
+105
+00:03:58,190 --> 00:04:00,930
+Now, one thing I want to try to do is avoid
+
+106
+00:04:00,930 --> 00:04:04,750
+excessive amounts of opinionating on this subject.
+
+107
+00:04:04,750 --> 00:04:06,590
+It's going to be unavoidable for me,
+
+108
+00:04:06,590 --> 00:04:11,850
+but I also really want to do this right
+
+109
+00:04:12,230 --> 00:04:13,550
+and to do this responsibly for you.
+
+110
+00:04:13,550 --> 00:04:15,170
+So let's move ahead.
+
+111
+00:04:15,170 --> 00:04:17,190
+And by the way, I've got the document here for you,
+
+112
+00:04:17,190 --> 00:04:18,750
+and I'm going to be showing you quite a bit of it.
+
+113
+00:04:18,750 --> 00:04:21,110
+So this is page one of the document,
+
+114
+00:04:21,110 --> 00:04:22,210
+at least most of it.
+
+115
+00:04:22,210 --> 00:04:24,270
+And you can go to the link,
+
+116
+00:04:24,270 --> 00:04:28,210
+the Yahoo News link is below.
+
+117
+00:04:28,210 --> 00:04:29,690
+And then at the very bottom,
+
+118
+00:04:29,690 --> 00:04:32,570
+you can get to the FBI document itself.
+
+119
+00:04:32,570 --> 00:04:34,090
+This is an intelligence bulletin,
+
+120
+00:04:34,090 --> 00:04:35,590
+and it's at Scribd.
+
+121
+00:04:35,590 --> 00:04:37,550
+And probably the easiest way for you to do it
+
+122
+00:04:37,550 --> 00:04:40,650
+is just Google or use any other search engine,
+
+123
+00:04:40,650 --> 00:04:42,210
+DuckDuckGo, whatever.
+
+124
+00:04:42,210 --> 00:04:45,550
+Type in Scribd and the FBI intelligence bulletin.
+
+125
+00:04:45,550 --> 00:04:47,090
+You'll probably find it easily.
+
+126
+00:04:47,090 --> 00:04:50,530
+Or just type in all of those numbers there.
+
+127
+00:04:50,530 --> 00:04:52,290
+So the title of this is
+
+128
+00:04:52,290 --> 00:04:54,490
+Anti-Government Identity, Bias, and Fraud.
+
+129
+00:04:54,650 --> 00:04:57,850
+Fringe Political Conspiracy Theories
+
+130
+00:04:57,850 --> 00:05:02,950
+Very Likely Motivate Some Domestic Extremists
+
+131
+00:05:02,950 --> 00:05:05,410
+to Commit Criminal, Sometimes Violent Activity.
+
+132
+00:05:05,410 --> 00:05:08,710
+That's the rather long title of this report.
+
+133
+00:05:08,710 --> 00:05:11,410
+So again, I want to go over some of this here with you.
+
+134
+00:05:12,790 --> 00:05:16,070
+Here we go.
+
+135
+00:05:16,070 --> 00:05:19,250
+Now, again, I will encourage you because very,
+
+136
+00:05:19,250 --> 00:05:20,690
+I haven't seen any analysts
+
+137
+00:05:20,690 --> 00:05:23,430
+that's actually gone into this document.
+
+138
+00:05:23,430 --> 00:05:25,370
+Maybe they haven't, I've just missed it.
+
+139
+00:05:25,370 --> 00:05:26,430
+But I will encourage you to go to
+
+140
+00:05:26,430 --> 00:05:30,170
+the Scribd website and take this document down.
+
+141
+00:05:30,170 --> 00:05:32,830
+But I'm going to go over what I feel are the
+
+142
+00:05:32,830 --> 00:05:34,150
+most important highlights,
+
+143
+00:05:34,150 --> 00:05:37,310
+at least the things that struck me as most significant.
+
+144
+00:05:37,310 --> 00:05:39,570
+So again, this is an FBI report.
+
+145
+00:05:39,570 --> 00:05:43,030
+It's from May 30th, by the way, of this year, 2019.
+
+146
+00:05:43,030 --> 00:05:47,030
+And the analyst here is essentially stating
+
+147
+00:05:47,030 --> 00:05:51,110
+that some conspiracy theories,
+
+148
+00:05:51,110 --> 00:05:54,150
+certain conspiracy theory narratives
+
+149
+00:05:54,150 --> 00:05:56,390
+tacitly support or legitimize violent action.
+
+150
+00:05:56,390 --> 00:05:58,490
+And then it goes on here.
+
+151
+00:05:58,490 --> 00:06:00,910
+The FBI assesses these conspiracy theories
+
+152
+00:06:00,910 --> 00:06:04,730
+very likely will emerge, spread, and evolve
+
+153
+00:06:04,730 --> 00:06:07,230
+in the modern information marketplace,
+
+154
+00:06:07,230 --> 00:06:11,510
+occasionally driving both groups and individual extremists
+
+155
+00:06:11,510 --> 00:06:13,670
+to carry out criminal or violent acts.
+
+156
+00:06:13,670 --> 00:06:17,890
+So that sounds very, very dangerous, very threatening.
+
+157
+00:06:17,890 --> 00:06:22,210
+And I will simply add in going through the news
+
+158
+00:06:22,210 --> 00:06:24,690
+and videos that are available on this,
+
+159
+00:06:24,690 --> 00:06:26,810
+there's quite a few, I think,
+
+160
+00:06:26,810 --> 00:06:31,590
+two particularly smaller alternative-type media
+
+161
+00:06:31,590 --> 00:06:33,470
+that are very critical of all of this.
+
+162
+00:06:33,470 --> 00:06:37,210
+But there's a really large number of mainstream,
+
+163
+00:06:37,210 --> 00:06:42,210
+or at least more mainstream-oriented presentations
+
+164
+00:06:42,470 --> 00:06:46,570
+that are very sympathetic to what the FBI is doing here.
+
+165
+00:06:46,570 --> 00:06:48,050
+And they really believe it's a good thing
+
+166
+00:06:48,050 --> 00:06:50,390
+to be cracking down on these extremists.
+
+167
+00:06:50,390 --> 00:06:52,610
+Now, the way that the news media portray this
+
+168
+00:06:52,610 --> 00:06:56,710
+is that it's essentially dealing with white supremacists,
+
+169
+00:06:56,710 --> 00:06:59,490
+that's, I think, really the number one talking point
+
+170
+00:06:59,490 --> 00:07:00,730
+that you hear with this document.
+
+171
+00:07:00,730 --> 00:07:04,210
+And indeed, that is part of what's going on here.
+
+172
+00:07:04,210 --> 00:07:06,950
+But there's a lot of other things going on in this document
+
+173
+00:07:06,950 --> 00:07:10,250
+that are extremely important I want to go over.
+
+174
+00:07:10,250 --> 00:07:16,020
+So they, whoops, let me just fix that light there.
+
+175
+00:07:16,080 --> 00:07:18,050
+Thank you, pardon.
+
+176
+00:07:18,050 --> 00:07:20,240
+Okay, it looks like I lost a light.
+
+177
+00:07:20,240 --> 00:07:22,970
+I'll have to fix that later.
+
+178
+00:07:22,970 --> 00:07:26,310
+My goodness.
+
+179
+00:07:26,310 --> 00:07:27,370
+All right.
+
+180
+00:07:28,470 --> 00:07:29,770
+So it continues and says,
+
+181
+00:07:29,770 --> 00:07:30,770
+indicators,
+
+182
+00:07:30,770 --> 00:07:35,700
+they feel very confident in their assessment
+
+183
+00:07:35,700 --> 00:07:39,580
+of how these conspiracy theories are gonna be dangerous,
+
+184
+00:07:39,580 --> 00:07:41,280
+potentially violent, and so forth.
+
+185
+00:07:41,280 --> 00:07:42,720
+Then they say something really quite interesting,
+
+186
+00:07:42,720 --> 00:07:46,380
+and I haven't heard discussed anywhere else
+
+187
+00:07:46,380 --> 00:07:48,880
+in any other source here.
+
+188
+00:07:48,880 --> 00:07:52,180
+And it's very simply that they say indicators
+
+189
+00:07:52,180 --> 00:07:54,300
+that may lead to revised judgments
+
+190
+00:07:54,300 --> 00:07:56,900
+or cause a change in the confidence level
+
+191
+00:07:56,900 --> 00:07:58,380
+associated with this assessment.
+
+192
+00:07:58,380 --> 00:08:00,600
+So they're saying, here's two things
+
+193
+00:08:00,600 --> 00:08:03,240
+that are gonna lead us to revise our judgment
+
+194
+00:08:03,240 --> 00:08:05,960
+that these conspiracy theories are probable,
+
+195
+00:08:05,960 --> 00:08:08,820
+or that these conspiracy theories are probably likely
+
+196
+00:08:08,820 --> 00:08:11,100
+to lead to violence or terrorism.
+
+197
+00:08:11,100 --> 00:08:14,460
+First, a lack of conspiracy-driven criminal
+
+198
+00:08:14,460 --> 00:08:18,060
+or violent activity in the near to long-term.
+
+199
+00:08:18,060 --> 00:08:20,820
+Okay, so just stop right there.
+
+200
+00:08:20,820 --> 00:08:23,460
+So what they're saying, as far as I can read this,
+
+201
+00:08:23,460 --> 00:08:28,320
+is we'll change our judgment on our confidence level of this
+
+202
+00:08:28,320 --> 00:08:31,380
+if nothing happens in the near or long-term.
+
+203
+00:08:32,580 --> 00:08:35,220
+So, well, that's great to know that the FBI
+
+204
+00:08:35,220 --> 00:08:38,880
+is at least that amenable to actual data
+
+205
+00:08:38,880 --> 00:08:41,040
+and actual facts as they occur.
+
+206
+00:08:41,040 --> 00:08:42,660
+That just seems like a pretty bare-bones
+
+207
+00:08:42,660 --> 00:08:43,820
+sort of a thing there.
+
+208
+00:08:43,820 --> 00:08:45,560
+And then here's the second thing,
+
+209
+00:08:45,560 --> 00:08:47,540
+which is actually quite interesting.
+
+210
+00:08:47,540 --> 00:08:50,220
+Significant efforts by major social media companies
+
+211
+00:08:50,220 --> 00:08:53,380
+and websites to remove, regulate, or counter
+
+212
+00:08:53,380 --> 00:08:55,900
+potentially harmful conspiratorial content.
+
+213
+00:08:55,900 --> 00:08:57,000
+So I just wanna repeat this again.
+
+214
+00:08:57,000 --> 00:09:00,080
+So this is something that will allow the FBI
+
+215
+00:09:00,080 --> 00:09:02,580
+to revise its judgment in the future.
+
+216
+00:09:02,580 --> 00:09:04,960
+If significant efforts are made
+
+217
+00:09:04,960 --> 00:09:07,080
+by major social media companies and websites
+
+218
+00:09:07,080 --> 00:09:08,740
+to remove, regulate, or counter
+
+219
+00:09:08,740 --> 00:09:11,440
+potentially harmful conspiratorial content.
+
+220
+00:09:11,440 --> 00:09:15,080
+My take on this, and this is not a radical take whatsoever,
+
+221
+00:09:15,080 --> 00:09:20,530
+is they're basically tacitly and fairly explicitly
+
+222
+00:09:21,270 --> 00:09:26,050
+asking major social media companies to regulate
+
+223
+00:09:26,050 --> 00:09:28,950
+and remove and counter this conspiratorial content.
+
+224
+00:09:28,950 --> 00:09:31,410
+So I think this is a request for soft banning
+
+225
+00:09:31,410 --> 00:09:32,710
+and more censorship.
+
+226
+00:09:33,030 --> 00:09:38,190
+This is, I don't see how else one can interpret that.
+
+227
+00:09:38,290 --> 00:09:39,650
+I wanna continue onward here,
+
+228
+00:09:39,650 --> 00:09:42,780
+and then I've got a bit more analysis for you.
+
+229
+00:09:42,780 --> 00:09:44,240
+Anti-government, identity-based,
+
+230
+00:09:44,240 --> 00:09:45,740
+fringe political conspiracy theories
+
+231
+00:09:45,740 --> 00:09:46,740
+very likely to motivate.
+
+232
+00:09:46,740 --> 00:09:47,800
+Okay, I read that.
+
+233
+00:09:47,800 --> 00:09:49,980
+And then it goes on here.
+
+234
+00:09:49,980 --> 00:09:52,760
+They talk about, oh yes.
+
+235
+00:09:52,760 --> 00:09:57,340
+So how some of these domestic extremists
+
+236
+00:09:57,340 --> 00:10:02,340
+attributed their actions to their conspiratorial beliefs.
+
+237
+00:10:02,340 --> 00:10:05,640
+What is a conspiratorial belief?
+
+238
+00:10:05,640 --> 00:10:07,230
+Well, we'll get to that.
+
+239
+00:10:07,230 --> 00:10:11,730
+But what they're saying is that some of these fringe
+
+240
+00:10:11,730 --> 00:10:13,310
+and these violent actions,
+
+241
+00:10:13,310 --> 00:10:15,830
+the perpetrators attributed their actions
+
+242
+00:10:15,830 --> 00:10:18,530
+to their conspiratorial beliefs.
+
+243
+00:10:18,530 --> 00:10:20,540
+Okay, fine.
+
+244
+00:10:20,540 --> 00:10:22,320
+They're not really particularly specific here,
+
+245
+00:10:22,320 --> 00:10:23,180
+but then they go down.
+
+246
+00:10:23,180 --> 00:10:27,860
+They talk about the Pizzagate and New World Order
+
+247
+00:10:29,380 --> 00:10:34,380
+as being part of one individual's reputation.
+
+248
+00:10:34,420 --> 00:10:35,840
+They're like, oh yeah,
+
+249
+00:10:35,840 --> 00:10:37,520
+they're talking about the Pizzagate.
+
+250
+00:10:37,520 --> 00:10:39,140
+So it's like a kind of a secret repertoire
+
+251
+00:10:39,140 --> 00:10:40,160
+of his intellectual repertoire.
+
+252
+00:10:40,160 --> 00:10:41,860
+Like he was about to use,
+
+253
+00:10:41,860 --> 00:10:46,080
+going to commit a terrorist act.
+
+254
+00:10:46,080 --> 00:10:49,600
+They got him, he didn't, but there you go.
+
+255
+00:10:49,600 --> 00:10:51,140
+So continuing onward here,
+
+256
+00:10:51,140 --> 00:10:52,260
+they talk about the outlook
+
+257
+00:10:52,260 --> 00:10:56,320
+and they mentioned the 2020 presidential election.
+
+258
+00:10:56,320 --> 00:10:58,180
+And what they're saying here is
+
+259
+00:10:58,180 --> 00:11:01,140
+that they're expecting conspiracy theories
+
+260
+00:11:01,140 --> 00:11:05,680
+to incorporate this next major election.
+
+261
+00:11:05,680 --> 00:11:06,860
+Surprise, surprise.
+
+262
+00:11:06,860 --> 00:11:12,780
+analysis of uh deep political activities what we might call deep state although deep state is a
+
+263
+00:11:12,780 --> 00:11:19,070
+conspiratorial term now apparently that they will incorporate the 2020 presidential election into
+
+264
+00:11:19,070 --> 00:11:27,770
+their conspiracy theory there's a surprise and then i want to focus on this this particular
+
+265
+00:11:27,770 --> 00:11:33,880
+area right here so they say another factor driving the intensity of conspiracy theorizing
+
+266
+00:11:33,880 --> 00:11:39,140
+in the united states and the subsequent threat from conspiracy-minded extremists
+
+267
+00:11:39,140 --> 00:11:47,450
+now listen carefully to this is the uncovering of real conspiracies or cover-ups involving illegal
+
+268
+00:11:47,450 --> 00:11:54,610
+harmful or unconstitutional activities by government officials or leading political figures
+
+269
+00:11:54,610 --> 00:12:01,970
+just wow so what they're saying right here is yes a lot of these conspiracy theories are driven by
+
+270
+00:12:01,970 --> 00:12:04,470
+actual conspiracies and cover-ups that have
+
+271
+00:12:04,470 --> 00:12:13,480
+actually happened so that's a little bit of a head spinner to me and i think for many people
+
+272
+00:12:13,480 --> 00:12:18,720
+reading this you're thinking wait what so on one hand they're saying that these conspiracy theories
+
+273
+00:12:18,720 --> 00:12:25,970
+uh are dangerous on the other hand right in here embedded in this report is an acknowledgement
+
+274
+00:12:26,530 --> 00:12:37,440
+that these theories are at least uh often driven by genuine conspiracies and cover-ups so okay
+
+275
+00:12:38,500 --> 00:12:44,960
+thanks for that they don't really uh go into any detail whatsoever as to what some of those
+
+276
+00:12:44,960 --> 00:12:50,280
+genuine conspiracies are but i will um in a short while so buckle up and we'll get into all of that
+
+277
+00:12:50,960 --> 00:12:53,920
+continuing on with this document though i just want to get into some of the real
+
+278
+00:12:53,920 --> 00:13:00,570
+interesting meat here in it um so i'll just highlight some of these in the context of domestic
+
+279
+00:13:00,570 --> 00:13:06,490
+terrorism extremists often view the activities of alleged conspirators as an existential threat that
+
+280
+00:13:06,490 --> 00:13:09,050
+can only be stopped through drastic or intrusive and highly unscrupulous action of the clandestine
+
+281
+00:13:09,050 --> 00:13:17,720
+or even violent means now again i just want to point out that uh you know they haven't really
+
+282
+00:13:17,720 --> 00:13:25,320
+defined conspiracy theory yet uh they're about to but they give a very like this is a very weak
+
+283
+00:13:25,880 --> 00:13:32,990
+and i would say um inadequate description of conspiracy theory but what they're really saying
+
+284
+00:13:32,990 --> 00:13:41,260
+is that there are certain conspiracy theories that appear to promote violence extremists are
+
+285
+00:13:41,260 --> 00:13:45,820
+they saying that or are they just saying that some violent extremists use certain
+
+286
+00:13:46,380 --> 00:13:52,860
+so-called conspiracies to justify their actions uh that they see as an existential threat i mean are
+
+287
+00:13:52,860 --> 00:13:59,850
+they they're not they're not really making a very clear distinction here as to which conspiracy
+
+288
+00:13:59,850 --> 00:14:04,140
+theories so-called conspiracy theories are promoting actual
+
+289
+00:14:04,140 --> 00:14:10,380
+violence they give a definition here a conspiracy theory is an attempt to explain events or
+
+290
+00:14:10,380 --> 00:14:16,700
+circumstances as the result of a group of actors working in secret to benefit themselves at the
+
+291
+00:14:16,700 --> 00:14:25,160
+expense of others that's a pretty good definition actually and i've heard worse um you know i started
+
+292
+00:14:25,160 --> 00:14:31,560
+uh writing about conspiracies i guess you could say 25 years ago when i began writing about ufos
+
+293
+00:14:31,560 --> 00:14:35,800
+that's my thing uh some of you who subscribe to my youtube channel know that i've been writing
+
+294
+00:14:35,800 --> 00:14:40,680
+i've written quite a bit about ufo some of you who are coming across this video for the first time
+
+295
+00:14:40,680 --> 00:14:49,640
+probably don't so the fact is that for 25 years i have researched very deeply the ufo phenomenon
+
+296
+00:14:49,640 --> 00:14:54,840
+and with an emphasis on its political overtones the political cover-up and so forth as i've
+
+297
+00:14:54,840 --> 00:14:59,960
+described it i have believed for a very long time that the cover-up on the ufo subject is real
+
+298
+00:15:01,580 --> 00:15:06,380
+and uh and goes very deep and is very significant and has caused a great deal of illegality and harm
+
+299
+00:15:06,380 --> 00:15:11,260
+to our society that's been my judgment you may disagree with that but that's been my
+
+300
+00:15:11,260 --> 00:15:15,340
+assessment for a long time and i've given a lot of thought to this i've done as much research as
+
+301
+00:15:15,900 --> 00:15:22,430
+as i can do on this so um so having looked at that i think that their definition of conspiracy
+
+302
+00:15:22,430 --> 00:15:30,110
+theory isn't a bad one i would only add that conspiratorial activity is actually a fundamental
+
+303
+00:15:30,110 --> 00:15:36,350
+element of organizational behavior particularly the higher up you go when organizations are in
+
+304
+00:15:36,350 --> 00:15:43,870
+competition with each other for power wealth and so forth they will act in secret they will act
+
+305
+00:15:43,870 --> 00:15:49,950
+in you know with um allies that they can get secretly to to get what they want to get this is
+
+306
+00:15:49,950 --> 00:15:55,550
+what's happened the world over since the beginning of of human history so nothing unusual about that
+
+307
+00:15:56,810 --> 00:16:02,490
+uh another couple of highlights some conspiracy theories point to weak circumstantial evidence
+
+308
+00:16:02,490 --> 00:16:06,730
+but ignore stronger evidence that would refute their claims this is a really
+
+309
+00:16:06,730 --> 00:16:06,890
+very interesting line of thinking on the� transaction as you know so i'm just going to jump
+
+310
+00:16:06,890 --> 00:16:12,330
+vague and meaningless statement. That's like saying, you know, because everyone is, everyone
+
+311
+00:16:12,330 --> 00:16:17,530
+is imperfect. So everyone makes mistakes. So certain ideas about how the world operates are
+
+312
+00:16:17,530 --> 00:16:23,990
+correct. Other ideas are incorrect. Big deal. And it goes on, it says, consequently, they are usually
+
+313
+00:16:23,990 --> 00:16:31,860
+at odds with official or prevailing explanations of events. That's interesting. So does that mean,
+
+314
+00:16:31,860 --> 00:16:39,380
+I mean, the assumption here, it doesn't really take a lot to see. The assumption is that official
+
+315
+00:16:39,380 --> 00:16:45,400
+and prevailing explanations of events are the correct one. And you hear this more and more.
+
+316
+00:16:45,620 --> 00:16:52,320
+It's becoming more and more out in the open that there are authoritative news sources. You hear
+
+317
+00:16:52,320 --> 00:16:58,520
+that word authoritative quite frequently when YouTube and Facebook are talking about providing
+
+318
+00:16:58,520 --> 00:17:03,000
+you with authoritative news. You know, Facebook, which,
+
+319
+00:17:03,040 --> 00:17:07,380
+works hand in hand now with the Atlantic Council. And if you don't know much about the Atlantic
+
+320
+00:17:07,380 --> 00:17:13,960
+Council, they're worth a web search. This is a NATO-based organization that is described in any
+
+321
+00:17:13,960 --> 00:17:21,480
+sense. You look at it as neoconservative, hardcore neocons. They are the go-to news
+
+322
+00:17:21,480 --> 00:17:28,160
+source that is guiding Facebook's news strategy. And by the way, Facebook,
+
+323
+00:17:28,880 --> 00:17:33,730
+as you probably have heard, is now in the process or trying,
+
+324
+00:17:33,750 --> 00:17:42,030
+to pay news companies for the right to put their headlines on Facebook news feed.
+
+325
+00:17:42,730 --> 00:17:45,690
+And they'll probably get away with it because the news organizations are all going broke
+
+326
+00:17:45,690 --> 00:17:50,810
+and Facebook is going to get away with it. So they're actually becoming the true source of
+
+327
+00:17:50,810 --> 00:17:56,930
+so-called authoritative news. I don't consider that a particularly good thing, but there you go.
+
+328
+00:17:57,820 --> 00:18:03,180
+So anyway, the fundamental assumption in this statement here is that the official and prevailing
+
+329
+00:18:03,180 --> 00:18:04,300
+explanation of events are the correct one. And I think that's a good thing.
+
+330
+00:18:04,320 --> 00:18:12,750
+And they differentiate conspiracy theories from real conspiracies, which the author here says
+
+331
+00:18:12,750 --> 00:18:18,490
+involving illegal, anti-democratic, and harmful activities by high-level government officials
+
+332
+00:18:18,490 --> 00:18:24,050
+and political elites have been exposed in the past. And it has been argued that such plots
+
+333
+00:18:24,050 --> 00:18:30,740
+have encouraged conspiracism in society. And yes, I think that's actually a very defensible
+
+334
+00:18:30,740 --> 00:18:34,940
+statement. And that's actually quite true. I have myself argued for a long time,
+
+335
+00:18:35,440 --> 00:18:43,100
+that it is the criminal nature of much of our governing society and what we would call our
+
+336
+00:18:43,100 --> 00:18:49,940
+elites that has caused a huge amount of distrust to develop among not just the people, but among
+
+337
+00:18:49,940 --> 00:18:54,860
+scholars and researchers who delve into these types of matters. And they're naturally going
+
+338
+00:18:54,860 --> 00:19:00,800
+to develop a distrust. So again, it's really what there's no discussion of in any of this,
+
+339
+00:19:00,800 --> 00:19:04,220
+of course, and it's really not their intention, but there's no discussion of
+
+340
+00:19:06,080 --> 00:19:12,870
+whether or not there's a distinction between valid conspiracy analysis, let us say, and
+
+341
+00:19:12,870 --> 00:19:20,170
+whack-job violent conspiracy theories. They don't really get into that. So I'm going to continue a few more
+
+342
+00:19:20,170 --> 00:19:32,260
+points here. One of the things that comes through in this document is the newest important
+
+343
+00:19:32,260 --> 00:19:37,920
+kind of new development that they want to go after, which is a new conspiracy theory, excuse me, is anti-democracy.
+
+344
+00:19:38,260 --> 00:19:44,280
+Anti-government conspiracy theories. So there are other types of conspiracy theories that they discuss, but the
+
+345
+00:19:44,280 --> 00:19:49,420
+anti-government ones are the ones that they are most concerned with nowadays, or that has really
+
+346
+00:19:49,420 --> 00:19:54,940
+gotten their attention. And they just list three here. I've underlined them. So you've got the New
+
+347
+00:19:54,940 --> 00:20:03,480
+World Order conspiracy theory. I've got quite a bit to say on that. And oh golly, I was going to
+
+348
+00:20:03,480 --> 00:20:08,360
+show you a screenshot of that, and I never incorporate that in here, but I will talk about it.
+
+349
+00:20:09,640 --> 00:20:14,820
+So they describe the New World Order as a group of international elites, controls, governments,
+
+350
+00:20:14,820 --> 00:20:19,900
+industry, and media organizations instigating major wars, carrying out secret stage events, and
+
+351
+00:20:19,900 --> 00:20:25,480
+manipulating economies with the goal of establishing global rule. And they call this a dangerous
+
+352
+00:20:25,480 --> 00:20:30,040
+conspiracy theory. I just want to point out, I was going to share this screen, but I actually
+
+353
+00:20:30,040 --> 00:20:36,340
+neglected to insert this into these slides. I have an old book on my shelf. I've had it for years.
+
+354
+00:20:36,340 --> 00:20:40,100
+Don't know how I got it. From 1976.
+
+355
+00:20:40,120 --> 00:20:49,640
+Let me stop sharing the screen for a second. How do I do this? I'm on the new, there we go.
+
+356
+00:20:54,440 --> 00:20:59,160
+I have a book from 1976 by an author named Gary Allen. Again, I don't know how I got this book.
+
+357
+00:20:59,160 --> 00:21:04,200
+It's old. Called The Rockefeller File. So it's an early conspiracy book, long before the internet.
+
+358
+00:21:04,760 --> 00:21:10,960
+And I read it many years ago. And what's interesting in this book is in 1976,
+
+359
+00:21:10,960 --> 00:21:13,840
+so it's a very interesting analysis of the Rockefeller dynasty,
+
+360
+00:21:13,960 --> 00:21:22,080
+and really getting into, you know, their financial control over the world, the foundation system,
+
+361
+00:21:22,080 --> 00:21:27,240
+and all of that. But on page 61, and I remember this very well, and I'll try to get a screenshot
+
+362
+00:21:27,240 --> 00:21:33,040
+up here at some point in the future. I can't do it on this broadcast. But on page 61 of this
+
+363
+00:21:33,040 --> 00:21:38,430
+little paperback book, Gary Allen, I don't know how he got this information. He's talking about
+
+364
+00:21:38,430 --> 00:21:44,510
+how the Rockefeller brothers, the four big ones, David, Winthrop, Nelson, and Lawrence,
+
+365
+00:21:44,530 --> 00:21:54,670
+had a phrase that they used among themselves to describe the nature of the world they were trying
+
+366
+00:21:54,670 --> 00:22:01,340
+to create for their own benefit. And the phrase was New World Order. Now, he wrote this book in
+
+367
+00:22:01,340 --> 00:22:10,060
+1975, published in 1976. And if you, he has basically spends like one or two pages discussing
+
+368
+00:22:10,060 --> 00:22:14,520
+their take on the New World Order. And he says, this is not going to be some fun little picnic.
+
+369
+00:22:14,520 --> 00:22:16,040
+This is, this is their,
+
+370
+00:22:16,420 --> 00:22:23,860
+their vision for controlling the whole rest of the world. So, okay, so he writes this in the mid 70s.
+
+371
+00:22:23,860 --> 00:22:31,400
+15 years, 14 years later, President George Herbert Walker Bush and his national security advisor,
+
+372
+00:22:31,400 --> 00:22:38,920
+Brent Scowcroft, within the space of a week or two, I think, maybe within a month, both insert
+
+373
+00:22:38,920 --> 00:22:47,010
+that phrase in 1990 into their respective speeches. A New World Order. They did this in a very positive
+
+374
+00:22:47,010 --> 00:22:54,960
+way. And of course, well, nowadays, New World Order is not a positive phrase. But President Bush at
+
+375
+00:22:54,960 --> 00:23:00,420
+that time, absolutely did incorporate it and, and tried to talk about this New World Order in a very
+
+376
+00:23:00,420 --> 00:23:05,500
+positive way. Now, George Herbert Walker Bush for his entire life, was always in tight with the
+
+377
+00:23:05,500 --> 00:23:11,440
+Rockefellers and has really always, always worked for them in one form or another. So I don't think
+
+378
+00:23:11,440 --> 00:23:16,160
+that's a coincidence. Maybe it's a coincidence, but I seriously doubt it. And I really wonder,
+
+379
+00:23:16,160 --> 00:23:17,040
+is my,
+
+380
+00:23:17,400 --> 00:23:27,120
+description of that for you just now, is that a conspiracy theory? Or is that simply true? So again,
+
+381
+00:23:27,120 --> 00:23:34,500
+the whole idea of New World Order being a conspiracy theory? No, in fact, there's genuinely
+
+382
+00:23:34,500 --> 00:23:41,280
+strong research to support the fact that this idea of a New World Order is and has been for a very
+
+383
+00:23:41,280 --> 00:23:47,960
+long time promoted by our greatest financial elites, the Rockefellers themselves. So,
+
+384
+00:23:48,840 --> 00:23:55,080
+yeah, interesting. They mentioned the UN and all the UN conspiracies. I think that probably these
+
+385
+00:23:55,080 --> 00:23:59,820
+days, the UN has really taken a backseat to a lot of other conspiracy theories. In my view, I don't
+
+386
+00:23:59,820 --> 00:24:04,560
+see it as being that critical. Maybe some people out there take it seriously. I don't really think
+
+387
+00:24:04,560 --> 00:24:15,150
+so. And then they get into false flags, right down here at the bottom. Wow. So here we go, false
+
+388
+00:24:15,150 --> 00:24:15,650
+flags.
+
+389
+00:24:16,650 --> 00:24:19,830
+Now, this is something I've spent a lot of time researching, and they describe,
+
+390
+00:24:20,370 --> 00:24:25,330
+this in the following manner. The official story surrounding a given terrorist attack or mass
+
+391
+00:24:25,330 --> 00:24:30,130
+shooting is a lie. The event was staged or conducted by the government to justify encroachments
+
+392
+00:24:30,130 --> 00:24:37,430
+on civil liberties. Yeah, that's kind of accurate. That's a pretty straightforward description. But
+
+393
+00:24:37,430 --> 00:24:43,590
+what they're doing here is implicitly saying that, you know, just by the way that they're framing it
+
+394
+00:24:43,590 --> 00:24:50,800
+in this, in this bulletin, that these are dangerous conspiracy theories and presumably false. And they
+
+395
+00:24:50,800 --> 00:24:50,860
+have no idea what they're talking about. They have no idea what they're talking about. And they have
+
+396
+00:24:50,860 --> 00:24:55,320
+no idea what they're talking about. They don't say within this that they're false. And in fact, the report is
+
+397
+00:24:55,320 --> 00:25:03,580
+really duplicitous in a lot of ways, because, you know, in several places, it states that conspiracy
+
+398
+00:25:03,580 --> 00:25:12,130
+theories are, in part, driven by actual genuine government conspiracies. Now, as someone who's
+
+399
+00:25:12,130 --> 00:25:18,250
+looked into false flags in a great amount of detail, I can tell you, false flags are something
+
+400
+00:25:18,250 --> 00:25:21,230
+that is part of our world in a very, very integral way. And there's
+
+401
+00:25:21,250 --> 00:25:27,530
+reasons, there are specific reasons why false flags, in fact, are part of our world. And I've
+
+402
+00:25:27,530 --> 00:25:32,330
+talked about this many times, but in short, I would simply suggest to you that in an era where
+
+403
+00:25:33,210 --> 00:25:39,370
+we are still living in ostensibly democratic societies with ostensibly democratic institutions,
+
+404
+00:25:39,370 --> 00:25:42,970
+which in fact, are not democratic, but more oligarchic than anything else.
+
+405
+00:25:43,850 --> 00:25:51,130
+But that must keep the veneer of a democratic appearance, you know, out there for people,
+
+406
+00:25:51,130 --> 00:25:56,870
+but yet, that doesn't change the fact that governments and powerful organizations still
+
+407
+00:25:56,870 --> 00:26:03,010
+need to do things to get their way. And they need to, they can't just, you know, openly invade other
+
+408
+00:26:03,010 --> 00:26:08,750
+countries all the time. So they have to create pretext, or they have to create, you know, all
+
+409
+00:26:08,750 --> 00:26:17,010
+kinds of excuses, or not excuses, but justifications for what they do. And there's a very long,
+
+410
+00:26:17,010 --> 00:26:21,610
+provable history of false flags. Some of them I'll discuss in a short while.
+
+411
+00:26:21,770 --> 00:26:30,010
+And there's a lot of false flags that we can't prove with 100%, but certainly look and act like
+
+412
+00:26:30,010 --> 00:26:35,320
+other types of false flags that we know happen. So let me continue here. Let's see, what else are
+
+413
+00:26:35,320 --> 00:26:43,560
+they saying? Political fringe. Oh, yeah. So they talk about two specific fringe political conspiracy
+
+414
+00:26:43,560 --> 00:26:51,960
+theories at Pizzagate and QAnon. And basically set these both up as straw men in the way that I look
+
+415
+00:26:51,960 --> 00:26:52,440
+at this.
+
+416
+00:26:52,440 --> 00:26:57,000
+But one thing that they actually have is very interesting. They both mentioned child sex
+
+417
+00:26:57,000 --> 00:27:03,160
+trafficking in both of them as dangerous conspiracy theories. And I just think that's really great
+
+418
+00:27:03,160 --> 00:27:09,960
+timing, guys, in the aftermath of the arrest and suicide of Jeffrey Epstein. Like, wow.
+
+419
+00:27:11,320 --> 00:27:16,760
+If there's any time that you want to believe in that type of conspiracy theory, this is probably
+
+420
+00:27:16,760 --> 00:27:21,960
+the time to believe in it. But according to the FBI, these types of things are dangerous conspiracy
+
+421
+00:27:21,960 --> 00:27:30,420
+theories. So this is from, I think, the Yahoo News article. And they just say here,
+
+422
+00:27:30,420 --> 00:27:35,460
+the new focus on conspiracy theorists appears to fall under the broader category of anti-government
+
+423
+00:27:35,460 --> 00:27:41,220
+extremism. I was just talking about this. And then a quote here. This is the first FBI product
+
+424
+00:27:41,220 --> 00:27:47,220
+examining the threat from conspiracy-driven domestic extremists and provides a baseline
+
+425
+00:27:47,220 --> 00:27:53,060
+for future intelligence products. So, okay. Let me just stop sharing.
+
+426
+00:27:53,060 --> 00:27:57,220
+Let me stop sharing the screen there for a moment, and I'll come back to a few other things here.
+
+427
+00:28:00,090 --> 00:28:08,310
+Now, one thing that I really feel this is important to say for proper balance is that the FBI states
+
+428
+00:28:08,310 --> 00:28:17,030
+several times in their press release that they're not going after people just on the basis of their
+
+429
+00:28:17,030 --> 00:28:21,750
+opinions. They say this a few times. In fact, let me just show you these couple of quotes here.
+
+430
+00:28:21,750 --> 00:28:27,590
+So, there's two of them here. In its statement, the FBI also said it can quote,
+
+431
+00:28:27,590 --> 00:28:32,390
+never initiate an investigation based solely on First Amendment protected activity.
+
+432
+00:28:32,390 --> 00:28:39,130
+That's an interesting way that they put it, actually. However, First Amendment protected
+
+433
+00:28:39,130 --> 00:28:44,650
+activity is defined, but let's continue. As with all of our investigations, they go on, the FBI can
+
+434
+00:28:44,650 --> 00:28:50,490
+never monitor a website or a social media platform without probable cause. Well, I would just reply
+
+435
+00:28:50,490 --> 00:28:57,670
+So reply that in the post-USA Patriot Act era since 2001, that gives them quite a lot
+
+436
+00:28:57,670 --> 00:29:02,670
+of leeway to have their way with monitoring websites.
+
+437
+00:29:02,670 --> 00:29:07,990
+Another statement later in the article, the Yahoo article, I'll just read this here.
+
+438
+00:29:07,990 --> 00:29:13,370
+Though the FBI document focuses on ideological motivations, FBI Director Wray in his testimony
+
+439
+00:29:13,370 --> 00:29:20,110
+last week asserted that the FBI is concerned only with violence, not people's beliefs.
+
+440
+00:29:20,110 --> 00:29:25,770
+The FBI doesn't, quote, investigate ideology no matter how repugnant, end quote, he told
+
+441
+00:29:25,770 --> 00:29:26,770
+lawmakers.
+
+442
+00:29:26,770 --> 00:29:29,930
+We investigate violence and any extremist ideology.
+
+443
+00:29:29,930 --> 00:29:33,230
+When it turns to violence, we are all over it.
+
+444
+00:29:33,230 --> 00:29:36,950
+In the first three quarters of this year, we've had more domestic terrorism arrests
+
+445
+00:29:36,950 --> 00:29:42,650
+than the prior year, and it's about the same number of arrests as we have on the international
+
+446
+00:29:42,650 --> 00:29:44,850
+terrorism side.
+
+447
+00:29:44,850 --> 00:29:50,010
+So yeah, I mean, that's interesting that they say what they're saying here.
+
+448
+00:29:50,140 --> 00:30:00,880
+Again, no one is denying that there are dangerous extremists in the United States and around
+
+449
+00:30:00,880 --> 00:30:01,880
+the world.
+
+450
+00:30:01,880 --> 00:30:05,460
+And by the way, they're of all political persuasions, so you get them on the right, you get them
+
+451
+00:30:05,460 --> 00:30:06,800
+on the left.
+
+452
+00:30:06,800 --> 00:30:09,340
+And it is a danger, and it's a real problem.
+
+453
+00:30:09,340 --> 00:30:14,720
+One thing that I would ask you to consider, however, is how closely related extremist
+
+454
+00:30:14,720 --> 00:30:17,220
+ideologies are to conspiracy theories.
+
+455
+00:30:17,220 --> 00:30:19,220
+And I think this is a really weak link in the end.
+
+456
+00:30:19,220 --> 00:30:20,220
+Thank you.
+
+457
+00:30:20,220 --> 00:30:21,280
+Thank you for that in the analysis.
+
+458
+00:30:21,280 --> 00:30:26,750
+And in fact, I would say it's a nearly non-existent link.
+
+459
+00:30:26,750 --> 00:30:33,010
+There are in history and currently you've had Nazis, you've had fascists, you've had
+
+460
+00:30:33,010 --> 00:30:34,290
+communists.
+
+461
+00:30:34,290 --> 00:30:40,630
+These are ideologically driven extremists who have and do commit violent acts, and we
+
+462
+00:30:40,630 --> 00:30:41,870
+know this.
+
+463
+00:30:41,870 --> 00:30:49,400
+But I would ask you to ask the question, are those extremist ideologies the product of
+
+464
+00:30:49,400 --> 00:30:50,300
+conspiracy theories?
+
+465
+00:30:50,300 --> 00:30:54,400
+I think the answer to that is really fundamentally no.
+
+466
+00:30:54,400 --> 00:30:57,690
+I think that they're totally separate.
+
+467
+00:30:57,690 --> 00:31:03,940
+Certainly in the case of Nazi and fascist ideologies, they're not driven primarily by
+
+468
+00:31:03,940 --> 00:31:04,940
+conspiracies.
+
+469
+00:31:04,940 --> 00:31:09,820
+They may incorporate their own ideas of conspiracies in, but those are, in my view, absolutely
+
+470
+00:31:09,820 --> 00:31:13,060
+secondary to other types of motivations.
+
+471
+00:31:13,060 --> 00:31:16,800
+The same, I would say, is true of communist ideologies.
+
+472
+00:31:16,800 --> 00:31:20,820
+They have their own dangerous extremisms, all of them.
+
+473
+00:31:20,820 --> 00:31:26,260
+And it is, I think, no one's arguing that we shouldn't be monitoring against those and
+
+474
+00:31:26,260 --> 00:31:32,140
+challenging them and regulating them to the extent that we decide as a society to do so.
+
+475
+00:31:32,140 --> 00:31:42,420
+But again, to conflate those with so-called conspiracy theories is a real stretch, and
+
+476
+00:31:42,420 --> 00:31:46,980
+there hasn't been any kind of genuine evidence provided in this FBI bulletin.
+
+477
+00:31:46,980 --> 00:31:51,160
+Or frankly anywhere else that I have seen that justifies this type of report.
+
+478
+00:31:51,160 --> 00:31:55,270
+So I'm going to continue to share a screen with you again.
+
+479
+00:31:55,270 --> 00:31:59,890
+And this, I think, is the last thing that I'm quoting from the article, and then I've
+
+480
+00:31:59,890 --> 00:32:02,610
+got a few other things I'm going to share with you.
+
+481
+00:32:02,610 --> 00:32:07,730
+The Homeland Security official agrees that conspiracy theories, and this is how they
+
+482
+00:32:07,730 --> 00:32:14,870
+end the article, may in fact inspire violence and be a threat, but questions what the government
+
+483
+00:32:14,870 --> 00:32:15,950
+is going to do about it.
+
+484
+00:32:15,950 --> 00:32:21,410
+He notes that the Department of Homeland Security, quote, nearly all, if not all, the intelligence
+
+485
+00:32:21,410 --> 00:32:26,850
+analysts focusing on domestic extremist groups were eliminated under the Trump administration.
+
+486
+00:32:26,850 --> 00:32:29,090
+There is no one there doing this, he says.
+
+487
+00:32:29,090 --> 00:32:35,990
+So really the article ends on the note of emphasizing the importance, it seems to me,
+
+488
+00:32:35,990 --> 00:32:42,470
+of putting more money and more resources into combating extremist conspiracy theorists.
+
+489
+00:32:42,470 --> 00:32:44,190
+So it's a real kind of support.
+
+490
+00:32:44,190 --> 00:32:45,230
+I'm going to stop there.
+
+491
+00:32:45,230 --> 00:32:45,730
+Thank you.
+
+492
+00:32:45,950 --> 00:32:53,010
+For what the FBI is trying to do here, and there you go.
+
+493
+00:32:53,010 --> 00:33:03,900
+So if we were to go by the, you know, what the FBI is suggesting here, and really this
+
+494
+00:33:03,900 --> 00:33:09,090
+is a tacit recommendation, let's make no mistake about it.
+
+495
+00:33:09,090 --> 00:33:14,480
+I wonder what would have happened in, say, 1960 if some researcher analysts had been
+
+496
+00:33:14,480 --> 00:33:19,600
+able to say, you know, I believe the United States government is conducting covert, you
+
+497
+00:33:19,600 --> 00:33:25,720
+know, mind control research on unwitting subjects and screwing with their heads for the rest
+
+498
+00:33:25,720 --> 00:33:32,200
+of all time in the quest for creating the perfect, what, Manchurian candidate or the
+
+499
+00:33:32,200 --> 00:33:37,460
+perfect, you know, mind control victim.
+
+500
+00:33:37,460 --> 00:33:49,610
+And that individual in 1960, under this type of FBI, you know, recommendation, would be
+
+501
+00:33:49,610 --> 00:33:50,450
+labeled as a potential demilitarizer.
+
+502
+00:33:50,450 --> 00:33:51,050
+I don't know.
+
+503
+00:33:51,050 --> 00:33:51,150
+I don't know.
+
+504
+00:33:51,150 --> 00:33:52,170
+I'm trying to prove to you that these guys are잖아요, I don't know.
+
+505
+00:33:52,170 --> 00:33:55,030
+But he has a lot of experience on the subject of the domestic terrorist threat seems to
+
+506
+00:33:55,030 --> 00:33:56,030
+me.
+
+507
+00:33:56,030 --> 00:34:02,160
+That's an anti-government conspiracy theory, MKUltra, which happened to be true.
+
+508
+00:34:02,160 --> 00:34:07,040
+Or what would someone have said in, say, 1950?
+
+509
+00:34:07,040 --> 00:34:12,220
+If they had said, you know, there's a lot of Nazis being brought in covertly into the
+
+510
+00:34:12,220 --> 00:34:13,760
+United States.
+
+511
+00:34:13,760 --> 00:34:18,540
+These are unrepentant Nazis and looks like the United States government somehow, one
+
+512
+00:34:18,540 --> 00:34:21,920
+way or another, is bringing these guys in covertly.
+
+513
+00:34:21,920 --> 00:34:26,780
+because we're not supposed to allow them into our country that's illegal which in
+
+514
+00:34:26,780 --> 00:34:33,270
+fact it was and that person could also be considered a dangerous anti-government
+
+515
+00:34:33,270 --> 00:34:38,030
+extremist and that would be operation paperclip and that would not be a
+
+516
+00:34:38,030 --> 00:34:43,850
+conspiracy theory that would be conspiracy fact or what if someone 1950
+
+517
+00:34:43,850 --> 00:34:51,040
+1960 1970 had said looks to me in my research that the CIA has actually had
+
+518
+00:34:51,040 --> 00:34:55,940
+us hooks into major major media for many many years and is in fact controlling
+
+519
+00:34:55,940 --> 00:35:00,580
+the most part of what mainstream what the media is reporting it's all being
+
+520
+00:35:00,580 --> 00:35:06,540
+managed ultimately by the CIA and again that's another anti-government
+
+521
+00:35:06,540 --> 00:35:11,290
+conspiracy theory that would be operation Mockingbird absolute total
+
+522
+00:35:11,290 --> 00:35:15,830
+fact you know we can go on and on there's a lot of these you could say if
+
+523
+00:35:15,830 --> 00:35:21,050
+it's if the year is 1953 and you're looking at the so-called you know
+
+524
+00:35:21,050 --> 00:35:24,510
+free Iranian revolution that overthrew the prime the elected prime minister of
+
+525
+00:35:24,510 --> 00:35:29,210
+Mossadegh and if you had said that's actually a CIA and British intelligence
+
+526
+00:35:29,210 --> 00:35:34,070
+operation to bring in a bunch of Iranian thugs and killers and murderers and put
+
+527
+00:35:34,070 --> 00:35:38,150
+them in the streets and start riots one right after another and also to
+
+528
+00:35:38,150 --> 00:35:42,650
+instigate bombings and blame it on communists all in an effort to overthrow
+
+529
+00:35:42,650 --> 00:35:46,910
+this regime so that the US and the Brits can get the Iranian oil again that
+
+530
+00:35:46,910 --> 00:35:50,150
+person would also be considered a dangerous extremist
+
+531
+00:35:50,150 --> 00:35:50,950
+anti-government
+
+532
+00:35:50,950 --> 00:35:55,510
+according to how the FBI is formulating this and that would be operation Ajax
+
+533
+00:35:55,510 --> 00:36:02,440
+that's also true or here's a good one how about if it's 1962 and you tell the
+
+534
+00:36:02,440 --> 00:36:06,440
+world hey you know some crazy guy at the Joint Chiefs of Staff is trying to get
+
+535
+00:36:06,440 --> 00:36:13,320
+President Kennedy to sign off on having American commercial airliners crash into
+
+536
+00:36:13,320 --> 00:36:18,100
+American buildings and blame it on Cubans allowing us to start a war with
+
+537
+00:36:18,100 --> 00:36:21,600
+Cuba you'd be considered a very dangerous
+
+538
+00:36:21,600 --> 00:36:21,760
+American commercial airliners crash into American buildings and blame it on Cubans allowing us to start a war with Cuba you'd be considered a very dangerous
+
+539
+00:36:21,760 --> 00:36:25,540
+anti-government extremist and yet you would be telling the truth because that
+
+540
+00:36:25,540 --> 00:36:30,420
+would be describing describing operation north woods which thankfully did not
+
+541
+00:36:30,420 --> 00:36:34,240
+happen John F Kennedy had the common good sense to say no we're not gonna do
+
+542
+00:36:34,240 --> 00:36:36,040
+that get out of my office
+
+543
+00:36:36,040 --> 00:36:38,900
+and on and on and on
+
+544
+00:36:39,200 --> 00:36:42,100
+bombings in Europe
+
+545
+00:36:42,100 --> 00:36:47,840
+done by operation gladio a NATO C I operation through the
+
+546
+00:36:47,840 --> 00:36:51,020
+50s and 60s and 70s and 80s
+
+547
+00:36:51,020 --> 00:36:51,540
+and
+
+548
+00:36:51,540 --> 00:36:51,720
+well I can't get on there
+
+549
+00:36:51,720 --> 00:36:53,200
+and probably beyond.
+
+550
+00:36:53,200 --> 00:36:56,120
+And Gladio is only the name of the Italian element
+
+551
+00:36:56,120 --> 00:36:57,980
+of that operation.
+
+552
+00:36:57,980 --> 00:36:59,540
+This is something that went on throughout Europe
+
+553
+00:36:59,540 --> 00:37:01,680
+under different names in different countries.
+
+554
+00:37:01,680 --> 00:37:06,680
+This is CIA orchestrated bombings and murder
+
+555
+00:37:07,080 --> 00:37:12,080
+and terrorism of European cities and people killing them
+
+556
+00:37:12,820 --> 00:37:15,700
+and blaming it typically on communists
+
+557
+00:37:15,700 --> 00:37:18,020
+in order to scare the people.
+
+558
+00:37:18,020 --> 00:37:21,800
+That's Operation Gladio and that is a proven historical fact
+
+559
+00:37:21,800 --> 00:37:22,640
+and we know about it.
+
+560
+00:37:22,640 --> 00:37:25,240
+There's people in prison as a result of it.
+
+561
+00:37:25,240 --> 00:37:29,100
+Or the fact that the CIA assassinated people, God forbid.
+
+562
+00:37:29,100 --> 00:37:30,280
+Well, that came out in the church committee
+
+563
+00:37:30,280 --> 00:37:31,600
+back in the 1970s.
+
+564
+00:37:31,600 --> 00:37:34,480
+Or COINTELPRO, the fact that the FBI could go
+
+565
+00:37:34,480 --> 00:37:36,560
+into your house and what are called black bag jobs
+
+566
+00:37:36,560 --> 00:37:39,100
+and plant evidence against you.
+
+567
+00:37:39,100 --> 00:37:41,200
+Or if you're Martin Luther King and you were to say,
+
+568
+00:37:41,200 --> 00:37:45,800
+yeah, the FBI is actually behind trying to get me
+
+569
+00:37:45,800 --> 00:37:49,560
+to kill myself or trying to do other things
+
+570
+00:37:49,560 --> 00:37:52,060
+to destabilize my public career.
+
+571
+00:37:52,060 --> 00:37:54,280
+That would be considered crazy talk
+
+572
+00:37:54,280 --> 00:37:56,280
+and dangerous anti-government extremism
+
+573
+00:37:56,280 --> 00:37:58,960
+because you're sowing a lack of faith
+
+574
+00:37:58,960 --> 00:38:00,820
+in your public institution, the FBI.
+
+575
+00:38:00,820 --> 00:38:01,660
+But guess what?
+
+576
+00:38:01,660 --> 00:38:03,180
+That was true.
+
+577
+00:38:03,180 --> 00:38:07,540
+The Gulf of Tonkin, the covert syphilis injections
+
+578
+00:38:07,540 --> 00:38:09,680
+that went on through the Tuskegee Institute
+
+579
+00:38:09,680 --> 00:38:12,960
+against African-Americans and also against Guatemalans
+
+580
+00:38:12,960 --> 00:38:15,620
+killing many, many people, injecting them with syphilis
+
+581
+00:38:17,400 --> 00:38:19,980
+to see if you could have different ways of treating it.
+
+582
+00:38:19,980 --> 00:38:22,160
+Lots of people died in those.
+
+583
+00:38:22,380 --> 00:38:26,080
+And if you were to say this back in the 1940s and 50s and 60s,
+
+584
+00:38:26,080 --> 00:38:29,460
+you would also be considered a dangerous conspiracy theorist
+
+585
+00:38:29,460 --> 00:38:33,170
+as how the FBI is putting this today.
+
+586
+00:38:33,170 --> 00:38:36,990
+And you'd be deplatformed and who knows what else.
+
+587
+00:38:39,690 --> 00:38:40,950
+We can go on and on and on.
+
+588
+00:38:40,950 --> 00:38:46,050
+And one of the ones that I wanna show you
+
+589
+00:38:48,150 --> 00:38:50,870
+and I wanna share the screen, of course,
+
+590
+00:38:50,870 --> 00:38:53,370
+oh, there's the 2002, 2003 domestic,
+
+591
+00:38:53,410 --> 00:38:56,630
+excuse me, Iraqi weapons of mass destruction
+
+592
+00:38:56,630 --> 00:38:57,630
+and all of those lies.
+
+593
+00:38:58,870 --> 00:39:02,550
+And if you, now back in those days in 2002,
+
+594
+00:39:02,550 --> 00:39:06,610
+citizens were actually very skeptical of that claim.
+
+595
+00:39:06,610 --> 00:39:09,390
+I was one of them and there were lots of others.
+
+596
+00:39:09,390 --> 00:39:11,850
+And we were not then being labeled
+
+597
+00:39:11,850 --> 00:39:14,810
+as potential domestic extremists and terrorists
+
+598
+00:39:14,810 --> 00:39:17,290
+the way I think it's very possible
+
+599
+00:39:17,290 --> 00:39:22,290
+that the FBI might just be inclined to do if it were today.
+
+600
+00:39:22,290 --> 00:39:25,310
+So let me share this one screen with you here.
+
+601
+00:39:25,310 --> 00:39:28,890
+This, of course, is from about five years ago
+
+602
+00:39:28,890 --> 00:39:31,370
+when Edward Snowden came out with
+
+603
+00:39:32,530 --> 00:39:36,870
+the massive amount of revelations that happened in 2014.
+
+604
+00:39:36,870 --> 00:39:39,520
+And this is one of them.
+
+605
+00:39:39,520 --> 00:39:42,360
+I mean, probably the most sensational
+
+606
+00:39:42,360 --> 00:39:45,340
+was all the domestic espionage that was going on
+
+607
+00:39:45,340 --> 00:39:50,590
+so massively NSA spying.
+
+608
+00:39:50,590 --> 00:39:53,010
+In fact, James Clapper, who was then NSA director,
+
+609
+00:39:53,010 --> 00:39:58,010
+lied to Congress shortly before all of these leaks came out
+
+610
+00:39:58,770 --> 00:40:02,610
+and stated, oh no, we don't do anything like that.
+
+611
+00:40:02,610 --> 00:40:05,690
+Well, yes you do, and you lied to Congress.
+
+612
+00:40:05,690 --> 00:40:08,830
+But this is one of the Snowden leaks dealing with GCHQ.
+
+613
+00:40:08,830 --> 00:40:10,730
+That's Britain's NSA.
+
+614
+00:40:10,730 --> 00:40:13,770
+And it deals with the dirty tricks
+
+615
+00:40:13,770 --> 00:40:18,770
+that GCHQ has been involved with, including false flags.
+
+616
+00:40:19,930 --> 00:40:23,060
+In this case, false flags against people,
+
+617
+00:40:23,060 --> 00:40:25,460
+but false flags, so in this case,
+
+618
+00:40:25,460 --> 00:40:28,680
+they're recommending against enemies of the state.
+
+619
+00:40:28,680 --> 00:40:33,330
+Essentially, one thing you can do is write a blog
+
+620
+00:40:33,330 --> 00:40:35,350
+purporting to be one of their victims,
+
+621
+00:40:37,440 --> 00:40:40,120
+and then do other kinds of really nasty harassment,
+
+622
+00:40:40,120 --> 00:40:42,680
+email, text their colleagues, neighbors, and so forth,
+
+623
+00:40:42,680 --> 00:40:44,220
+set up a honey trap.
+
+624
+00:40:44,220 --> 00:40:48,120
+Yeah, this is what in the old days we'd expect
+
+625
+00:40:48,120 --> 00:40:51,400
+from the Soviet Union back in the 60s and 70s,
+
+626
+00:40:51,400 --> 00:40:53,660
+but it's a tried and true method,
+
+627
+00:40:53,660 --> 00:40:57,280
+so GCHQ's involved in that, but yeah, false flags.
+
+628
+00:40:57,280 --> 00:41:01,920
+So when we are getting this document from the FBI,
+
+629
+00:41:01,920 --> 00:41:05,920
+this bulletin, and a lot of these talking heads out there,
+
+630
+00:41:05,920 --> 00:41:09,080
+so if you do a YouTube search or even a Google search
+
+631
+00:41:09,080 --> 00:41:14,080
+on this story, FBI, domestic terrorism,
+
+632
+00:41:14,420 --> 00:41:17,740
+extremism, conspiracy theories, and all of that,
+
+633
+00:41:17,740 --> 00:41:21,480
+you'll find a number of sites that are very critical of that,
+
+634
+00:41:21,480 --> 00:41:22,940
+and you'll find a number of sites
+
+635
+00:41:22,940 --> 00:41:23,640
+that are actually very supportive
+
+636
+00:41:23,640 --> 00:41:26,860
+of that, and I haven't really done a breakdown yet,
+
+637
+00:41:26,860 --> 00:41:31,310
+but it's maybe 50-50, as far as I can tell.
+
+638
+00:41:33,420 --> 00:41:38,020
+And they are basically, the ones that support this,
+
+639
+00:41:38,020 --> 00:41:39,220
+you can really see a pattern.
+
+640
+00:41:39,220 --> 00:41:41,440
+It's the ones that have more money,
+
+641
+00:41:41,440 --> 00:41:43,600
+that are clearly more mainstreamy
+
+642
+00:41:43,600 --> 00:41:45,240
+in their presentation and so forth.
+
+643
+00:41:45,240 --> 00:41:47,040
+They're the ones that really are supporting this,
+
+644
+00:41:47,040 --> 00:41:48,240
+and then the ones that are attacking it
+
+645
+00:41:48,240 --> 00:41:53,240
+are usually like lone guys in their house, like me,
+
+646
+00:41:53,240 --> 00:41:56,380
+who are giving you their analysis in that manner,
+
+647
+00:41:56,380 --> 00:41:58,480
+and they're the ones who are opposed to it.
+
+648
+00:42:00,050 --> 00:42:01,910
+But the ones who are supporting it,
+
+649
+00:42:05,130 --> 00:42:07,110
+I think they're kind of missing the point here,
+
+650
+00:42:07,110 --> 00:42:10,630
+and I want to say this as respectfully as I can,
+
+651
+00:42:10,630 --> 00:42:12,330
+because look, I don't want to just be preaching
+
+652
+00:42:12,330 --> 00:42:13,170
+to the choir here.
+
+653
+00:42:13,170 --> 00:42:15,970
+There's a lot of people who have different opinions on this,
+
+654
+00:42:15,970 --> 00:42:20,630
+but the biggest problem I think that they fall under is,
+
+655
+00:42:20,630 --> 00:42:23,610
+as I mentioned before, they conflate extremist ideology
+
+656
+00:42:23,610 --> 00:42:25,370
+with conspiracy theory.
+
+657
+00:42:25,370 --> 00:42:27,810
+And I think this is a really big mistake,
+
+658
+00:42:27,810 --> 00:42:29,670
+so that extremist ideologies,
+
+659
+00:42:29,670 --> 00:42:32,290
+or let us say violent ideologies,
+
+660
+00:42:32,290 --> 00:42:34,030
+that's probably a better way to put it,
+
+661
+00:42:34,030 --> 00:42:37,270
+are not intrinsically related to conspiracies.
+
+662
+00:42:37,270 --> 00:42:41,290
+They may incorporate certain types of conspiracies
+
+663
+00:42:41,290 --> 00:42:44,490
+that they may believe in, all right,
+
+664
+00:42:44,490 --> 00:42:49,600
+but it's a very different thing than saying
+
+665
+00:42:49,600 --> 00:42:52,820
+that they're intimately connected to conspiracy theories.
+
+666
+00:42:52,820 --> 00:42:54,220
+And I'd also point out, and again,
+
+667
+00:42:54,220 --> 00:42:56,480
+I don't have a screen share on this to share with you.
+
+668
+00:42:56,480 --> 00:42:58,100
+I probably should have put it in,
+
+669
+00:42:58,100 --> 00:43:00,900
+but the very phrase conspiracy theory,
+
+670
+00:43:00,900 --> 00:43:05,040
+as far as I can tell, owes its origin to the CIA itself
+
+671
+00:43:05,040 --> 00:43:06,820
+in a document from 1967.
+
+672
+00:43:06,820 --> 00:43:08,520
+I have talked about this elsewhere.
+
+673
+00:43:08,520 --> 00:43:10,400
+I have a video on my YouTube channel
+
+674
+00:43:10,400 --> 00:43:13,100
+that actually talks about this explicitly,
+
+675
+00:43:14,100 --> 00:43:19,100
+how in 1967, the CIA was basically doing a research paper
+
+676
+00:43:19,560 --> 00:43:22,580
+on how to deal with the government,
+
+677
+00:43:22,580 --> 00:43:29,830
+the growing talk in society that the Kennedy assassination was some form of conspiracy,
+
+678
+00:43:29,830 --> 00:43:33,050
+not just Lee Harvey Oswald acting by himself.
+
+679
+00:43:33,050 --> 00:43:39,530
+And this was a problem for this CIA analyst who wrote basically a series of policy recommendations
+
+680
+00:43:39,530 --> 00:43:41,490
+on how to deal with this growing problem.
+
+681
+00:43:41,490 --> 00:43:42,490
+We can't have that.
+
+682
+00:43:42,490 --> 00:43:47,170
+We can't have people believe that there was a conspiracy to kill the president, despite
+
+683
+00:43:47,170 --> 00:43:52,230
+the fact that 80% of Americans to this day believe that there was a conspiracy to kill
+
+684
+00:43:52,230 --> 00:43:56,630
+JFK, and not for frivolous reasons do people believe this.
+
+685
+00:43:56,630 --> 00:43:59,670
+There's been a lot of very excellent research done on this, obviously.
+
+686
+00:43:59,670 --> 00:44:08,220
+The point is, the phrase conspiracy theorist appears, as far as I can tell, to have been
+
+687
+00:44:08,220 --> 00:44:10,460
+coined in that CIA document.
+
+688
+00:44:10,460 --> 00:44:13,340
+And it was coined in such a way, they didn't use the word conspiracy theory, but they talk
+
+689
+00:44:13,340 --> 00:44:20,020
+about conspiracy theorists as a way to smear those individuals who are putting forward
+
+690
+00:44:20,020 --> 00:44:23,520
+alternative narratives to the assassination of JFK.
+
+691
+00:44:23,540 --> 00:44:28,000
+So I think it's fair to say that they coined the phrase conspiracy theory.
+
+692
+00:44:28,000 --> 00:44:33,040
+If that phrase has been used prior to 1967, I would love for one of you to write it in
+
+693
+00:44:33,040 --> 00:44:36,220
+the comments below, because I think we'd all like to see.
+
+694
+00:44:36,220 --> 00:44:41,580
+I have not seen any definitive statement or any research that shows that this is the case.
+
+695
+00:44:41,580 --> 00:44:42,580
+It's possible.
+
+696
+00:44:42,580 --> 00:44:45,980
+I'm not going to deny that it's possible, but I don't think it's the case.
+
+697
+00:44:45,980 --> 00:44:50,660
+And I certainly think it's undeniable that the phrase conspiracy theory only picked up
+
+698
+00:44:50,660 --> 00:44:52,940
+steam culturally and in society.
+
+699
+00:44:52,940 --> 00:44:55,320
+After 1967.
+
+700
+00:44:55,320 --> 00:45:01,160
+So I think it's a pretty clear-cut case here, where you've got CIA analysts using that phrase
+
+701
+00:45:01,160 --> 00:45:08,050
+and then talking about using their media colleagues and media assets to put this type of narrative
+
+702
+00:45:08,050 --> 00:45:13,850
+out to basically to kneecap those theorists who had alternate ideas on the Kennedy assassination.
+
+703
+00:45:13,850 --> 00:45:23,260
+So the idea of conspiracy theory itself appears to be a CIA creation as a way to disable alternative
+
+704
+00:45:23,260 --> 00:45:26,060
+narratives to the mainstream.
+
+705
+00:45:26,060 --> 00:45:33,200
+And you know, the ugly irony here, I'm sure it's not lost on many of you, is that by pointing
+
+706
+00:45:33,200 --> 00:45:41,590
+this out in public, you are liable to be labeled, wait for it, a conspiracy theorist.
+
+707
+00:45:41,590 --> 00:45:45,290
+How ridiculous is that?
+
+708
+00:45:45,290 --> 00:45:49,690
+The other thing that's actually a little bit, I think that would be galling to most people
+
+709
+00:45:49,690 --> 00:45:56,990
+who really think about this is, you know, a lot of analysts, including a lot of mainstream
+
+710
+00:45:56,990 --> 00:45:57,530
+analysts.
+
+711
+00:45:57,550 --> 00:46:04,810
+And including a lot of current and former mainstream media executives have acknowledged
+
+712
+00:46:04,810 --> 00:46:12,270
+the mainstream media's role in exacerbating cultural tensions in Western nations in general.
+
+713
+00:46:12,270 --> 00:46:18,050
+Like they've talked about this really quite openly, frequently saying, you know, how the
+
+714
+00:46:18,050 --> 00:46:21,770
+way that they cover news and how they use clickbait and all of these things to kind
+
+715
+00:46:21,770 --> 00:46:26,890
+of get people ramped up and angrier and angrier at each other.
+
+716
+00:46:26,890 --> 00:46:27,490
+You know.
+
+717
+00:46:27,490 --> 00:46:31,650
+And they're not responding to extremist types of ideologies like mainstream media is a huge
+
+718
+00:46:31,650 --> 00:46:34,950
+part of the sickness that we're dealing with.
+
+719
+00:46:34,950 --> 00:46:41,930
+And yet what we're seeing is the establishment media and the establishment power structure
+
+720
+00:46:41,930 --> 00:46:48,970
+is trying to steer people more and more toward that mainstream media as a way to combat so-called
+
+721
+00:46:48,970 --> 00:46:50,500
+extremism.
+
+722
+00:46:50,500 --> 00:46:55,600
+Like that's a really awful form of irony here, you know.
+
+723
+00:46:55,600 --> 00:46:57,060
+Or is it irony?
+
+724
+00:46:57,060 --> 00:46:58,260
+Or is it a design?
+
+725
+00:46:58,260 --> 00:47:01,260
+Like there's another conspiracy theory, God forbid.
+
+726
+00:47:01,260 --> 00:47:04,510
+So it's just something to keep in mind here.
+
+727
+00:47:04,510 --> 00:47:10,750
+Like they are a huge part of this problem, if not the prime driver of the problem.
+
+728
+00:47:10,750 --> 00:47:16,670
+I think you could make a really good argument that mainstream media is a significant, maybe
+
+729
+00:47:16,670 --> 00:47:25,070
+the most significant cause of the continual ramping up of all of these extremist ideologies
+
+730
+00:47:25,070 --> 00:47:26,970
+that we see on the left and on the right.
+
+731
+00:47:26,970 --> 00:47:27,490
+You know.
+
+732
+00:47:27,490 --> 00:47:30,890
+You can argue that there are other things going on too, but I think certainly the media
+
+733
+00:47:30,890 --> 00:47:34,770
+has a very, very large part to play in all of this.
+
+734
+00:47:34,770 --> 00:47:40,630
+And here we have an FBI document essentially tacitly recommending more control for the
+
+735
+00:47:40,630 --> 00:47:46,010
+mainstream media to combat these extremist conspiracy theories, which are not conspiracy
+
+736
+00:47:46,010 --> 00:47:47,010
+theories.
+
+737
+00:47:47,010 --> 00:47:51,650
+They're just research, which could be correct or incorrect, that lead to certain behaviors.
+
+738
+00:47:51,650 --> 00:47:56,650
+Now, you know, in olden times, pre-911, pre-Patriot Act, you know.
+
+739
+00:47:56,650 --> 00:48:01,190
+Those long, long ago days that are long gone.
+
+740
+00:48:01,190 --> 00:48:03,850
+We had solutions to problems like this.
+
+741
+00:48:03,850 --> 00:48:10,830
+And the solution was you allow people to have free inquiry, freedom of speech, and you regulate
+
+742
+00:48:10,830 --> 00:48:14,090
+their violent behavior, like really simple.
+
+743
+00:48:14,090 --> 00:48:19,950
+So you allow people to have free exchange of ideas, no matter how much you may disagree
+
+744
+00:48:19,950 --> 00:48:21,410
+with a certain idea.
+
+745
+00:48:21,410 --> 00:48:25,270
+But when they engage in something that's violent, you say, no, we don't allow that.
+
+746
+00:48:25,270 --> 00:48:26,270
+We're going to.
+
+747
+00:48:26,270 --> 00:48:30,060
+We're going to, you know, incarcerate you or do whatever.
+
+748
+00:48:30,060 --> 00:48:32,640
+So that was the old fashioned solution.
+
+749
+00:48:32,640 --> 00:48:36,960
+And now what we're seeing more and more is they're just taking more and more slices out
+
+750
+00:48:36,960 --> 00:48:43,110
+of the pie, moving away from behavior into thought itself and the regulation of thought
+
+751
+00:48:43,110 --> 00:48:44,110
+itself.
+
+752
+00:48:44,110 --> 00:48:48,530
+And this is, you know, this particular FBI intelligence bulletin is simply the latest
+
+753
+00:48:48,530 --> 00:48:50,530
+in a long string of these things.
+
+754
+00:48:50,530 --> 00:48:54,450
+And it's probably not even the biggest news story of its kind all year.
+
+755
+00:48:54,450 --> 00:48:55,930
+There's a lot of this stuff going on.
+
+756
+00:48:55,930 --> 00:48:59,370
+This is a significant development, without a doubt.
+
+757
+00:48:59,370 --> 00:49:06,590
+And I want to also, again, I've already mentioned how I think it's disingenuous and also probably
+
+758
+00:49:06,590 --> 00:49:11,310
+mostly wrong to tie extremist ideology to conspiracy theories.
+
+759
+00:49:11,310 --> 00:49:15,590
+I think that's a very weak link and frequently a non-existent link.
+
+760
+00:49:15,590 --> 00:49:21,970
+But I would also point out the very duplicitous nature of this FBI analysis and where they
+
+761
+00:49:21,970 --> 00:49:24,770
+say, we're not going after your ideas.
+
+762
+00:49:24,770 --> 00:49:25,870
+We're only going after your ideas.
+
+763
+00:49:25,870 --> 00:49:27,810
+We're only going after your violent actions.
+
+764
+00:49:27,810 --> 00:49:29,950
+And I would just say, not exactly.
+
+765
+00:49:29,950 --> 00:49:32,050
+Not exactly, FBI.
+
+766
+00:49:32,050 --> 00:49:40,310
+What they're, you know, the whole point of this intelligence bulletin is to warn society
+
+767
+00:49:40,310 --> 00:49:44,670
+and warn the government, presumably, against the dangers of certain types of conspiracy
+
+768
+00:49:44,670 --> 00:49:53,150
+theory in society that need to be, as they suggested in the beginning of that bulletin,
+
+769
+00:49:53,150 --> 00:49:54,240
+you know, more sociopathic.
+
+770
+00:49:54,240 --> 00:49:55,240
+You know?
+
+771
+00:49:55,240 --> 00:49:59,920
+You know, more social media and website management and essentially censorship, they don't use
+
+772
+00:49:59,920 --> 00:50:04,700
+that word, but that's really what they're saying, over your thought processes.
+
+773
+00:50:04,700 --> 00:50:08,940
+And I would like to ask the FBI and I would like to ask you, how is investigating false
+
+774
+00:50:08,940 --> 00:50:14,540
+flags connected to terrorism or violence?
+
+775
+00:50:14,540 --> 00:50:18,220
+How is it connected, all right?
+
+776
+00:50:18,220 --> 00:50:22,380
+Because the answer is, it is not connected to violence and it is not connected to terrorism
+
+777
+00:50:22,380 --> 00:50:24,560
+in any way.
+
+778
+00:50:24,560 --> 00:50:25,560
+There may be.
+
+779
+00:50:25,560 --> 00:50:26,560
+There may be.
+
+780
+00:50:26,560 --> 00:50:27,560
+But it is.
+
+781
+00:50:27,560 --> 00:50:28,560
+There is a science to this.
+
+782
+00:50:28,560 --> 00:50:29,560
+So, you know, I think it's a great question.
+
+783
+00:50:29,560 --> 00:50:33,160
+I think it's a lovely question, I'm not the only one there who's, you know, a culture
+
+784
+00:50:33,160 --> 00:50:34,160
+who's predisposed to violence.
+
+785
+00:50:34,160 --> 00:50:35,160
+And I just got a little message from Tracy.
+
+786
+00:50:35,160 --> 00:50:36,280
+Hey, there's my wife.
+
+787
+00:50:36,280 --> 00:50:37,280
+Hey, Tracy.
+
+788
+00:50:37,280 --> 00:50:38,280
+All right.
+
+789
+00:50:38,280 --> 00:50:42,900
+I just want to get back on my train of thought here.
+
+790
+00:50:42,900 --> 00:50:50,070
+So, you know, false flags, investigating false flags is not, in and of itself, a violent
+
+791
+00:50:50,070 --> 00:50:52,790
+activity, not in any way, shape, or form, is it?
+
+792
+00:50:52,790 --> 00:50:54,910
+And you show me how it is.
+
+793
+00:50:54,910 --> 00:50:59,090
+There are people who have violent tendencies who might believe in false flags, but you
+
+794
+00:50:59,090 --> 00:51:00,210
+show me the cause and effect.
+
+795
+00:51:00,210 --> 00:51:07,310
+you can't because there isn't one so um it's a really weak guy a very very weak connection at
+
+796
+00:51:07,310 --> 00:51:14,640
+best and the fact is every human being on this planet behaves in accordance with ideas that they
+
+797
+00:51:14,640 --> 00:51:24,050
+have right so we have we form ideas and sometimes we act on those ideas and sometimes we do not
+
+798
+00:51:24,050 --> 00:51:35,380
+but to um to implicate an entire area of research in this case false flags
+
+799
+00:51:35,380 --> 00:51:43,620
+as you know worthy of fbi investigation as dangerous conspiracy theories that's a seriously
+
+800
+00:51:43,620 --> 00:51:50,870
+dangerous thing particularly when the fbi in its very bulletin acknowledges that there have been
+
+801
+00:51:50,870 --> 00:51:56,330
+crimes and conspiracies done by governments in the past and in relating to false flags
+
+802
+00:51:56,330 --> 00:52:02,840
+i i would just point out that uh the cia and the united states military both have created
+
+803
+00:52:02,840 --> 00:52:09,680
+uh memorandums and actual guidelines and playbooks in which they explicitly talk about different
+
+804
+00:52:09,680 --> 00:52:13,440
+forms of propaganda white gray and black propaganda and the way that they describe
+
+805
+00:52:13,440 --> 00:52:20,440
+black propaganda uh is essentially as false flags in other words you create uh an action
+
+806
+00:52:20,440 --> 00:52:26,740
+you blame it on some other party that that's a false flag right uh and
+
+807
+00:52:26,740 --> 00:52:26,820
+you create an action you blame it on some other party that that's a false flag right
+
+808
+00:52:26,820 --> 00:52:31,700
+they don't rule out you know engaging in violent activities by the way and blaming it on other
+
+809
+00:52:31,700 --> 00:52:37,460
+parties this is a long-standing uh tactic of the united states and certainly of other governments
+
+810
+00:52:37,460 --> 00:52:41,880
+that are able to get away with it other governments have a harder time getting away with
+
+811
+00:52:41,880 --> 00:52:45,720
+this stuff because they don't control global media the way that the united states government really
+
+812
+00:52:45,720 --> 00:52:51,080
+does so the us has way way more leeway in this type of activity than any other government
+
+813
+00:52:51,080 --> 00:52:56,980
+including the russian government not that the russians can't do it they can but there is no
+
+814
+00:52:56,980 --> 00:53:02,580
+one who is going to dethrone the united states in the realm of false flags for a long time to come
+
+815
+00:53:03,220 --> 00:53:06,580
+that's been the us has been the king of false flags for a very very long time
+
+816
+00:53:07,140 --> 00:53:14,340
+so analyzing false flags now is seen by the fbi as a potentially dangerous terroristic activity
+
+817
+00:53:14,900 --> 00:53:21,380
+and that that should frighten anyone in my view uh how is investigating the new world order
+
+818
+00:53:22,420 --> 00:53:27,060
+uh tied to terrorism or violence or or a let me put it differently
+
+819
+00:53:27,300 --> 00:53:34,020
+is investigating the so-called new world order a cause in any way of terrorism or of violence
+
+820
+00:53:34,740 --> 00:53:41,590
+all right how is researching the fundamental nature of your world as an adult would do not
+
+821
+00:53:41,590 --> 00:53:50,320
+as not as a child but as an adult would do how is that a cause of terrorism in any way i guess
+
+822
+00:53:50,320 --> 00:53:57,190
+you know when you really get right down to it there is a danger in researching some of these
+
+823
+00:53:57,190 --> 00:54:04,630
+things uh much as there's a danger in a totalitarian society of researching certain
+
+824
+00:54:04,630 --> 00:54:10,550
+things that are true that that government doesn't want you to investigate so it's it's it could be
+
+825
+00:54:10,550 --> 00:54:18,550
+destabilizing for that totalitarian society sure right and similarly what we're seeing here is that
+
+826
+00:54:18,550 --> 00:54:23,910
+there are certain things in our society in western society which are not allowed to be discussed any
+
+827
+00:54:23,910 --> 00:54:27,590
+longer and by researching them and by digging into the truth
+
+828
+00:54:27,670 --> 00:54:36,260
+of them where you're bumping up against the government that's that's definitely not uh not
+
+829
+00:54:36,260 --> 00:54:41,460
+happy with that and calling that dangerous and and possibly potentially terroristically related
+
+830
+00:54:42,100 --> 00:54:49,040
+and i think this is a very very extremely dangerous thing to to do um i'm gonna be close
+
+831
+00:54:49,040 --> 00:54:59,700
+to wrapping this up here uh you know we i was gonna say require but let me just be more careful
+
+832
+00:55:00,740 --> 00:55:07,460
+um let me in in this one that peter did um and and then i'm gonna let you go off on this one
+
+833
+00:55:07,460 --> 00:55:12,100
+says you require way of speech what's lotta in discussion with that really well one thing everyone
+
+834
+00:55:12,100 --> 00:55:16,340
+thinks about uh is the freedom of speech and right they i mean the freedom of speech hasn't been
+
+835
+00:55:16,340 --> 00:55:21,700
+proven by anyone by yourself i mean it hasn't been proven by anyone else but there are three
+
+836
+00:55:22,420 --> 00:55:28,420
+big 보통 monarch who the great religions because the piano in which i draw the link of
+
+837
+00:55:28,420 --> 00:55:31,540
+freedom of speech this iranian religion which is said to be more west than the second world
+
+838
+00:55:31,540 --> 00:55:37,590
+and I benefit from you by hearing your ideas and by you critiquing my ideas and
+
+839
+00:55:37,590 --> 00:55:41,330
+vice versa and when we can't do that when we're not allowed to do that then
+
+840
+00:55:41,330 --> 00:55:46,710
+that's when societies are much more likely to devolve into violence because
+
+841
+00:55:46,710 --> 00:55:50,490
+conflict never goes away within a society all right so that you have two
+
+842
+00:55:50,490 --> 00:55:53,450
+ways of resolving conflict you can either talk it out or you can fight it
+
+843
+00:55:53,450 --> 00:55:57,770
+out and I think we all realize it's much much better to talk it out and so you
+
+844
+00:55:57,770 --> 00:56:02,390
+can only do that from full freedom of speech and full freedom of inquiry you've
+
+845
+00:56:02,390 --> 00:56:05,390
+got to be able to do that it doesn't mean that everyone's gonna be right all
+
+846
+00:56:05,390 --> 00:56:08,510
+the time when they investigate the latest event that they think is a false
+
+847
+00:56:08,510 --> 00:56:13,130
+flag people are wrong about that people are wrong about all kinds of analyses
+
+848
+00:56:13,130 --> 00:56:16,270
+that they have I've been wrong many times as well and a lot of the things
+
+849
+00:56:16,270 --> 00:56:18,930
+that I thought were true and then I had to look at and I thought well maybe it's
+
+850
+00:56:18,930 --> 00:56:23,290
+not true that's what happens when you're investigating things that are that are
+
+851
+00:56:23,290 --> 00:56:26,370
+difficult that are hidden that you want to get to the bottom of sometimes you
+
+852
+00:56:26,370 --> 00:56:27,840
+get wrong turns
+
+853
+00:56:27,840 --> 00:56:31,860
+that's the price you pay for freedom of inquiry it's not a crime to be wrong we
+
+854
+00:56:31,860 --> 00:56:36,960
+we need to be allowed to engage in a full freedom of inquiry within this
+
+855
+00:56:36,960 --> 00:56:40,920
+society so that we can make this society better and be corrected when we need to
+
+856
+00:56:40,920 --> 00:56:49,600
+be corrected but you know what's happening here is that ideas themselves
+
+857
+00:56:49,600 --> 00:56:56,670
+are getting ever ever closer to themselves being criminalized now this
+
+858
+00:56:56,670 --> 00:56:59,670
+FBI bulletin is not
+
+859
+00:56:59,850 --> 00:57:04,870
+it doesn't have the force of law it's simply a bulletin that they've published
+
+860
+00:57:04,870 --> 00:57:11,450
+and it has its own suggestions and maybe those suggestions will be taken up by
+
+861
+00:57:11,450 --> 00:57:15,450
+the FBI and other branches of government or maybe not probably yes at some point
+
+862
+00:57:15,450 --> 00:57:21,440
+I imagine they will be what I think we're going to see is not that you will
+
+863
+00:57:21,440 --> 00:57:28,140
+be criminalized for believing such and such a thing but that you will see the
+
+864
+00:57:28,140 --> 00:57:30,520
+effects in continued social media
+
+865
+00:57:30,680 --> 00:57:38,040
+and platform de-platforming, soft censorship, platform banning, and the like.
+
+866
+00:57:38,120 --> 00:57:45,520
+I think that's really going to be the main outcome of this bulletin.
+
+867
+00:57:46,470 --> 00:57:48,810
+So the ideas themselves are not yet criminalized,
+
+868
+00:57:49,050 --> 00:57:51,870
+but again, we're moving further and further down that road.
+
+869
+00:57:52,410 --> 00:57:53,790
+These things can't happen overnight.
+
+870
+00:57:54,130 --> 00:57:58,170
+So what they need to do is create cultural change, and they're doing it.
+
+871
+00:57:58,170 --> 00:58:01,170
+I mean, this really started, frankly, with the USA Patriot Act of 2001,
+
+872
+00:58:01,850 --> 00:58:02,810
+so that's 18 years ago.
+
+873
+00:58:04,010 --> 00:58:07,550
+A full generation has passed since that occurred,
+
+874
+00:58:08,230 --> 00:58:11,070
+and it started with the Patriot Act, really, I think we could say,
+
+875
+00:58:11,150 --> 00:58:14,710
+and it's continued with a variety of laws through the George W. Bush,
+
+876
+00:58:14,830 --> 00:58:17,830
+through the Barack Obama years, and through the Donald Trump years.
+
+877
+00:58:18,010 --> 00:58:28,910
+It has continued to marginalize ideas that are beyond the mainstream,
+
+878
+00:58:28,910 --> 00:58:29,790
+and we've seen it.
+
+879
+00:58:30,310 --> 00:58:34,990
+Whether it's a part of explicit presidential policy or not, it's been happening.
+
+880
+00:58:36,480 --> 00:58:40,700
+So what we're seeing, again, just a final statement on this,
+
+881
+00:58:40,760 --> 00:58:47,760
+is the FBI bulletin really is a not-so-veiled suggestion of greater web censorship,
+
+882
+00:58:47,980 --> 00:58:52,220
+and I think you should expect more shadow banning, more de-platforming, and the like.
+
+883
+00:58:52,760 --> 00:58:55,340
+As I said earlier, it's another slice out of the pie.
+
+884
+00:58:55,340 --> 00:58:55,440
+All right.
+
+885
+00:58:57,280 --> 00:59:01,650
+I think what really happened was the Internet,
+
+886
+00:59:01,910 --> 00:59:04,690
+the late 1980s through the 90s,
+
+887
+00:59:04,730 --> 00:59:07,330
+was something of an unforeseen development,
+
+888
+00:59:07,770 --> 00:59:13,270
+and I mean unforeseen in the sense of all of its massive social repercussions.
+
+889
+00:59:14,640 --> 00:59:16,620
+I don't think this was predictable.
+
+890
+00:59:16,880 --> 00:59:18,160
+I don't think this was foreseeable.
+
+891
+00:59:18,800 --> 00:59:22,940
+I think that what happened is that this digitization of information,
+
+892
+00:59:23,400 --> 00:59:25,960
+the ability to copy and paste around the world,
+
+893
+00:59:25,960 --> 00:59:31,490
+the ability then eventually to broadcast around the world,
+
+894
+00:59:31,530 --> 00:59:32,430
+and all of this,
+
+895
+00:59:32,650 --> 00:59:35,470
+created a global cultural revolution.
+
+896
+00:59:35,670 --> 00:59:38,610
+It really has happened so that we're able to share information
+
+897
+00:59:38,610 --> 00:59:41,510
+in ways that were not imaginable for prior generations,
+
+898
+00:59:41,510 --> 00:59:44,750
+and that was an unbelievable outgrowth of freedom.
+
+899
+00:59:47,180 --> 00:59:48,920
+I mean, really, just an incredible thing.
+
+900
+00:59:49,120 --> 00:59:53,900
+And so what happened is that those old controllers of narratives,
+
+901
+00:59:53,900 --> 00:59:59,920
+the establishment media, which existed really unchallenged for generations,
+
+902
+01:00:00,340 --> 01:00:02,740
+found itself challenged, found itself on the back foot,
+
+903
+01:00:02,740 --> 01:00:03,400
+as it were,
+
+904
+01:00:03,400 --> 01:00:08,180
+and it's taken a little bit of time for them to regroup and to figure out,
+
+905
+01:00:08,180 --> 01:00:09,440
+how do we get this under control?
+
+906
+01:00:09,440 --> 01:00:10,720
+And they're getting it under control.
+
+907
+01:00:11,500 --> 01:00:13,180
+So we're seeing the elites,
+
+908
+01:00:13,180 --> 01:00:14,550
+you know,
+
+909
+01:00:14,570 --> 01:00:16,970
+ask yourself when we talk about new world order,
+
+910
+01:00:17,860 --> 01:00:19,920
+if the new world order really doesn't exist,
+
+911
+01:00:19,940 --> 01:00:23,780
+can anyone please explain what is the purpose of the Bilderberg meetings every single year?
+
+912
+01:00:23,780 --> 01:00:25,080
+Like, what are those all about?
+
+913
+01:00:25,760 --> 01:00:27,920
+They meet once a year in five star hotels.
+
+914
+01:00:28,760 --> 01:00:30,920
+They are the true masters of our universe.
+
+915
+01:00:30,920 --> 01:00:32,520
+They've been meeting since 1954.
+
+916
+01:00:32,520 --> 01:00:32,640
+We,
+
+917
+01:00:32,640 --> 01:00:32,680
+we,
+
+918
+01:00:32,680 --> 01:00:32,700
+we,
+
+919
+01:00:32,700 --> 01:00:32,760
+we,
+
+920
+01:00:32,760 --> 01:00:32,820
+we,
+
+921
+01:00:32,820 --> 01:00:32,880
+we,
+
+922
+01:00:32,880 --> 01:00:32,980
+we,
+
+923
+01:00:32,980 --> 01:00:33,410
+we,
+
+924
+01:00:33,410 --> 01:00:33,470
+we,
+
+925
+01:00:33,470 --> 01:00:33,510
+we,
+
+926
+01:00:33,510 --> 01:00:33,570
+we,
+
+927
+01:00:33,570 --> 01:00:33,650
+we,
+
+928
+01:00:33,650 --> 01:00:33,690
+we,
+
+929
+01:00:33,690 --> 01:00:33,750
+we,
+
+930
+01:00:33,750 --> 01:00:33,770
+we,
+
+931
+01:00:33,770 --> 01:00:33,810
+we,
+
+932
+01:00:33,810 --> 01:00:33,870
+we,
+
+933
+01:00:34,050 --> 01:00:36,730
+we know actually now what they generally talk about.
+
+934
+01:00:36,730 --> 01:00:37,970
+We've got minutes of the meetings.
+
+935
+01:00:37,970 --> 01:00:43,560
+They've been leaked out and you've got the most powerful individuals in the world,
+
+936
+01:00:43,560 --> 01:00:44,040
+politically,
+
+937
+01:00:44,040 --> 01:00:44,800
+financially,
+
+938
+01:00:44,940 --> 01:00:46,280
+the movers and the shakers.
+
+939
+01:00:46,660 --> 01:00:52,060
+They get together once a year and they discuss informally without being elected.
+
+940
+01:00:52,600 --> 01:00:53,380
+Of course,
+
+941
+01:00:53,560 --> 01:00:58,600
+they just discuss the things that they want to do and to get done in this world.
+
+942
+01:00:59,320 --> 01:01:03,320
+And then they go back to the various loci of power and they do their best to make it happen.
+
+943
+01:01:03,320 --> 01:01:04,360
+And they're usually really good at making it.
+
+944
+01:01:04,360 --> 01:01:05,200
+And then they go back to the various loci of power and they do their best to make it happen.
+
+945
+01:01:05,200 --> 01:01:06,920
+And then they go back to the various loci of power and they do their best to make it happen.
+
+946
+01:01:06,920 --> 01:01:09,500
+So,
+
+947
+01:01:09,500 --> 01:01:10,600
+you know,
+
+948
+01:01:10,600 --> 01:01:11,420
+if,
+
+949
+01:01:11,420 --> 01:01:13,540
+if it's dangerous to investigate that,
+
+950
+01:01:13,540 --> 01:01:14,900
+which it now,
+
+951
+01:01:14,900 --> 01:01:18,440
+according to the FBI is akin,
+
+952
+01:01:18,440 --> 01:01:21,740
+almost akin to moving toward terrorism,
+
+953
+01:01:21,740 --> 01:01:23,640
+we've really got some problems here.
+
+954
+01:01:27,130 --> 01:01:28,700
+You know,
+
+955
+01:01:28,700 --> 01:01:30,160
+no one is saying,
+
+956
+01:01:30,160 --> 01:01:32,120
+and I am certainly not saying that we should just simply allow violent ideologies to go unchallenged.
+
+957
+01:01:32,120 --> 01:01:36,180
+and I am certainly not saying that we should just simply allow violent ideologies to go unchallenged.
+
+958
+01:01:36,180 --> 01:01:37,300
+I would never say that.
+
+959
+01:01:37,300 --> 01:01:38,540
+And I don't believe that.
+
+960
+01:01:38,540 --> 01:01:40,120
+All right.
+
+961
+01:01:40,120 --> 01:01:45,150
+But investigation into important events of our world
+
+962
+01:01:45,150 --> 01:01:47,110
+and questioning of authority
+
+963
+01:01:47,110 --> 01:01:49,820
+and the actions of that authority,
+
+964
+01:01:49,820 --> 01:01:51,560
+that's something else.
+
+965
+01:01:51,560 --> 01:01:55,370
+And that is something that is critical for us to continue doing
+
+966
+01:01:55,370 --> 01:01:58,830
+because we're moving so fast into a new era,
+
+967
+01:01:58,830 --> 01:02:01,130
+technologically, socially, politically, economically,
+
+968
+01:02:01,130 --> 01:02:03,010
+in every way that I can imagine,
+
+969
+01:02:03,010 --> 01:02:04,290
+we are transforming ourselves.
+
+970
+01:02:04,290 --> 01:02:09,580
+And this is a critical moment in our history for people
+
+971
+01:02:09,720 --> 01:02:11,760
+who care to be doing exactly this,
+
+972
+01:02:11,760 --> 01:02:17,440
+to be looking carefully at the structures of power as they exist
+
+973
+01:02:17,440 --> 01:02:20,940
+and to make sure that we're not getting hosed yet again
+
+974
+01:02:20,940 --> 01:02:24,800
+by the way things are going to be turning out
+
+975
+01:02:24,800 --> 01:02:28,880
+over the next 10, 20, 30, 40 years.
+
+976
+01:02:28,880 --> 01:02:31,800
+So this whole thing is not over.
+
+977
+01:02:31,800 --> 01:02:33,540
+And from both sides, it's not over.
+
+978
+01:02:33,540 --> 01:02:36,080
+So it's not over from the centralized power structure.
+
+979
+01:02:36,080 --> 01:02:39,140
+I think we need to expect more actions like this,
+
+980
+01:02:39,140 --> 01:02:41,320
+more policy statements coming out,
+
+981
+01:02:41,320 --> 01:02:44,160
+like this and slice by slice by slice.
+
+982
+01:02:44,160 --> 01:02:47,200
+I think we can expect these attempts to continue.
+
+983
+01:02:47,200 --> 01:02:49,660
+They're not always successful.
+
+984
+01:02:49,660 --> 01:02:51,900
+And the reason those attempts are not always successful is
+
+985
+01:02:51,900 --> 01:02:55,760
+that you can also expect increasingly more adaptation
+
+986
+01:02:55,760 --> 01:02:59,500
+from the people and from independent researchers as well
+
+987
+01:02:59,500 --> 01:03:03,710
+to get around these restrictions.
+
+988
+01:03:03,710 --> 01:03:07,810
+So in other words, you know, the more difficult it may be
+
+989
+01:03:07,810 --> 01:03:10,110
+for people to broadcast on YouTube,
+
+990
+01:03:10,110 --> 01:03:11,410
+we can expect other platforms to do it.
+
+991
+01:03:11,410 --> 01:03:13,850
+We can expect other platforms to arise like BitChute,
+
+992
+01:03:13,850 --> 01:03:15,250
+which is definitely arising.
+
+993
+01:03:15,250 --> 01:03:18,310
+And I don't yet have a BitChute channel.
+
+994
+01:03:18,310 --> 01:03:22,650
+But hey, you know, that day will probably come.
+
+995
+01:03:22,650 --> 01:03:27,660
+And, you know, content creators are going to BitChute.
+
+996
+01:03:27,660 --> 01:03:29,260
+They're not, I don't think they're able
+
+997
+01:03:29,260 --> 01:03:30,360
+to monetize anything there.
+
+998
+01:03:30,360 --> 01:03:32,140
+But that's really secondary.
+
+999
+01:03:32,140 --> 01:03:35,640
+The main thing is they're able to go there to have a voice.
+
+1000
+01:03:35,640 --> 01:03:42,010
+So there's, as old avenues close off, hopefully,
+
+1001
+01:03:42,010 --> 01:03:45,050
+open up because that's what people will do.
+
+1002
+01:03:45,050 --> 01:03:47,510
+And then those new avenues may themselves get closed off
+
+1003
+01:03:47,510 --> 01:03:48,910
+and we have to continue to adapt.
+
+1004
+01:03:48,910 --> 01:03:51,070
+That's the world that we're in.
+
+1005
+01:03:51,070 --> 01:03:53,750
+So it's not the end of the world.
+
+1006
+01:03:53,750 --> 01:03:55,550
+It's a problem.
+
+1007
+01:03:55,550 --> 01:04:01,110
+But I really believe this is a problem that we as free,
+
+1008
+01:04:01,110 --> 01:04:05,070
+still free, and free thinking people can deal with.
+
+1009
+01:04:05,070 --> 01:04:09,700
+And, but we have got to be vigilant about this.
+
+1010
+01:04:09,700 --> 01:04:12,180
+So I hope that this analysis was useful for you.
+
+1011
+01:04:12,680 --> 01:04:17,840
+I tried very hard not to go off in one direction or another
+
+1012
+01:04:17,840 --> 01:04:19,740
+and do too much pontificating here.
+
+1013
+01:04:19,740 --> 01:04:23,720
+I wanted to be factual, although clearly my opinions have made
+
+1014
+01:04:23,720 --> 01:04:24,560
+themselves known to you.
+
+1015
+01:04:24,560 --> 01:04:27,120
+And, you know, you don't have to take my opinion.
+
+1016
+01:04:27,120 --> 01:04:29,600
+The information that I'm providing hopefully is the most
+
+1017
+01:04:29,600 --> 01:04:31,160
+important thing here.
+
+1018
+01:04:31,160 --> 01:04:34,900
+But I would again challenge everyone here
+
+1019
+01:04:34,900 --> 01:04:38,660
+to question the link, this alleged link
+
+1020
+01:04:38,660 --> 01:04:40,940
+between these conspiracy theories
+
+1021
+01:04:40,940 --> 01:04:43,160
+and extremist ideologies.
+
+1022
+01:04:43,160 --> 01:04:46,500
+In my assessment, I don't see a whole lot,
+
+1023
+01:04:46,500 --> 01:04:48,940
+if any evidence, linking the two.
+
+1024
+01:04:48,940 --> 01:04:51,440
+So I think really what we're talking about is a straw man
+
+1025
+01:04:51,440 --> 01:04:53,780
+argument largely in relating
+
+1026
+01:04:53,780 --> 01:04:55,980
+to these so-called conspiracy theories,
+
+1027
+01:04:55,980 --> 01:04:57,680
+which by the way are so ill-defined
+
+1028
+01:04:57,680 --> 01:05:00,370
+as to be basically meaningless anyway.
+
+1029
+01:05:00,370 --> 01:05:06,840
+You know, to talk about an elite that acts illegally on its own
+
+1030
+01:05:06,840 --> 01:05:09,880
+for its own benefit as a conspiracy theory, yeah,
+
+1031
+01:05:09,880 --> 01:05:11,580
+that's exactly how the world works.
+
+1032
+01:05:11,580 --> 01:05:13,880
+So unless the FBI analyst is attempting
+
+1033
+01:05:14,120 --> 01:05:17,260
+to refute that, then what they're really saying is
+
+1034
+01:05:17,260 --> 01:05:20,120
+that when you conduct an analysis of the structure
+
+1035
+01:05:20,120 --> 01:05:22,400
+of power in this world, you're going to be engaging
+
+1036
+01:05:22,400 --> 01:05:24,560
+in conspiracy theories because I can tell you, man,
+
+1037
+01:05:24,560 --> 01:05:28,540
+it's an inevitability that you run into the fact
+
+1038
+01:05:28,540 --> 01:05:32,900
+that a very small number of people control this much wealth
+
+1039
+01:05:32,900 --> 01:05:33,940
+and power.
+
+1040
+01:05:33,940 --> 01:05:35,960
+That's our world.
+
+1041
+01:05:35,960 --> 01:05:39,940
+It is an unavoidable outcome of doing an analysis of that sort.
+
+1042
+01:05:39,940 --> 01:05:41,860
+You're going to come into that.
+
+1043
+01:05:41,860 --> 01:05:43,000
+So that's a conspiracy theory.
+
+1044
+01:05:43,000 --> 01:05:43,770
+I don't think it's a conspiracy theory.
+
+1045
+01:05:43,770 --> 01:05:44,270
+I don't think it's a conspiracy theory.
+
+1046
+01:05:44,270 --> 01:05:44,510
+I don't think it's a conspiracy theory.
+
+1047
+01:05:44,510 --> 01:05:45,910
+I don't think it's a conspiracy theory, I suppose.
+
+1048
+01:05:45,910 --> 01:05:53,620
+And the FBI explicitly made that a big no-no, a potential no-no.
+
+1049
+01:05:53,620 --> 01:05:57,280
+And again, my view is they're basically telling social media
+
+1050
+01:05:57,280 --> 01:05:59,920
+platforms and websites, yeah, it's cool for you
+
+1051
+01:05:59,920 --> 01:06:03,850
+to de-platform those people and to soft-ban those people.
+
+1052
+01:06:03,850 --> 01:06:05,450
+So there you have it.
+
+1053
+01:06:05,450 --> 01:06:06,550
+Well, I hope you enjoyed this.
+
+1054
+01:06:06,550 --> 01:06:07,950
+I'll be back next week.
+
+1055
+01:06:07,950 --> 01:06:10,330
+I'm pretty sure I'll have my wonderful wife,
+
+1056
+01:06:10,330 --> 01:06:11,890
+Tracy, back with me.
+
+1057
+01:06:11,890 --> 01:06:16,510
+And in the meantime, I'll see you next time.
+
+1058
+01:06:16,510 --> 01:06:19,730
+In the meantime, keep your chin up.
+
+1059
+01:06:19,730 --> 01:06:21,330
+Don't get depressed.
+
+1060
+01:06:21,330 --> 01:06:24,690
+Remember, all of us have more strength inside us
+
+1061
+01:06:24,690 --> 01:06:26,930
+than we ever realize.
+
+1062
+01:06:26,930 --> 01:06:30,240
+So this is not the end.
+
+1063
+01:06:30,240 --> 01:06:31,680
+Just keep on going.
+
+1064
+01:06:31,680 --> 01:06:32,580
+Have a good night, everyone.
+
+1065
+01:06:32,580 --> 01:06:33,380
+Take care.
+

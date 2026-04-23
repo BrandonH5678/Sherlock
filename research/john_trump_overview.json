@@ -1,0 +1,65 @@
+{
+  "entity_id": "john_g_trump",
+  "entity_type": "person",
+  "name": "John George Trump",
+  "lifespan": "1907-1985",
+  "research_date": "2025-12-07",
+  "priority": "NORMAL",
+  "summary": "American electrical engineer, MIT professor, and pioneer in high-voltage particle accelerator research. Called upon by FBI in January 1943 to analyze Nikola Tesla's papers and belongings after Tesla's death. Determined Tesla's 'death ray' papers contained no workable technology. Paternal uncle of President Donald Trump.",
+  "academic_career": {
+    "institution": "Massachusetts Institute of Technology",
+    "position": "Professor of Electrical Engineering",
+    "specialization": "High-voltage particle accelerators",
+    "achievements": [
+      "Led MIT high-voltage research",
+      "Co-founded High Voltage Engineering Corporation",
+      "Pioneered particle accelerator use in cancer treatment",
+      "Advanced nuclear science applications"
+    ]
+  },
+  "tesla_papers_analysis": {
+    "date": "January 9, 1943",
+    "context": "FBI requested analysis 2 days after Tesla's death in NYC hotel",
+    "purpose": "Assess if Tesla's belongings, including alleged 'death ray' plans, posed security risk",
+    "requesting_agency": "Office of Alien Property Custodian (OAPC)",
+    "investigation_duration": "3 days",
+    "conclusion": "No hazard to national security",
+    "findings": {
+      "general_assessment": "Tesla's efforts were 'primarily of a speculative, philosophical and promotional character'",
+      "technical_assessment": "Papers do not include new sound, workable principles or methods",
+      "death_ray_analysis": "Plans do not contain enough information to actually build a weapon; any workable configuration would be of very limited power",
+      "security_determination": "Papers do not contain information that would 'constitute a hazard in unfriendly hands'"
+    },
+    "subsequent_validation": "1984 discovery of technical papers in Yugoslavia's Nikola Tesla Museum did not overturn Trump's assessment"
+  },
+  "government_connections": {
+    "wartime_service": "NDRC (National Defense Research Committee) employee",
+    "fbi_consultation": "Called upon for expertise in direct-current electrical equipment",
+    "clearance_level": "Had government access via NDRC"
+  },
+  "family_connection": {
+    "relationship": "Paternal uncle of Donald Trump (45th US President)",
+    "brother": "Fred Trump (Donald Trump's father)"
+  },
+  "document_releases": {
+    "2016": "FBI declassified ~250 pages of Tesla-related documents under FOIA",
+    "2017": "Trump's OAPC memo publicly released",
+    "2018": "Additional FBI releases",
+    "outstanding": "Some Tesla files remain missing or classified"
+  },
+  "relevance_to_sherlock": {
+    "intelligence_value": "HIGH",
+    "connections": [
+      "Tesla advanced technology claims",
+      "Government assessment of unconventional weapons",
+      "MIT-government-intelligence nexus",
+      "Information classification/suppression patterns"
+    ],
+    "research_questions": [
+      "Were all Tesla papers actually reviewed or just a subset?",
+      "What happened to files that remain 'missing'?",
+      "What was full scope of NDRC involvement?"
+    ]
+  },
+  "research_quality": "HIGH - Well-documented historical figure with declassified government records"
+}

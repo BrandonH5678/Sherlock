@@ -1,0 +1,95 @@
+{
+  "dynasties": {
+    "China Trade Families": {
+      "families": [
+        "Russell",
+        "Forbes",
+        "Perkins",
+        "Sturgis",
+        "Low",
+        "Coolidge",
+        "Delano"
+      ],
+      "connector": "Skull & Bones (Yale)",
+      "evidence": "Samuel Russell opium firm (1823) \u2192 William H. Russell S&B founder (1833, cousin)",
+      "significance": "Opium wealth \u2192 Yale \u2192 secret society \u2192 U.S. policy elites"
+    },
+    "Bush-Harriman": {
+      "key_figures": [
+        "Prescott Bush (S&B 1917)",
+        "W. Averell Harriman (S&B 1913)",
+        "George H.W. Bush (S&B 1948)",
+        "George W. Bush (S&B 1968)"
+      ],
+      "institutions": [
+        "Brown Brothers Harriman (BBH)",
+        "CIA/OSS",
+        "Atlantic Council",
+        "MK-ULTRA funding"
+      ],
+      "evidence": "Prescott Bush BBH partner 1931, George H.W. Bush DCI 1976-77",
+      "significance": "Banking \u2192 Intelligence \u2192 Presidential power (4 generations)"
+    },
+    "Rockefeller": {
+      "key_figures": [
+        "Percy Rockefeller (S&B 1900)",
+        "David Rockefeller (1915-2017)"
+      ],
+      "institutions": [
+        "BBH board",
+        "Standard Oil",
+        "Remington Arms",
+        "CFR",
+        "Trilateral Commission",
+        "Bilderberg"
+      ],
+      "evidence": "Percy on BBH, Standard Oil, Remington boards; David CFR director 1949, Trilateral founder",
+      "significance": "Oil empire \u2192 Global policy architecture"
+    },
+    "Bundy": {
+      "key_figures": [
+        "William P. Bundy (S&B 1938)",
+        "McGeorge Bundy (S&B 1940)"
+      ],
+      "institutions": [
+        "CIA",
+        "State Department",
+        "NSC",
+        "Bilderberg (Secretary-General 1975-80)"
+      ],
+      "evidence": "William recruited CIA 1950s, became Asst Sec Defense/State; McGeorge NSC Advisor Kennedy/Johnson",
+      "significance": "Intelligence \u2192 Foreign policy \u2192 Atlanticist networks"
+    },
+    "Carnegie-Mellon": {
+      "key_figures": [
+        "Andrew Carnegie",
+        "Andrew Mellon"
+      ],
+      "institutions": [
+        "Carnegie Mellon University",
+        "Mellon College of Science",
+        "Westinghouse",
+        "Alcoa",
+        "Bell Labs pipeline"
+      ],
+      "evidence": "CMU founded 1900, Mellon bank financed Westinghouse/Alcoa, engineering talent \u2192 defense R&D",
+      "significance": "Scientific-industrial infrastructure for modern MIC"
+    }
+  },
+  "institutional_bridges": {
+    "Skull & Bones \u2192 BBH": "Percy Rockefeller (S&B 1900) on BBH board; 11 of 16 BBH founding partners Yale alumni, 8 were S&B",
+    "BBH \u2192 CIA": "George H.W. Bush DCI 1976-77; Prescott Bush + W.A. Harriman organized OSS/CIA covert frameworks",
+    "S&B \u2192 Intelligence": "William P. Bundy (S&B 1938) recruited CIA 1950s; Robert Lovett (S&B 1918) covert intelligence planning",
+    "Rockefeller \u2192 Globalist Institutions": "David Rockefeller CFR director 1949, Trilateral Commission founder, Bilderberg mentor to Kissinger",
+    "Opium Trade \u2192 S&B": "William H. Russell (S&B founder 1833) = cousin of Samuel Russell (opium magnate); China trade families sent sons to Yale",
+    "CIA \u2192 MK-ULTRA": "Richardson family foundation (S&B affiliated) funded CIA MK-ULTRA mind-control experiments 1950s",
+    "Bush \u2192 Atlantic Council": "George H.W. Bush chaired Atlantic Council board 1960s-70s before VP",
+    "Carnegie-Mellon \u2192 MIC": "CMU engineering graduates \u2192 Bell Labs, AT&T, defense R&D; Mellon bank financed Westinghouse/Alcoa"
+  },
+  "extraction_metadata": {
+    "total_claims": 60,
+    "total_dynasties": 5,
+    "total_bridges": 8,
+    "extraction_date": "2025-12-23T14:21:47.267035"
+  }
+}

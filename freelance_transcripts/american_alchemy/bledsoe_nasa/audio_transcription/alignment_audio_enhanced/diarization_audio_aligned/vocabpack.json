@@ -1,0 +1,43 @@
+{
+  "domain_tags": [],
+  "client_id": null,
+  "whitelist_terms": [
+    "Chris Bledsoe",
+    "Tim Taylor",
+    "Thomas Townsend Brown",
+    "Zanesville, Ohio",
+    "American Alchemy Magazine",
+    "American Alchemy Merch",
+    "Whop",
+    "Discord",
+    "Instagram",
+    "TikTok",
+    "X (Twitter)",
+    "Spotify",
+    "Clips Channel",
+    "exotic materials",
+    "anti-gravity",
+    "electrogravitics work",
+    "time-related operations",
+    "classified aerospace research",
+    "NASA",
+    "Superpower",
+    "iRestore",
+    "True Classic",
+    "UFO",
+    "DOD",
+    "NHI"
+  ],
+  "alias_map": {},
+  "acronym_expansions": {},
+  "do_not_introduce": [],
+  "uncertainty_policy": {
+    "unknown_token": "preserve_or_tag",
+    "tag_format": "[unclear:{token}]"
+  },
+  "style": {
+    "spelling": "US",
+    "punctuation": "standard",
+    "speaker_labels": "Name:"
+  }
+}

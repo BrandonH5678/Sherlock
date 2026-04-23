@@ -1,0 +1,53 @@
+{
+  "entity_id": "james_lacatski",
+  "entity_type": "person",
+  "name": "James T. Lacatski",
+  "credentials": "D.Eng.",
+  "status": "retired",
+  "research_date": "2025-12-06",
+  "priority": "HIGH",
+  "summary": "Career DIA intelligence analyst and rocket scientist who managed Pentagon's AAWSAP UAP program (2008-2010), claimed direct encounter at Skinwalker Ranch led to program creation",
+  "background": {
+    "profession": "Career intelligence analyst and rocket scientist",
+    "agency": "Defense Intelligence Agency (DIA)",
+    "education": "Doctor of Engineering (D.Eng.)"
+  },
+  "skinwalker_ranch_encounter": {
+    "year": "Summer 2007",
+    "context": "Met Robert Bigelow, owner of Skinwalker Ranch",
+    "experience": "Had 'profound encounter with the unknown' at the property",
+    "consequence": "Experience led directly to creation and funding of AAWSAP"
+  },
+  "aawsap_management": {
+    "program_name": "Advanced Aerospace Weapon System Applications Program",
+    "role": "Program Manager",
+    "agency": "Defense Intelligence Agency",
+    "location": "Washington, DC",
+    "duration": "27 months (2008-2010)",
+    "scope": [
+      "Investigated 'Tic Tac' and other UFO events",
+      "Analyzed UFO intrusions onto US military bases",
+      "Probed bizarre phenomena at Skinwalker Ranch"
+    ],
+    "contractor": "Bigelow Aerospace Advanced Space Studies (BAASS) - lead contractor"
+  },
+  "program_structure": {
+    "contractor_team": "50+ scientists, investigators, data systems experts hired by BAASS",
+    "principal_manager": "Dr. Colm Kelleher (microbiologist) - BAASS principal program manager",
+    "duration": "3 years of probing UFO cases",
+    "funding": "DIA appropriations"
+  },
+  "disclosure_activities": {
+    "book": "Skinwalkers at the Pentagon (co-written with Colm Kelleher and George Knapp)",
+    "significance": "First insider account of secret government UFO program",
+    "timing": "Published after years of secrecy",
+    "claims": "Allegedly 'breached the hull of a UFO' according to George Knapp reporting"
+  },
+  "controversy": {
+    "senator_reid_funding_halt": "Sen. Harry Reid halted AAWSAP funding when he believed spy was leaking info to help elect his 2010 opponent",
+    "program_termination": "2010 - Program ended amid political complications",
+    "extraordinary_claims": "Claims about breaching UFO hull require extraordinary evidence"
+  },
+  "significance": "First officially acknowledged Pentagon UAP program manager to go public, direct connection between Skinwalker Ranch phenomena and government UAP research, bridge between classified programs and public disclosure",
+  "research_quality": "MEDIUM-HIGH - Verified DIA career, AAWSAP program acknowledged, but extraordinary claims about UFO hull require additional verification"
+}

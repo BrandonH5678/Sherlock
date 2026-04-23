@@ -1,0 +1,63 @@
+2025-12-09 15:37:57,128 - INFO - Initialized processor for: https://www.amazon.com/gp/video/detail/B0FMF7DZZL
+2025-12-09 15:37:57,128 - INFO - Output directory: /home/johnny5/Sherlock/prime_video_processing/B0FMF7DZZL
+2025-12-09 15:37:57,128 - INFO - ================================================================================
+2025-12-09 15:37:57,128 - INFO - PRIME VIDEO DOCUMENTARY PROCESSING
+2025-12-09 15:37:57,128 - INFO - ================================================================================
+2025-12-09 15:37:57,128 - INFO - Video: https://www.amazon.com/gp/video/detail/B0FMF7DZZL
+2025-12-09 15:37:57,128 - INFO - Runtime: 110 minutes
+2025-12-09 15:37:57,128 - INFO - Output: /home/johnny5/Sherlock/prime_video_processing/B0FMF7DZZL
+2025-12-09 15:37:57,128 - INFO - ================================================================================
+2025-12-09 15:37:57,128 - INFO - Setting up audio loopback...
+2025-12-09 15:37:57,148 - INFO - ✅ Created virtual audio sink: prime_video_capture
+2025-12-09 15:37:57,191 - INFO - Starting audio capture to: raw_audio.mp3
+2025-12-09 15:37:57,193 - INFO - ✅ Audio capture started (PID: 504276)
+2025-12-09 15:37:57,193 - INFO - Starting subtitle OCR capture...
+2025-12-09 15:37:57,193 - INFO - ✅ OCR capture started (PID: 504277)
+2025-12-09 15:37:59,194 - INFO - Starting browser automation...
+2025-12-09 15:37:59,425 - INFO - Launching Firefox...
+2025-12-09 15:37:59,432 - ERROR - Browser automation failed: BrowserType.launch_persistent_context: Executable doesn't exist at /home/johnny5/.cache/ms-playwright/firefox-1497/firefox/firefox
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-12-09 15:37:59,433 - ERROR - Processing failed: Browser automation failed
+2025-12-09 15:37:59,444 - INFO - ✅ Cleaned up audio loopback
+2025-12-09 15:38:46,197 - INFO - Initialized processor for: https://www.amazon.com/gp/video/detail/B0FMF7DZZL
+2025-12-09 15:38:46,197 - INFO - Output directory: /home/johnny5/Sherlock/prime_video_processing/B0FMF7DZZL
+2025-12-09 15:38:46,197 - INFO - ================================================================================
+2025-12-09 15:38:46,197 - INFO - PRIME VIDEO DOCUMENTARY PROCESSING
+2025-12-09 15:38:46,197 - INFO - ================================================================================
+2025-12-09 15:38:46,197 - INFO - Video: https://www.amazon.com/gp/video/detail/B0FMF7DZZL
+2025-12-09 15:38:46,197 - INFO - Runtime: 110 minutes
+2025-12-09 15:38:46,197 - INFO - Output: /home/johnny5/Sherlock/prime_video_processing/B0FMF7DZZL
+2025-12-09 15:38:46,197 - INFO - ================================================================================
+2025-12-09 15:38:46,197 - INFO - Setting up audio loopback...
+2025-12-09 15:38:46,204 - INFO - ✅ Created virtual audio sink: prime_video_capture
+2025-12-09 15:38:46,225 - INFO - Starting audio capture to: raw_audio.mp3
+2025-12-09 15:38:46,226 - INFO - ✅ Audio capture started (PID: 504455)
+2025-12-09 15:38:46,226 - INFO - Starting subtitle OCR capture...
+2025-12-09 15:38:46,227 - INFO - ✅ OCR capture started (PID: 504456)
+2025-12-09 15:38:48,227 - INFO - Starting browser automation...
+2025-12-09 15:38:48,446 - INFO - Launching Firefox...
+2025-12-09 15:38:48,787 - ERROR - Browser automation failed: BrowserType.launch_persistent_context: Target page, context or browser has been closed
+Browser logs:
+
+<launching> /usr/bin/firefox -no-remote -wait-for-browser -foreground -profile /home/johnny5/snap/firefox/common/.mozilla/firefox/jz75urmk.default -juggler-pipe about:blank
+<launched> pid=504494
+[pid=504494] <process did exit: exitCode=0, signal=null>
+[pid=504494] starting temporary directories cleanup
+Call log:
+  - <launching> /usr/bin/firefox -no-remote -wait-for-browser -foreground -profile /home/johnny5/snap/firefox/common/.mozilla/firefox/jz75urmk.default -juggler-pipe about:blank
+  - <launched> pid=504494
+  - [pid=504494] <process did exit: exitCode=0, signal=null>
+  - [pid=504494] starting temporary directories cleanup
+  - [pid=504494] <gracefully close start>
+  - [pid=504494] finished temporary directories cleanup
+  - [pid=504494] <gracefully close end>
+
+2025-12-09 15:38:48,787 - ERROR - Processing failed: Browser automation failed
+2025-12-09 15:38:48,797 - INFO - ✅ Cleaned up audio loopback

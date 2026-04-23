@@ -1,0 +1,61 @@
+{
+  "harvested": {
+    "proper_nouns": [
+      "And",
+      "It",
+      "You",
+      "But",
+      "The",
+      "They",
+      "Can",
+      "Okay",
+      "There",
+      "Yes",
+      "Because",
+      "We",
+      "In",
+      "Dr",
+      "James Lacatski",
+      "Do",
+      "This",
+      "Was",
+      "If",
+      "So",
+      "Are",
+      "Kona Blue",
+      "Skinwalkers",
+      "Pentagon",
+      "No"
+    ],
+    "acronyms": [
+      "AAWSAP",
+      "UAP",
+      "UFO",
+      "DIAA",
+      "DOPSER",
+      "DOPSAR"
+    ],
+    "technical_terms": [
+      "James Lacatski",
+      "Kona Blue"
+    ],
+    "unclear_tokens": []
+  },
+  "risk_assessment": {
+    "novel_proper_nouns": [
+      "James Lacatski"
+    ],
+    "acronym_collapses": [],
+    "risk_score": 0.02
+  },
+  "risk_gates": {
+    "novel_noun_rate": 0.04,
+    "collapse_count": 0,
+    "failed": false,
+    "failed_gates": []
+  },
+  "statistics": {
+    "total_edits": 12,
+    "risky_edits": 1
+  }
+}

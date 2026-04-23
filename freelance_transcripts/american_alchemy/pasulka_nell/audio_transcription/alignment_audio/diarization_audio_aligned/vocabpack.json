@@ -1,0 +1,24 @@
+{
+  "domain_tags": [],
+  "client_id": null,
+  "whitelist_terms": [],
+  "alias_map": {},
+  "acronym_expansions": {},
+  "do_not_introduce": [
+    "Sonnet",
+    "Haiku",
+    "Claude",
+    "Anthropic",
+    "Claude Sonnet",
+    "GPT"
+  ],
+  "uncertainty_policy": {
+    "unknown_token": "preserve_or_tag",
+    "tag_format": "[unclear:{token}]"
+  },
+  "style": {
+    "spelling": "US",
+    "punctuation": "standard",
+    "speaker_labels": "Name:"
+  }
+}

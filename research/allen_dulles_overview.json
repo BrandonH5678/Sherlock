@@ -1,0 +1,12 @@
+{
+  "status": "placeholder",
+  "message": "Sherlock research job received but not yet implemented",
+  "job_id": "SHERLOCK_PKG_14",
+  "target": "Allen Dulles",
+  "package_type": "composite",
+  "collection_urls": [
+    "https://www.google.com/search?q=Allen+Dulles",
+    "https://en.wikipedia.org/wiki/Allen_Dulles"
+  ],
+  "created_at": "2025-12-07T20:28:36.341844"
+}

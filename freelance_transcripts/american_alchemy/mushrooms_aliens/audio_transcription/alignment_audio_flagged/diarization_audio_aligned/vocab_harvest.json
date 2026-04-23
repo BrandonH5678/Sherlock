@@ -1,0 +1,88 @@
+{
+  "harvested": {
+    "proper_nouns": [
+      "There",
+      "But",
+      "So",
+      "It",
+      "And",
+      "They",
+      "This",
+      "We",
+      "In",
+      "The",
+      "Sami",
+      "You",
+      "For",
+      "Maybe",
+      "Earth",
+      "Santa Claus",
+      "If",
+      "Four Sigmatic",
+      "Taro",
+      "Not",
+      "Von Daniken",
+      "Number",
+      "He",
+      "Ho",
+      "These",
+      "Tero Isokauppila",
+      "That",
+      "One",
+      "Eric Von Daniken",
+      "When",
+      "What",
+      "Okay",
+      "Francis Crick",
+      "Japanese",
+      "Do",
+      "Is",
+      "Within",
+      "Terence",
+      "Brian",
+      "Western",
+      "Gobekli Tepe",
+      "Saint Nicholas",
+      "The Dutch",
+      "Italians",
+      "Turkish",
+      "Christmas",
+      "Lapland"
+    ],
+    "acronyms": [
+      "US",
+      "CEO",
+      "DNA",
+      "OG"
+    ],
+    "technical_terms": [
+      "Santa Claus",
+      "Four Sigmatic",
+      "Von Daniken",
+      "Tero Isokauppila",
+      "Eric Von Daniken",
+      "Francis Crick",
+      "Gobekli Tepe",
+      "Saint Nicholas",
+      "The Dutch"
+    ],
+    "unclear_tokens": [
+      "build'em"
+    ]
+  },
+  "risk_assessment": {
+    "novel_proper_nouns": [],
+    "acronym_collapses": [],
+    "risk_score": 0.0
+  },
+  "risk_gates": {
+    "novel_noun_rate": 0.0,
+    "collapse_count": 0,
+    "failed": false,
+    "failed_gates": []
+  },
+  "statistics": {
+    "total_edits": 219,
+    "risky_edits": 0
+  }
+}

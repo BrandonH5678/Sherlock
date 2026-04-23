@@ -1,0 +1,141 @@
+{
+  "timestamp": "2026-01-08T20:44:15.333372+00:00",
+  "input_file": "/home/johnny5/Sherlock/freelance_transcripts/american_alchemy/hall_area51/audio_transcription/audio_flagged.json",
+  "enhanced_file": "/home/johnny5/Sherlock/freelance_transcripts/american_alchemy/hall_area51/audio_transcription/audio_enhanced.json",
+  "episode_title": "American Alchemy - Charles Hall Area51",
+  "model_used": "claude-sonnet-4-20250514",
+  "summary": {
+    "total_flagged": 10,
+    "salvaged": 5,
+    "marked_inaudible": 4,
+    "marked_unclear": 1,
+    "estimated_cost": 0.1
+  },
+  "edits": [
+    {
+      "segment_id": 41,
+      "timestamp": "183.8s",
+      "start": 183.82,
+      "end": 184.16,
+      "original": "He had no idea what was going on.",
+      "suggested": "[inaudible]",
+      "reasoning": "The segment contradicts the immediate context - the preceding text states 'he was the only one who knew the truth' while the flagged segment claims 'he had no idea what was going on.' This contradiction, combined with the hallucination flag and the overly clean/complete nature of the sentence, suggests this is likely a Whisper-generated hallucination rather than actual speech content.",
+      "confidence": 0.8,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 160,
+      "timestamp": "657.4s",
+      "start": 657.44,
+      "end": 657.78,
+      "original": "Uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh.",
+      "suggested": "[inaudible]",
+      "reasoning": "The excessive repetition of 'uh' (34 times) is characteristic of Whisper hallucination when processing unclear audio. Normal human speech would not contain such extreme repetition of filler words, and the surrounding context flows naturally without this segment.",
+      "confidence": 0.95,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 356,
+      "timestamp": "1645.1s",
+      "start": 1645.08,
+      "end": 1645.14,
+      "original": "not long ago by Ross Colthart. Eventually, the site was taken over by the U.S. government, a move that raised some",
+      "suggested": "not long ago by Ross Colthart. Eventually, the site was taken over by the U.S. government, a move that raised some",
+      "reasoning": "While flagged as hallucination, the content flows coherently with context and contains specific proper nouns. The narrative continuity from Bradshaw Ranch investigations to government takeover seems plausible for this topic. However, the hallucination flag warrants caution, so confidence is moderate.",
+      "confidence": 0.6,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 388,
+      "timestamp": "1870.3s",
+      "start": 1870.3,
+      "end": 1870.78,
+      "original": "And that was it.",
+      "suggested": "And that was it.",
+      "reasoning": "This is a common conversational phrase that makes logical sense in context - the speaker appears to be concluding a point about a specific area being protected with live ammo, and the following speaker confirms 'That specific area, right.' The phrase is linguistically natural and contextually appropriate, suggesting it's likely real speech rather than a hallucination.",
+      "confidence": 0.8,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 476,
+      "timestamp": "2194.8s",
+      "start": 2194.82,
+      "end": 2194.9,
+      "original": "Yeah.",
+      "suggested": "Yeah.",
+      "reasoning": "While flagged as a hallucination, 'Yeah' is a natural conversational response that fits the context and flow of dialogue. It's too simple and contextually appropriate to be a clear hallucination, though the flag suggests some uncertainty in the transcription.",
+      "confidence": 0.7,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 502,
+      "timestamp": "2280.1s",
+      "start": 2280.13,
+      "end": 2280.49,
+      "original": "And that's what I mean.",
+      "suggested": "[inaudible]",
+      "reasoning": "The phrase is too generic and contextually disconnected from both the philosophical discussion about time and the subsequent technical question about flying craft, suggesting it's a Whisper hallucination rather than actual speech content",
+      "confidence": 0.8,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 1451,
+      "timestamp": "5922.1s",
+      "start": 5922.09,
+      "end": 5922.15,
+      "original": "Right.",
+      "suggested": "Right",
+      "reasoning": "The word 'Right' makes contextual sense as a conversational acknowledgment following the previous statement about Wright-Patterson, and it's a simple, common word that's less likely to be a complex hallucination. The flow from 'Wright-Patterson' to 'Right' to 'Wright-Airfield' suggests this may be genuine speech rather than fabricated content.",
+      "confidence": 0.8,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 1855,
+      "timestamp": "7440.7s",
+      "start": 7440.71,
+      "end": 7441.03,
+      "original": "launching the nasa technology and has been a part of the nasa technology industry for",
+      "suggested": "[unclear: nasa technology operations]",
+      "reasoning": "The repetitive 'nasa technology' phrase suggests some real speech content was present but got garbled by Whisper into an unnatural repetition. Given the context mentions NASA operations, there was likely real speech about NASA technology involvement, but the exact wording is unclear due to the hallucination pattern.",
+      "confidence": 0.3,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 1902,
+      "timestamp": "7679.8s",
+      "start": 7679.82,
+      "end": 7679.86,
+      "original": "And...",
+      "suggested": "[inaudible]",
+      "reasoning": "The repetitive 'And...' pattern across multiple consecutive segments is a classic Whisper hallucination indicator. Natural speech would show variation, pauses, or completion of thoughts rather than identical partial words repeating",
+      "confidence": 0.95,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 1925,
+      "timestamp": "7766.5s",
+      "start": 7766.51,
+      "end": 7766.83,
+      "original": "They were just big fans.",
+      "suggested": "They were just big fans.",
+      "reasoning": "The phrase fits naturally in the conversational flow as a direct answer to the preceding question about motivations. While flagged, the content makes logical sense in context and shows no obvious signs of hallucination artifacts like repetition or nonsensical content.",
+      "confidence": 0.7,
+      "status": "applied",
+      "human_override": null
+    }
+  ],
+  "instructions": {
+    "to_reverse": "Change 'status' from 'applied' to 'reversed'",
+    "to_override": "Add 'human_override' with your corrected text",
+    "apply_changes": "Run apply_review_overrides.py after editing"
+  }
+}

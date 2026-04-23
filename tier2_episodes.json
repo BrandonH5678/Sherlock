@@ -1,0 +1,98 @@
+[
+  {
+    "id": "T2-01",
+    "title": "Diana Pasulka & Karl Nell - Biblical Truth of UFOs & Angels",
+    "url": "https://www.youtube.com/watch?v=aa9Xx5wI8Rw",
+    "priority": "P2",
+    "podcast": "American Alchemy",
+    "output_dir": "pasulka_nell"
+  },
+  {
+    "id": "T2-02",
+    "title": "Andrew Gallimore - DMT Opens The Alien Realm",
+    "url": "https://www.youtube.com/watch?v=8XD1ZiuhXoY",
+    "priority": "P2",
+    "podcast": "American Alchemy",
+    "output_dir": "gallimore_dmt"
+  },
+  {
+    "id": "T2-03",
+    "title": "Dr. John Brandenburg - Life on Mars Destroyed by Nuclear War",
+    "url": "https://www.youtube.com/watch?v=p0S0BfoZy0w",
+    "priority": "P2",
+    "podcast": "American Alchemy",
+    "output_dir": "brandenburg_mars"
+  },
+  {
+    "id": "T2-04",
+    "title": "Joe McMoneagle - Mars Had Alien Life",
+    "url": "https://www.youtube.com/watch?v=JpLThEF2dTM",
+    "priority": "P2",
+    "podcast": "American Alchemy",
+    "output_dir": "mcmoneagle_mars"
+  },
+  {
+    "id": "T2-05",
+    "title": "MIT Scientist - Aliens Are Simulating Our Reality",
+    "url": "https://www.youtube.com/watch?v=aKZ_MUbuk_Q",
+    "priority": "P2",
+    "podcast": "American Alchemy",
+    "output_dir": "mit_simulation"
+  },
+  {
+    "id": "T2-06",
+    "title": "Eric Wargo - UFOs, Synchronicities & Prophetic Dreams",
+    "url": "https://www.youtube.com/watch?v=hXYdkcv5TtY",
+    "priority": "P2",
+    "podcast": "American Alchemy",
+    "output_dir": "wargo_dreams"
+  },
+  {
+    "id": "T2-07",
+    "title": "Your Brain Is A Quantum Time Machine",
+    "url": "https://www.youtube.com/watch?v=RofQnByLwOo",
+    "priority": "P2",
+    "podcast": "American Alchemy",
+    "output_dir": "quantum_brain"
+  },
+  {
+    "id": "T2-08",
+    "title": "Salvatore Pais - Navy Scientist With UFO Patents",
+    "url": "https://www.youtube.com/watch?v=8TYMQOUDQBo",
+    "priority": "P2",
+    "podcast": "American Alchemy",
+    "output_dir": "pais_patents"
+  },
+  {
+    "id": "T2-09",
+    "title": "Matthew Pines - Age of Psionics",
+    "url": "https://www.youtube.com/watch?v=9QMrhcpJq8I",
+    "priority": "P2",
+    "podcast": "American Alchemy",
+    "output_dir": "pines_psionics"
+  },
+  {
+    "id": "T2-10",
+    "title": "Matthew Pines - UFO Physics & Disclosure Under Trump",
+    "url": "https://www.youtube.com/watch?v=LpLFWdsIU7M",
+    "priority": "P2",
+    "podcast": "American Alchemy",
+    "output_dir": "pines_physics"
+  },
+  {
+    "id": "T2-11",
+    "title": "Psychic Spies & Alien Civilizations - Connection",
+    "url": "https://www.youtube.com/watch?v=H9Yr_bflXec",
+    "priority": "P2",
+    "podcast": "Weaponized",
+    "output_dir": "puthoff_psychic"
+  },
+  {
+    "id": "T2-12",
+    "title": "John Blitch - DARPA Scientist Injured By An Alien",
+    "url": "https://www.youtube.com/watch?v=yAvD5UTziTo",
+    "priority": "P2",
+    "podcast": "American Alchemy",
+    "output_dir": "blitch_darpa"
+  }
+]

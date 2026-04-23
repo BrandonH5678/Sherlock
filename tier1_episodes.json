@@ -1,0 +1,122 @@
+[
+  {
+    "id": "T1-01",
+    "title": "Dr. James Lacatski - Pentagon UFO Program (PART 1)",
+    "url": "https://www.youtube.com/watch?v=Qu8pudJk_-A",
+    "priority": "P1",
+    "podcast": "Weaponized",
+    "output_dir": "lacatski_part1"
+  },
+  {
+    "id": "T1-02",
+    "title": "Dr. James Lacatski - Government UFO Boss (PART 2)",
+    "url": "https://www.youtube.com/watch?v=cggMuAjFJcI",
+    "priority": "P1",
+    "podcast": "Weaponized",
+    "output_dir": "lacatski_part2"
+  },
+  {
+    "id": "T1-03",
+    "title": "Dylan Borland - UFO Whistleblower (PART 1)",
+    "url": "https://www.youtube.com/watch?v=4H51UT2gs2g",
+    "priority": "P1",
+    "podcast": "Weaponized",
+    "output_dir": "borland_part1"
+  },
+  {
+    "id": "T1-04",
+    "title": "Dylan Borland - Legacy UFO Programs (PART 2)",
+    "url": "https://www.youtube.com/watch?v=-U2u43Vdt_g",
+    "priority": "P1",
+    "podcast": "Weaponized",
+    "output_dir": "borland_part2"
+  },
+  {
+    "id": "T1-05",
+    "title": "Immaculate Constellation Whistleblower (PART 1)",
+    "url": "https://www.youtube.com/watch?v=ZAxI-LDrDqA",
+    "priority": "P1",
+    "podcast": "Weaponized",
+    "output_dir": "immaculate_part1"
+  },
+  {
+    "id": "T1-06",
+    "title": "Immaculate Constellation (PART 2)",
+    "url": "https://www.youtube.com/watch?v=4n_bRtnIP14",
+    "priority": "P1",
+    "podcast": "Weaponized",
+    "output_dir": "immaculate_part2"
+  },
+  {
+    "id": "T1-07",
+    "title": "Immaculate Constellation (PART 3)",
+    "url": "https://www.youtube.com/watch?v=PtBVAxoHeaY",
+    "priority": "P1",
+    "podcast": "Weaponized",
+    "output_dir": "immaculate_part3"
+  },
+  {
+    "id": "T1-08",
+    "title": "Jay Stratton - Most Important Government UFO Investigator",
+    "url": "https://www.youtube.com/watch?v=HB5e4mgJX2Q",
+    "priority": "P1",
+    "podcast": "Weaponized",
+    "output_dir": "jay_stratton"
+  },
+  {
+    "id": "T1-09",
+    "title": "CDR David Fravor - Best UFO Witness Ever",
+    "url": "https://www.youtube.com/watch?v=zRkh3xh5_yU",
+    "priority": "P1",
+    "podcast": "Weaponized",
+    "output_dir": "fravor_tictac"
+  },
+  {
+    "id": "T1-10",
+    "title": "The Man Who Filmed The TIC TAC UFO",
+    "url": "https://www.youtube.com/watch?v=4opsdH4hY3s",
+    "priority": "P1",
+    "podcast": "Weaponized",
+    "output_dir": "tictac_filmer"
+  },
+  {
+    "id": "T1-11",
+    "title": "Firsthand Military Witness - Four TIC TAC UAPs",
+    "url": "https://www.youtube.com/watch?v=YKFmK-NSnKI",
+    "priority": "P1",
+    "podcast": "Weaponized",
+    "output_dir": "four_tictacs"
+  },
+  {
+    "id": "T1-12",
+    "title": "Navy Warship Encounters Multiple TIC TAC Craft",
+    "url": "https://www.youtube.com/watch?v=Vum9ny7yytg",
+    "priority": "P1",
+    "podcast": "Weaponized",
+    "output_dir": "navy_tictacs"
+  },
+  {
+    "id": "T1-13",
+    "title": "Mike Gold NASA Testimony - UAP Mysteries",
+    "url": "https://www.youtube.com/watch?v=znisWF5qHnA",
+    "priority": "P1",
+    "podcast": "Weaponized",
+    "output_dir": "mike_gold_nasa"
+  },
+  {
+    "id": "T1-14",
+    "title": "Dave Foley - Fight for UAP Transparency",
+    "url": "https://www.youtube.com/watch?v=SOzth5nQorw",
+    "priority": "P1",
+    "podcast": "Weaponized",
+    "output_dir": "dave_foley"
+  },
+  {
+    "id": "T1-15",
+    "title": "UFO Bombs Dropped On Capitol Hill",
+    "url": "https://www.youtube.com/watch?v=nfchje15k00",
+    "priority": "P1",
+    "podcast": "Weaponized",
+    "output_dir": "capitol_bombs"
+  }
+]

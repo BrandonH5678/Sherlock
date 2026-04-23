@@ -1,0 +1,106 @@
+[
+  {
+    "id": "T4-01",
+    "title": "Charles Hall - I Spent 3 Years With Tall White Aliens At Area 51",
+    "url": "https://www.youtube.com/watch?v=QgxjtDS2sIQ",
+    "priority": "P4",
+    "podcast": "American Alchemy",
+    "output_dir": "hall_area51"
+  },
+  {
+    "id": "T4-02",
+    "title": "Greg Rogers - NASA Doctor: I Saw UFO In Secret Hangar",
+    "url": "https://www.youtube.com/watch?v=TNtlzEnl8rA",
+    "priority": "P4",
+    "podcast": "American Alchemy",
+    "output_dir": "rogers_nasa"
+  },
+  {
+    "id": "T4-03",
+    "title": "Whitley Strieber - Aliens Live Among Us...I've Met Them",
+    "url": "https://www.youtube.com/watch?v=ABOP8ZJsyIk",
+    "priority": "P4",
+    "podcast": "American Alchemy",
+    "output_dir": "strieber_aliens"
+  },
+  {
+    "id": "T4-04",
+    "title": "Michael Herrera - I Saw A 300ft UFO In Indonesian Jungle",
+    "url": "https://www.youtube.com/watch?v=D2tKCFmJjks",
+    "priority": "P4",
+    "podcast": "American Alchemy",
+    "output_dir": "herrera_jungle"
+  },
+  {
+    "id": "T4-05",
+    "title": "Eric Davis - A US President Was Briefed on UFOs",
+    "url": "https://www.youtube.com/watch?v=LnAiNChnuEQ",
+    "priority": "P4",
+    "podcast": "American Alchemy",
+    "output_dir": "davis_potus"
+  },
+  {
+    "id": "T4-06",
+    "title": "Ryan Graves - US Fighter Pilots Witness UFO",
+    "url": "https://www.youtube.com/watch?v=6WC4o2yY9Ws",
+    "priority": "P4",
+    "podcast": "American Alchemy",
+    "output_dir": "graves_pilot"
+  },
+  {
+    "id": "T4-07",
+    "title": "Sergeant Dan Sherman - NSA Hired Me To Speak To Aliens",
+    "url": "https://www.youtube.com/watch?v=Rfmy5oW_r9c",
+    "priority": "P4",
+    "podcast": "American Alchemy",
+    "output_dir": "sherman_nsa"
+  },
+  {
+    "id": "T4-08",
+    "title": "Robert Salas - UFO Shut Down 10 Nukes",
+    "url": "https://www.youtube.com/watch?v=-0g3lLGxNfc",
+    "priority": "P4",
+    "podcast": "American Alchemy",
+    "output_dir": "salas_nukes"
+  },
+  {
+    "id": "T4-09",
+    "title": "Robert Hastings - UFOs Monitoring Nuclear Bases Globally",
+    "url": "https://www.youtube.com/watch?v=fzvwBBSmWYA",
+    "priority": "P4",
+    "podcast": "American Alchemy",
+    "output_dir": "hastings_nukes"
+  },
+  {
+    "id": "T4-10",
+    "title": "Col. Corso - Alien Bodies & Technology (Lost Tapes)",
+    "url": "https://www.youtube.com/watch?v=US4BNwU3q8Q",
+    "priority": "P4",
+    "podcast": "Weaponized",
+    "output_dir": "corso_tapes"
+  },
+  {
+    "id": "T4-11",
+    "title": "Thiago Ticchetti - UFOs Attacked 2,000 Humans",
+    "url": "https://www.youtube.com/watch?v=QQqVs4t_D-A",
+    "priority": "P4",
+    "podcast": "Weaponized",
+    "output_dir": "colares_attacks"
+  },
+  {
+    "id": "T4-12",
+    "title": "Massive Mystery Cubes Invade Vandenberg Base",
+    "url": "https://www.youtube.com/watch?v=a-YuYaG3Lqc",
+    "priority": "P4",
+    "podcast": "Weaponized",
+    "output_dir": "vandenberg_cubes"
+  },
+  {
+    "id": "T4-13",
+    "title": "Jake Barber - I Carried A UFO With My Helicopter",
+    "url": "https://www.youtube.com/watch?v=dnnpyNuPdXs",
+    "priority": "P4",
+    "podcast": "American Alchemy",
+    "output_dir": "barber_helicopter"
+  }
+]

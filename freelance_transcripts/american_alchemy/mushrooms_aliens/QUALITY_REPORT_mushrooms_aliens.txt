@@ -1,0 +1,117 @@
+================================================================================
+FREELANCE TRANSCRIPTION - COMPREHENSIVE QUALITY REPORT
+================================================================================
+
+Generated: 2026-01-16 17:40:15
+Episode: audio
+Transcript: audio_enhanced.json
+
+================================================================================
+1. OVERVIEW
+================================================================================
+Audio Duration:        16:46 (1006.0s)
+Total Segments:        277
+Total Words:           2,886
+Unique Speakers:       0
+
+================================================================================
+2. TRANSCRIPTION QUALITY METRICS
+================================================================================
+Average Confidence:    0.0000
+Words with Scores:     0 / 2,886
+
+Confidence Distribution:
+  excellent (>0.9)               0 (  0.0%)
+  good (0.8-0.9)                 0 (  0.0%)
+  acceptable (0.7-0.8)           0 (  0.0%)
+  poor (<0.7)                    0 (  0.0%)
+
+Expected Word Count:   2,515 (~150 words/min)
+Actual Word Count:     2,886
+Coverage Ratio:        1.15
+
+================================================================================
+3. SPEAKER DIARIZATION QUALITY METRICS
+================================================================================
+Unique Speakers:       0
+Total Segments:        277
+Assigned Segments:     0 (0.00%)
+Unknown Segments:      277 (100.00%)
+
+Time Coverage:
+  Assigned Time:       00:00 (0.00%)
+  Unknown Time:        16:10 (100.00%)
+
+================================================================================
+4. UNKNOWN SEGMENTS ANALYSIS
+================================================================================
+Total Unknown:         277 segments
+Total Duration:        16:10 (970.1s)
+
+Duration Distribution:
+  very_short (<1s)              16
+  short (1-3s)                  91
+  medium (3-10s)               170
+  long (>10s)                    0
+
+Pattern Classification:
+  music/effects                  2
+  intro/outro                  275
+  transitions                    0
+  unclear                        0
+
+Sample Unknown Segments:
+--------------------------------------------------------------------------------
+  [00:00-00:03] ( 3.4s)  These mushrooms and bacteria are both ancient beings.
+  [00:14-00:19] ( 4.6s)  You might think of them as a delightful addition to your tagliatelle 
+  [00:19-00:27] ( 7.9s)  top of your pizza, but did you ever think that mushrooms could actual
+  [00:27-00:31] ( 4.3s)  were an alien species looking to survive for billions of years and tr
+  [00:31-00:36] ( 4.8s)  intergalactically without dying out, would you choose to look like a 
+  [00:36-00:40] ( 4.6s)  you merge with higher life forms and affect the way they act and thin
+  [00:40-00:48] ( 7.1s)  survival? But let's back up, like two billion years back up. Ancient 
+  [00:48-00:54] ( 6.2s)  least 2.4 billion years ago. This was before plants and animals even 
+  [00:54-01:00] ( 6.0s)  from mushrooms. Animals split off from fungi about 650 million years 
+  [01:00-01:06] ( 6.0s)  use fungi, but we're also super prone to fungal diseases, so it's a b
+  ... and 267 more
+
+================================================================================
+5. TEMPORAL GAPS (EXCLUDED WINDOWS ≥0.5s)
+================================================================================
+Total Gaps:            11
+Total Gap Time:        00:31 (31.1s)
+Gap Coverage:          3.09% of audio
+
+Gap Details:
+--------------------------------------------------------------------------------
+  00:03-00:14 (11.28s)
+  02:16-02:18 ( 1.92s)
+  03:11-03:12 ( 0.80s)
+  04:24-04:25 ( 0.72s)
+  05:27-05:30 ( 3.04s)
+  05:50-05:52 ( 2.16s)
+  05:59-05:59 ( 0.56s)
+  08:50-08:51 ( 0.72s)
+  13:05-13:07 ( 1.74s)
+  14:09-14:11 ( 2.22s)
+  16:40-16:46 ( 5.93s)
+
+================================================================================
+6. QUALITY ASSESSMENT
+================================================================================
+Transcription Confidence: 0.0000
+  ⚠️  NOTE: Using WhisperX alignment scores (not original Whisper confidence)
+Coverage Ratio:           1.15
+Speaker Assignment:       0.00%
+
+Tier Qualification:
+  Basic      Conf:N/A (no scores)  Coverage:✓  Speakers:✗
+  Standard   Conf:N/A (no scores)  Coverage:✓  Speakers:✗
+  Premium    Conf:N/A (no scores)  Coverage:✓  Speakers:✗
+
+================================================================================
+7. RECOMMENDATIONS
+================================================================================
+• Speaker assignment at 0.0% - investigate unknown segments
+  Unknown segments appear to be intro/outro/music (not speech quality issue)
+• 31.1s of temporal gaps - audio may have silent periods
+• Consider using original Whisper JSON for confidence metrics

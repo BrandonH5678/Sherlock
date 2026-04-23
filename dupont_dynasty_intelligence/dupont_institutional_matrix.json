@@ -1,0 +1,378 @@
+{
+  "DuPont Company": {
+    "total_claims": 1,
+    "direct_connections": 1,
+    "corporate_roles": 0,
+    "political_positions": 0,
+    "institutional_links": 0,
+    "time_span": [
+      "1771-1800"
+    ],
+    "claims": [
+      "dupont_origins_001"
+    ]
+  },
+  "U.S. Military Supply": {
+    "total_claims": 1,
+    "direct_connections": 1,
+    "corporate_roles": 0,
+    "political_positions": 0,
+    "institutional_links": 0,
+    "time_span": [
+      "1802"
+    ],
+    "claims": [
+      "dupont_origins_002"
+    ]
+  },
+  "U.S. Military": {
+    "total_claims": 2,
+    "direct_connections": 2,
+    "corporate_roles": 0,
+    "political_positions": 0,
+    "institutional_links": 0,
+    "time_span": [
+      "1800-1815",
+      "1861-1865"
+    ],
+    "claims": [
+      "dupont_origins_003",
+      "dupont_expansion_001"
+    ]
+  },
+  "Industrial Dynasties": {
+    "total_claims": 1,
+    "direct_connections": 0,
+    "corporate_roles": 0,
+    "political_positions": 0,
+    "institutional_links": 1,
+    "time_span": [
+      "1800s-1900s"
+    ],
+    "claims": [
+      "dupont_expansion_002"
+    ]
+  },
+  "Military-Industrial Complex": {
+    "total_claims": 2,
+    "direct_connections": 2,
+    "corporate_roles": 0,
+    "political_positions": 0,
+    "institutional_links": 0,
+    "time_span": [
+      "1914-1918",
+      "1945-1990"
+    ],
+    "claims": [
+      "dupont_wwi_001",
+      "dupont_coldwar_001"
+    ]
+  },
+  "Corporate Structure": {
+    "total_claims": 1,
+    "direct_connections": 0,
+    "corporate_roles": 1,
+    "political_positions": 0,
+    "institutional_links": 0,
+    "time_span": [
+      "1912-1918"
+    ],
+    "claims": [
+      "dupont_wwi_002"
+    ]
+  },
+  "International Arms Cartel": {
+    "total_claims": 1,
+    "direct_connections": 0,
+    "corporate_roles": 0,
+    "political_positions": 0,
+    "institutional_links": 1,
+    "time_span": [
+      "1914-1920s"
+    ],
+    "claims": [
+      "dupont_wwi_003"
+    ]
+  },
+  "Chemical Industry": {
+    "total_claims": 2,
+    "direct_connections": 0,
+    "corporate_roles": 2,
+    "political_positions": 0,
+    "institutional_links": 0,
+    "time_span": [
+      "1920s-1940s",
+      "2017-2019"
+    ],
+    "claims": [
+      "dupont_chem_001",
+      "dupont_contemporary_001"
+    ]
+  },
+  "Defense Supply Chain": {
+    "total_claims": 1,
+    "direct_connections": 0,
+    "corporate_roles": 0,
+    "political_positions": 0,
+    "institutional_links": 1,
+    "time_span": [
+      "1930s-1950s"
+    ],
+    "claims": [
+      "dupont_chem_002"
+    ]
+  },
+  "General Motors": {
+    "total_claims": 2,
+    "direct_connections": 0,
+    "corporate_roles": 2,
+    "political_positions": 0,
+    "institutional_links": 0,
+    "time_span": [
+      "1920-1929",
+      "1910s-1950s"
+    ],
+    "claims": [
+      "dupont_gm_001",
+      "dupont_partner_001"
+    ]
+  },
+  "Aerospace-Automotive Complex": {
+    "total_claims": 1,
+    "direct_connections": 0,
+    "corporate_roles": 0,
+    "political_positions": 0,
+    "institutional_links": 1,
+    "time_span": [
+      "1920s-1950s"
+    ],
+    "claims": [
+      "dupont_gm_002"
+    ]
+  },
+  "Manhattan Project": {
+    "total_claims": 2,
+    "direct_connections": 2,
+    "corporate_roles": 0,
+    "political_positions": 0,
+    "institutional_links": 0,
+    "time_span": [
+      "1943-1945",
+      "1943-1945"
+    ],
+    "claims": [
+      "dupont_manhattan_001",
+      "dupont_partner_002"
+    ]
+  },
+  "U.S. Government": {
+    "total_claims": 1,
+    "direct_connections": 0,
+    "corporate_roles": 0,
+    "political_positions": 0,
+    "institutional_links": 1,
+    "time_span": [
+      "1943"
+    ],
+    "claims": [
+      "dupont_manhattan_002"
+    ]
+  },
+  "Nuclear Industry": {
+    "total_claims": 1,
+    "direct_connections": 0,
+    "corporate_roles": 0,
+    "political_positions": 0,
+    "institutional_links": 1,
+    "time_span": [
+      "1945-present"
+    ],
+    "claims": [
+      "dupont_manhattan_003"
+    ]
+  },
+  "DARPA": {
+    "total_claims": 1,
+    "direct_connections": 0,
+    "corporate_roles": 0,
+    "political_positions": 0,
+    "institutional_links": 1,
+    "time_span": [
+      "1958-1990"
+    ],
+    "claims": [
+      "dupont_coldwar_002"
+    ]
+  },
+  "Wall Street Finance": {
+    "total_claims": 1,
+    "direct_connections": 0,
+    "corporate_roles": 0,
+    "political_positions": 0,
+    "institutional_links": 1,
+    "time_span": [
+      "1940s-1980s"
+    ],
+    "claims": [
+      "dupont_coldwar_003"
+    ]
+  },
+  "Sullivan & Cromwell": {
+    "total_claims": 2,
+    "direct_connections": 0,
+    "corporate_roles": 0,
+    "political_positions": 0,
+    "institutional_links": 2,
+    "time_span": [
+      "1920s-1980s",
+      "1920s-1980s"
+    ],
+    "claims": [
+      "dupont_coldwar_004",
+      "dupont_partner_003"
+    ]
+  },
+  "Policy Think Tanks": {
+    "total_claims": 1,
+    "direct_connections": 0,
+    "corporate_roles": 0,
+    "political_positions": 0,
+    "institutional_links": 1,
+    "time_span": [
+      "1940s-1980s"
+    ],
+    "claims": [
+      "dupont_coldwar_005"
+    ]
+  },
+  "U.S. Senate": {
+    "total_claims": 1,
+    "direct_connections": 0,
+    "corporate_roles": 0,
+    "political_positions": 1,
+    "institutional_links": 0,
+    "time_span": [
+      "1925-1928"
+    ],
+    "claims": [
+      "dupont_political_001"
+    ]
+  },
+  "State Government": {
+    "total_claims": 1,
+    "direct_connections": 0,
+    "corporate_roles": 0,
+    "political_positions": 1,
+    "institutional_links": 0,
+    "time_span": [
+      "1977-1985"
+    ],
+    "claims": [
+      "dupont_political_002"
+    ]
+  },
+  "Lobbying Infrastructure": {
+    "total_claims": 1,
+    "direct_connections": 0,
+    "corporate_roles": 0,
+    "political_positions": 0,
+    "institutional_links": 1,
+    "time_span": [
+      "1950s-present"
+    ],
+    "claims": [
+      "dupont_political_003"
+    ]
+  },
+  "Federal Regulation": {
+    "total_claims": 1,
+    "direct_connections": 0,
+    "corporate_roles": 0,
+    "political_positions": 0,
+    "institutional_links": 1,
+    "time_span": [
+      "1970-present"
+    ],
+    "claims": [
+      "dupont_political_004"
+    ]
+  },
+  "J.P. Morgan": {
+    "total_claims": 1,
+    "direct_connections": 0,
+    "corporate_roles": 0,
+    "political_positions": 0,
+    "institutional_links": 1,
+    "time_span": [
+      "1900s-1980s"
+    ],
+    "claims": [
+      "dupont_partner_004"
+    ]
+  },
+  "Policy Elite": {
+    "total_claims": 1,
+    "direct_connections": 0,
+    "corporate_roles": 0,
+    "political_positions": 0,
+    "institutional_links": 1,
+    "time_span": [
+      "1940s-present"
+    ],
+    "claims": [
+      "dupont_partner_005"
+    ]
+  },
+  "CIA/OSS": {
+    "total_claims": 1,
+    "direct_connections": 0,
+    "corporate_roles": 0,
+    "political_positions": 0,
+    "institutional_links": 1,
+    "time_span": [
+      "1945-1980s"
+    ],
+    "claims": [
+      "dupont_partner_006"
+    ]
+  },
+  "Modern MIC": {
+    "total_claims": 1,
+    "direct_connections": 1,
+    "corporate_roles": 0,
+    "political_positions": 0,
+    "institutional_links": 0,
+    "time_span": [
+      "2000s-present"
+    ],
+    "claims": [
+      "dupont_contemporary_002"
+    ]
+  },
+  "Surveillance State": {
+    "total_claims": 1,
+    "direct_connections": 0,
+    "corporate_roles": 0,
+    "political_positions": 0,
+    "institutional_links": 1,
+    "time_span": [
+      "2000s-present"
+    ],
+    "claims": [
+      "dupont_contemporary_003"
+    ]
+  },
+  "Philanthropy/Academia": {
+    "total_claims": 1,
+    "direct_connections": 0,
+    "corporate_roles": 0,
+    "political_positions": 0,
+    "institutional_links": 1,
+    "time_span": [
+      "2000s-present"
+    ],
+    "claims": [
+      "dupont_contemporary_004"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+QUESTIONS FOR CLIENT REVIEW
+==================================================
+
+The following items were unclear in the audio.
+Please provide corrections or clarifications.
+
+[07:23] Jeremy Corbell:
+  Context: " It's it's in some of the realm in certain [unclear:corrupted_audio]."
+  Question: At 07:23, 'corrupted_audio' was unclear. Could you clarify?
+
+[15:04] Jeremy Corbell:
+  Context: " [unclear:office_name] and we have the chief executive officer of the [unclear:word] office we have"
+  Question: At 15:04, 'word' was unclear. Could you clarify?
+
+[15:04] Jeremy Corbell:
+  Context: " [unclear:office_name] and we have the chief executive officer of the [unclear:word] office we have"
+  Question: At 15:04, 'office_name' was unclear. Could you clarify?
+

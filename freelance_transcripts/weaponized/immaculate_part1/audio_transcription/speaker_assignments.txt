@@ -1,0 +1,19 @@
+=== SPEAKER ASSIGNMENTS (Claude API Enhancement) ===
+
+Speaker ID: Speaker 0
+  Assigned Name: Congressional Representative or Committee Chair
+  Role: Meeting Chair
+  Confidence: 0.85
+  Reasoning: Opens with formal testimony language 'we will hear testimony today' and discusses Congressional proceedings. Uses formal legislative language about programs being 'improperly withheld from Congress.' Sets the agenda by introducing the immaculate constellation document.
+
+Speaker ID: Speaker 1
+  Assigned Name: Congressional Staffer or Facilitator
+  Role: Presenter
+  Confidence: 0.75
+  Reasoning: Provides detailed briefing on the immaculate constellation report contents, affirms information '100 percent', and describes facilitating meetings ('I have personally walked people into members' offices'). Acts as intermediary arranging private Congressional meetings.
+
+Speaker ID: Unknown
+  Assigned Name: Interviewer/Moderator and Report Author
+  Role: Participant
+  Confidence: 0.65
+  Reasoning: Multiple voices in this segment - includes an interviewer conducting interview with the immaculate constellation report author. Discusses secrecy, clearances, and protection concerns. The dialogue shifts from introduction to interview questions about secrecy and UAP topics.

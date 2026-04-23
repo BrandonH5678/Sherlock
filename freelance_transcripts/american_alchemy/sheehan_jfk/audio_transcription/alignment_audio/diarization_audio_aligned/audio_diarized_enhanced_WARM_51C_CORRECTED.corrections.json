@@ -1,0 +1,1287 @@
+{
+  "timestamp": "2026-01-07T21:44:43.603694",
+  "input_file": "/home/johnny5/Sherlock/freelance_transcripts/american_alchemy/sheehan_jfk/audio_transcription/alignment_audio/diarization_audio_aligned/audio_diarized_enhanced_WARM_51C.json",
+  "output_file": "/home/johnny5/Sherlock/freelance_transcripts/american_alchemy/sheehan_jfk/audio_transcription/alignment_audio/diarization_audio_aligned/audio_diarized_enhanced_WARM_51C_CORRECTED.json",
+  "summary": {
+    "false_interjections_merged": 24,
+    "mid_sentence_switches_fixed": 158,
+    "original_segments": 3603,
+    "corrected_segments": 3421
+  },
+  "corrections": [
+    {
+      "type": "false_interjection",
+      "time": "275.6s",
+      "original": "News Clip: \"That\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Very short segment (0.1s, 1 words) likely mis-attributed"
+    },
+    {
+      "type": "false_interjection",
+      "time": "2228.1s",
+      "original": "Unknown Guest: \" Yeah.\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Acknowledgment 'Yeah.' likely belongs to Jeremy Ris"
+    },
+    {
+      "type": "false_interjection",
+      "time": "2232.8s",
+      "original": "Unknown Guest: \" Yeah.\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Acknowledgment 'Yeah.' likely belongs to Jeremy Ris"
+    },
+    {
+      "type": "false_interjection",
+      "time": "2239.0s",
+      "original": "Unknown Guest: \" Yeah.\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Acknowledgment 'Yeah.' likely belongs to Jeremy Ris"
+    },
+    {
+      "type": "false_interjection",
+      "time": "2288.7s",
+      "original": "SPEAKER_02: \" Yeah.\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Acknowledgment 'Yeah.' likely belongs to Unknown Guest"
+    },
+    {
+      "type": "false_interjection",
+      "time": "2292.8s",
+      "original": "SPEAKER_02: \" Mm-hmm.\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Acknowledgment 'Mm-hmm.' likely belongs to Unknown Guest"
+    },
+    {
+      "type": "false_interjection",
+      "time": "3786.0s",
+      "original": "SPEAKER_02: \"Oh yes.\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Acknowledgment 'Oh yes.' likely belongs to Unknown Guest"
+    },
+    {
+      "type": "false_interjection",
+      "time": "4292.5s",
+      "original": "Unknown Guest: \" Yeah, okay.\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Acknowledgment 'Yeah, okay.' likely belongs to Jeremy Ris"
+    },
+    {
+      "type": "false_interjection",
+      "time": "4390.9s",
+      "original": "Unknown Guest: \"His brother Charles.\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Very short segment (0.4s, 3 words) likely mis-attributed"
+    },
+    {
+      "type": "false_interjection",
+      "time": "4396.7s",
+      "original": "Jeremy Ris: \" There you go.\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Very short segment (0.8s, 3 words) likely mis-attributed"
+    },
+    {
+      "type": "false_interjection",
+      "time": "4517.9s",
+      "original": "SPEAKER_02: \" Interesting.\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Acknowledgment 'Interesting.' likely belongs to Unknown Guest"
+    },
+    {
+      "type": "false_interjection",
+      "time": "4654.6s",
+      "original": "Unknown Guest: \" Yeah, yeah.\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Acknowledgment 'Yeah, yeah.' likely belongs to Jeremy Ris"
+    },
+    {
+      "type": "false_interjection",
+      "time": "4824.0s",
+      "original": "Jeremy Ris: \" Okay.\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Acknowledgment 'Okay.' likely belongs to Unknown Guest"
+    },
+    {
+      "type": "false_interjection",
+      "time": "4835.7s",
+      "original": "SPEAKER_02: \" Yeah.\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Acknowledgment 'Yeah.' likely belongs to Unknown Guest"
+    },
+    {
+      "type": "false_interjection",
+      "time": "4951.3s",
+      "original": "SPEAKER_13: \" Wow.\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Acknowledgment 'Wow.' likely belongs to Unknown Guest"
+    },
+    {
+      "type": "false_interjection",
+      "time": "5377.4s",
+      "original": "Unknown Guest: \" That's right.\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Acknowledgment 'That's right.' likely belongs to Jeremy Ris"
+    },
+    {
+      "type": "false_interjection",
+      "time": "5407.9s",
+      "original": "News Clip: \" That's right.\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Acknowledgment 'That's right.' likely belongs to Jeremy Ris"
+    },
+    {
+      "type": "false_interjection",
+      "time": "5424.4s",
+      "original": "Unknown Guest: \" Mm-hmm.\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Acknowledgment 'Mm-hmm.' likely belongs to Jeremy Ris"
+    },
+    {
+      "type": "false_interjection",
+      "time": "5456.8s",
+      "original": "SPEAKER_02: \" Yeah.\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Acknowledgment 'Yeah.' likely belongs to Unknown Guest"
+    },
+    {
+      "type": "false_interjection",
+      "time": "6362.4s",
+      "original": "Jeremy Ris: \" Interesting.\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Acknowledgment 'Interesting.' likely belongs to Unknown Guest"
+    },
+    {
+      "type": "false_interjection",
+      "time": "8400.6s",
+      "original": "Jeremy Ris: \" Okay.\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Acknowledgment 'Okay.' likely belongs to Unknown Guest"
+    },
+    {
+      "type": "false_interjection",
+      "time": "8737.4s",
+      "original": "SPEAKER_02: \" collided, and when\u2014\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Continuation of incomplete sentence from Unknown Guest"
+    },
+    {
+      "type": "false_interjection",
+      "time": "9529.4s",
+      "original": "SPEAKER_02: \" Go public, yeah.\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Very short segment (0.9s, 3 words) likely mis-attributed"
+    },
+    {
+      "type": "false_interjection",
+      "time": "9610.1s",
+      "original": "Unknown Guest: \" Yeah, sure.\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Acknowledgment 'Yeah, sure.' likely belongs to Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "208.8s",
+      "original": "Unknown Guest: \" here for sure man thanks for having me \"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'here for sure man thanks for h...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "219.6s",
+      "original": "Unknown Guest: \" thousand how many documents like a whol\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'thousand how many documents li...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "225.3s",
+      "original": "Unknown Guest: \" that didn't write down you know you thi\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'that didn't write down you kno...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "228.9s",
+      "original": "Unknown Guest: \" write stuff down and keep a blog and a \"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'write stuff down and keep a bl...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "234.0s",
+      "original": "Unknown Guest: \" there's a lot of cool stuff in the docu\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'there's a lot of cool stuff in...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "238.2s",
+      "original": "Unknown Guest: \" you learn more uh from talking to long-\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'you learn more uh from talking...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "249.8s",
+      "original": "Unknown Guest: \" there's a lot of the the media use it a\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'there's a lot of the the media...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "255.4s",
+      "original": "Unknown Guest: \" uh idea that oh there's nothing in the \"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'uh idea that oh there's nothin...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "258.9s",
+      "original": "Unknown Guest: \" here and there's nothing new here and t\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'here and there's nothing new h...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "258.9s",
+      "original": "Unknown Guest: \" here.\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'here....' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "576.0s",
+      "original": "Jeremy Ris: \" into Asia.\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'into Asia....' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "1740.0s",
+      "original": "News Clip: \" was the first time in 100 years that a \"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'was the first time in 100 year...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "1747.5s",
+      "original": "News Clip: \" an election in which he was defeated an\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'an election in which he was de...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2680.5s",
+      "original": "Unknown Guest: \" that i mean it was it was a prolonged o\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'that i mean it was it was a pr...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2693.5s",
+      "original": "Unknown Guest: \" wild provided by timothy leary that's c\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'wild provided by timothy leary...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2712.7s",
+      "original": "Unknown Guest: \" yeah are you aware of that i'm i'm curr\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'yeah are you aware of that i'm...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2717.7s",
+      "original": "Unknown Guest: \" be time for an upgrade oh what do you s\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'be time for an upgrade oh what...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2723.5s",
+      "original": "SPEAKER_13: \" wallet look at this sleek design do you\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'wallet look at this sleek desi...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2732.1s",
+      "original": "SPEAKER_13: \" uh-huh this thing holds up to 12 cards \"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'uh-huh this thing holds up to ...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2740.4s",
+      "original": "Unknown Guest: \" you took the words right out of my mout\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'you took the words right out o...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2746.2s",
+      "original": "Unknown Guest: \" pickpockets won't stand a chance plus w\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'pickpockets won't stand a chan...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2753.9s",
+      "original": "Unknown Guest: \" again\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'again...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2784.1s",
+      "original": "Unknown Guest: \" about them where did they hear about ri\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'about them where did they hear...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2790.2s",
+      "original": "Unknown Guest: \" alchemy yeah please support our show an\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'alchemy yeah please support ou...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2829.8s",
+      "original": "Unknown Guest: \" need to kind of denuclearize he saw the\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'need to kind of denuclearize h...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2835.8s",
+      "original": "Unknown Guest: \" we refer to it this metanoia experience\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'we refer to it this metanoia e...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2844.2s",
+      "original": "Unknown Guest: \" outrageous you know uh uh curtis lemay \"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'outrageous you know uh uh curt...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2849.8s",
+      "original": "Unknown Guest: \" already proposed to him this operation \"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'already proposed to him this o...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2854.6s",
+      "original": "Unknown Guest: \" wanting to get castro out of there that\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'wanting to get castro out of t...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2860.6s",
+      "original": "Unknown Guest: \" u.s complete domination and control of \"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'u.s complete domination and co...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2865.4s",
+      "original": "Unknown Guest: \" absolute horrible affront to have these\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'absolute horrible affront to h...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2869.8s",
+      "original": "Unknown Guest: \" the island overthrown uh and so they ke\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'the island overthrown uh and s...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2873.4s",
+      "original": "Unknown Guest: \" do it so so the bottom line is when ken\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'do it so so the bottom line is...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2880.0s",
+      "original": "Unknown Guest: \" thing that people don't know about is t\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'thing that people don't know a...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2886.3s",
+      "original": "Unknown Guest: \" verify that they were both complying wi\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'verify that they were both com...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2892.6s",
+      "original": "Unknown Guest: \" of the nuclear warheads is that they we\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'of the nuclear warheads is tha...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2901.0s",
+      "original": "Unknown Guest: \" and oversee the whole process no way\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'and oversee the whole process ...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2903.5s",
+      "original": "Unknown Guest: \" that's all true are you serious that's \"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'that's all true are you seriou...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2908.1s",
+      "original": "Unknown Guest: \" back no they were yes they did it in th\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'back no they were yes they did...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2913.1s",
+      "original": "Unknown Guest: \" letters no but i know what the content \"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'letters no but i know what the...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2918.5s",
+      "original": "Unknown Guest: \" because of john john paul the 23rd or j\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'because of john john paul the ...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2924.6s",
+      "original": "Unknown Guest: \" to get in with the jesuits danny yeah r\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'to get in with the jesuits dan...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2932.1s",
+      "original": "Unknown Guest: \" june yeah so they were\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'june yeah so they were...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2933.5s",
+      "original": "Unknown Guest: \" working on trying to get this done so h\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'working on trying to get this ...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2937.8s",
+      "original": "Unknown Guest: \" is that in order to to make up for the \"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'is that in order to to make up...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2945.8s",
+      "original": "Unknown Guest: \" in both countries in order to have a ma\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'in both countries in order to ...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2951.7s",
+      "original": "Unknown Guest: \" wants to and he proposes to to gorbache\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'wants to and he proposes to to...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2958.8s",
+      "original": "Unknown Guest: \" soviet u.s space program that they comp\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'soviet u.s space program that ...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2963.5s",
+      "original": "Unknown Guest: \" and they they overcome the the whole th\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'and they they overcome the the...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2969.2s",
+      "original": "Unknown Guest: \" into outer space together and he on jun\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'into outer space together and ...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2980.1s",
+      "original": "Unknown Guest: \" contacts mccone the new cia director be\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'contacts mccone the new cia di...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2986.3s",
+      "original": "Unknown Guest: \" he wants to get fully briefed in on the\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'he wants to get fully briefed ...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2993.5s",
+      "original": "Unknown Guest: \" know yeah when i knew found out all tha\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'know yeah when i knew found ou...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3203.0s",
+      "original": "Unknown Guest: \" it's probably not well what it is is th\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'it's probably not well what it...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3211.4s",
+      "original": "Unknown Guest: \" information to khrushchev that'll seal \"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'information to khrushchev that...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3218.5s",
+      "original": "Unknown Guest: \" he's dropping this kind of nationalisti\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'he's dropping this kind of nat...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3223.2s",
+      "original": "Unknown Guest: \" and that they can have a genuine joint \"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'and that they can have a genui...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3227.7s",
+      "original": "Unknown Guest: \" what this extraterrestrial dimension is\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'what this extraterrestrial dim...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3233.0s",
+      "original": "Unknown Guest: \" and so he so but what happens is when h\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'and so he so but what happens ...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3239.8s",
+      "original": "Unknown Guest: \" guys tell uh tell dallas about it yeah \"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'guys tell uh tell dallas about...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3246.9s",
+      "original": "Unknown Guest: \" going over to see dallas all the time y\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'going over to see dallas all t...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3252.5s",
+      "original": "Unknown Guest: \" left town he just stayed right there be\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'left town he just stayed right...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3257.7s",
+      "original": "Unknown Guest: \" he'd been appointed to be the first civ\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'he'd been appointed to be the ...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3263.0s",
+      "original": "Unknown Guest: \" counsel for brown brothers harriman thi\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'counsel for brown brothers har...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3268.3s",
+      "original": "Unknown Guest: \" china lobby is that's the group of peop\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'china lobby is that's the grou...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3274.3s",
+      "original": "Unknown Guest: \" secretly fund the rise of hitler in ger\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'secretly fund the rise of hitl...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3281.7s",
+      "original": "Unknown Guest: \" union bank and all that stuff that they\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'union bank and all that stuff ...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3287.6s",
+      "original": "Unknown Guest: \" bolshevism in europe yeah and since the\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'bolshevism in europe yeah and ...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3293.0s",
+      "original": "Unknown Guest: \" and and that was the initial feeder for\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'and and that was the initial f...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3297.6s",
+      "original": "Unknown Guest: \" it was robert lovett who actually wrote\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'it was robert lovett who actua...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3303.5s",
+      "original": "Unknown Guest: \" reinstitute a major agency like the oss\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'reinstitute a major agency lik...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3309.7s",
+      "original": "Unknown Guest: \" lovett senior partner at brown brothers\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'lovett senior partner at brown...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3315.7s",
+      "original": "Unknown Guest: \" seat of the china lobby who saw the fut\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'seat of the china lobby who sa...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3322.4s",
+      "original": "Unknown Guest: \" asian market and the asian market and t\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'asian market and the asian mar...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3323.0s",
+      "original": "Unknown Guest: \" markets because they already owned a co\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'markets because they already o...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3328.2s",
+      "original": "Unknown Guest: \" germany which they'd extracted through \"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'germany which they'd extracted...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3333.8s",
+      "original": "Unknown Guest: \" process they did it but the bottom line\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'process they did it but the bo...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3340.3s",
+      "original": "Unknown Guest: \" at the end of world war one uh when the\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'at the end of world war one uh...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3347.6s",
+      "original": "Unknown Guest: \" who was the secretary of state under wi\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'who was the secretary of state...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3352.8s",
+      "original": "Unknown Guest: \" the uncle of alan in john foster dallas\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'the uncle of alan in john fost...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3360.4s",
+      "original": "Unknown Guest: \" who was the maternal grandfather for bo\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'who was the maternal grandfath...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3368.6s",
+      "original": "Unknown Guest: \" so there was john w foster was the the \"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'so there was john w foster was...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3376.2s",
+      "original": "Unknown Guest: \" under his when he was secretary of stat\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'under his when he was secretar...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3383.0s",
+      "original": "Unknown Guest: \" guam and that whole thing focusing on m\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'guam and that whole thing focu...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3387.9s",
+      "original": "Unknown Guest: \" that what they did in the versailles tr\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'that what they did in the vers...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3395.4s",
+      "original": "Unknown Guest: \" foster had had robert lansing his son-i\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'foster had had robert lansing ...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3402.9s",
+      "original": "Unknown Guest: \" dallas with him to the versailles treat\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'dallas with him to the versail...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3408.7s",
+      "original": "Unknown Guest: \" to draft into the into the versailles t\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'to draft into the into the ver...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3412.2s",
+      "original": "Unknown Guest: \" the war reparations requirements.\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'the war reparations requiremen...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "4034.0s",
+      "original": "Jeremy Ris: \" you know, and he was able to do that.\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'you know, and he was able to d...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "4296.6s",
+      "original": "Unknown Guest: \" because-\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Lowercase start 'because-...' continues sentence from Jeremy Ris"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "4297.4s",
+      "original": "Unknown Guest: \" So the Vought Flying Pancake is a Vough\"",
+      "corrected": "Merged into Jeremy Ris's speech",
+      "reason": "Continuation word 'so' suggests same speaker"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "7223.5s",
+      "original": "Jeremy Ris: \" off.\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'off....' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "7620.6s",
+      "original": "Jeremy Ris: \" it.\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'it....' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "7821.1s",
+      "original": "Jeremy Ris: \" scientology so he was using his remote \"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'scientology so he was using hi...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "7839.2s",
+      "original": "Jeremy Ris: \" like back he was a back channel spy to \"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'like back he was a back channe...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "7852.9s",
+      "original": "Jeremy Ris: \" did you ask him about because he wrote \"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'did you ask him about because ...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "7857.6s",
+      "original": "Jeremy Ris: \" bases i hadn't seen i hadn't seen that \"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'bases i hadn't seen i hadn't s...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "8012.8s",
+      "original": "Jeremy Ris: \" said do you think do you think that the\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'said do you think do you think...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "8020.3s",
+      "original": "Jeremy Ris: \" kind of reverse engineering or transpor\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'kind of reverse engineering or...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "8070.9s",
+      "original": "Jeremy Ris: \" to play devil's advocate i could have s\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'to play devil's advocate i cou...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "8075.1s",
+      "original": "Jeremy Ris: \" like i could name five other organizati\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'like i could name five other o...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "8080.1s",
+      "original": "Jeremy Ris: \" any other reasons to believe they had s\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'any other reasons to believe t...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "8108.6s",
+      "original": "Jeremy Ris: \" there kind of a mandate or\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'there kind of a mandate or...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "8110.1s",
+      "original": "Jeremy Ris: \" or you know constitution for the knight\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'or you know constitution for t...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "8116.9s",
+      "original": "Jeremy Ris: \" you know humphrey bogart the maltese fa\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'you know humphrey bogart the m...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "8121.9s",
+      "original": "Jeremy Ris: \" falcon and i believe they're also the h\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'falcon and i believe they're a...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "8127.9s",
+      "original": "Jeremy Ris: \" templars back in the day yeah sort of y\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'templars back in the day yeah ...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "8133.7s",
+      "original": "Jeremy Ris: \" i guess 14th century and then they were\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'i guess 14th century and then ...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "8139.2s",
+      "original": "Jeremy Ris: \" the temple mount\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'the temple mount...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "8140.1s",
+      "original": "Jeremy Ris: \" in you know jerusalem and then the medi\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'in you know jerusalem and then...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "8145.9s",
+      "original": "Jeremy Ris: \" there's some lineage between that and y\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'there's some lineage between t...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "8151.6s",
+      "original": "Jeremy Ris: \" understand you know what they do i know\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'understand you know what they ...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "8207.1s",
+      "original": "Jeremy Ris: \" that were used did you i mean you're je\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'that were used did you i mean ...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "8212.5s",
+      "original": "Jeremy Ris: \" out more about the magenta crash which \"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'out more about the magenta cra...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "8216.3s",
+      "original": "Jeremy Ris: \" david grush it was recovered in lombard\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'david grush it was recovered i...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "8222.8s",
+      "original": "Jeremy Ris: \" was also of knight of malta at the time\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'was also of knight of malta at...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "8230.1s",
+      "original": "Jeremy Ris: \" held for a while and then i think pope \"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'held for a while and then i th...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "8238.8s",
+      "original": "Jeremy Ris: \" to the us the pope posse 11th okay tran\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'to the us the pope posse 11th ...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "8246.1s",
+      "original": "Jeremy Ris: \" that no no i didn't actually it's inter\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'that no no i didn't actually i...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "8992.0s",
+      "original": "Jeremy Ris: \" this is not good for your career.\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'this is not good for your care...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "9912.7s",
+      "original": "Jeremy Ris: \" that information yeah uh and at the end\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'that information yeah uh and a...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "9917.7s",
+      "original": "Jeremy Ris: \" lord's work and uh godspeed i'm excited\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'lord's work and uh godspeed i'...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "9923.2s",
+      "original": "Jeremy Ris: \" years and uh you're you're really impor\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'years and uh you're you're rea...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "9928.1s",
+      "original": "Jeremy Ris: \" uh you know as as much as i love\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'uh you know as as much as i lo...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "9930.7s",
+      "original": "Jeremy Ris: \" my own podcast i hope that you go on li\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'my own podcast i hope that you...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "9938.6s",
+      "original": "Jeremy Ris: \" the jfk thing is so important and i kno\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'the jfk thing is so important ...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "9945.6s",
+      "original": "Jeremy Ris: \" and like you know i've learned you know\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'and like you know i've learned...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "9951.3s",
+      "original": "Jeremy Ris: \" lane and and jim mars and all these guy\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'lane and and jim mars and all ...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "9960.5s",
+      "original": "Jeremy Ris: \" in a way that is a coherent narrative w\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'in a way that is a coherent na...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "9965.7s",
+      "original": "Jeremy Ris: \" so i think uh it would be great if you \"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'so i think uh it would be grea...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "9978.3s",
+      "original": "Jeremy Ris: \" that's true that's true well i think th\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'that's true that's true well i...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "9983.3s",
+      "original": "Jeremy Ris: \" they have much bigger platforms than me\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'they have much bigger platform...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "9988.8s",
+      "original": "Jeremy Ris: \" well biggest in the world\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'well biggest in the world...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "10013.9s",
+      "original": "Jeremy Ris: \" it's an honor man appreciate you taking\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'it's an honor man appreciate y...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "10020.9s",
+      "original": "UNK: \" um\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'um...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "10022.3s",
+      "original": "UNK: \" thank you\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'thank you...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "10023.6s",
+      "original": "UNK: \" so\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'so...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "10024.2s",
+      "original": "UNK: \" this is a question for you\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'this is a question for you...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "10025.3s",
+      "original": "UNK: \" so\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'so...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "10025.9s",
+      "original": "UNK: \" we're doing this is the time for you to\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'we're doing this is the time f...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "10029.3s",
+      "original": "UNK: \" or you could go to a different institut\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'or you could go to a different...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "10033.2s",
+      "original": "UNK: \" or you could go to a different institut\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'or you could go to a different...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "10036.9s",
+      "original": "UNK: \" that may not be as good as the one that\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'that may not be as good as the...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "10039.3s",
+      "original": "UNK: \" what's the reason why you're taking thi\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'what's the reason why you're t...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "10041.3s",
+      "original": "UNK: \" why is it important for you to take thi\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'why is it important for you to...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "10043.3s",
+      "original": "UNK: \" because that's what it's all about\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'because that's what it's all a...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "10044.9s",
+      "original": "UNK: \" so\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'so...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "10045.3s",
+      "original": "UNK: \" yeah\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'yeah...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "10045.5s",
+      "original": "UNK: \" for me\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'for me...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "10045.9s",
+      "original": "UNK: \" yeah\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'yeah...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "10046.5s",
+      "original": "UNK: \" what's the reason\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'what's the reason...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "10046.9s",
+      "original": "UNK: \" why\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'why...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "10046.9s",
+      "original": "UNK: \" why\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'why...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "10047.3s",
+      "original": "UNK: \" why\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'why...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "10047.8s",
+      "original": "UNK: \" why\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'why...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "10048.3s",
+      "original": "UNK: \" um\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'um...' continues sentence from Unknown Guest"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "10049.1s",
+      "original": "UNK: \" um\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Lowercase start 'um...' continues sentence from Unknown Guest"
+    }
+  ]
+}

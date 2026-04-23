@@ -1,0 +1,58 @@
+{
+  "entity_id": "george_hw_bush",
+  "entity_type": "person",
+  "name": "George Herbert Walker Bush",
+  "lifespan": "1924-2018",
+  "research_date": "2025-12-06",
+  "priority": "HIGH",
+  "summary": "41st US President, former CIA Director (1976-1977), Vice President under Reagan, only president to have previously served as Director of Central Intelligence",
+  "early_career": {
+    "military_service": "Decorated naval pilot",
+    "congress": "Texas Congressman",
+    "rnc": "National Chairman of Republican National Committee",
+    "un_ambassador": "Ambassador to United Nations",
+    "china_envoy": "Special Envoy to China"
+  },
+  "cia_directorship": {
+    "title": "Director of Central Intelligence (DCI)",
+    "period": "January 1976 - January 1977",
+    "duration": "355 days",
+    "appointment_context": "Joined Agency at tumultuous time when morale at all-time low",
+    "church_committee_aftermath": "CIA rocked by revelations of illegal and unauthorized activities",
+    "primary_achievement": "Restored morale and reputation of CIA",
+    "leadership_style": "Established himself as strong leader with impressive resume"
+  },
+  "reagan_administration": {
+    "position": "Vice President",
+    "period": "1981-1989",
+    "intelligence_engagement": "Brought deep appreciation for President's Daily Brief (PDB)",
+    "activity_level": "As involved as any Vice President in history with major issues",
+    "focus_areas": [
+      "International terrorism",
+      "War on drugs"
+    ],
+    "pdb_reading": "Read PDB avidly throughout vice presidency"
+  },
+  "presidency": {
+    "title": "41st President of United States",
+    "period": "1989-1993",
+    "intelligence_distinction": "Only US president to have previously held position of DCI",
+    "unique_perspective": "Understood both providing and receiving intelligence",
+    "daily_routine": "Made CIA briefing first order of daily business in Oval Office"
+  },
+  "family_connections": {
+    "father": "Prescott Bush - US Senator, Brown Brothers Harriman partner",
+    "grandfather": "George Herbert Walker - ran Brown Brothers Harriman",
+    "son": "George W. Bush - 43rd US President",
+    "wall_street_ties": "Deep family connections to Brown Brothers Harriman investment bank",
+    "dulles_connection": "Family business connections to Allen Dulles through BBH"
+  },
+  "intelligence_legacy": {
+    "cia_building": "George H.W. Bush Center for Central Intelligence dedicated in his honor",
+    "morale_restoration": "Credited with restoring CIA morale after Church Committee scandals",
+    "institutional_knowledge": "Unique presidential understanding of intelligence operations",
+    "continuity": "Bridge between CIA, vice presidency, and presidency"
+  },
+  "significance": "Only president with CIA directorship experience, family dynasty connecting Wall Street finance (BBH) to intelligence community and presidency, restored CIA credibility during post-scandal crisis",
+  "research_quality": "HIGH - Extensive official documentation, well-documented career, public record"
+}

@@ -1,0 +1,88 @@
+{
+  "harvested": {
+    "proper_nouns": [
+      "And",
+      "But",
+      "So",
+      "It",
+      "They",
+      "In",
+      "We",
+      "This",
+      "The",
+      "Earth",
+      "He",
+      "Sami",
+      "You",
+      "For",
+      "Taro",
+      "Maybe",
+      "There",
+      "Santa Claus",
+      "If",
+      "Four Sigmatic",
+      "That",
+      "Von Daniken",
+      "Number",
+      "These",
+      "Taro Isokauppila",
+      "One",
+      "Not",
+      "Eric Von Daniken",
+      "When",
+      "What",
+      "Okay",
+      "People",
+      "Japanese",
+      "Do",
+      "Is",
+      "Within",
+      "Terence",
+      "Psilocybin",
+      "The Immortality Key",
+      "Brian",
+      "Gobekli Tepe",
+      "St",
+      "Nicholas",
+      "The Dutch",
+      "Italians",
+      "Turkish",
+      "Christmas",
+      "Lapland"
+    ],
+    "acronyms": [
+      "US",
+      "CEO",
+      "DNA",
+      "OG"
+    ],
+    "technical_terms": [
+      "Santa Claus",
+      "Four Sigmatic",
+      "Von Daniken",
+      "Taro Isokauppila",
+      "Eric Von Daniken",
+      "The Immortality Key",
+      "Gobekli Tepe",
+      "The Dutch"
+    ],
+    "unclear_tokens": []
+  },
+  "risk_assessment": {
+    "novel_proper_nouns": [
+      "Taro Isokauppila"
+    ],
+    "acronym_collapses": [],
+    "risk_score": 0.010416666666666666
+  },
+  "risk_gates": {
+    "novel_noun_rate": 0.020833333333333332,
+    "collapse_count": 0,
+    "failed": false,
+    "failed_gates": []
+  },
+  "statistics": {
+    "total_edits": 296,
+    "risky_edits": 1
+  }
+}

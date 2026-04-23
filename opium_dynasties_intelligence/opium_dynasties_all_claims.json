@@ -1,0 +1,585 @@
+[
+  {
+    "claim_id": "opium_fam_001",
+    "family": "Astor",
+    "text": "Astor family: Smuggled hundreds of thousands of pounds of opium into China (1810s)",
+    "claim_type": "factual",
+    "entities": [
+      "Astor",
+      "American Fur Company",
+      "Astor & Co."
+    ],
+    "time_period": "1800s",
+    "evidence_source": "PDF p.1; HISTORY.com",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "opium_fam_002",
+    "family": "Astor",
+    "text": "Astor opium profits funded: Astor Library (NYPL precursor), hospitals, banks",
+    "claim_type": "factual",
+    "entities": [
+      "Astor",
+      "Astor Library (NYPL precursor)",
+      "hospitals",
+      "banks"
+    ],
+    "significance": "Opium wealth \u2192 institutional philanthropy",
+    "evidence_source": "PDF p.1; HISTORY.com",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "opium_fam_003",
+    "family": "Cabot",
+    "text": "Cabot family: China opium market participation; \"exploitative business ventures\" (Britannica)",
+    "claim_type": "factual",
+    "entities": [
+      "Cabot",
+      "Samuel Cabot & Sons (China traders)"
+    ],
+    "time_period": "1800s",
+    "evidence_source": "PDF p.1; Britannica",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "opium_fam_004",
+    "family": "Cabot",
+    "text": "Cabot opium profits funded: Massachusetts General Hospital, Boston Symphony, Harvard University buildings",
+    "claim_type": "factual",
+    "entities": [
+      "Cabot",
+      "Massachusetts General Hospital",
+      "Boston Symphony",
+      "Harvard University buildings"
+    ],
+    "significance": "Opium wealth \u2192 institutional philanthropy",
+    "evidence_source": "PDF p.1; Britannica",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "opium_fam_005",
+    "family": "Cabot",
+    "text": "Cabot connections: Boston Brahmins; Senator Henry Cabot Lodge (nephew)",
+    "claim_type": "factual",
+    "entities": [
+      "Cabot"
+    ],
+    "significance": "Family network interlocks",
+    "evidence_source": "PDF p.1; Britannica",
+    "confidence": 0.85
+  },
+  {
+    "claim_id": "opium_fam_006",
+    "family": "Peabody",
+    "text": "Peabody family: East India trade; \"extremely wealthy\" from Asian trade; museum notes \"profits derived from illegal trade in opium\"",
+    "claim_type": "factual",
+    "entities": [
+      "Peabody",
+      "Peabody & Brown (Salem)",
+      "early China fleets"
+    ],
+    "time_period": "1800s",
+    "evidence_source": "PDF p.1; Wikipedia; PEM",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "opium_fam_007",
+    "family": "Peabody",
+    "text": "Peabody opium profits funded: Peabody Essex Museum (Asian art), Peabody Institute, education/housing endowments",
+    "claim_type": "factual",
+    "entities": [
+      "Peabody",
+      "Peabody Essex Museum (Asian art)",
+      "Peabody Institute",
+      "education/housing endowments"
+    ],
+    "significance": "Opium wealth \u2192 institutional philanthropy",
+    "evidence_source": "PDF p.1; Wikipedia; PEM",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "opium_fam_008",
+    "family": "Peabody",
+    "text": "Peabody connections: George Peabody became London financier; sponsored North American railroads",
+    "claim_type": "factual",
+    "entities": [
+      "Peabody"
+    ],
+    "significance": "Family network interlocks",
+    "evidence_source": "PDF p.1; Wikipedia; PEM",
+    "confidence": 0.85
+  },
+  {
+    "claim_id": "opium_fam_009",
+    "family": "Perkins-Cushing",
+    "text": "Perkins-Cushing family: By 1815 set up European offices to buy Turkish opium for Canton; \"turned to smuggling Turkish opium into China\"; worked with Chinese hong merchants (Howqua)",
+    "claim_type": "factual",
+    "entities": [
+      "Perkins-Cushing",
+      "Perkins & Co. (Boston-Canton)",
+      "merged into Russell & Co. (1830)"
+    ],
+    "time_period": "1800s",
+    "evidence_source": "PDF p.1-2; Wikipedia",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "opium_fam_010",
+    "family": "Perkins-Cushing",
+    "text": "Perkins-Cushing opium profits funded: Massachusetts General Hospital (land donor), Perkins School for Blind, McLean Hospital",
+    "claim_type": "factual",
+    "entities": [
+      "Perkins-Cushing",
+      "Massachusetts General Hospital (land donor)",
+      "Perkins School for Blind",
+      "McLean Hospital"
+    ],
+    "significance": "Opium wealth \u2192 institutional philanthropy",
+    "evidence_source": "PDF p.1-2; Wikipedia",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "opium_fam_011",
+    "family": "Perkins-Cushing",
+    "text": "Perkins-Cushing connections: John P. Cushing = T.H. Perkins nephew; John Murray Forbes became junior partner; Cushing married into Low family",
+    "claim_type": "factual",
+    "entities": [
+      "Perkins-Cushing"
+    ],
+    "significance": "Family network interlocks",
+    "evidence_source": "PDF p.1-2; Wikipedia",
+    "confidence": 0.85
+  },
+  {
+    "claim_id": "opium_fam_012",
+    "family": "Coolidge-Heard",
+    "text": "Coolidge-Heard family: Partner in Heard & Co.; decades trading opium, silk, tea; headed Canton operations (1840s)",
+    "claim_type": "factual",
+    "entities": [
+      "Coolidge-Heard",
+      "Augustine Heard & Co.",
+      "clipper Samuel Russell"
+    ],
+    "time_period": "1800s",
+    "evidence_source": "PDF p.2; Wikipedia",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "opium_fam_013",
+    "family": "Coolidge-Heard",
+    "text": "Coolidge-Heard opium profits funded: Boston Museum of Science, churches, railroads",
+    "claim_type": "factual",
+    "entities": [
+      "Coolidge-Heard",
+      "Boston Museum of Science",
+      "churches",
+      "railroads"
+    ],
+    "significance": "Opium wealth \u2192 institutional philanthropy",
+    "evidence_source": "PDF p.2; Wikipedia",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "opium_fam_014",
+    "family": "Coolidge-Heard",
+    "text": "Coolidge-Heard connections: Joseph married Thomas Jefferson's granddaughter; T.J. Coolidge married into Lowell mills; Warren Delano descendants include President Calvin Coolidge",
+    "claim_type": "factual",
+    "entities": [
+      "Coolidge-Heard"
+    ],
+    "significance": "Family network interlocks",
+    "evidence_source": "PDF p.2; Wikipedia",
+    "confidence": 0.85
+  },
+  {
+    "claim_id": "opium_fam_015",
+    "family": "Weld",
+    "text": "Weld family: Ran clipper fleets carrying opium; later patriarch: \"all our ancestors were opium smugglers\u2014pretty much the family business\"",
+    "claim_type": "factual",
+    "entities": [
+      "Weld",
+      "Clipper fleets (e.g. Challenger)",
+      "Gold Rush shipping"
+    ],
+    "time_period": "1800s",
+    "evidence_source": "PDF p.2; Harvard Magazine",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "opium_fam_016",
+    "family": "Weld",
+    "text": "Weld opium profits funded: Harvard Boathouse (G.W. Weld = \"greatest benefactor Harvard ever had in rowing\"), Museum of Fine Arts (art collections), Harvard sailing/science endowments",
+    "claim_type": "factual",
+    "entities": [
+      "Weld",
+      "Harvard Boathouse (G.W. Weld = \"greatest benefactor Harvard ever had in rowing\")",
+      "Museum of Fine Arts (art collections)",
+      "Harvard sailing/science endowments"
+    ],
+    "significance": "Opium wealth \u2192 institutional philanthropy",
+    "evidence_source": "PDF p.2; Harvard Magazine",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "opium_fam_017",
+    "family": "Weld",
+    "text": "Weld connections: Intermarried with Perkins, Cabot; David Weld (Gov. Weld descendant) confirms family lore",
+    "claim_type": "factual",
+    "entities": [
+      "Weld"
+    ],
+    "significance": "Family network interlocks",
+    "evidence_source": "PDF p.2; Harvard Magazine",
+    "confidence": 0.85
+  },
+  {
+    "claim_id": "opium_fam_018",
+    "family": "Delano",
+    "text": "Delano family: Joined Russell & Co. 1833; became head of Canton office; \"outdistanced every other American company in opium holdings\"; profited from First Opium War; returned during Civil War to ship opium to U.S. Army medical service",
+    "claim_type": "factual",
+    "entities": [
+      "Delano",
+      "Russell & Co. (Canton) - head of Canton office, majority stake"
+    ],
+    "time_period": "1800s",
+    "evidence_source": "PDF p.2-3; Wikipedia",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "opium_fam_019",
+    "family": "Delano",
+    "text": "Delano opium profits funded: Town of Delano, PA (co-founder with Asa Packer), Algonac estate (Hudson River), Monon Railroad (son)",
+    "claim_type": "factual",
+    "entities": [
+      "Delano",
+      "Town of Delano, PA (co-founder with Asa Packer)",
+      "Algonac estate (Hudson River)",
+      "Monon Railroad (son)"
+    ],
+    "significance": "Opium wealth \u2192 institutional philanthropy",
+    "evidence_source": "PDF p.2-3; Wikipedia",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "opium_fam_020",
+    "family": "Delano",
+    "text": "Delano connections: Daughter married into Forbes family; granddaughter Sara married James Roosevelt (FDR mother); related to Astors and Coolidges; nephew F.A. Delano married Packer family",
+    "claim_type": "factual",
+    "entities": [
+      "Delano"
+    ],
+    "significance": "Family network interlocks",
+    "evidence_source": "PDF p.2-3; Wikipedia",
+    "confidence": 0.85
+  },
+  {
+    "claim_id": "opium_fam_021",
+    "family": "Brown",
+    "text": "Brown family: Ran ships to Canton; \"active in China trade\" and slave trade",
+    "claim_type": "factual",
+    "entities": [
+      "Brown",
+      "Brown & Ives (Providence traders)"
+    ],
+    "time_period": "1800s",
+    "evidence_source": "PDF p.3; Wikipedia",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "opium_fam_022",
+    "family": "Brown",
+    "text": "Brown opium profits funded: Providence Bank (1791) - forerunner of Citizens Bank, Brown University (College of Rhode Island renamed), Providence infrastructure (South Bridge, wharves)",
+    "claim_type": "factual",
+    "entities": [
+      "Brown",
+      "Providence Bank (1791) - forerunner of Citizens Bank",
+      "Brown University (College of Rhode Island renamed)",
+      "Providence infrastructure (South Bridge, wharves)"
+    ],
+    "significance": "Opium wealth \u2192 institutional philanthropy",
+    "evidence_source": "PDF p.3; Wikipedia",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "opium_fam_023",
+    "family": "Brown",
+    "text": "Brown connections: Brothers Moses and Nicholas; intermarried with Rhode Island elites (Standish family)",
+    "claim_type": "factual",
+    "entities": [
+      "Brown"
+    ],
+    "significance": "Family network interlocks",
+    "evidence_source": "PDF p.3; Wikipedia",
+    "confidence": 0.85
+  },
+  {
+    "claim_id": "opium_fam_024",
+    "family": "Heard",
+    "text": "Heard family: Third-largest US China firm; introduced steamships to China",
+    "claim_type": "factual",
+    "entities": [
+      "Heard",
+      "Augustine Heard & Co. (founded 1840, Canton)"
+    ],
+    "time_period": "1800s",
+    "evidence_source": "PDF p.5; Wikipedia",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "opium_fam_025",
+    "family": "Heard",
+    "text": "Heard opium profits funded: Nephews became ministers and bankers; wealth dissipated after 1870s crash",
+    "claim_type": "factual",
+    "entities": [
+      "Heard",
+      "Nephews became ministers and bankers; wealth dissipated after 1870s crash"
+    ],
+    "significance": "Opium wealth \u2192 institutional philanthropy",
+    "evidence_source": "PDF p.5; Wikipedia",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "opium_fam_026",
+    "family": "Heard",
+    "text": "Heard connections: Founded with partner Joseph Coolidge; nephews intermarried with Forbes and Lull families",
+    "claim_type": "factual",
+    "entities": [
+      "Heard"
+    ],
+    "significance": "Family network interlocks",
+    "evidence_source": "PDF p.5; Wikipedia",
+    "confidence": 0.85
+  },
+  {
+    "claim_id": "opium_hv_001",
+    "text": "John Jacob Astor (1763-1848), America's first multi-millionaire, smuggled hundreds of thousands of pounds of opium into China in the 1810s",
+    "claim_type": "factual",
+    "entities": [
+      "John Jacob Astor",
+      "American Fur Company",
+      "opium"
+    ],
+    "time_period": "1810s",
+    "evidence_source": "PDF p.1; HISTORY.com",
+    "significance": "Foundation of American multi-millionaire class in opium smuggling",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "opium_hv_002",
+    "text": "Warren Delano Jr. (1809-1898), maternal grandfather of FDR, was head of Russell & Co. Canton office and held majority stake in America's largest opium-trading house",
+    "claim_type": "factual",
+    "entities": [
+      "Warren Delano Jr.",
+      "Russell & Co.",
+      "FDR",
+      "opium"
+    ],
+    "time_period": "1833-1898",
+    "evidence_source": "PDF p.2-3; Wikipedia",
+    "significance": "Direct presidential lineage to opium trade - FDR's wealth from grandfather's opium smuggling",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "opium_hv_003",
+    "text": "Under Delano leadership Russell & Co. \"outdistanced every other American company in its opium holdings\"",
+    "claim_type": "factual",
+    "entities": [
+      "Warren Delano Jr.",
+      "Russell & Co."
+    ],
+    "time_period": "1833-1860s",
+    "evidence_source": "PDF p.2",
+    "significance": "Dominant market position in illegal opium trade",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "opium_hv_004",
+    "text": "Warren Delano returned to China during Civil War to ship opium to U.S. Army medical service",
+    "claim_type": "factual",
+    "entities": [
+      "Warren Delano Jr.",
+      "U.S. Army",
+      "Civil War",
+      "opium"
+    ],
+    "time_period": "1861-1865",
+    "evidence_source": "PDF p.2",
+    "significance": "Opium supply to U.S. military during wartime",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "opium_hv_005",
+    "text": "Thomas Handasyd Perkins gave land for Massachusetts General Hospital and funded McLean Hospital - institutions central to Boston medical legacy built with opium profits",
+    "claim_type": "factual",
+    "entities": [
+      "Thomas Handasyd Perkins",
+      "MGH",
+      "McLean Hospital",
+      "opium"
+    ],
+    "time_period": "1800s",
+    "evidence_source": "PDF p.1-2",
+    "significance": "Major medical institutions founded with opium money",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "opium_hv_006",
+    "text": "In 1830, after death of Perkins heir, Perkins & Co. merged into giant Russell & Co. house",
+    "claim_type": "factual",
+    "entities": [
+      "Perkins & Co.",
+      "Russell & Co."
+    ],
+    "time_period": "1830",
+    "evidence_source": "PDF p.2",
+    "significance": "Consolidation of American opium trading operations",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "opium_hv_007",
+    "text": "Joseph Coolidge (1798-1879), Harvard-educated opium trader, married Thomas Jefferson's granddaughter, linking Revolutionary-era politics to opium trade",
+    "claim_type": "factual",
+    "entities": [
+      "Joseph Coolidge",
+      "Thomas Jefferson",
+      "Augustine Heard & Co.",
+      "opium"
+    ],
+    "time_period": "1800s",
+    "evidence_source": "PDF p.2",
+    "significance": "Founding Father lineage tied to opium commerce through marriage",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "opium_hv_008",
+    "text": "Later Weld patriarch quipped: \"all our ancestors were opium smugglers\u2014pretty much the family business\"",
+    "claim_type": "opinion",
+    "entities": [
+      "Weld family",
+      "opium"
+    ],
+    "evidence_source": "PDF p.2; Harvard Magazine",
+    "significance": "Family acknowledgment of opium trade origins",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "opium_hv_009",
+    "text": "John Brown used China trade (including slave trade) profits to found Providence Bank (1791) and fund Brown University (College of Rhode Island renamed)",
+    "claim_type": "factual",
+    "entities": [
+      "John Brown",
+      "Brown University",
+      "Providence Bank"
+    ],
+    "time_period": "1791-1803",
+    "evidence_source": "PDF p.3",
+    "significance": "Major university named for opium/slave trader",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "opium_hv_010",
+    "text": "Warren Delano Jr.'s children intermarried with Forbes family; granddaughter Sara married James Roosevelt (producing President FDR)",
+    "claim_type": "factual",
+    "entities": [
+      "Warren Delano Jr.",
+      "Forbes family",
+      "FDR",
+      "James Roosevelt"
+    ],
+    "evidence_source": "PDF p.2-3",
+    "significance": "Opium families formed tight intermarriage network leading to presidency",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "opium_hv_011",
+    "text": "Frederic Adrian Delano (1863-1953), Warren Delano Jr.'s nephew, became president of Monon Railroad and first vice-chairman of Federal Reserve",
+    "claim_type": "factual",
+    "entities": [
+      "Frederic Adrian Delano",
+      "Federal Reserve",
+      "Monon Railroad"
+    ],
+    "time_period": "1913+",
+    "evidence_source": "PDF p.2",
+    "significance": "Opium wealth flows into Federal Reserve founding generation",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "opium_hv_012",
+    "text": "Museums note that many Asian art acquisitions were purchased with \"profits derived from the illegal trade in opium\"",
+    "claim_type": "factual",
+    "entities": [
+      "Peabody Essex Museum",
+      "opium"
+    ],
+    "evidence_source": "PDF p.1; PEM",
+    "significance": "Institutional acknowledgment of opium profit origins",
+    "confidence": 0.95
+  },
+  {
+    "claim_id": "opium_hv_013",
+    "text": "Opium families (Astor, Cabot, Peabody, Perkins, Coolidge, Weld, Delano, Brown) intermarried through business and marriage, creating tight network of \"Boston Brahmins\" who dominated East Asia trade",
+    "claim_type": "factual",
+    "entities": [
+      "Boston Brahmins",
+      "Russell & Co.",
+      "Perkins & Co."
+    ],
+    "evidence_source": "PDF p.3",
+    "significance": "Coordinated elite network controlling opium trade",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "opium_forbes_001",
+    "text": "John Perkins Cushing (Perkins nephew) was succeeded in Russell & Co. by Robert and John Murray Forbes",
+    "claim_type": "factual",
+    "entities": [
+      "John Perkins Cushing",
+      "John Murray Forbes",
+      "Robert Forbes",
+      "Russell & Co."
+    ],
+    "time_period": "1830s-1840s",
+    "evidence_source": "PDF p.3",
+    "significance": "Direct succession link Perkins \u2192 Forbes in Russell & Co.",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "opium_forbes_002",
+    "text": "John Murray Forbes became junior partner in Perkins trade operations",
+    "claim_type": "factual",
+    "entities": [
+      "John Murray Forbes",
+      "Thomas Handasyd Perkins",
+      "Perkins & Co."
+    ],
+    "evidence_source": "PDF p.4",
+    "significance": "Forbes family integrated into Perkins opium network",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "opium_forbes_003",
+    "text": "Warren Delano Jr.'s daughter married into Forbes family",
+    "claim_type": "factual",
+    "entities": [
+      "Warren Delano Jr.",
+      "Forbes family"
+    ],
+    "evidence_source": "PDF p.2-3, p.4",
+    "significance": "Delano (FDR grandfather) \u2194 Forbes marriage alliance",
+    "confidence": 0.9
+  },
+  {
+    "claim_id": "opium_forbes_004",
+    "text": "Heard nephews intermarried with Forbes and Lull families in Boston",
+    "claim_type": "factual",
+    "entities": [
+      "Augustine Heard & Co.",
+      "Forbes family",
+      "Lull family"
+    ],
+    "evidence_source": "PDF p.5",
+    "significance": "Forbes network extended to Heard trading house",
+    "confidence": 0.85
+  }
+]

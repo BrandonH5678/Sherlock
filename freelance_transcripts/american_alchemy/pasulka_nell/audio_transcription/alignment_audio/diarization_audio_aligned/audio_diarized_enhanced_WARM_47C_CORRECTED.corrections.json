@@ -1,0 +1,531 @@
+{
+  "timestamp": "2026-01-07T21:44:06.910584",
+  "input_file": "/home/johnny5/Sherlock/freelance_transcripts/american_alchemy/pasulka_nell/audio_transcription/alignment_audio/diarization_audio_aligned/audio_diarized_enhanced_WARM_47C.json",
+  "output_file": "/home/johnny5/Sherlock/freelance_transcripts/american_alchemy/pasulka_nell/audio_transcription/alignment_audio/diarization_audio_aligned/audio_diarized_enhanced_WARM_47C_CORRECTED.json",
+  "summary": {
+    "false_interjections_merged": 11,
+    "mid_sentence_switches_fixed": 63,
+    "original_segments": 1532,
+    "corrected_segments": 1458
+  },
+  "corrections": [
+    {
+      "type": "false_interjection",
+      "time": "2071.8s",
+      "original": "Colonel Carl Nell: \" Right.\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Acknowledgment 'Right.' likely belongs to Jesse Michels"
+    },
+    {
+      "type": "false_interjection",
+      "time": "2321.6s",
+      "original": "Diana Walsh Pasulka: \" Yeah.\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Acknowledgment 'Yeah.' likely belongs to Jesse Michels"
+    },
+    {
+      "type": "false_interjection",
+      "time": "2979.8s",
+      "original": "Diana Walsh Pasulka: \" That's right.\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Acknowledgment 'That's right.' likely belongs to Jesse Michels"
+    },
+    {
+      "type": "false_interjection",
+      "time": "3105.2s",
+      "original": "Diana Walsh Pasulka: \" That's right.\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Acknowledgment 'That's right.' likely belongs to Jesse Michels"
+    },
+    {
+      "type": "false_interjection",
+      "time": "3223.8s",
+      "original": "Diana Walsh Pasulka: \" That's right.\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Acknowledgment 'That's right.' likely belongs to Jesse Michels"
+    },
+    {
+      "type": "false_interjection",
+      "time": "3285.4s",
+      "original": "Peter Thiel: \" Yeah.\"",
+      "corrected": "Merged into Diana Walsh Pasulka's speech",
+      "reason": "Acknowledgment 'Yeah.' likely belongs to Diana Walsh Pasulka"
+    },
+    {
+      "type": "false_interjection",
+      "time": "3798.5s",
+      "original": "Jesse Michels: \" Yeah.\"",
+      "corrected": "Merged into Diana Walsh Pasulka's speech",
+      "reason": "Acknowledgment 'Yeah.' likely belongs to Diana Walsh Pasulka"
+    },
+    {
+      "type": "false_interjection",
+      "time": "4007.8s",
+      "original": "Diana Walsh Pasulka: \" Yeah.\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Acknowledgment 'Yeah.' likely belongs to Jesse Michels"
+    },
+    {
+      "type": "false_interjection",
+      "time": "4296.7s",
+      "original": "Jesse Michels: \" It's amazing.\"",
+      "corrected": "Merged into Diana Walsh Pasulka's speech",
+      "reason": "Very short segment (0.7s, 2 words) likely mis-attributed"
+    },
+    {
+      "type": "false_interjection",
+      "time": "4472.4s",
+      "original": "Jesse Michels: \"That's fascinating.\"",
+      "corrected": "Merged into Diana Walsh Pasulka's speech",
+      "reason": "Acknowledgment 'That's fascinating.' likely belongs to Diana Walsh Pasulka"
+    },
+    {
+      "type": "false_interjection",
+      "time": "4477.4s",
+      "original": "Jesse Michels: \" That's amazing.\"",
+      "corrected": "Merged into Diana Walsh Pasulka's speech",
+      "reason": "Acknowledgment 'That's amazing.' likely belongs to Diana Walsh Pasulka"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "175.3s",
+      "original": "Colonel Carl Nell: \" it's a pleasure to be here and great to\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'it's a pleasure to be here and...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "180.1s",
+      "original": "Colonel Carl Nell: \" so yeah we actually uh looked into this\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'so yeah we actually uh looked ...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "186.5s",
+      "original": "Colonel Carl Nell: \" not publicly available so you know how \"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'not publicly available so you ...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "192.1s",
+      "original": "Colonel Carl Nell: \" some confidence that uh you know there'\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'some confidence that uh you kn...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "196.8s",
+      "original": "Colonel Carl Nell: \" lines of evidence that you can look at \"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'lines of evidence that you can...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "201.7s",
+      "original": "Colonel Carl Nell: \" from people that are in positions to kn\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'from people that are in positi...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "205.3s",
+      "original": "Colonel Carl Nell: \" like if we're going to kind of run thro\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'like if we're going to kind of...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "210.8s",
+      "original": "Colonel Carl Nell: \" position is probably the laws of physic\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'position is probably the laws ...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "215.9s",
+      "original": "Colonel Carl Nell: \" and undoubtedly there's some exceptions\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'and undoubtedly there's some e...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "220.2s",
+      "original": "Colonel Carl Nell: \" and so if you look at how quickly life \"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'and so if you look at how quic...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "226.8s",
+      "original": "Colonel Carl Nell: \" made is that life is uncommon and that \"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'made is that life is uncommon ...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "232.1s",
+      "original": "Colonel Carl Nell: \" and both of these things really have no\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'and both of these things reall...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "235.3s",
+      "original": "Colonel Carl Nell: \" exactly opposite so for instance uh the\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'exactly opposite so for instan...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "241.6s",
+      "original": "Colonel Carl Nell: \" billion years ago and recent scholarshi\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'billion years ago and recent s...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "1869.3s",
+      "original": "Jesse Michels: \" contemplation of virtue literally allow\"",
+      "corrected": "Merged into Diana Walsh Pasulka's speech",
+      "reason": "Lowercase start 'contemplation of virtue litera...' continues sentence from Diana Walsh Pasulka"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "1893.7s",
+      "original": "Jesse Michels: \" going to be that so with Plato Diana's \"",
+      "corrected": "Merged into Diana Walsh Pasulka's speech",
+      "reason": "Lowercase start 'going to be that so with Plato...' continues sentence from Diana Walsh Pasulka"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "1898.6s",
+      "original": "Jesse Michels: \" architecture to religion and Carl we've\"",
+      "corrected": "Merged into Diana Walsh Pasulka's speech",
+      "reason": "Lowercase start 'architecture to religion and C...' continues sentence from Diana Walsh Pasulka"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "1903.6s",
+      "original": "Jesse Michels: \" you've said to me that maybe the esoter\"",
+      "corrected": "Merged into Diana Walsh Pasulka's speech",
+      "reason": "Lowercase start 'you've said to me that maybe t...' continues sentence from Diana Walsh Pasulka"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "1907.6s",
+      "original": "Jesse Michels: \" religions are actually sort of normaliz\"",
+      "corrected": "Merged into Diana Walsh Pasulka's speech",
+      "reason": "Lowercase start 'religions are actually sort of...' continues sentence from Diana Walsh Pasulka"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "1911.4s",
+      "original": "Jesse Michels: \" of similarities when it comes to religi\"",
+      "corrected": "Merged into Diana Walsh Pasulka's speech",
+      "reason": "Lowercase start 'of similarities when it comes ...' continues sentence from Diana Walsh Pasulka"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "1912.6s",
+      "original": "Jesse Michels: \" saying in his writings which is that [u\"",
+      "corrected": "Merged into Diana Walsh Pasulka's speech",
+      "reason": "Lowercase start 'saying in his writings which i...' continues sentence from Diana Walsh Pasulka"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "1914.8s",
+      "original": "Colonel Carl Nell: \" of encounters with nonhuman intelligenc\"",
+      "corrected": "Merged into Diana Walsh Pasulka's speech",
+      "reason": "Lowercase start 'of encounters with nonhuman in...' continues sentence from Diana Walsh Pasulka"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2481.5s",
+      "original": "Diana Walsh Pasulka: \" the antichrist and he's been talking ab\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'the antichrist and he's been t...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2488.7s",
+      "original": "Diana Walsh Pasulka: \" antichrist been represented when we thi\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'antichrist been represented wh...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2496.1s",
+      "original": "Diana Walsh Pasulka: \" being the antichrist well that is to ta\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'being the antichrist well that...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2502.1s",
+      "original": "Diana Walsh Pasulka: \" this idea that uh there's an apocalypse\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'this idea that uh there's an a...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2509.7s",
+      "original": "Diana Walsh Pasulka: \" ourselves and do good okay and of cours\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'ourselves and do good okay and...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2515.4s",
+      "original": "Diana Walsh Pasulka: \" great veneer and then he reminds he rem\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'great veneer and then he remin...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2520.3s",
+      "original": "Diana Walsh Pasulka: \" presents as the one that is you know gi\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'presents as the one that is yo...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2562.1s",
+      "original": "Diana Walsh Pasulka: \" form of evil it's also outward looking \"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'form of evil it's also outward...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2568.9s",
+      "original": "Diana Walsh Pasulka: \" harming people you know and you met ren\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'harming people you know and yo...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2604.1s",
+      "original": "Diana Walsh Pasulka: \" that sort of thing and we have to look \"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'that sort of thing and we have...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2611.5s",
+      "original": "Diana Walsh Pasulka: \" and i was at berkeley at the time at th\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'and i was at berkeley at the t...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2616.8s",
+      "original": "Diana Walsh Pasulka: \" and so while he was taking these classe\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'and so while he was taking the...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2622.1s",
+      "original": "Diana Walsh Pasulka: \" colloquiums to listen to him and i so i\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'colloquiums to listen to him a...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2627.7s",
+      "original": "Diana Walsh Pasulka: \" undergraduate at the university of cali\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'undergraduate at the universit...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2633.6s",
+      "original": "Diana Walsh Pasulka: \" of broke through and really destabilize\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'of broke through and really de...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2639.2s",
+      "original": "Diana Walsh Pasulka: \" didn't like it because it was such a gi\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'didn't like it because it was ...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2644.5s",
+      "original": "Diana Walsh Pasulka: \" everything like a theory of evil right \"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'everything like a theory of ev...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2650.2s",
+      "original": "Diana Walsh Pasulka: \" would attend a Philadelphia university \"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'would attend a Philadelphia un...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2651.8s",
+      "original": "Diana Walsh Pasulka: \" believe it was latin mass and so the je\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'believe it was latin mass and ...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2659.9s",
+      "original": "Diana Walsh Pasulka: \" themselves because there was something \"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'themselves because there was s...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2664.4s",
+      "original": "Diana Walsh Pasulka: \" no they they said there wasn't anything\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'no they they said there wasn't...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2669.9s",
+      "original": "Diana Walsh Pasulka: \" he looked at evil as anthrop like an an\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'he looked at evil as anthrop l...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2677.0s",
+      "original": "Diana Walsh Pasulka: \" no transcendent or metaphysical evil th\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'no transcendent or metaphysica...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2717.3s",
+      "original": "Diana Walsh Pasulka: \" read plato you know early on as an unde\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'read plato you know early on a...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2722.5s",
+      "original": "Diana Walsh Pasulka: \" didn't start actually reading plato unt\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'didn't start actually reading ...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2729.6s",
+      "original": "Diana Walsh Pasulka: \" and i saw the um the ways in which ufos\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'and i saw the um the ways in w...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2737.6s",
+      "original": "Diana Walsh Pasulka: \" within this environment where i witness\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'within this environment where ...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2742.7s",
+      "original": "Diana Walsh Pasulka: \" the quote-unquote whistleblowers being \"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'the quote-unquote whistleblowe...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2748.6s",
+      "original": "Diana Walsh Pasulka: \" i was depressed so i thought you know h\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'i was depressed so i thought y...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2755.0s",
+      "original": "Diana Walsh Pasulka: \" kept coming back into my head and plato\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'kept coming back into my head ...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2760.8s",
+      "original": "Diana Walsh Pasulka: \" and why he asks this is because he's pr\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'and why he asks this is becaus...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2765.8s",
+      "original": "Diana Walsh Pasulka: \" his mentor was killed by his government\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'his mentor was killed by his g...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2771.8s",
+      "original": "Diana Walsh Pasulka: \" he didn't take it instead he said i liv\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'he didn't take it instead he s...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2776.5s",
+      "original": "Diana Walsh Pasulka: \" just this is right well plato didn't bu\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'just this is right well plato ...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2783.1s",
+      "original": "Diana Walsh Pasulka: \" and they ask the question can we have a\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'and they ask the question can ...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2787.5s",
+      "original": "Diana Walsh Pasulka: \" ridiculous scenarios he's saying that n\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'ridiculous scenarios he's sayi...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2793.1s",
+      "original": "Diana Walsh Pasulka: \" a just government how do we do it well \"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'a just government how do we do...' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2797.9s",
+      "original": "Diana Walsh Pasulka: \" the end of the Republic.\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'the end of the Republic....' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "3983.1s",
+      "original": "Diana Walsh Pasulka: \" government.\"",
+      "corrected": "Merged into Jesse Michels's speech",
+      "reason": "Lowercase start 'government....' continues sentence from Jesse Michels"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "4526.2s",
+      "original": "Jesse Michels: \" knows who even test Tesla got ripped of\"",
+      "corrected": "Merged into Diana Walsh Pasulka's speech",
+      "reason": "Lowercase start 'knows who even test Tesla got ...' continues sentence from Diana Walsh Pasulka"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "4530.1s",
+      "original": "Jesse Michels: \" company named after him today.\"",
+      "corrected": "Merged into Diana Walsh Pasulka's speech",
+      "reason": "Lowercase start 'company named after him today....' continues sentence from Diana Walsh Pasulka"
+    }
+  ]
+}

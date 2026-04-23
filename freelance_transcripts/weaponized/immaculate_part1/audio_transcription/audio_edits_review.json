@@ -1,0 +1,177 @@
+{
+  "timestamp": "2026-01-12T00:06:27.819789+00:00",
+  "input_file": "/home/johnny5/Sherlock/freelance_transcripts/weaponized/immaculate_part1/audio_transcription/audio_flagged.json",
+  "enhanced_file": "/home/johnny5/Sherlock/freelance_transcripts/weaponized/immaculate_part1/audio_transcription/audio_enhanced.json",
+  "episode_title": "SHERLOCK - Weaponized - Immaculate Constellation Part 1",
+  "model_used": "claude-sonnet-4-20250514",
+  "summary": {
+    "total_flagged": 13,
+    "salvaged": 3,
+    "marked_inaudible": 6,
+    "marked_unclear": 4,
+    "estimated_cost": 0.13
+  },
+  "edits": [
+    {
+      "segment_id": 84,
+      "timestamp": "433.1s",
+      "start": 433.14,
+      "end": 433.56,
+      "original": "Is it your belief?",
+      "suggested": "Is it your belief",
+      "reasoning": "The phrase flows naturally into the subsequent segment and forms a coherent question structure. The split appears artificial rather than indicating hallucinated content, though the fragmentation raises some uncertainty.",
+      "confidence": 0.7,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 85,
+      "timestamp": "433.6s",
+      "start": 433.56,
+      "end": 433.86,
+      "original": "On the inside.",
+      "suggested": "[unclear: On the inside]",
+      "reasoning": "While the phrase is grammatically coherent and could be real speech, it lacks clear contextual connection to the surrounding dialogue about beliefs and materials. Given the hallucination flag and poor context fit, treating it as unclear rather than certain is most appropriate",
+      "confidence": 0.3,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 87,
+      "timestamp": "439.8s",
+      "start": 439.78,
+      "end": 443.24,
+      "original": "Is your belief that this, the technology, the race for the technology, the understanding of the big secret is entirely in the hands of people outside the government and not for the benefit of the public or to protect American national security.",
+      "suggested": "[inaudible]",
+      "reasoning": "While the text is grammatically coherent, the context shows surrounding segments are heavily garbled with mixed languages, and this overly complex single sentence stands out as artificially constructed compared to natural speech patterns. The hallucination flag combined with the stark contrast to surrounding audio quality suggests this is generated content rather than actual speech.",
+      "confidence": 0.8,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 88,
+      "timestamp": "443.8s",
+      "start": 443.8,
+      "end": 444.24,
+      "original": "It's it's in some of the realm in certain believing \uc7a0 is \uac00\uc871.",
+      "suggested": "It's in some of the realm in certain",
+      "reasoning": "While the Korean characters are clear hallucinations, the English fragments 'It's it's in some of the realm in certain believing' appear to be partially real speech that gets continued properly in the following segments. The salvageable English portion aligns with the context of the conversation about belief and understanding.",
+      "confidence": 0.8,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 90,
+      "timestamp": "444.7s",
+      "start": 444.68,
+      "end": 445.08,
+      "original": "It's in some of the realm in certain.",
+      "suggested": "[unclear: It's in some of the realm in certain]",
+      "reasoning": "The segment contains recognizable English words but forms an incomplete, unclear phrase. Given the surrounding context shows similar fragmented speech patterns, this appears to be garbled speech rather than pure hallucination, but the meaning is unclear enough to warrant the [unclear] tag.",
+      "confidence": 0.6,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 91,
+      "timestamp": "445.1s",
+      "start": 445.08,
+      "end": 445.9,
+      "original": "It's it.",
+      "suggested": "[inaudible]",
+      "reasoning": "The phrase 'It's it.' is grammatically incomplete and doesn't connect meaningfully with the surrounding context. Given the pattern of fragmented speech in the before segments and the coherent continuation in the after segments, this appears to be a hallucination filling a gap where actual speech content was unclear or inaudible.",
+      "confidence": 0.8,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 101,
+      "timestamp": "508.1s",
+      "start": 508.1,
+      "end": 508.28,
+      "original": "report them we don't report them we don't report them we don't report them we don't",
+      "suggested": "we don't report them",
+      "reasoning": "While the repetitive looping indicates hallucination, the phrase 'we don't report them' appears to be real speech content that fits contextually with the discussion about protecting whistleblowers. The hallucination likely occurred during a pause or unclear audio where the phrase was repeated, but the core content appears legitimate.",
+      "confidence": 0.75,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 102,
+      "timestamp": "508.3s",
+      "start": 508.28,
+      "end": 508.3,
+      "original": "we don't report them we don't report them we don't report them we don't report them we don't",
+      "suggested": "[unclear: we don't report them]",
+      "reasoning": "While the repetitive loop is clearly a hallucination, the phrase 'we don't report them' appears to be real content that continues naturally from the preceding segment. The speaker likely said this phrase once or twice, but Whisper generated excessive repetitions. Using [unclear] format acknowledges uncertainty about the exact content while preserving the probable real speech fragment.",
+      "confidence": 0.7,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 114,
+      "timestamp": "569.7s",
+      "start": 569.7,
+      "end": 569.86,
+      "original": "people to understand where you're at and i just want people to understand where you're at and you're",
+      "suggested": "[inaudible]",
+      "reasoning": "The identical repetition of the exact phrase fragment indicates Whisper got stuck in a loop rather than transcribing actual speech. The context shows this interrupts the natural flow from someone discussing taking next steps to protecting whistleblowers, suggesting audio quality issues at this timestamp.",
+      "confidence": 0.9,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 180,
+      "timestamp": "933.4s",
+      "start": 933.43,
+      "end": 933.91,
+      "original": "why why is it why is that well you have government management",
+      "suggested": "[unclear: why is that]",
+      "reasoning": "The core phrase 'why is that' appears coherent and fits the conversational context of questioning government management structures, but the repetitive stuttering pattern suggests hallucination artifacts around real but unclear speech",
+      "confidence": 0.3,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 181,
+      "timestamp": "933.9s",
+      "start": 933.91,
+      "end": 934.39,
+      "original": "and in the three dc when u need to get into the pfad office and now it's not in a\u53ef\u662fwitch",
+      "suggested": "[inaudible]",
+      "reasoning": "The presence of mixed languages, nonsensical word combinations like '\u53ef\u662fwitch', and completely incoherent structure indicates this is a classic Whisper hallucination with no recoverable speech content",
+      "confidence": 0.95,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 264,
+      "timestamp": "1236.1s",
+      "start": 1236.06,
+      "end": 1236.12,
+      "original": "Did you ever.",
+      "suggested": "[inaudible]",
+      "reasoning": "The exact repetition of the incomplete phrase from the previous segment is a classic Whisper hallucination pattern. The conversation flows naturally from the before context to the after context without needing this duplicated fragment, suggesting it represents a gap or pause rather than actual speech.",
+      "confidence": 0.85,
+      "status": "applied",
+      "human_override": null
+    },
+    {
+      "segment_id": 492,
+      "timestamp": "2490.6s",
+      "start": 2490.55,
+      "end": 2491.03,
+      "original": "in the middle of nowhere yeah it's off the coast of the ocean and they're not",
+      "suggested": "[inaudible]",
+      "reasoning": "The segment 'in the middle of nowhere yeah it's off the coast of the ocean and they're not' is nearly identical to content from the previous segment. This repetition pattern is characteristic of Whisper hallucinations. Since the context flows naturally from 'they're not' in the before segment to 'camp chotka' in the after segment, this appears to be a false repetition with no actual speech content.",
+      "confidence": 0.9,
+      "status": "applied",
+      "human_override": null
+    }
+  ],
+  "instructions": {
+    "to_reverse": "Change 'status' from 'applied' to 'reversed'",
+    "to_override": "Add 'human_override' with your corrected text",
+    "apply_changes": "Run apply_review_overrides.py after editing"
+  }
+}

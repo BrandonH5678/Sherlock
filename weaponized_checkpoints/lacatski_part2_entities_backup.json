@@ -1,0 +1,180 @@
+{
+  "source_id": "weaponized_lacatski_part2",
+  "episode_id": "lacatski_part2",
+  "title": "Dr. James Lacatski Interview - Part 2",
+  "entities": {
+    "people": [
+      {
+        "name": "Dr. James Lukatsky",
+        "entity_type": "people",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "nterview with the creator and head of the U.S. government's largest acknowledged UAP study program, Dr. James Lukatsky.  The glory days of technologies were the 60s and 70s.  There were a lot of bright ideas and a lot ",
+          "Auschwitz.  Do you deny that?  This is weaponized.  The following is part two of our interview with Dr. James Lukatsky.  I'm asking you about this crap.  I'm asking you, was it given to us?  Was it gifted to us?  Was i"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Senator Reid",
+        "entity_type": "people",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "  It hasn't been achieved to its full extent. And by the way, that's where a suggestion  fronted by Senator Reid went into was I actually asked about your very question. Can we just cut  through all of this and d",
+          "rough would be tremendous if we can just pursue that. That wasn't funded either.  It was difficult. Senator Reid got into a situation where people were turning down the  money. One after another were turning down"
+        ],
+        "confidence": 0.8
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Pentagon",
+        "entity_type": "organization",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "was in essence, first described in, and I'm pointing up to a book sitting up there, Skinwalkers  at the Pentagon. Because the private investment of money, we know that OSAP is not going to  be repeated. We know t",
+          "really deny.  I will say there were some adjustments, not severe, but adjustments to skinwalkers at the Pentagon.  In other words, take this out type of adjustment.  And I'm not talking about just names and acade"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "cia",
+        "entity_type": "organization",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "r on.  It's like inch by inch.  You can't eat the whole whale at once.  No, and look, I really appreciate it.  I mean, I see it as a heroic thing that you're making these books and pushing each time to g"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "dia",
+        "entity_type": "organization",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          " not inadvertently, he deliberately fired at a black triangle a million candle spotlight and it immediately fired back a radiation beam and he got tumors from it.  Through some investigative journalism o",
+          "deliberately fired at a black triangle a million candle spotlight and it immediately fired back a radiation beam and he got tumors from it.  Through some investigative journalism over the years, I came t"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "Senate",
+        "entity_type": "organization",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          " money. Again, doesn't that seem a bit odd?  A minority leader and then a former majority leader of the Senate and they're turning."
+        ],
+        "confidence": 0.8
+      }
+    ],
+    "programs": [
+      {
+        "name": "Kona Blue",
+        "entity_type": "program",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          " there's some of this, the public has to, the public  scientists have to participate in. As I said, Kona Blue was a compartment  reputed department.  Maybe for recovered technology. Okay. And then there's Kona",
+          "Blue was a compartment  reputed department.  Maybe for recovered technology. Okay. And then there's Kona Blue, the program, which  was in essence, first described in, and I'm pointing up to a book sitting up t"
+        ],
+        "confidence": 0.8
+      }
+    ],
+    "locations": [
+      {
+        "name": "Pentagon",
+        "entity_type": "location",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "in essence, first described in, and I'm pointing up to a book sitting up there, Skinwalkers  at the Pentagon. Because the private investment of money, we know that OSAP is not going to  be repeated. We know t",
+          "ly deny.  I will say there were some adjustments, not severe, but adjustments to skinwalkers at the Pentagon.  In other words, take this out type of adjustment.  And I'm not talking about just names and acade"
+        ],
+        "confidence": 0.8
+      }
+    ],
+    "technologies": [
+      {
+        "name": "UAP",
+        "entity_type": "technologie",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "n part two of our interview with the creator and head of the U.S. government's largest acknowledged UAP study program, Dr. James Lukatsky.  The glory days of technologies were the 60s and 70s.  There wer",
+          "ve journalism over the years, I came to understand that you were read into and involved in a legacy UAP program before Auschwitz.  Do you deny that?  This is weaponized.  The following is part two of our"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "UFO",
+        "entity_type": "technologie",
+        "mention_count": 2,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          " George, on this craft.  But I just got to ask these or I'm not doing my job.  You alluded that the UFO in the possession of the U.S.  makes.  The technology described in your other book, initial revelat",
+          "you just think you're going to study UFOs, you're going to be smacked with reality.  Reality is the UFO phenomenon is just shrouded and covered with what you would call.  I don't know the good word, abno"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "UFOs",
+        "entity_type": "technologie",
+        "mention_count": 5,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "ssed the line. But I've got to ask what the  line is about future things. Because you're telling us UFOs, we have one, we're reverse  engineering it. But can you describe the inside? Can you talk about yo",
+          " us to know that much. Not the nuclear codes, but the fact nuclear  weapons exist. Same thing about UFOs. Yes, I believe it'll go in the same way.  Yeah. And the thing is, is that now, there's some of thi",
+          "peated. We know that. There's no way that's going to be repeated.  That focus on the paranormal and UFOs. So you got to learn now and then move on. You can't say, well,  I'm going to fund another OSAP too",
+          "ld.  There are wild things that occurred, but you said it best.  You said a study focused solely on UFOs on various unknown nuts and bolts type craft flittering around in the skies over military.  Militar",
+          " mystery.  And I think what you were trying to say to us is if you just think you're going to study UFOs, you're going to be smacked with reality.  Reality is the UFO phenomenon is just shrouded and cover"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "reverse  engineering",
+        "entity_type": "technologie",
+        "mention_count": 1,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "ot to ask what the  line is about future things. Because you're telling us UFOs, we have one, we're reverse  engineering it. But can you describe the inside? Can you talk about your personal  experience with this crap, h"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "name": "craft",
+        "entity_type": "technologie",
+        "mention_count": 7,
+        "affiliations": [],
+        "roles": [],
+        "contexts": [
+          "r question.  OK, here's something you can't answer.  I imagine you can't answer to me if you if the craft had its own intelligence, if it was sentient in some way in and of itself, you're not going to answ",
+          "not going to answer that, I assume, right?  So I got one you can't answer last one, George, on this craft.  But I just got to ask these or I'm not doing my job.  You alluded that the UFO in the possession ",
+          " the plan, well,  they're wrong. Is there anything that you were told you can't say this about that craft? Did you  try to say more? And through the dope store process, you're not ready. That's not what I'",
+          "t you said it best.  You said a study focused solely on UFOs on various unknown nuts and bolts type craft flittering around in the skies over military.  Military bases and facilities would never get to the",
+          "uch further than nuts and bolts.  Now.  Can you study?  Not.  and bolts and use it for a levitating craft would be tremendous. It doesn't have to be a fast craft,  but a levitating airliner, think about wh",
+          "Not.  and bolts and use it for a levitating craft would be tremendous. It doesn't have to be a fast craft,  but a levitating airliner, think about where it could go everywhere in the world. It wouldn't  ne",
+          "on. Can we just cut  through all of this and do what we can do right now and check out this type of craft  to the world?  The point of using all the money. It's like putting all your chips on one. Because "
+        ],
+        "confidence": 0.8
+      }
+    ]
+  },
+  "total_entities": 13,
+  "timestamp": "2026-01-07T14:41:30.737794"
+}

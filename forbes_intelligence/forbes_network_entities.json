@@ -1,0 +1,208 @@
+{
+  "people": {
+    "Rosemary Isabel Forbes Kerry": {
+      "dates": "1913-2002",
+      "role": "John Kerry's mother",
+      "branch": "Boston Forbes",
+      "significance": "Direct Kerry family connection"
+    },
+    "James Grant Forbes II": {
+      "role": "Father of Rosemary Forbes Kerry",
+      "branch": "Boston Forbes",
+      "significance": "Kerry's grandfather"
+    },
+    "John Murray Forbes": {
+      "dates": "1813-1898",
+      "roles": [
+        "China trade merchant",
+        "Opium trader",
+        "Railroad founder",
+        "Financier"
+      ],
+      "firms": [
+        "Russell & Company",
+        "J.M. Forbes & Co.",
+        "Chicago Burlington & Quincy Railroad"
+      ],
+      "significance": "Core capital formation figure - opium to infrastructure"
+    },
+    "Robert Bennet Forbes": {
+      "roles": [
+        "China trade merchant",
+        "Opium trader"
+      ],
+      "firms": [
+        "Russell & Company",
+        "Perkins"
+      ],
+      "significance": "Early China trade wealth generation"
+    },
+    "William Hathaway Forbes": {
+      "dates": "1840-1918",
+      "roles": [
+        "President of American Bell Telephone Company",
+        "Partner at J.M. Forbes & Co."
+      ],
+      "significance": "Telecom platform control - foundational to AT&T"
+    },
+    "William Cameron Forbes": {
+      "roles": [
+        "Governor-General of Philippines",
+        "Investment banker",
+        "Stone & Webster partner"
+      ],
+      "boards": [
+        "AT&T",
+        "Stone & Webster"
+      ],
+      "significance": "State administration + utilities/engineering + colonial power"
+    },
+    "Ruth Forbes": {
+      "roles": [
+        "Married Arthur M. Young (Bell Helicopter pioneer)"
+      ],
+      "significance": "Aerospace industry marriage tie"
+    },
+    "Arthur M. Young": {
+      "roles": [
+        "Helicopter pioneer",
+        "Bell Helicopter designer"
+      ],
+      "married": "Ruth Forbes (Boston Forbes family)",
+      "significance": "Military helicopter technology foundational work"
+    }
+  },
+  "organizations": {
+    "Russell & Company": {
+      "type": "Merchant house",
+      "period": "1820s-1890s",
+      "business": "China trade (tea, silk, opium)",
+      "forbes_connection": "John Murray Forbes, Robert Bennet Forbes - core operators",
+      "significance": "Major American opium trading house in Canton"
+    },
+    "Perkins": {
+      "type": "Merchant house",
+      "period": "Early 1800s",
+      "business": "China trade",
+      "forbes_connection": "Merged with Russell & Co.; Forbes family network",
+      "significance": "Boston Brahmin wealth formation pipeline"
+    },
+    "J.M. Forbes & Co.": {
+      "type": "Private investment/trust firm",
+      "period": "1777-present",
+      "business": "Investment, trust management, estate management",
+      "forbes_connection": "Family office - core Forbes capital vehicle",
+      "significance": "Manages >$1.5B; multi-generational wealth stewardship",
+      "modern_status": "Still operating as JM Forbes & Co. LLP"
+    },
+    "Chicago, Burlington & Quincy Railroad (CB&Q)": {
+      "type": "Railroad",
+      "period": "Mid-late 1800s",
+      "forbes_connection": "Founded/assembled by John Murray Forbes",
+      "significance": "Major Midwestern railroad system - infrastructure platform control"
+    },
+    "American Bell Telephone Company": {
+      "type": "Telecom holding/operating company",
+      "period": "Late 1800s",
+      "forbes_connection": "William Hathaway Forbes - PRESIDENT",
+      "significance": "Central entity that became AT&T - Forbes executive control at foundation"
+    },
+    "AT&T": {
+      "type": "Telecom monopoly",
+      "period": "1885-present",
+      "forbes_connection": "William Cameron Forbes - board member; evolved from American Bell under Forbes presidency",
+      "significance": "Monopoly telecom platform; Bell Labs; defense/intelligence substrate"
+    },
+    "Stone & Webster": {
+      "type": "Engineering/construction firm",
+      "founded": "1889 (Boston, MIT graduates)",
+      "business": "Power plants, utilities, defense projects, nuclear facilities",
+      "forbes_connection": "William Cameron Forbes - partner",
+      "significance": "WWI arsenals, WWII Manhattan Project (Oak Ridge), nuclear power plants",
+      "defense_role": "Built Hog Island shipyard, Y-12 uranium enrichment, AEC projects",
+      "modern_status": "Absorbed into Westinghouse Electric (major DoD contractor)"
+    },
+    "Brown Brothers Harriman (BBH)": {
+      "type": "Private bank",
+      "forbes_connection": "Documented co-presence in 1939 Commercial & Financial Chronicle; shared elite finance milieu",
+      "significance": "Major private bank; Bush family connection; likely syndicate/trustee overlap",
+      "evidence_strength": "Network adjacency strong, direct operational link unproven"
+    },
+    "Federal Reserve Bank of New York": {
+      "forbes_connection": "Charles A. Stone (Stone & Webster founder) - board member 1919-23",
+      "significance": "Forbes network access to monetary policy apparatus"
+    },
+    "Research Corporation": {
+      "forbes_connection": "Charles A. Stone - founding director",
+      "significance": "Major science foundation - research funding influence"
+    },
+    "MIT": {
+      "forbes_connection": "Stone & Webster founders (alumni); campus buildings funded by Forbes interests",
+      "significance": "Engineering talent pipeline; research partnerships"
+    },
+    "Bell Helicopter": {
+      "forbes_connection": "Arthur M. Young (married Ruth Forbes) - pioneer designer",
+      "significance": "Military helicopter platform (UH-1 Huey lineage); Vietnam-era military aviation",
+      "evidence_strength": "Marriage tie confirmed; foundational helicopter innovation"
+    }
+  },
+  "evolution_phases": {
+    "Phase A: China Trade / Opium (early-mid 1800s)": {
+      "mechanism": "Canton trade ecosystem \u2192 Boston capital formation",
+      "key_firms": [
+        "Russell & Company",
+        "Perkins"
+      ],
+      "key_people": [
+        "John Murray Forbes",
+        "Robert Bennet Forbes"
+      ],
+      "evidence": "MHS Forbes Family Papers; Business History Review; Forbes House Museum opium exhibit",
+      "economic_logic": "Trade profits + privileged networks \u2192 seed capital for industrial investment"
+    },
+    "Phase B: Railroads (mid-late 1800s)": {
+      "mechanism": "Merchant capital \u2192 infrastructure platform control",
+      "key_firms": [
+        "Chicago Burlington & Quincy Railroad",
+        "J.M. Forbes & Co."
+      ],
+      "key_people": [
+        "John Murray Forbes"
+      ],
+      "evidence": "Encyclopedia Britannica; MHS J.M. Forbes Estate Papers",
+      "economic_logic": "Transportation monopolies; bond financing; compounding returns"
+    },
+    "Phase C: Telecom (late 1870s-1900s)": {
+      "mechanism": "Family capital \u2192 communications platform monopoly",
+      "key_firms": [
+        "American Bell Telephone",
+        "AT&T"
+      ],
+      "key_people": [
+        "William Hathaway Forbes"
+      ],
+      "evidence": "MHS archival guides; corporate histories",
+      "economic_logic": "Executive control at consolidation phase; shape monopoly structure and federal alignment"
+    },
+    "Phase D: Utilities/Engineering (early-mid 1900s)": {
+      "mechanism": "Capital deployment into power, utilities, defense infrastructure",
+      "key_firms": [
+        "Stone & Webster",
+        "utility holdings"
+      ],
+      "key_people": [
+        "William Cameron Forbes"
+      ],
+      "evidence": "J.M. Forbes & Co. history; Stone & Webster corporate records",
+      "economic_logic": "Regulated monopolies; federal contracting; war mobilization"
+    },
+    "Phase E: Trust/Asset Management (late 1900s-present)": {
+      "mechanism": "Operating companies \u2192 governance + capital allocation",
+      "key_firms": [
+        "JM Forbes & Co. LLP (modern)"
+      ],
+      "evidence": "JM Forbes & Co. website ($1.5B+ AUM)",
+      "economic_logic": "Tax-optimized trusts; foundation capital; board influence; stewardship over operations"
+    }
+  }
+}

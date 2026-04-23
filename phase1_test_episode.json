@@ -1,0 +1,10 @@
+[
+  {
+    "id": "TEST-01",
+    "title": "UFO Bombs Dropped On Capitol Hill",
+    "url": "https://www.youtube.com/watch?v=nfchje15k00",
+    "priority": "P1",
+    "podcast": "Weaponized",
+    "output_dir": "capitol_bombs"
+  }
+]

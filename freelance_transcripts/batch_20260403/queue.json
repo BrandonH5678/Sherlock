@@ -1,0 +1,29 @@
+[
+  {
+    "id": "CIA_MK_001",
+    "title": "Exposing the CIA's Darkest Mind Control Secrets",
+    "url": "https://youtu.be/UrHLTFvdEZk?si=1d6ELBSXKgHItezh",
+    "podcast": "batch_20260403",
+    "output_dir": "cia_darkest_mind_control",
+    "priority": "P1",
+    "duration_estimate": "2:02:30"
+  },
+  {
+    "id": "NASA_AG_001",
+    "title": "NASA Chief: We Just Built Antigravity Propulsion!",
+    "url": "https://youtu.be/mOWwdIuyaQA?si=drFcrd52EGnpI6eM",
+    "podcast": "batch_20260403",
+    "output_dir": "nasa_antigravity_propulsion",
+    "priority": "P1",
+    "duration_estimate": "2:33:28"
+  },
+  {
+    "id": "WEIN_UFO_001",
+    "title": "Eric Weinstein Demands UFO Secrets From Pentagon Scientist",
+    "url": "https://youtu.be/xnxasfyHtfo?si=nPpLavZo0KY7Dh08",
+    "podcast": "batch_20260403",
+    "output_dir": "weinstein_pentagon_ufo",
+    "priority": "P1",
+    "duration_estimate": "3:59:02"
+  }
+]

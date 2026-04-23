@@ -1,0 +1,1023 @@
+[
+  {
+    "claim_id": "dynastic_sb_001",
+    "text": "William H. Russell (Yale class of 1833) founded Skull & Bones secret society, was cousin of opium magnate Samuel Russell",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "William H. Russell",
+      "Samuel Russell",
+      "Skull & Bones",
+      "Yale",
+      "Russell & Co."
+    ],
+    "time_period": "1833",
+    "evidence_source": "Dynastic Networks PDF p.1; LinkedIn; Wikipedia",
+    "significance": "CRITICAL: Direct familial link between S&B founder and leading American opium trader - institutional bridge from opium wealth to Yale secret society",
+    "confidence": 0.95,
+    "cross_references": [
+      "Forbes family (Russell & Co. partner)",
+      "Warren Delano Jr. (Russell & Co. head)",
+      "Opium dynasties document"
+    ]
+  },
+  {
+    "claim_id": "dynastic_sb_002",
+    "text": "Samuel Russell's firm Russell & Co. (est. 1823) became America's leading opium trader in China",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Samuel Russell",
+      "Russell & Co.",
+      "opium trade",
+      "China"
+    ],
+    "time_period": "1823-1890s",
+    "evidence_source": "Dynastic Networks PDF p.1",
+    "significance": "Establishes opium trade as foundation of Russell family fortune that seeded Skull & Bones",
+    "confidence": 0.95,
+    "cross_references": [
+      "Opium dynasties: Russell & Co. largest American opium house",
+      "Warren Delano Jr. head of Russell & Co. Canton office"
+    ]
+  },
+  {
+    "claim_id": "dynastic_sb_003",
+    "text": "Russell & Co. partners included FDR's grandfather Warren Delano Jr., and members of Coolidge, Perkins, and Forbes families",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Russell & Co.",
+      "Warren Delano Jr.",
+      "FDR",
+      "Coolidge family",
+      "Perkins family",
+      "Forbes family"
+    ],
+    "time_period": "1820s-1890s",
+    "evidence_source": "Dynastic Networks PDF p.1; LinkedIn",
+    "significance": "Confirms opium dynasties document findings - direct presidential connection (FDR) to opium trade",
+    "confidence": 0.95,
+    "cross_references": [
+      "Opium dynasties: Warren Delano Jr. majority stakeholder Russell & Co.",
+      "Forbes family: John Murray Forbes opium merchant"
+    ]
+  },
+  {
+    "claim_id": "dynastic_sb_004",
+    "text": "Many New England and Southern families in 'China Trade' sent their sons to Yale, and many were 'tapped' into Skull and Bones",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Skull & Bones",
+      "Yale",
+      "China Trade",
+      "New England families"
+    ],
+    "time_period": "1833-1900s",
+    "evidence_source": "Dynastic Networks PDF p.1",
+    "significance": "Pipeline mechanism: Opium wealth \u2192 Yale education \u2192 S&B membership \u2192 U.S. policy positions",
+    "confidence": 0.9,
+    "cross_references": [
+      "Opium dynasties: 9 major families",
+      "Forbes family: William Cameron Forbes Yale graduate"
+    ]
+  },
+  {
+    "claim_id": "dynastic_sb_005",
+    "text": "After Skull & Bones initiation, Bonesmen 'went into' finance, diplomacy, espionage, etc.",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Skull & Bones",
+      "finance",
+      "diplomacy",
+      "espionage"
+    ],
+    "time_period": "1833-present",
+    "evidence_source": "Dynastic Networks PDF p.1",
+    "significance": "Career placement mechanism - S&B as gateway to power positions",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_sb_006",
+    "text": "China trade families (Russell, Forbes, Perkins, Sturgis, Low) financed Princeton and Columbia construction and founded United Fruit",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Russell family",
+      "Forbes family",
+      "Perkins family",
+      "Sturgis family",
+      "Low family",
+      "Princeton",
+      "Columbia",
+      "United Fruit"
+    ],
+    "time_period": "Late 1800s-early 1900s",
+    "evidence_source": "Dynastic Networks PDF p.1",
+    "significance": "Opium profits recycled into institutional infrastructure (universities) and corporate power (United Fruit)",
+    "confidence": 0.9,
+    "cross_references": [
+      "Opium dynasties: institutional legacies",
+      "Forbes family: infrastructure investments"
+    ]
+  },
+  {
+    "claim_id": "dynastic_bush_harriman_007",
+    "text": "Prescott Bush (Yale Skull & Bones class of 1917) became partner in Brown Brothers Harriman (BBH) in 1931",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Prescott Bush",
+      "Skull & Bones",
+      "Brown Brothers Harriman",
+      "Yale"
+    ],
+    "time_period": "1931",
+    "evidence_source": "Dynastic Networks PDF p.1; Wikipedia",
+    "significance": "Establishes Bush dynasty entry into elite banking through S&B network",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_bush_harriman_008",
+    "text": "W. Averell Harriman (Yale Skull & Bones class of 1913) co-founded Brown Brothers Harriman, was Prescott Bush's father-in-law",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "W. Averell Harriman",
+      "Skull & Bones",
+      "Brown Brothers Harriman",
+      "Prescott Bush"
+    ],
+    "time_period": "1913-1931",
+    "evidence_source": "Dynastic Networks PDF p.1; Wikipedia",
+    "significance": "Marriage alliance + S&B + banking merger = dynastic consolidation",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_bush_harriman_009",
+    "text": "Brown Brothers Harriman formed by merging Harriman Brothers and Brown Brothers (founded 1818)",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Brown Brothers Harriman",
+      "Harriman Brothers",
+      "Brown Brothers"
+    ],
+    "time_period": "1818-1931",
+    "evidence_source": "Dynastic Networks PDF p.1",
+    "significance": "BBH represents merger of two major banking dynasties with deep historical roots",
+    "confidence": 0.95,
+    "cross_references": [
+      "Opium dynasties: Brown family Providence Bank \u2192 Citizens Bank precursor"
+    ]
+  },
+  {
+    "claim_id": "dynastic_bush_harriman_010",
+    "text": "Prescott Bush served on War Industries Board in WWI via Remington Arms contracts",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Prescott Bush",
+      "War Industries Board",
+      "Remington Arms",
+      "WWI"
+    ],
+    "time_period": "1917-1918",
+    "evidence_source": "Dynastic Networks PDF p.1",
+    "significance": "Early Bush family military-industrial involvement through arms manufacturing",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_bush_harriman_011",
+    "text": "George H.W. Bush (Skull & Bones class of 1948) and George W. Bush (Skull & Bones class of 1968) continued Bush-Harriman S&B lineage",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "George H.W. Bush",
+      "George W. Bush",
+      "Skull & Bones"
+    ],
+    "time_period": "1948-1968",
+    "evidence_source": "Dynastic Networks PDF p.1; Wikipedia",
+    "significance": "4-generation S&B dynasty (Prescott \u2192 George H.W. \u2192 George W.) with 2 presidencies",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_bush_harriman_012",
+    "text": "Prescott Bush's Yale classmate was E. Roland Harriman (Skull & Bones)",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Prescott Bush",
+      "E. Roland Harriman",
+      "Skull & Bones",
+      "Yale"
+    ],
+    "time_period": "1917",
+    "evidence_source": "Dynastic Networks PDF p.1",
+    "significance": "Tight peer network within S&B class cohorts",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_bush_harriman_013",
+    "text": "Prescott Bush later served as U.S. Senator",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Prescott Bush",
+      "U.S. Senate"
+    ],
+    "time_period": "1952-1963",
+    "evidence_source": "Dynastic Networks PDF p.1",
+    "significance": "Banking \u2192 Political power transition",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_bbh_014",
+    "text": "BBH's 1930 founding partners were overwhelmingly Yale alumni (11 of 16) and eight were Skull & Bones men",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Brown Brothers Harriman",
+      "Yale",
+      "Skull & Bones"
+    ],
+    "time_period": "1930",
+    "evidence_source": "Dynastic Networks PDF p.2",
+    "significance": "CRITICAL: BBH was essentially a Skull & Bones banking operation - 50% of founding partners were S&B members",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_bbh_015",
+    "text": "Brown Brothers' leadership (Harriman, Bush) intertwined banking dynasties with Yale elites",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Brown Brothers",
+      "Harriman family",
+      "Bush family",
+      "Yale"
+    ],
+    "time_period": "1931-present",
+    "evidence_source": "Dynastic Networks PDF p.2",
+    "significance": "Banking power concentrated in S&B network",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_cia_016",
+    "text": "George H.W. Bush served as Director of Central Intelligence (DCI) 1976-77",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "George H.W. Bush",
+      "CIA",
+      "Director of Central Intelligence"
+    ],
+    "time_period": "1976-1977",
+    "evidence_source": "Dynastic Networks PDF p.2; CIA.gov",
+    "significance": "Direct Bush dynasty control of CIA - only president to previously serve as DCI",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_cia_017",
+    "text": "Prescott Bush co-founded National Strategy Information Center (1962) with OSS veteran William Casey (future CIA Director)",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Prescott Bush",
+      "William Casey",
+      "National Strategy Information Center",
+      "OSS",
+      "CIA"
+    ],
+    "time_period": "1962",
+    "evidence_source": "Dynastic Networks PDF p.2",
+    "significance": "Bush-CIA linkage predates George H.W.; NSIC described as front for CIA influence",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_cia_018",
+    "text": "W. Averell Harriman worked closely with Bonesman Robert Lovett to organize U.S. Cold War intelligence apparatus, helping set up OSS/CIA-era covert frameworks",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "W. Averell Harriman",
+      "Robert Lovett",
+      "Skull & Bones",
+      "OSS",
+      "CIA",
+      "Cold War"
+    ],
+    "time_period": "1940s-1950s",
+    "evidence_source": "Dynastic Networks PDF p.2",
+    "significance": "S&B members architected modern U.S. intelligence infrastructure",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_cia_019",
+    "text": "Bones-affiliated Richardson family foundation funded CIA's MK-ULTRA mind-control experiments in the 1950s",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Richardson family",
+      "Skull & Bones",
+      "CIA",
+      "MK-ULTRA"
+    ],
+    "time_period": "1950s",
+    "evidence_source": "Dynastic Networks PDF p.2",
+    "significance": "S&B network financed illegal CIA mind-control program",
+    "confidence": 0.85,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_cia_020",
+    "text": "Robert Lovett (Skull & Bones class of 1918) worked with W.A. Harriman on covert intelligence planning",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Robert Lovett",
+      "Skull & Bones",
+      "W. Averell Harriman",
+      "intelligence"
+    ],
+    "time_period": "1940s-1950s",
+    "evidence_source": "Dynastic Networks PDF p.1, p.3",
+    "significance": "S&B class of 1918 cohort in intelligence architecture",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_cia_021",
+    "text": "Henry G. 'Pat' Mallon (Skull & Bones class of 1917, Prescott Bush classmate) became CIA board member and director of Bush's oil company Dresser Industries, coordinating CIA cover oil rigs",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Pat Mallon",
+      "Skull & Bones",
+      "Prescott Bush",
+      "CIA",
+      "Dresser Industries"
+    ],
+    "time_period": "1950s-1960s",
+    "evidence_source": "Dynastic Networks PDF p.3",
+    "significance": "CIA used Bush family oil operations for covert cover; S&B class of 1917 cohort in CIA governance",
+    "confidence": 0.85,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_rockefeller_022",
+    "text": "Percy Rockefeller (grandson of J.D. Rockefeller) was Skull & Bones class of 1900 and served on boards of Brown Brothers Harriman, Standard Oil, and Remington Arms",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Percy Rockefeller",
+      "Skull & Bones",
+      "Brown Brothers Harriman",
+      "Standard Oil",
+      "Remington Arms",
+      "J.D. Rockefeller"
+    ],
+    "time_period": "1900-1930s",
+    "evidence_source": "Dynastic Networks PDF p.2",
+    "significance": "CRITICAL: Single S&B member ties Rockefeller oil empire to BBH banking AND military manufacturing - trilateral power concentration",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_rockefeller_023",
+    "text": "Percy Rockefeller's position on Standard Oil board cements Rockefeller influence in oil industry",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Percy Rockefeller",
+      "Standard Oil",
+      "Rockefeller family"
+    ],
+    "time_period": "Early 1900s",
+    "evidence_source": "Dynastic Networks PDF p.2",
+    "significance": "Rockefeller oil empire governance",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_rockefeller_024",
+    "text": "Percy Rockefeller's Remington Arms directorship connects Rockefellers to DuPont legacy (Remington was DuPont's armaments branch)",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Percy Rockefeller",
+      "Remington Arms",
+      "DuPont",
+      "armaments"
+    ],
+    "time_period": "Early 1900s",
+    "evidence_source": "Dynastic Networks PDF p.2",
+    "significance": "Rockefeller family military-industrial involvement through DuPont armaments",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_rockefeller_025",
+    "text": "Prescott Bush's father managed Buckeye Steel under Frank Rockefeller (John D.'s brother) - Bush family was literally run by a Rockefeller",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Prescott Bush",
+      "Frank Rockefeller",
+      "John D. Rockefeller",
+      "Buckeye Steel",
+      "Bush family"
+    ],
+    "time_period": "Early 1900s",
+    "evidence_source": "Dynastic Networks PDF p.2",
+    "significance": "Bush-Rockefeller alliance predates BBH; Bush family subordinate to Rockefeller empire early on",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_rockefeller_026",
+    "text": "David Rockefeller (1915-2017) joined Council on Foreign Relations in 1941 and became director in 1949",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "David Rockefeller",
+      "Council on Foreign Relations",
+      "CFR"
+    ],
+    "time_period": "1941-1949",
+    "evidence_source": "Dynastic Networks PDF p.2",
+    "significance": "David Rockefeller entry into globalist policy architecture",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_rockefeller_027",
+    "text": "David Rockefeller founded Trilateral Commission and forged CFR-led policy networks spanning government and big business",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "David Rockefeller",
+      "Trilateral Commission",
+      "CFR",
+      "government",
+      "business"
+    ],
+    "time_period": "1950s-1970s",
+    "evidence_source": "Dynastic Networks PDF p.2",
+    "significance": "Rockefeller creation of globalist policy coordination mechanisms",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_rockefeller_028",
+    "text": "David Rockefeller mentored Henry Kissinger via CFR in 1950s, then introduced him to Bilderberg conferences",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "David Rockefeller",
+      "Henry Kissinger",
+      "CFR",
+      "Bilderberg"
+    ],
+    "time_period": "1950s",
+    "evidence_source": "Dynastic Networks PDF p.2",
+    "significance": "Rockefeller mentorship of Kissinger - creation of key globalist policy figure",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_rockefeller_029",
+    "text": "David Rockefeller invited Kissinger to Bilderberg in 1957 and sat on Rockefeller Brothers Fund which underwrote global policy studies",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "David Rockefeller",
+      "Henry Kissinger",
+      "Bilderberg",
+      "Rockefeller Brothers Fund"
+    ],
+    "time_period": "1957",
+    "evidence_source": "Dynastic Networks PDF p.2",
+    "significance": "Rockefeller funding and access for transatlantic elite networks",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_rockefeller_030",
+    "text": "Rockefellers have documented ties to Standard Oil (core business) and CFR/globalist institutions, with indirect influence on WEF/Bilderberg circles",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Rockefeller family",
+      "Standard Oil",
+      "CFR",
+      "WEF",
+      "Bilderberg"
+    ],
+    "time_period": "1900s-present",
+    "evidence_source": "Dynastic Networks PDF p.2",
+    "significance": "Rockefeller dynasty spans oil empire AND globalist policy architecture",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_bundy_031",
+    "text": "William P. Bundy (Skull & Bones class of 1938) was recruited into CIA in 1950s and became top analyst and State Department official",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "William P. Bundy",
+      "Skull & Bones",
+      "CIA",
+      "State Department"
+    ],
+    "time_period": "1950s-1960s",
+    "evidence_source": "Dynastic Networks PDF p.2-3",
+    "significance": "S&B \u2192 CIA recruitment pipeline; Bundy dynasty in intelligence",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_bundy_032",
+    "text": "William P. Bundy later advised presidents Kennedy and Johnson on Vietnam",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "William P. Bundy",
+      "John F. Kennedy",
+      "Lyndon Johnson",
+      "Vietnam War"
+    ],
+    "time_period": "1960s",
+    "evidence_source": "Dynastic Networks PDF p.3",
+    "significance": "S&B member shaping Vietnam War policy at presidential level",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_bundy_033",
+    "text": "McGeorge Bundy (Skull & Bones class of 1940) became National Security Advisor to Kennedy and Johnson",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "McGeorge Bundy",
+      "Skull & Bones",
+      "National Security Advisor",
+      "John F. Kennedy",
+      "Lyndon Johnson"
+    ],
+    "time_period": "1961-1966",
+    "evidence_source": "Dynastic Networks PDF p.3",
+    "significance": "S&B member controlling NSC during Vietnam escalation",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_bundy_034",
+    "text": "William P. Bundy served as U.S. Secretary-General of Bilderberg Group 1975-80",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "William P. Bundy",
+      "Bilderberg Group"
+    ],
+    "time_period": "1975-1980",
+    "evidence_source": "Dynastic Networks PDF p.3",
+    "significance": "S&B/CIA figure in Atlanticist elite network leadership - same network as Rockefeller",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_bundy_035",
+    "text": "Bundy brothers had directly documented roles in CIA/OSS and State Department while carrying Skull & Bones pedigree",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "William P. Bundy",
+      "McGeorge Bundy",
+      "Skull & Bones",
+      "CIA",
+      "OSS",
+      "State Department"
+    ],
+    "time_period": "1950s-1970s",
+    "evidence_source": "Dynastic Networks PDF p.3",
+    "significance": "Bundy dynasty epitomizes S&B \u2192 intelligence \u2192 policy pipeline",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_bundy_036",
+    "text": "William Bundy's father served under Secretary Stimson on atomic matters",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "William P. Bundy",
+      "Harvey Bundy",
+      "Henry Stimson",
+      "atomic weapons",
+      "Manhattan Project"
+    ],
+    "time_period": "1940s",
+    "evidence_source": "Dynastic Networks PDF p.3",
+    "significance": "Bundy family in Manhattan Project governance - multi-generational national security dynasty",
+    "confidence": 0.85,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_bundy_037",
+    "text": "William P. Bundy's government career as Assistant Secretary of Defense and Secretary of State intertwined Bundys with CIA programs and anti-Communist operations",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "William P. Bundy",
+      "Assistant Secretary of Defense",
+      "Secretary of State",
+      "CIA",
+      "anti-Communist operations"
+    ],
+    "time_period": "1960s-1970s",
+    "evidence_source": "Dynastic Networks PDF p.3",
+    "significance": "Bundy penetration of Defense and State departments from CIA base",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_bundy_038",
+    "text": "McGeorge Bundy's NSC tenure overlapped Nixon's Kissinger and covert Latin America operations (Operation Condor)",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "McGeorge Bundy",
+      "NSC",
+      "Henry Kissinger",
+      "Operation Condor",
+      "Latin America"
+    ],
+    "time_period": "1960s-1970s",
+    "evidence_source": "Dynastic Networks PDF p.3",
+    "significance": "Bundy-Kissinger overlap in covert operations planning",
+    "confidence": 0.8,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_lovett_039",
+    "text": "Robert Lovett (Skull & Bones class of 1918) worked with W.A. Harriman (S&B 1913) on covert intelligence planning",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Robert Lovett",
+      "W. Averell Harriman",
+      "Skull & Bones",
+      "covert intelligence"
+    ],
+    "time_period": "1940s-1950s",
+    "evidence_source": "Dynastic Networks PDF p.3",
+    "significance": "S&B cohort collaboration on intelligence architecture",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_lovett_040",
+    "text": "Henry G. 'Pat' Mallon (Skull & Bones class of 1917, classmate of Prescott Bush) became CIA board member and director of Bush's oil company Dresser Industries, coordinating CIA cover oil rigs",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Pat Mallon",
+      "Skull & Bones",
+      "Prescott Bush",
+      "CIA",
+      "Dresser Industries",
+      "oil rigs"
+    ],
+    "time_period": "1950s-1960s",
+    "evidence_source": "Dynastic Networks PDF p.3",
+    "significance": "CIA use of Bush family oil infrastructure for covert operations - corporate cover for intelligence",
+    "confidence": 0.85,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_lovett_041",
+    "text": "Lovett and Bundy families combined Skull & Bones, corporate, and intelligence roles",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Lovett family",
+      "Bundy family",
+      "Skull & Bones",
+      "corporate boards",
+      "intelligence"
+    ],
+    "time_period": "1940s-1970s",
+    "evidence_source": "Dynastic Networks PDF p.3",
+    "significance": "Allied S&B dynasties spanning multiple power domains",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_carnegie_mellon_042",
+    "text": "Carnegie and Mellon families endowed Carnegie Mellon University (founded 1900 as Carnegie Tech) and Mellon College of Science",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Andrew Carnegie",
+      "Andrew Mellon",
+      "Carnegie Mellon University",
+      "Mellon College of Science"
+    ],
+    "time_period": "1900",
+    "evidence_source": "Dynastic Networks PDF p.3",
+    "significance": "Philanthropic dynasties created scientific workforce infrastructure for MIC",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_carnegie_mellon_043",
+    "text": "Carnegie-Mellon families funded National Gallery, hospitals, etc. - their legacy seeded scientific workforce feeding Bell Labs, AT&T and defense R&D",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Carnegie family",
+      "Mellon family",
+      "National Gallery",
+      "Bell Labs",
+      "AT&T",
+      "defense R&D"
+    ],
+    "time_period": "1900-present",
+    "evidence_source": "Dynastic Networks PDF p.3",
+    "significance": "Institutional philanthropy created talent pipeline for military-industrial R&D",
+    "confidence": 0.9,
+    "cross_references": [
+      "Forbes family: William H. Forbes president of American Bell (became AT&T)"
+    ]
+  },
+  {
+    "claim_id": "dynastic_carnegie_mellon_044",
+    "text": "Mellon family bank financed Westinghouse and Alcoa (electrical and chemical firms)",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Mellon family",
+      "Mellon Bank",
+      "Westinghouse",
+      "Alcoa"
+    ],
+    "time_period": "Early 1900s",
+    "evidence_source": "Dynastic Networks PDF p.3",
+    "significance": "Banking capital \u2192 industrial manufacturing base",
+    "confidence": 0.9,
+    "cross_references": [
+      "Forbes family: Stone & Webster absorbed into Westinghouse 2016"
+    ]
+  },
+  {
+    "claim_id": "dynastic_carnegie_mellon_045",
+    "text": "Carnegie donations spurred engineering education; Carnegie-Mellon capital underwrote technological base of modern MIC",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Andrew Carnegie",
+      "engineering education",
+      "MIC"
+    ],
+    "time_period": "1900s-present",
+    "evidence_source": "Dynastic Networks PDF p.3",
+    "significance": "Philanthropic investment in technical education created MIC workforce",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_carnegie_mellon_046",
+    "text": "Carnegie Mellon University still produces engineers and programmers for places like Bell Labs",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Carnegie Mellon University",
+      "Bell Labs",
+      "engineers"
+    ],
+    "time_period": "1900-present",
+    "evidence_source": "Dynastic Networks PDF p.3",
+    "significance": "Ongoing talent pipeline from CMU to defense R&D",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_carnegie_mellon_047",
+    "text": "AT&T/Bell Labs corporations drew on talent pool created by Carnegie-Mellon-funded research and education",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "AT&T",
+      "Bell Labs",
+      "Carnegie Mellon",
+      "research",
+      "education"
+    ],
+    "time_period": "1900s-present",
+    "evidence_source": "Dynastic Networks PDF p.3",
+    "significance": "Bell Labs engineers included many from Carnegie/Mellon-funded institutions",
+    "confidence": 0.85,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_carnegie_mellon_048",
+    "text": "Mellon family descendants still sit on corporate and cultural boards, maintaining indirect ties to MIC",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Mellon family",
+      "corporate boards",
+      "MIC"
+    ],
+    "time_period": "1990s-present",
+    "evidence_source": "Dynastic Networks PDF p.3",
+    "significance": "Ongoing Mellon dynasty influence on MIC governance",
+    "confidence": 0.8,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_globalist_049",
+    "text": "George H.W. Bush was long associated with Atlantic Council, served on its board in 1960s-70s before Reagan era",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "George H.W. Bush",
+      "Atlantic Council"
+    ],
+    "time_period": "1960s-1970s",
+    "evidence_source": "Dynastic Networks PDF p.2, p.3-4",
+    "significance": "Bush dynasty in NATO-policy think tank leadership before presidency",
+    "confidence": 0.95,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_globalist_050",
+    "text": "Rockefellers through Trilateral Commission and CFR (David Rockefeller long-time CFR director) helped spawn Davos-style World Economic Forum and its policy agenda",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Rockefeller family",
+      "Trilateral Commission",
+      "CFR",
+      "World Economic Forum",
+      "David Rockefeller"
+    ],
+    "time_period": "1970s-present",
+    "evidence_source": "Dynastic Networks PDF p.3-4",
+    "significance": "WEF has roots in Rockefeller international network",
+    "confidence": 0.85,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_globalist_051",
+    "text": "Bundys and Kissinger (Rockefeller prot\u00e9g\u00e9) attended Bilderberg meetings, precursors to modern WEF-style gatherings",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Bundy family",
+      "Henry Kissinger",
+      "Bilderberg",
+      "WEF"
+    ],
+    "time_period": "1950s-1970s",
+    "evidence_source": "Dynastic Networks PDF p.4",
+    "significance": "Elite dynasty participation in transatlantic policy coordination",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_globalist_052",
+    "text": "David Rockefeller's globalist initiatives (CFR, Trilateral Commission) prefigured Davos; many Rockefeller, Kissinger, and Bilderberg associates became WEF attendees in later decades",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "David Rockefeller",
+      "CFR",
+      "Trilateral Commission",
+      "Davos",
+      "WEF",
+      "Bilderberg"
+    ],
+    "time_period": "1970s-present",
+    "evidence_source": "Dynastic Networks PDF p.4",
+    "significance": "Rockefeller globalist network architecture evolved into WEF ecosystem",
+    "confidence": 0.85,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_globalist_053",
+    "text": "Vice President George H.W. Bush chaired Atlantic Council events and returned as president, cementing Bush dynasty link to NATO-policy networks",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "George H.W. Bush",
+      "Atlantic Council",
+      "NATO"
+    ],
+    "time_period": "1960s-1990s",
+    "evidence_source": "Dynastic Networks PDF p.4",
+    "significance": "Bush family sustained Atlantic Council leadership across decades",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_globalist_054",
+    "text": "CFR alumni David Rockefeller chaired Atlantic Council (ACUS) events",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "David Rockefeller",
+      "CFR",
+      "Atlantic Council"
+    ],
+    "time_period": "1960s-1980s",
+    "evidence_source": "Dynastic Networks PDF p.4",
+    "significance": "Rockefeller leadership in Atlantic Council alongside Bush",
+    "confidence": 0.85,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_globalist_055",
+    "text": "Families in these dynasties often interlock with corporate boards (e.g. David Rockefeller on Chase, ITT, etc.), linking MIC to finance",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "David Rockefeller",
+      "Chase Manhattan",
+      "ITT",
+      "corporate boards"
+    ],
+    "time_period": "1960s-1990s",
+    "evidence_source": "Dynastic Networks PDF p.4",
+    "significance": "Corporate-security-finance interlocking directorate",
+    "confidence": 0.9,
+    "cross_references": null
+  },
+  {
+    "claim_id": "dynastic_xref_056",
+    "text": "Russell & Co. partners included FDR's grandfather Warren Delano Jr., and members of Coolidge, Perkins, and Forbes families - 'great American fortunes' built on China trade",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Russell & Co.",
+      "Warren Delano Jr.",
+      "FDR",
+      "Coolidge family",
+      "Perkins family",
+      "Forbes family"
+    ],
+    "time_period": "1820s-1890s",
+    "evidence_source": "Dynastic Networks PDF p.1; LinkedIn",
+    "significance": "MASTER CROSS-REFERENCE: Connects all three documents - opium trade \u2192 families \u2192 Skull & Bones pipeline",
+    "confidence": 0.95,
+    "cross_references": [
+      "Opium dynasties: Warren Delano Jr. head of Russell & Co. Canton office",
+      "Opium dynasties: FDR maternal grandfather",
+      "Opium dynasties: Coolidge married Thomas Jefferson granddaughter",
+      "Opium dynasties: Perkins merged with Russell & Co.",
+      "Forbes family: John Murray Forbes opium merchant at Russell & Co."
+    ]
+  },
+  {
+    "claim_id": "dynastic_xref_057",
+    "text": "China trade families (Russell, Forbes, Perkins, Sturgis, Low) financed Princeton and Columbia construction and founded United Fruit",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Russell family",
+      "Forbes family",
+      "Perkins family",
+      "Sturgis family",
+      "Low family",
+      "Princeton",
+      "Columbia",
+      "United Fruit"
+    ],
+    "time_period": "Late 1800s-early 1900s",
+    "evidence_source": "Dynastic Networks PDF p.1",
+    "significance": "Opium profits \u2192 institutional infrastructure (universities + corporate power)",
+    "confidence": 0.9,
+    "cross_references": [
+      "Opium dynasties: institutional legacies (Brown University, Harvard, etc.)",
+      "Forbes family: J.M. Forbes & Co. estate management",
+      "Opium dynasties: Coolidge United Fruit interests"
+    ]
+  },
+  {
+    "claim_id": "dynastic_xref_058",
+    "text": "William H. Russell (Skull & Bones founder, Yale 1833) was cousin of opium magnate Samuel Russell",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "William H. Russell",
+      "Samuel Russell",
+      "Skull & Bones",
+      "opium trade"
+    ],
+    "time_period": "1833",
+    "evidence_source": "Dynastic Networks PDF p.1",
+    "significance": "THE CRITICAL LINK: S&B founder directly related to largest American opium trader",
+    "confidence": 0.95,
+    "cross_references": [
+      "Opium dynasties: Samuel Russell firm est. 1823 became largest American opium trader"
+    ]
+  },
+  {
+    "claim_id": "dynastic_xref_059",
+    "text": "Many New England families in China Trade sent sons to Yale who were tapped into Skull & Bones, then went into finance, diplomacy, espionage",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "New England families",
+      "China Trade",
+      "Yale",
+      "Skull & Bones",
+      "finance",
+      "diplomacy",
+      "espionage"
+    ],
+    "time_period": "1833-1900s",
+    "evidence_source": "Dynastic Networks PDF p.1",
+    "significance": "PIPELINE MECHANISM: Opium wealth \u2192 Yale \u2192 S&B \u2192 Power positions",
+    "confidence": 0.9,
+    "cross_references": [
+      "Opium dynasties: 9 major families documented",
+      "Forbes family: William Cameron Forbes Governor-General Philippines, Stone & Webster partner"
+    ]
+  },
+  {
+    "claim_id": "dynastic_xref_060",
+    "text": "Brown Brothers (founded 1818) merged with Harriman Brothers to form BBH in 1931",
+    "claim_type": "institutional_connection",
+    "entities": [
+      "Brown Brothers",
+      "Harriman Brothers",
+      "BBH"
+    ],
+    "time_period": "1818-1931",
+    "evidence_source": "Dynastic Networks PDF p.1",
+    "significance": "Brown family from opium dynasties \u2192 modern banking via BBH",
+    "confidence": 0.95,
+    "cross_references": [
+      "Opium dynasties: John Brown (RI) opium/slave trader founded Providence Bank \u2192 Citizens Bank precursor"
+    ]
+  }
+]

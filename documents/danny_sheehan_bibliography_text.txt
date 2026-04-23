@@ -1,0 +1,11 @@
+{
+  "status": "placeholder",
+  "message": "Sherlock research job received but not yet implemented",
+  "job_id": "SHERLOCK_PKG_4",
+  "target": "Danny Sheehan Bibliography",
+  "package_type": "document",
+  "collection_urls": [
+    "https://books.google.com/books?q=Danny+Sheehan+Bibliography"
+  ],
+  "created_at": "2025-12-07T20:28:36.768538"
+}

@@ -1,0 +1,342 @@
+{
+  "timestamp": "2026-01-07T21:44:25.199957",
+  "input_file": "/home/johnny5/Sherlock/freelance_transcripts/american_alchemy/hall_area51/audio_transcription/alignment_audio/diarization_audio_aligned/audio_diarized_enhanced_WARM_51C.json",
+  "output_file": "/home/johnny5/Sherlock/freelance_transcripts/american_alchemy/hall_area51/audio_transcription/alignment_audio/diarization_audio_aligned/audio_diarized_enhanced_WARM_51C_CORRECTED.json",
+  "summary": {
+    "false_interjections_merged": 14,
+    "mid_sentence_switches_fixed": 33,
+    "original_segments": 3458,
+    "corrected_segments": 3411
+  },
+  "corrections": [
+    {
+      "type": "false_interjection",
+      "time": "86.8s",
+      "original": "Host/Interviewer: \" Yeah.\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Acknowledgment 'Yeah.' likely belongs to Unknown Guest"
+    },
+    {
+      "type": "false_interjection",
+      "time": "940.0s",
+      "original": "Host/Interviewer: \" Interesting.\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Acknowledgment 'Interesting.' likely belongs to Charles Hall"
+    },
+    {
+      "type": "false_interjection",
+      "time": "2309.9s",
+      "original": "Unknown Guest: \" Yeah, only,\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Acknowledgment 'Yeah, only,' likely belongs to Charles Hall"
+    },
+    {
+      "type": "false_interjection",
+      "time": "2455.3s",
+      "original": "Host/Interviewer: \" Yeah.\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Acknowledgment 'Yeah.' likely belongs to Charles Hall"
+    },
+    {
+      "type": "false_interjection",
+      "time": "3118.9s",
+      "original": "SPEAKER_04: \" Okay?\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Acknowledgment 'Okay?' likely belongs to Charles Hall"
+    },
+    {
+      "type": "false_interjection",
+      "time": "4162.9s",
+      "original": "Unknown Guest: \"Like what?\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Very short segment (0.4s, 2 words) likely mis-attributed"
+    },
+    {
+      "type": "false_interjection",
+      "time": "4385.2s",
+      "original": "Unknown Guest: \" Yep.\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Very short segment (0.6s, 1 words) likely mis-attributed"
+    },
+    {
+      "type": "false_interjection",
+      "time": "7077.2s",
+      "original": "Unknown Guest: \" and,\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Continuation of incomplete sentence from Charles Hall"
+    },
+    {
+      "type": "false_interjection",
+      "time": "7411.7s",
+      "original": "Host/Interviewer: \" Yeah.\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Acknowledgment 'Yeah.' likely belongs to Unknown Guest"
+    },
+    {
+      "type": "false_interjection",
+      "time": "7952.4s",
+      "original": "Host/Interviewer: \" Yeah.\"",
+      "corrected": "Merged into Unknown Guest's speech",
+      "reason": "Acknowledgment 'Yeah.' likely belongs to Unknown Guest"
+    },
+    {
+      "type": "false_interjection",
+      "time": "7959.1s",
+      "original": "Unknown Guest: \" Something like that.\"",
+      "corrected": "Merged into Host/Interviewer's speech",
+      "reason": "Very short segment (1.0s, 3 words) likely mis-attributed"
+    },
+    {
+      "type": "false_interjection",
+      "time": "8206.9s",
+      "original": "Unknown Guest: \" Wow.\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Acknowledgment 'Wow.' likely belongs to Charles Hall"
+    },
+    {
+      "type": "false_interjection",
+      "time": "8307.6s",
+      "original": "UNK: \" And.\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Very short segment (0.2s, 1 words) likely mis-attributed"
+    },
+    {
+      "type": "false_interjection",
+      "time": "8370.3s",
+      "original": "Unknown Guest: \" Wow.\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Acknowledgment 'Wow.' likely belongs to Charles Hall"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "856.4s",
+      "original": "Host/Interviewer: \" field.\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Lowercase start 'field....' continues sentence from Charles Hall"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "1922.6s",
+      "original": "Charles Hall: \" well,\"",
+      "corrected": "Merged into 's speech",
+      "reason": "Lowercase start 'well,...' continues sentence from "
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "1923.6s",
+      "original": "Charles Hall: \" remember we did,\"",
+      "corrected": "Merged into 's speech",
+      "reason": "Lowercase start 'remember we did,...' continues sentence from "
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "1924.6s",
+      "original": "Charles Hall: \" we did Mount Everest before that,\"",
+      "corrected": "Merged into 's speech",
+      "reason": "Lowercase start 'we did Mount Everest before th...' continues sentence from "
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "1926.6s",
+      "original": "Host/Interviewer: \" right?\"",
+      "corrected": "Merged into 's speech",
+      "reason": "Lowercase start 'right?...' continues sentence from "
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "1966.9s",
+      "original": "Charles Hall: \" remember how good\"",
+      "corrected": "Merged into Host/Interviewer's speech",
+      "reason": "Lowercase start 'remember how good...' continues sentence from Host/Interviewer"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "1967.9s",
+      "original": "Charles Hall: \" their technology is,\"",
+      "corrected": "Merged into Host/Interviewer's speech",
+      "reason": "Lowercase start 'their technology is,...' continues sentence from Host/Interviewer"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "1969.9s",
+      "original": "Charles Hall: \" the technology of the whites\"",
+      "corrected": "Merged into Host/Interviewer's speech",
+      "reason": "Lowercase start 'the technology of the whites...' continues sentence from Host/Interviewer"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "1970.9s",
+      "original": "Charles Hall: \" and the technology of the grays.\"",
+      "corrected": "Merged into Host/Interviewer's speech",
+      "reason": "Lowercase start 'and the technology of the gray...' continues sentence from Host/Interviewer"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2195.3s",
+      "original": "Charles Hall: \" if they do that\"",
+      "corrected": "Merged into Host/Interviewer's speech",
+      "reason": "Lowercase start 'if they do that...' continues sentence from Host/Interviewer"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2196.3s",
+      "original": "Charles Hall: \" and they choose to go sideways,\"",
+      "corrected": "Merged into Host/Interviewer's speech",
+      "reason": "Lowercase start 'and they choose to go sideways...' continues sentence from Host/Interviewer"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2198.3s",
+      "original": "Charles Hall: \" they'll go side,\"",
+      "corrected": "Merged into Host/Interviewer's speech",
+      "reason": "Lowercase start 'they'll go side,...' continues sentence from Host/Interviewer"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2200.4s",
+      "original": "Charles Hall: \" they'll just seem to blink out.\"",
+      "corrected": "Merged into Host/Interviewer's speech",
+      "reason": "Lowercase start 'they'll just seem to blink out...' continues sentence from Host/Interviewer"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "2859.4s",
+      "original": "Host/Interviewer: \" you mentioned the CIA psychiatrist who \"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Lowercase start 'you mentioned the CIA psychiat...' continues sentence from Charles Hall"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "5239.6s",
+      "original": "Host/Interviewer: \" how do you figure that out when those t\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Lowercase start 'how do you figure that out whe...' continues sentence from Charles Hall"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "6280.1s",
+      "original": "Host/Interviewer: \" can you mention that these,\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Lowercase start 'can you mention that these,...' continues sentence from Charles Hall"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "6282.1s",
+      "original": "Host/Interviewer: \" there were these Chinese occupants\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Lowercase start 'there were these Chinese occup...' continues sentence from Charles Hall"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "6284.1s",
+      "original": "Host/Interviewer: \" of the craft.\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Lowercase start 'of the craft....' continues sentence from Charles Hall"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "6603.3s",
+      "original": "Host/Interviewer: \" that they kind of used you\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Lowercase start 'that they kind of used you...' continues sentence from Charles Hall"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "6605.3s",
+      "original": "Host/Interviewer: \" for inspiration\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Lowercase start 'for inspiration...' continues sentence from Charles Hall"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "6606.3s",
+      "original": "Host/Interviewer: \" to infiltrate\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Lowercase start 'to infiltrate...' continues sentence from Charles Hall"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "6607.3s",
+      "original": "Host/Interviewer: \" or not infiltrate,\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Lowercase start 'or not infiltrate,...' continues sentence from Charles Hall"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "6608.3s",
+      "original": "Host/Interviewer: \" maybe that's too aggressive a word,\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Lowercase start 'maybe that's too aggressive a ...' continues sentence from Charles Hall"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "6610.3s",
+      "original": "Host/Interviewer: \" but to enter\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Lowercase start 'but to enter...' continues sentence from Charles Hall"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "6855.6s",
+      "original": "Host/Interviewer: \" what do you think\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Lowercase start 'what do you think...' continues sentence from Charles Hall"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "6856.6s",
+      "original": "Host/Interviewer: \" the Tallwhites want with humanity?\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Lowercase start 'the Tallwhites want with human...' continues sentence from Charles Hall"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "7043.2s",
+      "original": "Charles Hall: \" that came out of the craft\"",
+      "corrected": "Merged into Host/Interviewer's speech",
+      "reason": "Lowercase start 'that came out of the craft...' continues sentence from Host/Interviewer"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "7045.5s",
+      "original": "Charles Hall: \" at Holman Air Force Base?\"",
+      "corrected": "Merged into Host/Interviewer's speech",
+      "reason": "Lowercase start 'at Holman Air Force Base?...' continues sentence from Host/Interviewer"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "7184.5s",
+      "original": "Charles Hall: \" to Nellis?\"",
+      "corrected": "Merged into Host/Interviewer's speech",
+      "reason": "Lowercase start 'to Nellis?...' continues sentence from Host/Interviewer"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "7338.4s",
+      "original": "Host/Interviewer: \" something\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Lowercase start 'something...' continues sentence from Charles Hall"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "7339.4s",
+      "original": "Host/Interviewer: \" we don't\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Lowercase start 'we don't...' continues sentence from Charles Hall"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "7340.3s",
+      "original": "Host/Interviewer: \" have\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Lowercase start 'have...' continues sentence from Charles Hall"
+    },
+    {
+      "type": "mid_sentence_switch",
+      "time": "7340.9s",
+      "original": "Host/Interviewer: \" without\"",
+      "corrected": "Merged into Charles Hall's speech",
+      "reason": "Lowercase start 'without...' continues sentence from Charles Hall"
+    }
+  ]
+}

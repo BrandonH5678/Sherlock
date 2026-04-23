@@ -1,0 +1,90 @@
+================================================================================
+FREELANCE TRANSCRIPTION - COMPREHENSIVE QUALITY REPORT
+================================================================================
+
+Generated: 2026-01-16 17:42:16
+Episode: audio
+Transcript: audio_diarized_enhanced.json
+
+================================================================================
+1. OVERVIEW
+================================================================================
+Audio Duration:        16:46 (1006.0s)
+Total Segments:        192
+Total Words:           2,893
+Unique Speakers:       3
+
+================================================================================
+2. TRANSCRIPTION QUALITY METRICS
+================================================================================
+Average Confidence:    0.0000
+Words with Scores:     0 / 2,893
+
+Confidence Distribution:
+  excellent (>0.9)               0 (  0.0%)
+  good (0.8-0.9)                 0 (  0.0%)
+  acceptable (0.7-0.8)           0 (  0.0%)
+  poor (<0.7)                    0 (  0.0%)
+
+Expected Word Count:   2,515 (~150 words/min)
+Actual Word Count:     2,893
+Coverage Ratio:        1.15
+
+================================================================================
+3. SPEAKER DIARIZATION QUALITY METRICS
+================================================================================
+Unique Speakers:       3
+Total Segments:        192
+Assigned Segments:     192 (100.00%)
+Unknown Segments:      0 (0.00%)
+
+Time Coverage:
+  Assigned Time:       16:21 (97.58%)
+  Unknown Time:        00:00 (2.42%)
+
+Speaker Distribution:
+  Jesse                     4 segments (  2.1%)
+  Terra (Founder/CEO of Borsignmatic)    183 segments ( 95.3%)
+  Unknown Guest             5 segments (  2.6%)
+
+================================================================================
+5. TEMPORAL GAPS (EXCLUDED WINDOWS ≥0.5s)
+================================================================================
+Total Gaps:            13
+Total Gap Time:        00:22 (22.8s)
+Gap Coverage:          2.27% of audio
+
+Gap Details:
+--------------------------------------------------------------------------------
+  02:16-02:18 ( 1.76s)
+  03:54-03:54 ( 0.56s)
+  05:27-05:29 ( 2.80s)
+  06:02-06:02 ( 0.72s)
+  06:16-06:20 ( 4.17s)
+  08:26-08:27 ( 1.68s)
+  08:30-08:31 ( 0.64s)
+  09:11-09:11 ( 0.56s)
+  09:26-09:28 ( 1.68s)
+  13:05-13:07 ( 1.88s)
+  14:07-14:08 ( 0.56s)
+  14:09-14:12 ( 2.40s)
+  16:42-16:46 ( 3.39s)
+
+================================================================================
+6. QUALITY ASSESSMENT
+================================================================================
+Transcription Confidence: 0.0000
+  ⚠️  NOTE: Using WhisperX alignment scores (not original Whisper confidence)
+Coverage Ratio:           1.15
+Speaker Assignment:       100.00%
+
+Tier Qualification:
+  Basic      Conf:N/A (no scores)  Coverage:✓  Speakers:✓
+  Standard   Conf:N/A (no scores)  Coverage:✓  Speakers:✓
+  Premium    Conf:N/A (no scores)  Coverage:✓  Speakers:✓
+
+================================================================================
+7. RECOMMENDATIONS
+================================================================================
+• Consider using original Whisper JSON for confidence metrics
+✓ Excellent quality - all metrics meet Premium tier standards

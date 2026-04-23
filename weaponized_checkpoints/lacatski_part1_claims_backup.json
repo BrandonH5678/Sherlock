@@ -1,0 +1,909 @@
+{
+  "source_id": "weaponized_lacatski_part1",
+  "episode_id": "lacatski_part1",
+  "title": "Dr. James Lacatski Interview - Part 1",
+  "claims": [
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0004",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "We've already admitted, because you're allowed to,  that we have an exploitation or a UFO program to study at least one craft.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "James Lekatsky was the head of that program. I was the creator and DIA program manager of OSAP,  the Advanced Aerospace Weapon System Applications Program,  and of the follow-on Kona Blue program, KBP. We've already admitted, because you're allowed to,  that we have an exploitation or a UFO program to study at least one craft. That has been the core question people have been arguing about,  and you're answering that publicly. One more thing, I want to see if we can take you a step further.",
+      "entities": [
+        "UFO",
+        "craft"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.610931"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0011",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "But I wanted to first ask you,  you were asked to speak in front of Congress.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "James Lekatsky. So, Jim, it's been a couple years since you've been on Weaponized,  almost to the day, and you really shocked everybody  with your allowed ability to say certain things,  and we'll get into that. But I wanted to first ask you,  you were asked to speak in front of Congress. It was a time when you couldn't,  but I did officially call you on behalf of Congress  and ask would you be willing to testify,  even if it's just in a skiff and it's behind closed doors compared to public. But, you know, Congress was really interested to hear what you had to say.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.612545"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0012",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "prediction",
+      "text": "It was a time when you couldn't,  but I did officially call you on behalf of Congress  and ask would you be willing to testify,  even if it's just in a skiff and it's behind closed doors compared to public.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "So, Jim, it's been a couple years since you've been on Weaponized,  almost to the day, and you really shocked everybody  with your allowed ability to say certain things,  and we'll get into that. But I wanted to first ask you,  you were asked to speak in front of Congress. It was a time when you couldn't,  but I did officially call you on behalf of Congress  and ask would you be willing to testify,  even if it's just in a skiff and it's behind closed doors compared to public. But, you know, Congress was really interested to hear what you had to say. Now, you saw George give a full statement in front of Congress  about his history with the UFO topic,  and I get a sense today you want to give us a statement right now,  something that maybe you would say to Congress  if you were doing a public hearing.",
+      "entities": [
+        "cia"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "transparency"
+      ],
+      "created_at": "2026-01-07T14:41:30.614117"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0013",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "But, you know, Congress was really interested to hear what you had to say.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "But I wanted to first ask you,  you were asked to speak in front of Congress. It was a time when you couldn't,  but I did officially call you on behalf of Congress  and ask would you be willing to testify,  even if it's just in a skiff and it's behind closed doors compared to public. But, you know, Congress was really interested to hear what you had to say. Now, you saw George give a full statement in front of Congress  about his history with the UFO topic,  and I get a sense today you want to give us a statement right now,  something that maybe you would say to Congress  if you were doing a public hearing. Is that correct?",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.615617"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0014",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "Now, you saw George give a full statement in front of Congress  about his history with the UFO topic,  and I get a sense today you want to give us a statement right now,  something that maybe you would say to Congress  if you were doing a public hearing.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "It was a time when you couldn't,  but I did officially call you on behalf of Congress  and ask would you be willing to testify,  even if it's just in a skiff and it's behind closed doors compared to public. But, you know, Congress was really interested to hear what you had to say. Now, you saw George give a full statement in front of Congress  about his history with the UFO topic,  and I get a sense today you want to give us a statement right now,  something that maybe you would say to Congress  if you were doing a public hearing. Is that correct? I would be able to say this.",
+      "entities": [
+        "UFO"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation",
+        "transparency"
+      ],
+      "created_at": "2026-01-07T14:41:30.617177"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0026",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "Both classified programs,  regardless of what the internet has said in the past.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "So, as way of background,  I was the creator and DIA program manager of OSAP,  the Advanced Aerospace Weapon System Applications Program. And of the follow-on Kona Blue Program, KBP. Both classified programs,  regardless of what the internet has said in the past. Both classified. Now, other than your invitation,  I guess that would have been two months ago now,  no one from the House Oversight UAP Investigational Committee of Congress  has ever, after multiple hearings, contacted me.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "coverup"
+      ],
+      "created_at": "2026-01-07T14:41:30.618607"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0027",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "Both classified.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "And of the follow-on Kona Blue Program, KBP. Both classified programs,  regardless of what the internet has said in the past. Both classified. Now, other than your invitation,  I guess that would have been two months ago now,  no one from the House Oversight UAP Investigational Committee of Congress  has ever, after multiple hearings, contacted me. Right at the beginning,  I had a phone call where a young lady  and her partner, a male,  who never said another word other than introducing himself,  went through a checklist and said,  what did I think of these people?",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "coverup"
+      ],
+      "created_at": "2026-01-07T14:41:30.620008"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0028",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "Now, other than your invitation,  I guess that would have been two months ago now,  no one from the House Oversight UAP Investigational Committee of Congress  has ever, after multiple hearings, contacted me.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "Both classified programs,  regardless of what the internet has said in the past. Both classified. Now, other than your invitation,  I guess that would have been two months ago now,  no one from the House Oversight UAP Investigational Committee of Congress  has ever, after multiple hearings, contacted me. Right at the beginning,  I had a phone call where a young lady  and her partner, a male,  who never said another word other than introducing himself,  went through a checklist and said,  what did I think of these people? Well, you know, as a professional,  what am I supposed to say?",
+      "entities": [
+        "UAP",
+        "the House"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.621532"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0040",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "So those books,  which are Skinwalkers at the Pentagon,  Inside the U.S.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "But they are complete. That's everything that I have been approved to say  condensed into what will be 1,200 pages. So those books,  which are Skinwalkers at the Pentagon,  Inside the U.S. Government Covert UFO Program,  Initial Revelations,  the new book, New Insights,  and the also approved future book,  let's say at four months, six months,  Future Visions. Now, that is a complete package.",
+      "entities": [
+        "Pentagon",
+        "the Pentagon"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.622986"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0043",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "That's all I could ever say to the Congress.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "Government Covert UFO Program,  Initial Revelations,  the new book, New Insights,  and the also approved future book,  let's say at four months, six months,  Future Visions. Now, that is a complete package. That's all I could ever say to the Congress. And they can read it and know 100 times more  than they're ever going to get from hearings. Okay, now, George had a good point on the next statement.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.624798"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0044",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "prediction",
+      "text": "And they can read it and know 100 times more  than they're ever going to get from hearings.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "Now, that is a complete package. That's all I could ever say to the Congress. And they can read it and know 100 times more  than they're ever going to get from hearings. Okay, now, George had a good point on the next statement. These books are not written in the traditional sense.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.626441"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0070",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "These books are our,  me, you, and George,  effort to further disclosure  and are much more revealing  than any congressional hearings  have been so far.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "I and 12 other people have them. It's not bothering,  or is there something more to this? These books are our,  me, you, and George,  effort to further disclosure  and are much more revealing  than any congressional hearings  have been so far. Now, this is my way of cataloging this  or segmenting this. At the hearings and on the internet,  there are four classes of individuals  that I've observed,  truthful descriptions of observations,  but sometimes they are fooled  by classified weapons testing  or counterintelligence activities.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation",
+        "transparency"
+      ],
+      "created_at": "2026-01-07T14:41:30.629222"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0072",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "At the hearings and on the internet,  there are four classes of individuals  that I've observed,  truthful descriptions of observations,  but sometimes they are fooled  by classified weapons testing  or counterintelligence activities.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "These books are our,  me, you, and George,  effort to further disclosure  and are much more revealing  than any congressional hearings  have been so far. Now, this is my way of cataloging this  or segmenting this. At the hearings and on the internet,  there are four classes of individuals  that I've observed,  truthful descriptions of observations,  but sometimes they are fooled  by classified weapons testing  or counterintelligence activities. That's fine. There are delusions,  either from within their own minds  or from, and I can't go into this,  external influences.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation",
+        "coverup"
+      ],
+      "created_at": "2026-01-07T14:41:30.630801"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0086",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "I don't suspect, wonder,  or harbor any suspicion  that false statements  have been made to Congress,  to the Pentagon,  to you, the press,  and on the internet.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "It is so easy to appear  as a different person  in the counterintel world. Okay, now here's a tough statement. I don't suspect, wonder,  or harbor any suspicion  that false statements  have been made to Congress,  to the Pentagon,  to you, the press,  and on the internet. I know they have been. I know it.",
+      "entities": [
+        "Pentagon",
+        "the Pentagon"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.632277"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0102",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "Now, the Pentagon states that AATIP,  really OSAP,  was not a UFO program.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "They had my phone number. Why didn't they contact me? Now, the Pentagon states that AATIP,  really OSAP,  was not a UFO program. They've changed their tune,  but the Pentagon has never asked me  about anything. They circumvented me  and went to my colleagues,  but not me.",
+      "entities": [
+        "UFO",
+        "AATIP",
+        "Pentagon",
+        "the Pentagon"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.633782"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0103",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "They've changed their tune,  but the Pentagon has never asked me  about anything.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "Why didn't they contact me? Now, the Pentagon states that AATIP,  really OSAP,  was not a UFO program. They've changed their tune,  but the Pentagon has never asked me  about anything. They circumvented me  and went to my colleagues,  but not me. News reporters call me,  literally,  within the last week,  to this day,  but only after the fact.",
+      "entities": [
+        "Pentagon",
+        "the Pentagon"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.635209"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0110",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "And right now,  I'm basically limiting it to you  because after my name and position  in OSAP  was prominently mentioned  by George  twice in the recent  September congressional hearings,  no contact  has come from anyone  except a known  anti-disclosure reporter.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "Well, we are. Well, you are. And right now,  I'm basically limiting it to you  because after my name and position  in OSAP  was prominently mentioned  by George  twice in the recent  September congressional hearings,  no contact  has come from anyone  except a known  anti-disclosure reporter. In the second mentioning  at the hearing,  my integrity was questioned  and George had to defend it. I have been requested  to meet with Arrow twice  and have refused.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation",
+        "transparency"
+      ],
+      "created_at": "2026-01-07T14:41:30.637013"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0111",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "In the second mentioning  at the hearing,  my integrity was questioned  and George had to defend it.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "Well, you are. And right now,  I'm basically limiting it to you  because after my name and position  in OSAP  was prominently mentioned  by George  twice in the recent  September congressional hearings,  no contact  has come from anyone  except a known  anti-disclosure reporter. In the second mentioning  at the hearing,  my integrity was questioned  and George had to defend it. I have been requested  to meet with Arrow twice  and have refused. The second time,  I was told,  and I,  I made the grammar  a little better  so I could read it to you.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.638618"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0177",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "prediction",
+      "text": "But each time  you're going to get  more  and more  because I'm  for disclosure  but I am  not uncontrolled.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "Remember again,  I'm limited  to what's been approved. Yeah. But each time  you're going to get  more  and more  because I'm  for disclosure  but I am  not uncontrolled. I want the public  to be  steered properly,  not in  for any  bad reasons  but people  are not learning  what they need  to know  because they're  getting bogged down. And by the way,  when people agree  with negative observations  about either  of those programs  on the internet,  who are you  dealing with?",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "transparency"
+      ],
+      "created_at": "2026-01-07T14:41:30.640833"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0192",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "opinion",
+      "text": "No,  they're gonna as best they can not circumvent their managers but play it  down because they don't have the human can be openly discussed because by who  we have that authority no way okay well that's let's clarify for our audience  so George I got about five quick things based on what he said so let's try to  make this like really clear question and answer because there was so much you  just said but so first and foremost arrow was aware of the security review  status of your books so somehow they're inherently and directly stated it they  were the first two were not sent there I was asked for them and they bought  copies now why is docks are communicating that to them that's a big  question I don't know the answer are they just interested in getting it  quickly  well I don't know it feels it feels kind of meddling and so I want to put on top  of that something I noticed which is in the last hearing when George and I were  nominating people and going through reviews with them and security reviews  with them and introducing them to people going through all these meetings one  thing I said and they promised me is that arrow would not be involved in any  way no communication to arrow this is just free going to Congress people could  know that their information would not be shared with arrow that turned out not to  be true  there was a leak in Congress where they were directly sharing information of people that  George and I were nominating and in some cases people were contacted you know for kind of pre  reviews with arrow so arrow was meddling and I actually put in a request for this to be followed  down by Congress so now we're seeing another infiltration of arrow from the human intelligence  perspective but I might not fully understand that I want to you said something you said in arrows  earlier to you they said we can even discuss human and you go huh can you  explain what is concerning about that to our audience almost human is controlled by the  Organization that gathers the HUMINT they cannot cross the lines in discussing It without  a ton of paperwork I went in and out a few Mint constantly because I couldn't use it in  my documents I mean yeah I was reading it and it was like well what's good is this I  I can't share it in my documents.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "And so you  have to be  cautious  when people's  managers tell them  that  and what  are they gonna do? Say,  oh no we don't. No,  they're gonna as best they can not circumvent their managers but play it  down because they don't have the human can be openly discussed because by who  we have that authority no way okay well that's let's clarify for our audience  so George I got about five quick things based on what he said so let's try to  make this like really clear question and answer because there was so much you  just said but so first and foremost arrow was aware of the security review  status of your books so somehow they're inherently and directly stated it they  were the first two were not sent there I was asked for them and they bought  copies now why is docks are communicating that to them that's a big  question I don't know the answer are they just interested in getting it  quickly  well I don't know it feels it feels kind of meddling and so I want to put on top  of that something I noticed which is in the last hearing when George and I were  nominating people and going through reviews with them and security reviews  with them and introducing them to people going through all these meetings one  thing I said and they promised me is that arrow would not be involved in any  way no communication to arrow this is just free going to Congress people could  know that their information would not be shared with arrow that turned out not to  be true  there was a leak in Congress where they were directly sharing information of people that  George and I were nominating and in some cases people were contacted you know for kind of pre  reviews with arrow so arrow was meddling and I actually put in a request for this to be followed  down by Congress so now we're seeing another infiltration of arrow from the human intelligence  perspective but I might not fully understand that I want to you said something you said in arrows  earlier to you they said we can even discuss human and you go huh can you  explain what is concerning about that to our audience almost human is controlled by the  Organization that gathers the HUMINT they cannot cross the lines in discussing It without  a ton of paperwork I went in and out a few Mint constantly because I couldn't use it in  my documents I mean yeah I was reading it and it was like well what's good is this I  I can't share it in my documents. Same here. I can't just go to Congress.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.646169"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0194",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "I can't just go to Congress.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "No,  they're gonna as best they can not circumvent their managers but play it  down because they don't have the human can be openly discussed because by who  we have that authority no way okay well that's let's clarify for our audience  so George I got about five quick things based on what he said so let's try to  make this like really clear question and answer because there was so much you  just said but so first and foremost arrow was aware of the security review  status of your books so somehow they're inherently and directly stated it they  were the first two were not sent there I was asked for them and they bought  copies now why is docks are communicating that to them that's a big  question I don't know the answer are they just interested in getting it  quickly  well I don't know it feels it feels kind of meddling and so I want to put on top  of that something I noticed which is in the last hearing when George and I were  nominating people and going through reviews with them and security reviews  with them and introducing them to people going through all these meetings one  thing I said and they promised me is that arrow would not be involved in any  way no communication to arrow this is just free going to Congress people could  know that their information would not be shared with arrow that turned out not to  be true  there was a leak in Congress where they were directly sharing information of people that  George and I were nominating and in some cases people were contacted you know for kind of pre  reviews with arrow so arrow was meddling and I actually put in a request for this to be followed  down by Congress so now we're seeing another infiltration of arrow from the human intelligence  perspective but I might not fully understand that I want to you said something you said in arrows  earlier to you they said we can even discuss human and you go huh can you  explain what is concerning about that to our audience almost human is controlled by the  Organization that gathers the HUMINT they cannot cross the lines in discussing It without  a ton of paperwork I went in and out a few Mint constantly because I couldn't use it in  my documents I mean yeah I was reading it and it was like well what's good is this I  I can't share it in my documents. Same here. I can't just go to Congress. Mr. Borland summarized it very well when he was directly asked, can you talk to us in a skiff?",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.647914"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0229",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "Column wrote it in the rear portions of Skinwalkers at the Pentagon.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "And remember what we asked in in the rear. It was it was with a lot of thought. Column wrote it in the rear portions of Skinwalkers at the Pentagon. We he suggested private money, private money going in from multiple sources. And I can tell you now that caught people's eye.",
+      "entities": [
+        "Pentagon",
+        "the Pentagon"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.649816"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0254",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "I was not in favor of some things because I knew that I could never ask Congress for that amount of money.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "Kelleher that there would be a book after these four. And I want the public to participate because it will be my interpretation and my statements that were made in DHS. I was not in favor of some things because I knew that I could never ask Congress for that amount of money. There was no way. So yes.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.651569"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0265",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "I can't talk about that because we have to also talk about DHS interest, and I need approval as we move forward past what the Pentagon has already released.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "She's staying away from it, and I don't blame her. But can you share with us some of what you've already reported and might report in the future about the value that she did see in in in approving that to go forward? I can't talk about that because we have to also talk about DHS interest, and I need approval as we move forward past what the Pentagon has already released. You got enough clues in there, by the way. People just haven't looked at it because they just took Errol's assessment.",
+      "entities": [
+        "Pentagon",
+        "the Pentagon"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "transparency"
+      ],
+      "created_at": "2026-01-07T14:41:30.653243"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0299",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "It seems they invite whistleblowers.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "That's a strategy. It's a pushback strategy. It seems they invite whistleblowers. Come on in. Tell us your stories.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "whistleblower"
+      ],
+      "created_at": "2026-01-07T14:41:30.654950"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0304",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "question",
+      "text": "They dismiss everything, only those whistleblowers and witnesses that came forward, but everything that was done before by you, by by Jay Stratton, UAP Task Force, it is clear as big bloody handwriting on the wall, is it not?",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "Witnesses, come on in. Bring your evidence seems designed to identify who knows what and then dismisses all of it. They dismiss everything, only those whistleblowers and witnesses that came forward, but everything that was done before by you, by by Jay Stratton, UAP Task Force, it is clear as big bloody handwriting on the wall, is it not? Right. I mean, the four books are not.",
+      "entities": [
+        "UAP"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "whistleblower"
+      ],
+      "created_at": "2026-01-07T14:41:30.657365"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0325",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "opinion",
+      "text": "We tried to recover them because of what some people believed was what is called compiled classified information.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "Bass was up to speed so fast, which reminds me of two things. One is that the ten month report that has been the word is is stole it was stolen. We tried to recover them because of what some people believed was what is called compiled classified information. Was it sort of leveled? them um i disagreed but that's nevertheless we recall them unfortunately we never numbered them  which we should have done um and we didn't get them all back there may be two complete bound  copies out there they were supposed to be returned anyhow the cat's out of the bag but they weren't  uh they were demonstrating how quickly bass was up to speed and there are new projects listed in  there that i can tell you went nowhere they couldn't go anywhere because we were not getting  the cooperation that we needed and in one of them the uh where we were interviewing uh uh people who  were involved in ufo sightings primarily what we call the northern tier the missile silo  uh ones i'm afraid most of them are gone they've passed away we tried to catch  catch the train there but we couldn't do  it no you passed away so that that probe that part of the program failed but it was in the  10-month report it was it's in the books as we attempted to do it we were unsuccessful there  are just too many people had died so and the other one was oh i forgot to write this on the list this  is a real doozy the pentagon claimed that more important things were uh uh executed with the  uh that was being spent on awesome huh it was new congressional money there was no funds to divert  they either got it for this program which they monitored congress monitor that money literally  dollar by dollar they monitored it very closely that was being spent on the right thing they knew  what they were doing at skinwalker ranch the reason it stopped at the end of the second year  was bob bigelow's  bass was too successful they completed two months they needed a three-month extension to complete  the job or they would have gotten a third year based on momentum since senator reed has passed  away i can tell you he he scheduled the phone call with me uh on a a basically a secure line  and said i'm sorry jim there's a good chance i will be defeated uh based on the way things  are going in the 2010 senate election by sharon engel he wasn't but he became the minority leader  not the majority leader because a lot of of his his democratic uh partners were defeated um he said  to me i'm sorry we we can't give you the money this year i will immediately execute it once we uh  uh i win the election if and when  he was true to his word the next day after the election he called dia and that you know the boat  had sailed there because they wanted to pass the technical aspects off to another pentagon unit and  as you know i went off to department of homeland security so the thing is is and i guess since  he's passed away i can mention he told me that he only trusted one individual with the knowledge of  this program uh whether that was really one individual or a couple but he said there is  an intelligence gathering operation within my washington office information as to the election  is being leaked out and i can't risk it and he just said sorry jim express sorrow to the people  we're going to have to lay off because you know so bob bigelow couldn't fund them for an extra year  on his own money he did for a long time you can't in this situation because you have to pay for it  a while.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "coverup"
+      ],
+      "created_at": "2026-01-07T14:41:30.659350"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0327",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "prediction",
+      "text": "them um i disagreed but that's nevertheless we recall them unfortunately we never numbered them  which we should have done um and we didn't get them all back there may be two complete bound  copies out there they were supposed to be returned anyhow the cat's out of the bag but they weren't  uh they were demonstrating how quickly bass was up to speed and there are new projects listed in  there that i can tell you went nowhere they couldn't go anywhere because we were not getting  the cooperation that we needed and in one of them the uh where we were interviewing uh uh people who  were involved in ufo sightings primarily what we call the northern tier the missile silo  uh ones i'm afraid most of them are gone they've passed away we tried to catch  catch the train there but we couldn't do  it no you passed away so that that probe that part of the program failed but it was in the  10-month report it was it's in the books as we attempted to do it we were unsuccessful there  are just too many people had died so and the other one was oh i forgot to write this on the list this  is a real doozy the pentagon claimed that more important things were uh uh executed with the  uh that was being spent on awesome huh it was new congressional money there was no funds to divert  they either got it for this program which they monitored congress monitor that money literally  dollar by dollar they monitored it very closely that was being spent on the right thing they knew  what they were doing at skinwalker ranch the reason it stopped at the end of the second year  was bob bigelow's  bass was too successful they completed two months they needed a three-month extension to complete  the job or they would have gotten a third year based on momentum since senator reed has passed  away i can tell you he he scheduled the phone call with me uh on a a basically a secure line  and said i'm sorry jim there's a good chance i will be defeated uh based on the way things  are going in the 2010 senate election by sharon engel he wasn't but he became the minority leader  not the majority leader because a lot of of his his democratic uh partners were defeated um he said  to me i'm sorry we we can't give you the money this year i will immediately execute it once we uh  uh i win the election if and when  he was true to his word the next day after the election he called dia and that you know the boat  had sailed there because they wanted to pass the technical aspects off to another pentagon unit and  as you know i went off to department of homeland security so the thing is is and i guess since  he's passed away i can mention he told me that he only trusted one individual with the knowledge of  this program uh whether that was really one individual or a couple but he said there is  an intelligence gathering operation within my washington office information as to the election  is being leaked out and i can't risk it and he just said sorry jim express sorrow to the people  we're going to have to lay off because you know so bob bigelow couldn't fund them for an extra year  on his own money he did for a long time you can't in this situation because you have to pay for it  a while.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "We tried to recover them because of what some people believed was what is called compiled classified information. Was it sort of leveled? them um i disagreed but that's nevertheless we recall them unfortunately we never numbered them  which we should have done um and we didn't get them all back there may be two complete bound  copies out there they were supposed to be returned anyhow the cat's out of the bag but they weren't  uh they were demonstrating how quickly bass was up to speed and there are new projects listed in  there that i can tell you went nowhere they couldn't go anywhere because we were not getting  the cooperation that we needed and in one of them the uh where we were interviewing uh uh people who  were involved in ufo sightings primarily what we call the northern tier the missile silo  uh ones i'm afraid most of them are gone they've passed away we tried to catch  catch the train there but we couldn't do  it no you passed away so that that probe that part of the program failed but it was in the  10-month report it was it's in the books as we attempted to do it we were unsuccessful there  are just too many people had died so and the other one was oh i forgot to write this on the list this  is a real doozy the pentagon claimed that more important things were uh uh executed with the  uh that was being spent on awesome huh it was new congressional money there was no funds to divert  they either got it for this program which they monitored congress monitor that money literally  dollar by dollar they monitored it very closely that was being spent on the right thing they knew  what they were doing at skinwalker ranch the reason it stopped at the end of the second year  was bob bigelow's  bass was too successful they completed two months they needed a three-month extension to complete  the job or they would have gotten a third year based on momentum since senator reed has passed  away i can tell you he he scheduled the phone call with me uh on a a basically a secure line  and said i'm sorry jim there's a good chance i will be defeated uh based on the way things  are going in the 2010 senate election by sharon engel he wasn't but he became the minority leader  not the majority leader because a lot of of his his democratic uh partners were defeated um he said  to me i'm sorry we we can't give you the money this year i will immediately execute it once we uh  uh i win the election if and when  he was true to his word the next day after the election he called dia and that you know the boat  had sailed there because they wanted to pass the technical aspects off to another pentagon unit and  as you know i went off to department of homeland security so the thing is is and i guess since  he's passed away i can mention he told me that he only trusted one individual with the knowledge of  this program uh whether that was really one individual or a couple but he said there is  an intelligence gathering operation within my washington office information as to the election  is being leaked out and i can't risk it and he just said sorry jim express sorrow to the people  we're going to have to lay off because you know so bob bigelow couldn't fund them for an extra year  on his own money he did for a long time you can't in this situation because you have to pay for it  a while. That was more than a rumor. He did after the three-month extension.",
+      "entities": [
+        "dia",
+        "senator reed",
+        "washington",
+        "the pentagon",
+        "senate",
+        "ufo",
+        "pentagon"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.664927"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0335",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "It wasn't religious fundamentalists in the Pentagon.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "He was more interested in the results than that. So it wasn't the Collins elite. It wasn't religious fundamentalists in the Pentagon. Senator Reid paused the funding  because he felt he had a spy in his office, that that information about OSAP could be leaked  and be damaging to him in what turned out to be a very close election, and paused it and wanted  to restart it. But he was no longer majority leader after the election.",
+      "entities": [
+        "Pentagon",
+        "the Pentagon"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.666597"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0362",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "opinion",
+      "text": "And it was mentioned to  me and I was thinking, well, I shouldn't be hearing this.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "So if you have a certain clearance level, you know others  have it. You talk about things you shouldn't be talking about. And it was mentioned to  me and I was thinking, well, I shouldn't be hearing this. I shouldn't be informed about  this because I had retired. Who knows?",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.668185"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0373",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "question",
+      "text": "One of the things that people have talked about is the big question with all the hearings  and everything is, do we have, does the United States have a physical UFO reverse engineering  program?",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "Oh, sure. No, you move ahead. One of the things that people have talked about is the big question with all the hearings  and everything is, do we have, does the United States have a physical UFO reverse engineering  program? Yeah. So we have a lot of information.",
+      "entities": [
+        "UFO",
+        "reverse engineering"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation"
+      ],
+      "created_at": "2026-01-07T14:41:30.669737"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0380",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "But you just said you are for controlled disclosure.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "Evil UFO gatekeeper because you don't speak outside of the bounds. You're  a vampire if you haven't heard. But you just said you are for controlled disclosure. So  I'm going to remind you and everybody what we learned on the last Weaponized. Almost  exactly two years ago, you had an authorized admission to make and you admitted and told  us it was in the book, but you said it verbally, you know, that we have a UFO in government  possession, that we have an exploitation effort on that vehicle, that we've had, that  we've been successful in at least penetrating the hole.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "transparency"
+      ],
+      "created_at": "2026-01-07T14:41:30.671177"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0395",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "question",
+      "text": "And by the way, if you're  looking at such a craft, what are you primarily interested in the craft, the fact that it's  empty or what in the world is the power supply and the motive and force?",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "I can't answer that. It goes beyond what I've been approved to say. And by the way, if you're  looking at such a craft, what are you primarily interested in the craft, the fact that it's  empty or what in the world is the power supply and the motive and force? What in the world  is that? That's your, that kind of answers your question.",
+      "entities": [
+        "craft"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.672842"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0444",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "I mean, just at the core of it, though,  this is one of the largest admissions because you are for controlled disclosure and you're  getting things authorized.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "And so the public can participate. So, okay. I mean, just at the core of it, though,  this is one of the largest admissions because you are for controlled disclosure and you're  getting things authorized. It is one of the largest admissions in UFO history that you're  admitting and announcing through an authorized disclosure that you had to get authorized. It's amazingly authorized.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "transparency"
+      ],
+      "created_at": "2026-01-07T14:41:30.674580"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0445",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "It is one of the largest admissions in UFO history that you're  admitting and announcing through an authorized disclosure that you had to get authorized.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "So, okay. I mean, just at the core of it, though,  this is one of the largest admissions because you are for controlled disclosure and you're  getting things authorized. It is one of the largest admissions in UFO history that you're  admitting and announcing through an authorized disclosure that you had to get authorized. It's amazingly authorized. That we have a UFO in our possession and that we breached the hull and that there was none of  these typical things you'd see for common flight.",
+      "entities": [
+        "UFO"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "transparency"
+      ],
+      "created_at": "2026-01-07T14:41:30.676385"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0450",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "question",
+      "text": "And you would tell that  right to Congress, right?",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "So, again, I'm just asking. I know you've already  affirmed it, but that is a factual statement under sworn testimony. And you would tell that  right to Congress, right? That's what's in the book. They can read it themselves.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.677982"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0464",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "question",
+      "text": "People say, well, why are you parsing this out in public books  rather than testifying to Congress?",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "This is where  you, Dr. Lukowski, get in trouble. People say, well, why are you parsing this out in public books  rather than testifying to Congress? They're supposed to have oversight of our government. Congress is supposed to have oversight of our government.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "transparency"
+      ],
+      "created_at": "2026-01-07T14:41:30.679745"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0466",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "Congress is supposed to have oversight of our government.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "People say, well, why are you parsing this out in public books  rather than testifying to Congress? They're supposed to have oversight of our government. Congress is supposed to have oversight of our government. They're supposed to have oversight of  our government. They're supposed to have oversight of our government.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.685257"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0472",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "question",
+      "text": "Why is it going in your books instead of telling us Congress so we can have  oversight?",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "So if you did testify that we have a  reverse engineering program, we have a UFO, and you raise your hand and you say that is factual  information, they're going to ask you, where is it being held? How is our money being spent for  the taxpayers? Why is it going in your books instead of telling us Congress so we can have  oversight? I mean, I can only release what I'm approved to release. And I, too, am surprised  that they approve that.",
+      "entities": [],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.687079"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0487",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "opinion",
+      "text": "Well, I, I electron, unless people are deleting electrons now, I had them all, all reduced to the  the size of a thumb drive when i said there were 12 copies they're on thumb drives the fact is  they haven't just disappeared what would be a real bear is for the government a real bear  would be to go through there and clean it uh uh oh i mean they have electronic systems that can  go through there and spot certain things if you know what to ask it to spot but the thing is is  i i uh i just on my own i stated adopter don't come looking for me for for uh uh uh cleaning  those books up they're you know they can give advice of getting rid of names changing names  getting rid of sex changing sex addresses cities and i can do all that and we did do all that  but to do that on 7 500 pages and look at how the  rules change the thing is is this last book you notice the authors of the of the references that  were in the 115 documents their names have been removed their institutions have been removed  that's been released to congress already it's been in the other books  but the rules change i just don't want to get involved in that in  in having to be responsible it would be very time consuming but doing the books is a  very different story i can say i am controlling what is disclosed i'm getting official approval  this is it just believe this and anything else you go on your own risk well i i understand why  you do the books but i think congress should have oversight i think that they should have you into  testify even behind closed doors and then it's up to them what the rules are for them to have  oversight over these programs you've already admitted because you're allowed to that we have  an exploitation or a ufo program  craft that has been the core question people have been arguing about and you're answering that  publicly one more thing i want to see if we can take you a step further last time i asked you  you know from your book you know i said where did you enter the craft at any time and you said i  can't answer that well eric davis has commented publicly and this is what he said we couldn't  understand the propulsion lakatsky went inside the uap and they didn't find any energy source  or propulsion system so now that dr eric davis has publicly stated that that you were inside this ufo  um can you now expand on that you know were you in the craft you are describing  oh i can't expand on that and going back to your question just before this the reason i really have  never first of all i've never been asked to testify other than through indirectly through you  right uh and i had a medical  reason  and not to do it last month but the thing is i can tell you a lot of what we're talking about  real intelligence gathering from a variety of folks in these four books it's not as exciting  as some of the stories that i've seen even if they're just stories they're not as exciting  but the senators and congressmen can have their staff read the books summarize it  bullet points okay so but you you're not going to answer me if you were  in the craft or not yourself i do i can't and i couldn't in front of congress i can do no more than  what is in the books to them and they have it in they have it locked and believe me it's the  absolute truth with what is in the books i believe you it's the truth but why couldn't you tell  congress i mean they what they're not authorized for you to tell them when you're brought into  things you're i was once told for a particular clearance i was to inform that agency that agency  and and their legal team if i was ever asked to go to congress wow in fact i believe that was  a standard question again con it's just think about the uh the uh the program that has been  tried to start up where people can be free to talk about uh things with no repercussions  remember where your clearances come from  d.i.a if c.i.a if the state department if nsa doesn't want you to have their clearance  they won't grant it and it doesn't matter what congress says again i'm speaking for myself  as to that what goes on inside i mean there was someone in  osap that was going to be denied a clearance that person male or female  was never going to be told better they weren't going to get the clearance but they weren't going  to be told so here's what we hear in ufo world come on whistleblowers come forward and spill  your guts no one would dare prosecute you you're telling the world about the truth about you  they wouldn't dare prosecute you so go ahead put your life on the line your career your freedom  and spill the beans and we'll be behind you what do you what do you say to those folks  let me ask you uh you know you'reing i'm just saying we're brought on by a lot of people  who are not right you're crying and you're about to get killed you know we're all about  the same thing so it's not going to be easy to come up with a solution for that so i want to  make it simple but i think that's important and i think it's important for the international  community to work together to find what they do what they can do and we have to make sure that  we're the only ones that don't go and that's what we're there to do it's not gonna be easy  came on your show i mentioned you can be sure and i call them the enemy or listening to your show  you can be absolutely sure they are major intelligence gathering there's i forget what  intent is uh it's probably news interest like that one of the best sources of intelligence  the best sources of intelligence to direct your resources toward finding out more just  i wouldn't do it people can do what they want to do and risk their careers their paycheck  and their families well-being i don't see many of them doing it and those that do do it are putting  restrictions on so uh besides you know let me ask you this about the okay so you know  we've got a craft why won't arrow admit that to the american public what you're allowed to admit  that we have a ufo in our possession and we've breached the whole arrow is running around  saying all this crazy why won't they just admit that part to the american public  god to do it's what they have been told they've been told by higher ups that this is your job  there was what's their job if you were just memorized what's arrow's job well the thing is  i don't know i'm not an assignee to to arrow but i believe they're those are temporary positions  that they're assignees wow if you're a signee and go off the rails  you're not coming back so but i mean they could just they have to respond to your statement  they're talking about you and your programs and other interviews  so they're not coming back and they're not coming back and they're not coming back and they're not  coming back and they're not coming back so maybe arrow can respond to this statement  so maybe arrow can respond to this statement  so maybe arrow can respond to this statement dr james katsuki says we have a ufo and we  dr james katsuki says we have a ufo and we  dr james katsuki says we have a ufo and we breached the hole that's a back engineering  breached the hole that's a back engineering  breached the hole that's a back engineering we're interested in how it propels because it  we're interested in how it propels because it has no signs of normal propulsion i'd like to hear  has no signs of normal propulsion i'd like to hear  has no signs of normal propulsion i'd like to hear arrow respond to that because they say we have no  arrow respond to that because they say we have no  through the effort of of downgrading this why are they going to say you're lying like is there  we're going to say you're lying are they going to try to say i would say that i wouldn't say  they're lying i would say they're doing their job and that's their jobs counterintelligence is a job  it's a position okay so arrow is counterintelligence well i i don't want to say  that either you know i just said it they're uh all right george george i gotta be performing that  function don't they george i gotta try just on this topic because it was such import it was so  important to people so i'm just gonna try um well i know it's important to people okay what did the  craft would the interior of the craft be similar to the exterior and that there was nothing really  clear as far as control i can't answer any more questions i figured um how about you know  something you know something something important and i can't go any further than just saying this  i wouldn't be overly concerned whatever the answer is  i wouldn't be overly concerned this is the most exciting thing on on planet earth what do you mean  it wouldn't be overly concerned i make i'm i'm proportionately concerned is it this is one of the  greatest partial answer the other day he's going to have to think about it no this is one of the  greatest mysteries for me that's why we're doing it okay fine if we oh i'm not saying that there  isn't an answer or multiple answers and i'm not saying people shouldn't be absolutely interested  i mean i asked someone on the internet who  is so angry about not being told not from your podcast but not being told the truth  and i asked him why and he said i've got to know i've got to know and i said well  basically have a nice day but don't be obsessed by this i'm a surprise for the many males that  are in your audience their girlfriends wives don't say what are you doing obsessed it's  about we're all getting  laid let's get back to the ufo so you won't tell me what it looked like on the inside because  you've taken an oath okay but maybe you could tell me how we did not breach the whole you said we  breached the whole great maybe you could tell me how we did not because my mind says well is it  mental telepathy to open some porthole on the side of it or did we use like laser cutters can  you just tell me how we did not breach the hole no you're relentless aren't you i am you're very good  was the craft landed crashed or gifted to us come on you know i don't know i don't know i don't know  Do you know the answer to that?",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "I was told by intelligence people, they'll never  authorize those 115, not books, documents from DIA. Now, what they're doing now, in retrospect,  is they're denying their, not their existence, they obviously exist, but that we have them. Well, I, I electron, unless people are deleting electrons now, I had them all, all reduced to the  the size of a thumb drive when i said there were 12 copies they're on thumb drives the fact is  they haven't just disappeared what would be a real bear is for the government a real bear  would be to go through there and clean it uh uh oh i mean they have electronic systems that can  go through there and spot certain things if you know what to ask it to spot but the thing is is  i i uh i just on my own i stated adopter don't come looking for me for for uh uh uh cleaning  those books up they're you know they can give advice of getting rid of names changing names  getting rid of sex changing sex addresses cities and i can do all that and we did do all that  but to do that on 7 500 pages and look at how the  rules change the thing is is this last book you notice the authors of the of the references that  were in the 115 documents their names have been removed their institutions have been removed  that's been released to congress already it's been in the other books  but the rules change i just don't want to get involved in that in  in having to be responsible it would be very time consuming but doing the books is a  very different story i can say i am controlling what is disclosed i'm getting official approval  this is it just believe this and anything else you go on your own risk well i i understand why  you do the books but i think congress should have oversight i think that they should have you into  testify even behind closed doors and then it's up to them what the rules are for them to have  oversight over these programs you've already admitted because you're allowed to that we have  an exploitation or a ufo program  craft that has been the core question people have been arguing about and you're answering that  publicly one more thing i want to see if we can take you a step further last time i asked you  you know from your book you know i said where did you enter the craft at any time and you said i  can't answer that well eric davis has commented publicly and this is what he said we couldn't  understand the propulsion lakatsky went inside the uap and they didn't find any energy source  or propulsion system so now that dr eric davis has publicly stated that that you were inside this ufo  um can you now expand on that you know were you in the craft you are describing  oh i can't expand on that and going back to your question just before this the reason i really have  never first of all i've never been asked to testify other than through indirectly through you  right uh and i had a medical  reason  and not to do it last month but the thing is i can tell you a lot of what we're talking about  real intelligence gathering from a variety of folks in these four books it's not as exciting  as some of the stories that i've seen even if they're just stories they're not as exciting  but the senators and congressmen can have their staff read the books summarize it  bullet points okay so but you you're not going to answer me if you were  in the craft or not yourself i do i can't and i couldn't in front of congress i can do no more than  what is in the books to them and they have it in they have it locked and believe me it's the  absolute truth with what is in the books i believe you it's the truth but why couldn't you tell  congress i mean they what they're not authorized for you to tell them when you're brought into  things you're i was once told for a particular clearance i was to inform that agency that agency  and and their legal team if i was ever asked to go to congress wow in fact i believe that was  a standard question again con it's just think about the uh the uh the program that has been  tried to start up where people can be free to talk about uh things with no repercussions  remember where your clearances come from  d.i.a if c.i.a if the state department if nsa doesn't want you to have their clearance  they won't grant it and it doesn't matter what congress says again i'm speaking for myself  as to that what goes on inside i mean there was someone in  osap that was going to be denied a clearance that person male or female  was never going to be told better they weren't going to get the clearance but they weren't going  to be told so here's what we hear in ufo world come on whistleblowers come forward and spill  your guts no one would dare prosecute you you're telling the world about the truth about you  they wouldn't dare prosecute you so go ahead put your life on the line your career your freedom  and spill the beans and we'll be behind you what do you what do you say to those folks  let me ask you uh you know you'reing i'm just saying we're brought on by a lot of people  who are not right you're crying and you're about to get killed you know we're all about  the same thing so it's not going to be easy to come up with a solution for that so i want to  make it simple but i think that's important and i think it's important for the international  community to work together to find what they do what they can do and we have to make sure that  we're the only ones that don't go and that's what we're there to do it's not gonna be easy  came on your show i mentioned you can be sure and i call them the enemy or listening to your show  you can be absolutely sure they are major intelligence gathering there's i forget what  intent is uh it's probably news interest like that one of the best sources of intelligence  the best sources of intelligence to direct your resources toward finding out more just  i wouldn't do it people can do what they want to do and risk their careers their paycheck  and their families well-being i don't see many of them doing it and those that do do it are putting  restrictions on so uh besides you know let me ask you this about the okay so you know  we've got a craft why won't arrow admit that to the american public what you're allowed to admit  that we have a ufo in our possession and we've breached the whole arrow is running around  saying all this crazy why won't they just admit that part to the american public  god to do it's what they have been told they've been told by higher ups that this is your job  there was what's their job if you were just memorized what's arrow's job well the thing is  i don't know i'm not an assignee to to arrow but i believe they're those are temporary positions  that they're assignees wow if you're a signee and go off the rails  you're not coming back so but i mean they could just they have to respond to your statement  they're talking about you and your programs and other interviews  so they're not coming back and they're not coming back and they're not coming back and they're not  coming back and they're not coming back so maybe arrow can respond to this statement  so maybe arrow can respond to this statement  so maybe arrow can respond to this statement dr james katsuki says we have a ufo and we  dr james katsuki says we have a ufo and we  dr james katsuki says we have a ufo and we breached the hole that's a back engineering  breached the hole that's a back engineering  breached the hole that's a back engineering we're interested in how it propels because it  we're interested in how it propels because it has no signs of normal propulsion i'd like to hear  has no signs of normal propulsion i'd like to hear  has no signs of normal propulsion i'd like to hear arrow respond to that because they say we have no  arrow respond to that because they say we have no  through the effort of of downgrading this why are they going to say you're lying like is there  we're going to say you're lying are they going to try to say i would say that i wouldn't say  they're lying i would say they're doing their job and that's their jobs counterintelligence is a job  it's a position okay so arrow is counterintelligence well i i don't want to say  that either you know i just said it they're uh all right george george i gotta be performing that  function don't they george i gotta try just on this topic because it was such import it was so  important to people so i'm just gonna try um well i know it's important to people okay what did the  craft would the interior of the craft be similar to the exterior and that there was nothing really  clear as far as control i can't answer any more questions i figured um how about you know  something you know something something important and i can't go any further than just saying this  i wouldn't be overly concerned whatever the answer is  i wouldn't be overly concerned this is the most exciting thing on on planet earth what do you mean  it wouldn't be overly concerned i make i'm i'm proportionately concerned is it this is one of the  greatest partial answer the other day he's going to have to think about it no this is one of the  greatest mysteries for me that's why we're doing it okay fine if we oh i'm not saying that there  isn't an answer or multiple answers and i'm not saying people shouldn't be absolutely interested  i mean i asked someone on the internet who  is so angry about not being told not from your podcast but not being told the truth  and i asked him why and he said i've got to know i've got to know and i said well  basically have a nice day but don't be obsessed by this i'm a surprise for the many males that  are in your audience their girlfriends wives don't say what are you doing obsessed it's  about we're all getting  laid let's get back to the ufo so you won't tell me what it looked like on the inside because  you've taken an oath okay but maybe you could tell me how we did not breach the whole you said we  breached the whole great maybe you could tell me how we did not because my mind says well is it  mental telepathy to open some porthole on the side of it or did we use like laser cutters can  you just tell me how we did not breach the hole no you're relentless aren't you i am you're very good  was the craft landed crashed or gifted to us come on you know i don't know i don't know i don't know  Do you know the answer to that? Next week, in part two of our interview with Dr. James Lukatsky.",
+      "entities": [
+        "eric davis",
+        "engineering",
+        "craft",
+        "dr eric davis",
+        "nsa",
+        "cia",
+        "dr james katsuki",
+        "uap",
+        "ufo"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "legislation",
+        "transparency",
+        "coverup",
+        "whistleblower",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.696512"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0490",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "Intelligence agencies and the Pentagon acknowledge there is a deadly serious contest to figure out UFO technology before Russia or China do.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "Next week, in part two of our interview with Dr. James Lukatsky. Intelligence agencies and the Pentagon acknowledge there is a deadly serious contest to figure out UFO technology before Russia or China do. Nevada Senator Harry Reid told us before his death that the race is real and that we'd better win it. I mean, you basically ran the X-Files for the U.S.",
+      "entities": [
+        "UFO",
+        "Pentagon",
+        "the Pentagon"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure"
+      ],
+      "created_at": "2026-01-07T14:41:30.698761"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0496",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "You said a study focused solely on UFOs, on various unknown nuts and bolts type craft flittering around in the skies over military bases and facilities would never get to the heart of a much larger and complicated mystery.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "I mean, it was pretty wild. There were wild things that occurred, but you said it best. You said a study focused solely on UFOs, on various unknown nuts and bolts type craft flittering around in the skies over military bases and facilities would never get to the heart of a much larger and complicated mystery. And I think what you were trying to say to us is if you just think you're going to study UFOs, you're going to be smacked with reality. Reality is UFO phenomenon is just shrouded.",
+      "entities": [
+        "UFOs",
+        "craft"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.700329"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0503",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "Now, can you study nuts and bolts and use it for a levitating craft would be tremendous.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "Yes. That you've got to look much further than nuts and bolts. Now, can you study nuts and bolts and use it for a levitating craft would be tremendous. It doesn't have to be a fast craft, but a levitating airliner. Think about where it could go.",
+      "entities": [
+        "craft"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.702888"
+    },
+    {
+      "claim_id": "weaponized_lacatski_part1_claim_0504",
+      "source_id": "weaponized_lacatski_part1",
+      "speaker_id": "george_knapp",
+      "claim_type": "factual",
+      "text": "It doesn't have to be a fast craft, but a levitating airliner.",
+      "confidence": 0.85,
+      "start_time": null,
+      "end_time": null,
+      "page_number": null,
+      "context": "That you've got to look much further than nuts and bolts. Now, can you study nuts and bolts and use it for a levitating craft would be tremendous. It doesn't have to be a fast craft, but a levitating airliner. Think about where it could go. Everywhere.",
+      "entities": [
+        "craft"
+      ],
+      "tags": [
+        "weaponized",
+        "uap_disclosure",
+        "contractors"
+      ],
+      "created_at": "2026-01-07T14:41:30.704286"
+    }
+  ],
+  "total_claims": 44,
+  "timestamp": "2026-01-07T14:41:30.705732"
+}

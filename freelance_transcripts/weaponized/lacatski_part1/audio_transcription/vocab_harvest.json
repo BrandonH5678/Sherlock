@@ -1,0 +1,103 @@
+{
+  "harvested": {
+    "proper_nouns": [
+      "And",
+      "It",
+      "They",
+      "So",
+      "Now",
+      "That",
+      "But",
+      "You",
+      "There",
+      "Kona Blue",
+      "Congress",
+      "George",
+      "Well",
+      "The",
+      "Dr",
+      "Yeah",
+      "Pentagon",
+      "We",
+      "If",
+      "Arrow",
+      "What",
+      "Yes",
+      "Okay",
+      "He",
+      "This",
+      "Right",
+      "Oh",
+      "Jim",
+      "No",
+      "In",
+      "Who",
+      "One",
+      "Weaponized",
+      "Is",
+      "Department",
+      "Let",
+      "People",
+      "American",
+      "Do",
+      "James Lacatski",
+      "Advanced Aerospace Weapon System Applications Program",
+      "Both",
+      "Skinwalkers",
+      "These",
+      "Colm Kelleher",
+      "To",
+      "Very",
+      "Are",
+      "Or",
+      "Contrary"
+    ],
+    "acronyms": [
+      "UFO",
+      "AAWSAP",
+      "DIA",
+      "OSAP",
+      "UAP",
+      "DHS",
+      "OK",
+      "KBP",
+      "BAS",
+      "IG",
+      "FOIA",
+      "DOD",
+      "DOW",
+      "AATIP",
+      "CNN",
+      "CBS",
+      "DOPSR",
+      "HUMINT"
+    ],
+    "technical_terms": [
+      "Kona Blue",
+      "James Lacatski",
+      "Advanced Aerospace Weapon System Applications Program",
+      "Colm Kelleher",
+      "Homeland Security",
+      "Jay Stratton",
+      "Task Force"
+    ],
+    "unclear_tokens": []
+  },
+  "risk_assessment": {
+    "novel_proper_nouns": [
+      "James Lacatski"
+    ],
+    "acronym_collapses": [],
+    "risk_score": 0.01
+  },
+  "risk_gates": {
+    "novel_noun_rate": 0.02,
+    "collapse_count": 0,
+    "failed": false,
+    "failed_gates": []
+  },
+  "statistics": {
+    "total_edits": 26,
+    "risky_edits": 1
+  }
+}

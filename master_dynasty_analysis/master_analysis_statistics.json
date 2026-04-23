@@ -1,0 +1,16 @@
+{
+  "total_claims": 207,
+  "claims_by_document": {
+    "opium_dynasties": 43,
+    "forbes_family": 32,
+    "dynastic_networks": 60,
+    "network_intersection": 72
+  },
+  "network_entities": 40,
+  "network_edges": 18,
+  "cross_referenced_entities": 55,
+  "timeline_events": 32,
+  "dynasties_tracked": 5,
+  "institutional_bridges": 8,
+  "analysis_timestamp": "2025-12-23T15:00:46.098610"
+}

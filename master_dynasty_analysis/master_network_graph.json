@@ -1,0 +1,371 @@
+{
+  "nodes": [],
+  "edges": [
+    {
+      "from": "Samuel Russell",
+      "to": "William H. Russell",
+      "type": "family",
+      "label": "Cousins"
+    },
+    {
+      "from": "Samuel Russell",
+      "to": "Russell & Co.",
+      "type": "founded",
+      "label": "Founded 1823"
+    },
+    {
+      "from": "Warren Delano Jr.",
+      "to": "Russell & Co.",
+      "type": "employment",
+      "label": "Head Canton office"
+    },
+    {
+      "from": "John Murray Forbes",
+      "to": "Russell & Co.",
+      "type": "employment",
+      "label": "Junior partner"
+    },
+    {
+      "from": "Prescott Bush",
+      "to": "Brown Brothers Harriman",
+      "type": "employment",
+      "label": "Partner 1931"
+    },
+    {
+      "from": "W. Averell Harriman",
+      "to": "Brown Brothers Harriman",
+      "type": "founded",
+      "label": "Co-founder 1931"
+    },
+    {
+      "from": "Percy Rockefeller",
+      "to": "Brown Brothers Harriman",
+      "type": "governance",
+      "label": "Board member"
+    },
+    {
+      "from": "Prescott Bush",
+      "to": "CIA",
+      "type": "influence",
+      "label": "National Strategy Info Center 1962"
+    },
+    {
+      "from": "George H.W. Bush",
+      "to": "CIA",
+      "type": "leadership",
+      "label": "DCI 1976-77"
+    },
+    {
+      "from": "W. Averell Harriman",
+      "to": "OSS",
+      "type": "architect",
+      "label": "Cold War intelligence planning"
+    },
+    {
+      "from": "Robert Lovett",
+      "to": "OSS",
+      "type": "architect",
+      "label": "Covert frameworks"
+    },
+    {
+      "from": "George H.W. Bush",
+      "to": "Atlantic Council",
+      "type": "governance",
+      "label": "Board chair 1960s-70s"
+    },
+    {
+      "from": "William P. Bundy",
+      "to": "Bilderberg Group",
+      "type": "leadership",
+      "label": "Secretary-General 1975-80"
+    },
+    {
+      "from": "David Rockefeller",
+      "to": "Council on Foreign Relations",
+      "type": "leadership",
+      "label": "Director 1949"
+    },
+    {
+      "from": "David Rockefeller",
+      "to": "Trilateral Commission",
+      "type": "founded",
+      "label": "Founder 1973"
+    },
+    {
+      "from": "Warren Delano Jr.",
+      "to": "Franklin D. Roosevelt",
+      "type": "family",
+      "label": "Grandfather"
+    },
+    {
+      "from": "Prescott Bush",
+      "to": "George H.W. Bush",
+      "type": "family",
+      "label": "Father"
+    },
+    {
+      "from": "George H.W. Bush",
+      "to": "George W. Bush",
+      "type": "family",
+      "label": "Father"
+    }
+  ],
+  "layers": {
+    "opium_trade": {
+      "period": "1820s-1890s",
+      "nodes": [
+        {
+          "name": "Russell & Co.",
+          "type": "merchant_house",
+          "significance": "Largest American opium trader"
+        },
+        {
+          "name": "Samuel Russell",
+          "type": "person",
+          "role": "Opium magnate, founder"
+        },
+        {
+          "name": "Warren Delano Jr.",
+          "type": "person",
+          "role": "Head Canton office, FDR grandfather"
+        },
+        {
+          "name": "John Murray Forbes",
+          "type": "person",
+          "role": "Junior partner, railroad baron"
+        },
+        {
+          "name": "Perkins & Co.",
+          "type": "merchant_house",
+          "significance": "Merged with Russell & Co."
+        },
+        {
+          "name": "John Perkins Cushing",
+          "type": "person",
+          "role": "Perkins nephew, opium trader"
+        },
+        {
+          "name": "Joseph Coolidge",
+          "type": "person",
+          "role": "Heard & Co., Jefferson lineage"
+        },
+        {
+          "name": "John Brown",
+          "type": "person",
+          "role": "Brown & Ives, opium/slave trader"
+        }
+      ]
+    },
+    "yale_skull_bones": {
+      "period": "1833-present",
+      "nodes": [
+        {
+          "name": "William H. Russell",
+          "type": "person",
+          "role": "S&B founder 1833, Samuel Russell cousin",
+          "sb_class": "1833"
+        },
+        {
+          "name": "Prescott Bush",
+          "type": "person",
+          "role": "BBH partner, Senator",
+          "sb_class": "1917"
+        },
+        {
+          "name": "W. Averell Harriman",
+          "type": "person",
+          "role": "BBH co-founder, diplomat",
+          "sb_class": "1913"
+        },
+        {
+          "name": "Percy Rockefeller",
+          "type": "person",
+          "role": "BBH + Standard Oil + Remington Arms",
+          "sb_class": "1900"
+        },
+        {
+          "name": "Robert Lovett",
+          "type": "person",
+          "role": "Intelligence architect",
+          "sb_class": "1918"
+        },
+        {
+          "name": "William P. Bundy",
+          "type": "person",
+          "role": "CIA, Bilderberg Secretary-General",
+          "sb_class": "1938"
+        },
+        {
+          "name": "McGeorge Bundy",
+          "type": "person",
+          "role": "NSC Advisor Kennedy/Johnson",
+          "sb_class": "1940"
+        },
+        {
+          "name": "George H.W. Bush",
+          "type": "person",
+          "role": "CIA DCI, President",
+          "sb_class": "1948"
+        },
+        {
+          "name": "George W. Bush",
+          "type": "person",
+          "role": "President",
+          "sb_class": "1968"
+        }
+      ]
+    },
+    "banking_bbh": {
+      "period": "1818-present",
+      "nodes": [
+        {
+          "name": "Brown Brothers",
+          "type": "bank",
+          "founded": "1818",
+          "significance": "Brown family opium wealth"
+        },
+        {
+          "name": "Harriman Brothers",
+          "type": "bank",
+          "founded": "1920s",
+          "significance": "Railroad fortune"
+        },
+        {
+          "name": "Brown Brothers Harriman",
+          "type": "bank",
+          "founded": "1931",
+          "significance": "11 of 16 founders Yale, 8 were S&B"
+        },
+        {
+          "name": "Prescott Bush",
+          "type": "person",
+          "role": "BBH partner 1931"
+        },
+        {
+          "name": "Percy Rockefeller",
+          "type": "person",
+          "role": "BBH board"
+        },
+        {
+          "name": "J.M. Forbes & Co.",
+          "type": "trust",
+          "founded": "1777",
+          "significance": "Family office, >$1.5B"
+        }
+      ]
+    },
+    "intelligence_cia": {
+      "period": "1940s-present",
+      "nodes": [
+        {
+          "name": "OSS",
+          "type": "agency",
+          "period": "1942-1945",
+          "significance": "WWII intelligence"
+        },
+        {
+          "name": "CIA",
+          "type": "agency",
+          "founded": "1947",
+          "significance": "Central intelligence"
+        },
+        {
+          "name": "George H.W. Bush",
+          "type": "person",
+          "role": "DCI 1976-77"
+        },
+        {
+          "name": "William P. Bundy",
+          "type": "person",
+          "role": "CIA analyst, State Dept"
+        },
+        {
+          "name": "William Casey",
+          "type": "person",
+          "role": "CIA Director, Prescott Bush partner"
+        },
+        {
+          "name": "Robert Lovett",
+          "type": "person",
+          "role": "Covert intelligence planning"
+        },
+        {
+          "name": "MK-ULTRA",
+          "type": "program",
+          "period": "1950s",
+          "significance": "S&B Richardson family funded"
+        }
+      ]
+    },
+    "globalist_institutions": {
+      "period": "1940s-present",
+      "nodes": [
+        {
+          "name": "Council on Foreign Relations",
+          "type": "think_tank",
+          "founded": "1921",
+          "significance": "David Rockefeller director 1949"
+        },
+        {
+          "name": "Bilderberg Group",
+          "type": "conference",
+          "founded": "1954",
+          "significance": "William P. Bundy Secretary-General 1975-80"
+        },
+        {
+          "name": "Trilateral Commission",
+          "type": "think_tank",
+          "founded": "1973",
+          "significance": "David Rockefeller founder"
+        },
+        {
+          "name": "Atlantic Council",
+          "type": "think_tank",
+          "founded": "1961",
+          "significance": "George H.W. Bush chair 1960s-70s"
+        },
+        {
+          "name": "World Economic Forum",
+          "type": "forum",
+          "founded": "1971",
+          "significance": "Rockefeller network roots"
+        }
+      ]
+    },
+    "presidential_power": {
+      "period": "1920s-present",
+      "nodes": [
+        {
+          "name": "Calvin Coolidge",
+          "type": "president",
+          "term": "1923-1929",
+          "lineage": "Opium family descendant"
+        },
+        {
+          "name": "Franklin D. Roosevelt",
+          "type": "president",
+          "term": "1933-1945",
+          "lineage": "Warren Delano Jr. grandson"
+        },
+        {
+          "name": "George H.W. Bush",
+          "type": "president",
+          "term": "1989-1993",
+          "lineage": "S&B 1948, CIA DCI"
+        },
+        {
+          "name": "George W. Bush",
+          "type": "president",
+          "term": "2001-2009",
+          "lineage": "S&B 1968"
+        },
+        {
+          "name": "John Kerry",
+          "type": "politician",
+          "role": "Secretary of State",
+          "lineage": "Forbes family maternal"
+        }
+      ]
+    }
+  }
+}

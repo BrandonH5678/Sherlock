@@ -1,0 +1,98 @@
+{
+  "harvested": {
+    "proper_nouns": [
+      "And",
+      "So",
+      "It",
+      "We",
+      "But",
+      "Yeah",
+      "You",
+      "That",
+      "This",
+      "Right",
+      "Like",
+      "They",
+      "The",
+      "He",
+      "Uh",
+      "No",
+      "If",
+      "Well",
+      "Naruto",
+      "There",
+      "Denmark",
+      "All",
+      "Tic Tac",
+      "Oh",
+      "What",
+      "Oak Ridge",
+      "Yes",
+      "Is",
+      "Facebook",
+      "Okay",
+      "Are",
+      "Tucker Carlson",
+      "Kevin Day",
+      "Francisco",
+      "Now",
+      "Of",
+      "In",
+      "Mach",
+      "These",
+      "Intelligent Disclosure",
+      "Richard Dolan",
+      "Here",
+      "Tracy",
+      "Thanks",
+      "Your",
+      "How",
+      "Saturday",
+      "From",
+      "Talked",
+      "As"
+    ],
+    "acronyms": [
+      "UAP",
+      "FBI",
+      "AATIP",
+      "OK",
+      "UK",
+      "USS",
+      "CYA",
+      "US",
+      "TTSA"
+    ],
+    "technical_terms": [
+      "Tic Tac",
+      "Oak Ridge",
+      "Tucker Carlson",
+      "Kevin Day",
+      "Intelligent Disclosure",
+      "Richard Dolan",
+      "United States Navy",
+      "Storm Area",
+      "David Fravor",
+      "Los Alamos"
+    ],
+    "unclear_tokens": [
+      " subject typically seen as round occasionally diamond shaped",
+      " That's how it's going to be"
+    ]
+  },
+  "risk_assessment": {
+    "novel_proper_nouns": [],
+    "acronym_collapses": [],
+    "risk_score": 0.0
+  },
+  "risk_gates": {
+    "novel_noun_rate": 0.0,
+    "collapse_count": 0,
+    "failed": false,
+    "failed_gates": []
+  },
+  "statistics": {
+    "total_edits": 352,
+    "risky_edits": 0
+  }
+}

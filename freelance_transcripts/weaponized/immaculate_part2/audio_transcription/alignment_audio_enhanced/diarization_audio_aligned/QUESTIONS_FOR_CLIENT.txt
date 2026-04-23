@@ -1,0 +1,10 @@
+QUESTIONS FOR CLIENT REVIEW
+==================================================
+
+The following items were unclear in the audio.
+Please provide corrections or clarifications.
+
+[05:40] Jeremy Corbell:
+  Context: "[unclear: You've seen a lot of exposure]"
+  Question: At 05:40, ' You've seen a lot of exposure' was unclear. Could you clarify?
+

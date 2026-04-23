@@ -1,0 +1,95 @@
+{
+  "harvested": {
+    "proper_nouns": [
+      "And",
+      "So",
+      "But",
+      "They",
+      "That",
+      "You",
+      "It",
+      "This",
+      "We",
+      "The",
+      "There",
+      "Now",
+      "Or",
+      "New World Order",
+      "In",
+      "Like",
+      "Facebook",
+      "Yahoo News",
+      "If",
+      "All",
+      "Well",
+      "Tracy",
+      "Thank",
+      "Okay",
+      "Let",
+      "Patriot Act",
+      "United States",
+      "American",
+      "My",
+      "As",
+      "Scribd",
+      "Anti",
+      "Maybe",
+      "Pizzagate",
+      "How",
+      "Nazis",
+      "These",
+      "Iranian",
+      "Kennedy",
+      "August",
+      "Google",
+      "What",
+      "One",
+      "Don",
+      "Gary Allen",
+      "Again",
+      "Rockefeller",
+      "He",
+      "Rockefellers",
+      "Yeah"
+    ],
+    "acronyms": [
+      "FBI",
+      "CIA",
+      "UN",
+      "NSA",
+      "GCHQ",
+      "NATO",
+      "USA",
+      "JFK",
+      "US",
+      "COINTELPRO"
+    ],
+    "technical_terms": [
+      "New World Order",
+      "Yahoo News",
+      "Patriot Act",
+      "United States",
+      "Gary Allen",
+      "First Amendment"
+    ],
+    "unclear_tokens": [
+      " repetition of previous statement about false flags",
+      " have no idea what they're talking about"
+    ]
+  },
+  "risk_assessment": {
+    "novel_proper_nouns": [],
+    "acronym_collapses": [],
+    "risk_score": 0.0
+  },
+  "risk_gates": {
+    "novel_noun_rate": 0.0,
+    "collapse_count": 0,
+    "failed": false,
+    "failed_gates": []
+  },
+  "statistics": {
+    "total_edits": 909,
+    "risky_edits": 0
+  }
+}

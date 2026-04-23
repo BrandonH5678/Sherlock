@@ -1,0 +1,262 @@
+{
+  "families": {
+    "Astor": {
+      "key_figure": "John Jacob Astor (1763-1848)",
+      "status": "America's first multi-millionaire",
+      "region": "New York",
+      "firms": [
+        "American Fur Company",
+        "Astor & Co."
+      ],
+      "ships": [
+        "Tonquin"
+      ],
+      "opium_activity": "Smuggled hundreds of thousands of pounds of opium into China (1810s)",
+      "exit": "1825 - invested profits in New York real estate",
+      "legacy": [
+        "Astor Library (NYPL precursor)",
+        "hospitals",
+        "banks",
+        "NYC development"
+      ],
+      "evidence": "PDF p.1; HISTORY.com"
+    },
+    "Cabot": {
+      "key_figures": [
+        "George Cabot (1752-1823)",
+        "Godfrey Lowell Cabot"
+      ],
+      "region": "Boston",
+      "firms": [
+        "Samuel Cabot & Sons (China traders)"
+      ],
+      "opium_activity": "China opium market participation; \"exploitative business ventures\" (Britannica)",
+      "legacy": [
+        "Massachusetts General Hospital",
+        "Boston Symphony",
+        "Harvard University buildings"
+      ],
+      "connections": "Boston Brahmins; Senator Henry Cabot Lodge (nephew)",
+      "evidence": "PDF p.1; Britannica"
+    },
+    "Peabody": {
+      "key_figures": [
+        "Joseph Peabody (1757-1844)",
+        "George Peabody (1795-1869)"
+      ],
+      "region": "Salem / Europe",
+      "firms": [
+        "Peabody & Brown (Salem)",
+        "early China fleets"
+      ],
+      "opium_activity": "East India trade; \"extremely wealthy\" from Asian trade; museum notes \"profits derived from illegal trade in opium\"",
+      "legacy": [
+        "Peabody Essex Museum (Asian art)",
+        "Peabody Institute",
+        "education/housing endowments",
+        "House of Morgan connections"
+      ],
+      "connections": "George Peabody became London financier; sponsored North American railroads",
+      "evidence": "PDF p.1; Wikipedia; PEM"
+    },
+    "Perkins-Cushing": {
+      "key_figures": [
+        "Thomas Handasyd Perkins (1764-1854)",
+        "John Perkins Cushing (1787-1862)"
+      ],
+      "region": "Boston",
+      "firms": [
+        "Perkins & Co. (Boston-Canton)",
+        "merged into Russell & Co. (1830)"
+      ],
+      "opium_activity": "By 1815 set up European offices to buy Turkish opium for Canton; \"turned to smuggling Turkish opium into China\"; worked with Chinese hong merchants (Howqua)",
+      "legacy": [
+        "Massachusetts General Hospital (land donor)",
+        "Perkins School for Blind",
+        "McLean Hospital",
+        "Boston Museum of Fine Arts",
+        "Granite Railway",
+        "Bunker Hill Monument",
+        "Lowell/Holyoke mills"
+      ],
+      "connections": "John P. Cushing = T.H. Perkins nephew; John Murray Forbes became junior partner; Cushing married into Low family",
+      "evidence": "PDF p.1-2; Wikipedia"
+    },
+    "Coolidge-Heard": {
+      "key_figures": [
+        "Joseph Coolidge (1798-1879)",
+        "Thomas Jefferson Coolidge (1831-1920)"
+      ],
+      "region": "Boston-China",
+      "firms": [
+        "Augustine Heard & Co.",
+        "clipper Samuel Russell"
+      ],
+      "opium_activity": "Partner in Heard & Co.; decades trading opium, silk, tea; headed Canton operations (1840s)",
+      "legacy": [
+        "Boston Museum of Science",
+        "churches",
+        "railroads",
+        "bank directorships",
+        "ambassadorial service (France)"
+      ],
+      "connections": "Joseph married Thomas Jefferson's granddaughter; T.J. Coolidge married into Lowell mills; Warren Delano descendants include President Calvin Coolidge",
+      "evidence": "PDF p.2; Wikipedia"
+    },
+    "Weld": {
+      "key_figures": [
+        "William Gordon Weld (1775-1825)",
+        "William Fletcher Weld (1800-1881)",
+        "George Walker Weld (1840-1905)",
+        "Charles Goddard Weld (1857-1911)"
+      ],
+      "region": "Boston",
+      "firms": [
+        "Clipper fleets (e.g. Challenger)",
+        "Gold Rush shipping"
+      ],
+      "opium_activity": "Ran clipper fleets carrying opium; later patriarch: \"all our ancestors were opium smugglers\u2014pretty much the family business\"",
+      "legacy": [
+        "Harvard Boathouse (G.W. Weld = \"greatest benefactor Harvard ever had in rowing\")",
+        "Museum of Fine Arts (art collections)",
+        "Harvard sailing/science endowments"
+      ],
+      "connections": "Intermarried with Perkins, Cabot; David Weld (Gov. Weld descendant) confirms family lore",
+      "evidence": "PDF p.2; Harvard Magazine"
+    },
+    "Delano": {
+      "key_figures": [
+        "Warren Delano Jr. (1809-1898)",
+        "Frederic Adrian Delano (1863-1953)"
+      ],
+      "region": "New England / New York",
+      "firms": [
+        "Russell & Co. (Canton) - head of Canton office, majority stake"
+      ],
+      "opium_activity": "Joined Russell & Co. 1833; became head of Canton office; \"outdistanced every other American company in opium holdings\"; profited from First Opium War; returned during Civil War to ship opium to U.S. Army medical service",
+      "legacy": [
+        "Town of Delano, PA (co-founder with Asa Packer)",
+        "Algonac estate (Hudson River)",
+        "Monon Railroad (son)",
+        "Federal Reserve (nephew F.A. Delano = first vice-chairman)",
+        "FDR presidency"
+      ],
+      "connections": "Daughter married into Forbes family; granddaughter Sara married James Roosevelt (FDR mother); related to Astors and Coolidges; nephew F.A. Delano married Packer family",
+      "significance": "FDR's maternal grandfather - direct presidential link to opium trade",
+      "evidence": "PDF p.2-3; Wikipedia"
+    },
+    "Brown": {
+      "key_figures": [
+        "John Brown (1736-1803)",
+        "Nicholas Brown Sr. and Jr. (1769-1841)"
+      ],
+      "region": "Providence, Rhode Island",
+      "firms": [
+        "Brown & Ives (Providence traders)"
+      ],
+      "opium_activity": "Ran ships to Canton; \"active in China trade\" and slave trade",
+      "legacy": [
+        "Providence Bank (1791) - forerunner of Citizens Bank",
+        "Brown University (College of Rhode Island renamed)",
+        "Providence infrastructure (South Bridge, wharves)"
+      ],
+      "connections": "Brothers Moses and Nicholas; intermarried with Rhode Island elites (Standish family)",
+      "evidence": "PDF p.3; Wikipedia"
+    },
+    "Heard": {
+      "key_figures": [
+        "Augustine Heard (1785-1868)",
+        "nephews (John, Albert)"
+      ],
+      "region": "MA/China",
+      "firms": [
+        "Augustine Heard & Co. (founded 1840, Canton)"
+      ],
+      "opium_activity": "Third-largest US China firm; introduced steamships to China",
+      "legacy": [
+        "Nephews became ministers and bankers; wealth dissipated after 1870s crash"
+      ],
+      "connections": "Founded with partner Joseph Coolidge; nephews intermarried with Forbes and Lull families",
+      "evidence": "PDF p.5; Wikipedia"
+    }
+  },
+  "merchant_houses": {
+    "Russell & Company": {
+      "description": "Largest American opium-trading house in Canton",
+      "formed": "1830 (absorbed Perkins & Co.)",
+      "key_people": [
+        "Warren Delano Jr. (head of Canton office, majority stake)",
+        "John Murray Forbes",
+        "John Perkins Cushing"
+      ],
+      "significance": "Dominant American firm in opium trade; \"outdistanced every other American company in opium holdings\"",
+      "evidence": "PDF p.1-3"
+    },
+    "Perkins & Co.": {
+      "description": "Boston-Canton opium firm",
+      "key_people": [
+        "Thomas Handasyd Perkins",
+        "John Perkins Cushing"
+      ],
+      "operations": "European offices to buy Turkish opium for Canton; worked with Chinese hong merchant Howqua",
+      "merged": "1830 into Russell & Co.",
+      "evidence": "PDF p.1-2"
+    },
+    "Augustine Heard & Co.": {
+      "description": "Third-largest US China firm",
+      "founded": "1840, Canton",
+      "key_people": [
+        "Augustine Heard",
+        "Joseph Coolidge (partner)"
+      ],
+      "significance": "Introduced steamships to China",
+      "evidence": "PDF p.2, p.5"
+    },
+    "American Fur Company": {
+      "description": "Astor's trading company",
+      "key_people": [
+        "John Jacob Astor"
+      ],
+      "operations": "Opium smuggling 1810s",
+      "evidence": "PDF p.1"
+    },
+    "Brown & Ives": {
+      "description": "Providence traders",
+      "key_people": [
+        "Brown family"
+      ],
+      "operations": "Canton trade",
+      "evidence": "PDF p.3"
+    }
+  },
+  "institutional_legacies": {
+    "Universities & Education": [
+      "Brown University (renamed from College of Rhode Island; John Brown major donor)",
+      "Harvard University (Cabot, Weld, Coolidge endowments; buildings, boathouse, art)",
+      "Peabody Institute (George Peabody)",
+      "Perkins School for Blind (Thomas H. Perkins)",
+      "Various education/housing charities (Peabody Trust)"
+    ],
+    "Hospitals & Medical": [
+      "Massachusetts General Hospital (Thomas H. Perkins land donor)",
+      "McLean Hospital (Perkins funded)",
+      "Various New York hospitals (Astor endowments)"
+    ],
+    "Museums & Cultural": [
+      "Astor Library (precursor to New York Public Library)",
+      "Boston Museum of Fine Arts (Perkins-Cushing, Weld collections)",
+      "Peabody Essex Museum (Asian art from opium profits)",
+      "Boston Symphony (Cabot endowment)",
+      "Boston Museum of Science (T.J. Coolidge)"
+    ],
+    "Infrastructure & Finance": [
+      "Providence Bank (1791, John Brown) - forerunner of Citizens Bank",
+      "Granite Railway (Perkins investment) - for Bunker Hill Monument",
+      "Lowell and Holyoke textile mills (Perkins)",
+      "New York real estate empire (Astor)",
+      "Various railroads (Peabody, Delano, Coolidge)",
+      "Town of Delano, PA (Warren Delano Jr. + Asa Packer)",
+      "Federal Reserve (Frederic Adrian Delano = first vice-chairman)"
+    ]
+  }
+}

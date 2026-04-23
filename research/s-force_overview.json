@@ -1,0 +1,49 @@
+{
+  "entity_id": "s-force",
+  "entity_type": "organization_unknown",
+  "name": "S-Force",
+  "research_date": "2025-12-07",
+  "priority": "HIGH",
+  "research_status": "INSUFFICIENT_DATA",
+  "summary": "Research target 'S-Force' did not yield definitive results. Term may refer to an undisclosed special operations unit, classified program, or code name mentioned in UAP/disclosure circles. Requires additional source context to determine exact nature.",
+  "search_attempts": [
+    {
+      "query": "S-Force special operations unit military intelligence history",
+      "results": "No specific 'S-Force' found. Related results included ISA/Task Force Orange, USSOCOM units"
+    },
+    {
+      "query": "S-Force UAP UFO reverse engineering program",
+      "results": "No specific 'S-Force' mentioned. Found references to Kona Blue, Immaculate Constellation, AARO programs"
+    },
+    {
+      "query": "S-Force Danny Sheehan disclosure",
+      "results": "No specific 'S-Force' mentioned in Sheehan disclosure materials"
+    }
+  ],
+  "possible_interpretations": [
+    {
+      "hypothesis": "Classified special operations unit",
+      "confidence": "LOW",
+      "notes": "No public documentation found despite comprehensive SOF searches"
+    },
+    {
+      "hypothesis": "UAP-related program code name",
+      "confidence": "MEDIUM",
+      "notes": "Many UAP programs use code names; may be mentioned in specific whistleblower testimony"
+    },
+    {
+      "hypothesis": "Source-specific reference",
+      "confidence": "HIGH",
+      "notes": "May originate from specific podcast, interview, or document not indexed publicly"
+    }
+  ],
+  "related_entities_found": [
+    "Intelligence Support Activity (ISA/Task Force Orange)",
+    "JSOC special mission units",
+    "Immaculate Constellation (alleged UAP program)",
+    "Kona Blue (proposed DHS UAP program)",
+    "New Paradigm Institute (Danny Sheehan)"
+  ],
+  "action_required": "Identify original source that referenced 'S-Force' to determine context and enable targeted research",
+  "research_quality": "INCOMPLETE - Term too ambiguous without additional context"
+}

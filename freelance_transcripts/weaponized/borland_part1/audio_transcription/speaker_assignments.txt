@@ -1,0 +1,25 @@
+=== SPEAKER ASSIGNMENTS (Claude API Enhancement) ===
+
+Speaker ID: Speaker 0
+  Assigned Name: Dylan Borland
+  Role: UFO Whistleblower / Former USAF Geospatial Intelligence Specialist
+  Confidence: 1.00
+  Reasoning: Explicit self-introduction in first line: 'My name is Dylan Borland, a former 1N1 geospatial intelligence specialist for the United States Air Force'. This matches the source title 'Dylan Borland - UFO Whistleblower'. Speaker discusses first-hand military experience including search and rescue operations and Iraq withdrawal.
+
+Speaker ID: Speaker 1
+  Assigned Name: Dylan Borland (continued)
+  Role: UFO Whistleblower / Former USAF Geospatial Intelligence Specialist
+  Confidence: 0.92
+  Reasoning: Speaker 1 continues discussing military service in first person ('I have done', 'I was a part of'), specifically mentioning the drone program and suicide rates. The content flows naturally from Speaker 0's military background. Likely same person (Dylan) with speaker ID misalignment in transcript, or continuation of testimony.
+
+Speaker ID: Speaker 2
+  Assigned Name: Congressional Testimony Speaker or Advocate
+  Role: UAP Disclosure Advocate / Possible Congressional Representative
+  Confidence: 0.78
+  Reasoning: References 'this committee' and 'patriots provided this committee...with undeniable proof', suggesting formal congressional or governmental context. Discusses constitutional violations and intimidation of witnesses. Formal, authoritative tone distinct from Dylan's personal testimony.
+
+Speaker ID: Unknown
+  Assigned Name: Multiple Speakers (Host/Interviewer/Additional Witnesses)
+  Role: Mixed - Includes Show Host/Producer and Possible Interviewer(s)
+  Confidence: 0.65
+  Reasoning: Unknown speaker segments include: (1) Production notes about 'Weaponized' episode and censorship decisions (likely show host/producer), (2) Questions about UAP craft ('So you have direct knowledge...'), (3) Responses about crash recovery and reverse engineering, (4) Mentions of crimes and threats. Multiple distinct voices/contexts suggest this category contains several unidentified speakers including show hosts and possibly other witnesses or interviewers.
